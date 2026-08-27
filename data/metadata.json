@@ -1,0 +1,39 @@
+{
+  "scrapeDate": "2026-08-27T10:45:52.471Z",
+  "totalPlugins": 4910,
+  "totalPages": 246,
+  "totalDownloads": 430253415,
+  "certifiedCreators": 554,
+  "categoryStats": {
+    "Commercial": 1135,
+    "Transport": 263,
+    "Residential": 764,
+    "Other": 199,
+    "Military": 42,
+    "Service (Police, Health Care, Education,...)": 230,
+    "Religion and Culture": 260,
+    "Packs": 280,
+    "Decorations": 418,
+    "Official Game Extensions": 8,
+    "Award and Special": 384,
+    "Trees": 88,
+    "Parks, Sports and Management": 348,
+    "Tools": 37,
+    "Road decoration": 59,
+    "Industrial": 124,
+    "Road": 98,
+    "Terrain": 54,
+    "Weather and Overlay": 11,
+    "Supply (Energy, Water, Waste Disposal)": 83,
+    "Scenarios": 3,
+    "Shaders": 18,
+    "Heightmaps": 4
+  },
+  "ratingStats": {
+    "MIXED": 283,
+    "POSITIVE": 2553,
+    "VERY POSITIVE": 2034,
+    "NEGATIVE": 36
+  },
+  "source": "https://forum.theotown.com/plugins/list"
+}
