@@ -9,6 +9,7 @@ import { PluginCard } from '@/components/PluginCard';
 import { PluginModal } from '@/components/PluginModal';
 import { WeeklyDayGrid } from '@/components/WeeklyDayGrid';
 import { SectionTabs } from '@/components/SectionTabs';
+import { PluginSkeleton } from '@/components/PluginSkeleton';
 import {
   Building2, Search, LayoutGrid, Zap, CalendarDays, Award, FolderOpen, RotateCw, ChevronLeft, ChevronRight,
   ArrowUpDown, Grid, List, ChevronDown, RefreshCw, X, Menu
@@ -509,7 +510,9 @@ export default function PluginsPage() {
         {/* ── SECTION: SEMUA / CERTIFIED (Grid biasa) ── */}
         {activeMainMenu !== 'recent' && activeMainMenu !== 'schedule' && (
           <div className="space-y-6">
-            {filteredMainPlugins.length === 0 ? (
+            {loading ? (
+              <PluginSkeleton count={12} />
+            ) : filteredMainPlugins.length === 0 ? (
               <div className="py-20 text-center text-gray-500 bg-[#13161e] border border-white/[0.07] rounded-2xl">
                 <FolderOpen className="w-12 h-12 mx-auto mb-3 opacity-40" />
                 <h3 className="text-base font-display font-bold text-white mb-1">Tidak Ada Plugin Ditemukan</h3>

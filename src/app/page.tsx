@@ -4,9 +4,13 @@ import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { formatCompactNumber, formatNumber } from '@/lib/utils';
+import { PluginSkeleton } from '@/components/PluginSkeleton';
 import {
   ArrowRight, LayoutGrid, ShieldCheck, Cpu, Download, Star, Loader2, X, Eye, Play, Building2
 } from 'lucide-react';
+
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 const RED = '#e53935';
 const LIME = '#c6e000';
@@ -22,20 +26,55 @@ interface FeaturedPlugin {
 }
 
 export default function LandingPage() {
+  const [pageReady, setPageReady] = useState(false);
   const [stats, setStats] = useState({ totalPlugins: 0, totalDownloads: 0, certified: 0 });
   const [popularPlugins, setPopularPlugins] = useState<FeaturedPlugin[]>([]);
   const [loading, setLoading] = useState(true);
   const [menuOpen, setMenuOpen] = useState(false);
 
+  // Animated counter states
+  const [displayPlugins, setDisplayPlugins] = useState(0);
+  const [displayDownloads, setDisplayDownloads] = useState(0);
+  const [displayCertified, setDisplayCertified] = useState(0);
+
+  // Count-up helper function
+  const animateCount = (target: number, setter: (v: number) => void, duration = 1500) => {
+    if (target === 0) return;
+    let start = 0;
+    const step = Math.ceil(target / (duration / 16));
+    const timer = setInterval(() => {
+      start += step;
+      if (start >= target) {
+        setter(target);
+        clearInterval(timer);
+      } else {
+        setter(start);
+      }
+    }, 16);
+  };
+
   useEffect(() => {
+    AOS.init({ duration: 800, once: true, easing: 'ease-out-quad' });
+
+    // Preload hero background image
+    const img = new window.Image();
+    img.src = '/icon.jpg';
+    img.onload = () => setPageReady(true);
+    img.onerror = () => setPageReady(true);
+
     fetch('/api/plugins')
       .then(res => res.json())
       .then(({ plugins, metadata }) => {
-        setStats({
-          totalPlugins: metadata.totalPlugins || plugins.length || 0,
-          totalDownloads: metadata.totalDownloads || 0,
-          certified: metadata.certifiedCreators || 0,
-        });
+        const totalP = metadata.totalPlugins || plugins.length || 0;
+        const totalD = metadata.totalDownloads || 0;
+        const cert = metadata.certifiedCreators || 0;
+
+        setStats({ totalPlugins: totalP, totalDownloads: totalD, certified: cert });
+
+        // Trigger counting animation
+        animateCount(totalP, setDisplayPlugins);
+        animateCount(totalD, setDisplayDownloads);
+        animateCount(cert, setDisplayCertified);
 
         // Top 6 popular
         const top6 = [...plugins]
@@ -57,7 +96,30 @@ export default function LandingPage() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-[#0d0f14] text-[#f0f2f5] overflow-x-hidden font-body">
+    <div className="min-h-screen bg-[#0d0f14] text-[#f0f2f5] overflow-x-hidden font-body relative">
+
+      {/* ── LOADING OVERLAY SCREEN ── */}
+      {!pageReady && (
+        <div className="fixed inset-0 z-[9999] bg-[#0d0f14] flex flex-col items-center justify-center gap-5 transition-opacity duration-500">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-red-600 flex items-center justify-center text-white font-display font-bold text-2xl shadow-xl shadow-red-600/30">
+              <Building2 className="w-6 h-6" />
+            </div>
+            <span className="font-display font-bold text-2xl text-white">
+              TheoTown<span style={{ color: LIME }}>Hub</span>
+            </span>
+          </div>
+
+          <div className="w-48 h-1 bg-white/10 rounded-full overflow-hidden">
+            <div className="h-full bg-red-600 animate-[load-bar_1.2s_ease-in-out_infinite]" />
+          </div>
+
+          <span className="text-xs text-gray-500 tracking-widest uppercase">
+            Memuat aset...
+          </span>
+        </div>
+      )}
+
       {/* ── NAV BAR ── */}
       <nav className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 sm:px-12 py-4 bg-[#0d0f14]/90 backdrop-blur-md border-b border-white/[0.06]">
         <Link href="/" className="flex items-center gap-2.5 group">
@@ -78,7 +140,7 @@ export default function LandingPage() {
 
         <Link
           href="/plugins"
-          className="hidden sm:inline-flex items-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white font-semibold text-xs rounded-xl transition-all shadow-lg shadow-red-600/20"
+          className="hidden sm:inline-flex items-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white font-semibold text-xs rounded-xl transition-all shadow-lg shadow-red-600/20 hover:scale-105"
         >
           <Download className="w-3.5 h-3.5" /> Buka Plugin Hub
         </Link>
@@ -109,7 +171,7 @@ export default function LandingPage() {
 
       {/* ── HERO ── */}
       <section className="relative min-h-[90vh] flex items-center pt-24 pb-16 px-6 sm:px-12 overflow-hidden">
-        {/* Background Image / Banner dari icon.jpg dengan dark spotlight overlay */}
+        {/* Background Image Banner */}
         <div className="absolute inset-0 z-0">
           <Image
             src="/icon.jpg"
@@ -119,25 +181,36 @@ export default function LandingPage() {
             priority
           />
           <div className="absolute inset-0 bg-gradient-to-t from-[#0d0f14] via-[#0d0f14]/80 to-[#0d0f14]/60" />
-          <div className="absolute inset-0 bg-radial-gradient from-transparent via-[#0d0f14]/70 to-[#0d0f14]" />
         </div>
 
         {/* Glow backdrop */}
         <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-red-600/15 rounded-full blur-[120px] pointer-events-none z-0" />
 
         <div className="relative z-10 max-w-4xl mx-auto text-center space-y-8">
-          <h1 className="font-display font-extrabold text-4xl sm:text-6xl lg:text-7xl leading-none text-white tracking-tight drop-shadow-2xl">
+          <h1
+            data-aos="fade-up"
+            data-aos-delay="100"
+            className="font-display font-extrabold text-4xl sm:text-6xl lg:text-7xl leading-none text-white tracking-tight drop-shadow-2xl"
+          >
             Temukan Plugin & Mod <br />
             <span className="text-red-500">
               TheoTown Terbaik
             </span>
           </h1>
 
-          <p className="text-sm sm:text-base text-gray-400 max-w-2xl mx-auto leading-relaxed">
+          <p
+            data-aos="fade-up"
+            data-aos-delay="200"
+            className="text-sm sm:text-base text-gray-400 max-w-2xl mx-auto leading-relaxed"
+          >
             Format pemberitahuan yang dirancang ulang agar nyaman dibaca, transparan, dan mudah dipahami oleh pemain TheoTown Indonesia. Pantau rilis baru & jadwal update mingguan!
           </p>
 
-          <div className="flex flex-wrap items-center justify-center gap-4 pt-2">
+          <div
+            data-aos="fade-up"
+            data-aos-delay="300"
+            className="flex flex-wrap items-center justify-center gap-4 pt-2"
+          >
             <Link
               href="/plugins"
               className="px-8 py-4 bg-red-600 hover:bg-red-700 text-white font-bold text-sm rounded-xl flex items-center gap-2 transition-all shadow-xl shadow-red-600/25 hover:scale-105"
@@ -152,24 +225,28 @@ export default function LandingPage() {
             </a>
           </div>
 
-          {/* Stats row */}
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-10 max-w-2xl mx-auto border-t border-white/[0.08]">
-            <div className="p-3.5 bg-[#13161e] border border-white/[0.06] rounded-xl text-center">
+          {/* ── HERO STATS (Animated Count-Up) ── */}
+          <div
+            data-aos="fade-up"
+            data-aos-delay="400"
+            className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-10 max-w-2xl mx-auto border-t border-white/[0.08]"
+          >
+            <div className="p-3.5 bg-[#13161e] border border-white/[0.06] rounded-xl text-center shadow-lg">
               <span className="font-display font-extrabold text-xl sm:text-2xl text-white block">
-                {formatNumber(stats.totalPlugins)}
+                {formatNumber(displayPlugins)}
               </span>
               <span className="text-[10px] text-gray-400 font-semibold uppercase tracking-wider mt-0.5 block">Total Plugin</span>
             </div>
-            <div className="p-3.5 bg-[#13161e] border border-white/[0.06] rounded-xl text-center">
-              <span className="font-display font-extrabold text-xl sm:text-2xl text-emerald-400 block" title={stats.totalDownloads.toLocaleString()}>
-                {formatCompactNumber(stats.totalDownloads)}
-                <span className="text-xs text-emerald-500/80 font-normal ml-1">({formatNumber(stats.totalDownloads)})</span>
+            <div className="p-3.5 bg-[#13161e] border border-white/[0.06] rounded-xl text-center shadow-lg">
+              <span className="font-display font-extrabold text-xl sm:text-2xl text-emerald-400 block">
+                {formatCompactNumber(displayDownloads)}
+                <span className="text-xs text-emerald-500/80 font-normal ml-1">({formatNumber(displayDownloads)})</span>
               </span>
               <span className="text-[10px] text-gray-400 font-semibold uppercase tracking-wider mt-0.5 block">Total Download</span>
             </div>
-            <div className="p-3.5 bg-[#13161e] border border-white/[0.06] rounded-xl text-center">
+            <div className="p-3.5 bg-[#13161e] border border-white/[0.06] rounded-xl text-center shadow-lg">
               <span className="font-display font-extrabold text-xl sm:text-2xl text-amber-400 block">
-                {formatNumber(stats.certified)}
+                {formatNumber(displayCertified)}
               </span>
               <span className="text-[10px] text-gray-400 font-semibold uppercase tracking-wider mt-0.5 block">Certified Creator</span>
             </div>
@@ -180,7 +257,7 @@ export default function LandingPage() {
       {/* ── FEATURES SECTION ── */}
       <section id="fitur" className="py-20 px-6 sm:px-12 bg-[#0b0d12] border-t border-white/[0.06]">
         <div className="max-w-6xl mx-auto space-y-12">
-          <div className="text-center space-y-3">
+          <div className="text-center space-y-3" data-aos="fade-up">
             <span className="text-xs font-bold tracking-widest text-lime-400 uppercase">Fitur Unggulan</span>
             <h2 className="font-display font-bold text-3xl sm:text-4xl text-white">
               Kenapa Memakai TheoTown Plugin Hub?
@@ -188,7 +265,11 @@ export default function LandingPage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <div className="p-8 bg-[#13161e] border border-white/[0.07] rounded-2xl space-y-4 hover:border-white/20 transition-colors">
+            <div
+              data-aos="fade-up"
+              data-aos-delay="100"
+              className="p-8 bg-[#13161e] border border-white/[0.07] rounded-2xl space-y-4 hover:border-white/20 transition-colors"
+            >
               <div className="w-12 h-12 rounded-xl bg-red-500/10 border border-red-500/20 flex items-center justify-center text-red-500">
                 <LayoutGrid className="w-6 h-6" />
               </div>
@@ -198,7 +279,11 @@ export default function LandingPage() {
               </p>
             </div>
 
-            <div className="p-8 bg-[#13161e] border border-white/[0.07] rounded-2xl space-y-4 hover:border-white/20 transition-colors">
+            <div
+              data-aos="fade-up"
+              data-aos-delay="200"
+              className="p-8 bg-[#13161e] border border-white/[0.07] rounded-2xl space-y-4 hover:border-white/20 transition-colors"
+            >
               <div className="w-12 h-12 rounded-xl bg-lime-500/10 border border-lime-500/20 flex items-center justify-center text-lime-400">
                 <ShieldCheck className="w-6 h-6" />
               </div>
@@ -208,7 +293,11 @@ export default function LandingPage() {
               </p>
             </div>
 
-            <div className="p-8 bg-[#13161e] border border-white/[0.07] rounded-2xl space-y-4 hover:border-white/20 transition-colors">
+            <div
+              data-aos="fade-up"
+              data-aos-delay="300"
+              className="p-8 bg-[#13161e] border border-white/[0.07] rounded-2xl space-y-4 hover:border-white/20 transition-colors"
+            >
               <div className="w-12 h-12 rounded-xl bg-blue-500/10 border border-blue-500/20 flex items-center justify-center text-blue-400">
                 <Cpu className="w-6 h-6" />
               </div>
@@ -221,10 +310,10 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* ── POPULAR PLUGINS SECTION ── */}
+      {/* ── POPULAR PLUGINS SECTION (with Skeleton UI & Lazy Image) ── */}
       <section id="populer" className="py-20 px-6 sm:px-12 bg-[#0d0f14]">
         <div className="max-w-6xl mx-auto space-y-12">
-          <div className="flex flex-wrap items-end justify-between gap-4">
+          <div className="flex flex-wrap items-end justify-between gap-4" data-aos="fade-up">
             <div className="space-y-2">
               <span className="text-xs font-bold tracking-widest text-red-500 uppercase">Koleksi Terpopuler</span>
               <h2 className="font-display font-bold text-3xl sm:text-4xl text-white">Plugin Paling Banyak Di-download</h2>
@@ -235,18 +324,27 @@ export default function LandingPage() {
           </div>
 
           {loading ? (
-            <div className="flex justify-center py-16 text-gray-500">
-              <Loader2 className="w-8 h-8 animate-spin text-red-500" />
-            </div>
+            <PluginSkeleton count={6} />
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {popularPlugins.map(plugin => (
-                <div key={plugin.id} className="p-4 bg-[#13161e] border border-white/[0.07] rounded-xl flex flex-col justify-between hover:border-white/20 transition-all">
+              {popularPlugins.map((plugin, idx) => (
+                <div
+                  key={plugin.id}
+                  data-aos="fade-up"
+                  data-aos-delay={(idx % 3) * 100}
+                  className="p-4 bg-[#13161e] border border-white/[0.07] rounded-xl flex flex-col justify-between hover:border-white/20 transition-all"
+                >
                   <div className="space-y-3">
                     <div className="relative aspect-[16/9] bg-[#0b0d12] rounded-lg overflow-hidden">
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img src={plugin.previewImage} alt={plugin.name} className="w-full h-full object-cover" />
-                      <span className="absolute bottom-2 left-2 px-2 py-0.5 text-[10px] bg-black/70 text-gray-300 rounded">
+                      <Image
+                        src={plugin.previewImage}
+                        alt={plugin.name}
+                        fill
+                        loading="lazy"
+                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                        className="object-cover"
+                      />
+                      <span className="absolute bottom-2 left-2 px-2 py-0.5 text-[10px] bg-black/70 text-gray-300 rounded backdrop-blur-sm">
                         {plugin.category}
                       </span>
                     </div>
