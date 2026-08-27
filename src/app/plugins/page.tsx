@@ -296,14 +296,11 @@ export default function PluginsPage() {
 
         {/* Sidebar Footer */}
         <div className="pt-6 border-t border-white/[0.06] mt-6 space-y-3">
-          <div className="flex items-center gap-3 text-xs text-gray-400">
-            <RefreshCw className="w-4 h-4 text-emerald-500 shrink-0" />
-            <div className="truncate">
-              <span className="block text-[10px] uppercase tracking-wider text-gray-500">Terakhir Di-scrape</span>
-              <span className="text-gray-200 font-medium text-[11px]">
-                {metadata.scrapeDate ? formatDate(metadata.scrapeDate) : '--'}
-              </span>
-            </div>
+          <div className="flex items-center gap-2.5 text-xs text-gray-400">
+            <RefreshCw className="w-3.5 h-3.5 text-emerald-500 shrink-0" />
+            <span className="text-[11px] text-gray-300 font-medium">
+              Updated: <strong className="text-white">{metadata.scrapeDate ? formatDate(metadata.scrapeDate) : '--'}</strong>
+            </span>
           </div>
           <p className="text-[10px] text-gray-500 leading-tight">
             Unofficial TheoTown Hub. Hak cipta milik BlueFlower Games & Creator.
