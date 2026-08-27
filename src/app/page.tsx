@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { formatCompactNumber, formatNumber } from '@/lib/utils';
 import {
   ArrowRight, LayoutGrid, ShieldCheck, Cpu, Download, Star, Loader2, X, Eye, Play, Sparkles, Building2
@@ -59,9 +60,10 @@ export default function LandingPage() {
     <div className="min-h-screen bg-[#0d0f14] text-[#f0f2f5] overflow-x-hidden font-body">
       {/* ── NAV BAR ── */}
       <nav className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 sm:px-12 py-4 bg-[#0d0f14]/90 backdrop-blur-md border-b border-white/[0.06]">
-        <Link href="/" className="flex items-center gap-2">
-          <div className="w-8 h-8 rounded-lg bg-red-600 flex items-center justify-center text-white font-display font-bold text-lg">
-            <Building2 className="w-5 h-5" />
+        <Link href="/" className="flex items-center gap-2.5 group">
+          <div className="relative w-9 h-9 rounded-xl overflow-hidden shadow-[0_4px_20px_rgba(0,0,0,0.8)] border border-white/20 group-hover:border-red-500 transition-colors">
+            <Image src="/icon.jpg" alt="Logo" fill className="object-cover" />
+            <div className="absolute inset-0 bg-black/20" />
           </div>
           <span className="font-display font-bold text-xl tracking-tight text-white">
             TheoTown<span style={{ color: LIME }}>Hub</span>
@@ -112,7 +114,18 @@ export default function LandingPage() {
         <div className="absolute top-1/3 right-10 w-[400px] h-[200px] bg-lime-500/10 rounded-full blur-[100px] pointer-events-none" />
 
         <div className="relative z-10 max-w-4xl mx-auto text-center space-y-8">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/[0.05] border border-white/10 text-xs font-medium text-gray-300">
+          {/* Spotlight Icon Banner */}
+          <div className="inline-block relative">
+            <div className="absolute inset-0 bg-red-600/30 blur-2xl rounded-full scale-125 pointer-events-none" />
+            <div className="relative w-20 h-20 sm:w-24 sm:h-24 mx-auto rounded-2xl overflow-hidden shadow-[0_10px_35px_rgba(0,0,0,0.9)] border-2 border-white/20 p-1 bg-[#13161e]">
+              <div className="relative w-full h-full rounded-xl overflow-hidden">
+                <Image src="/icon.jpg" alt="TheoTown Icon" fill className="object-cover" priority />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/20" />
+              </div>
+            </div>
+          </div>
+
+          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/[0.05] border border-white/10 text-xs font-medium text-gray-300 backdrop-blur-md shadow-[0_4px_16px_rgba(0,0,0,0.6)]">
             <Sparkles className="w-3.5 h-3.5 text-amber-400" />
             <span>Pusat Informasi Plugin TheoTown Indonesia</span>
           </div>

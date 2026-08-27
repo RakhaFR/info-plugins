@@ -24,6 +24,12 @@ export const metadata: Metadata = {
   description: 'Pusat informasi plugin TheoTown terbaru. Pantau update mingguan, plugin baru rilis, dan certified creators.',
   keywords: ['TheoTown', 'plugin TheoTown', 'info plugin', 'update plugin', 'mod TheoTown'],
   authors: [{ name: 'TheoTown Plugin Hub' }],
+  icons: { icon: '/icon.jpg', apple: '/icon.jpg' },
+  openGraph: {
+    title: 'TheoTown Plugin Hub — Info & Update Plugin',
+    description: 'Pusat informasi plugin TheoTown terbaru. Pantau update mingguan, plugin baru rilis, dan certified creators.',
+    images: [{ url: '/icon.jpg', width: 800, height: 800, alt: 'TheoTown Plugin Hub Icon' }],
+  },
   robots: { index: true, follow: true },
 };
 

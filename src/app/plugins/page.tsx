@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect, useMemo } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import type { Plugin, PluginMetadata } from '@/types/plugin';
 import { getTopNewestIds, isPluginRecent, formatDate, DAY_INDEX_MAP } from '@/lib/utils';
 import { PluginCard } from '@/components/PluginCard';
@@ -141,8 +142,10 @@ export default function PluginsPage() {
     <div className="min-h-screen bg-[#0d0f14] text-[#f0f2f5] flex flex-col md:flex-row">
       {/* ── MOBILE NAVBAR HEADER ── */}
       <div className="md:hidden flex items-center justify-between p-4 bg-[#0b0d12] border-b border-white/[0.06] sticky top-0 z-40">
-        <Link href="/" className="flex items-center gap-2">
-          <Building2 className="w-5 h-5 text-red-500" />
+        <Link href="/" className="flex items-center gap-2.5">
+          <div className="relative w-8 h-8 rounded-lg overflow-hidden border border-white/20 shadow-[0_4px_12px_rgba(0,0,0,0.8)]">
+            <Image src="/icon.jpg" alt="Logo" fill className="object-cover" />
+          </div>
           <span className="font-display font-bold text-lg text-white">TheoTown Hub</span>
         </Link>
         <button onClick={() => setSidebarOpen(!sidebarOpen)} className="p-2 text-gray-300">
@@ -167,9 +170,11 @@ export default function PluginsPage() {
       `}>
         <div className="space-y-8">
           {/* Brand */}
-          <Link href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-red-600 flex items-center justify-center text-white font-display font-bold text-xl shadow-lg shadow-red-600/20">
-              <Building2 className="w-6 h-6" />
+          <Link href="/" className="flex items-center gap-3 group">
+            <div className="relative w-10 h-10 rounded-xl overflow-hidden shadow-[0_4px_20px_rgba(0,0,0,0.8)] border border-white/20 group-hover:border-red-500 transition-colors p-0.5 bg-[#13161e]">
+              <div className="relative w-full h-full rounded-lg overflow-hidden">
+                <Image src="/icon.jpg" alt="Logo" fill className="object-cover" />
+              </div>
             </div>
             <div>
               <h1 className="font-display font-bold text-lg text-white leading-tight">TheoTown</h1>
