@@ -181,7 +181,7 @@ export default function PluginsPage() {
               <h1 className="font-display font-bold text-lg text-white leading-tight">
                 TheoTown<span style={{ color: '#c6e000' }}>Hub</span>
               </h1>
-              <span className="text-[11px] text-gray-400 font-medium">Plugin & News Hub</span>
+              <span className="text-[11px] text-gray-400 font-medium">Plugin Showcase Hub</span>
             </div>
           </Link>
 
