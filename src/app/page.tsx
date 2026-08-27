@@ -269,7 +269,7 @@ export default function LandingPage() {
             TheoTown<span style={{ color: LIME }}>Hub</span>
           </span>
           <p className="text-xs text-gray-500">
-            © 2026 · Format informasi plugin dirancang ulang untuk memudahkan komunitas TheoTown.
+            © 2026 TheoTownHub · Situs Komunitas Unofficial (Tidak Resmi). Seluruh hak cipta game & plugin milik BlueFlower Games dan masing-masing Creator.
           </p>
         </div>
       </footer>

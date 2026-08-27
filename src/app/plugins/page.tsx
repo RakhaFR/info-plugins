@@ -295,7 +295,7 @@ export default function PluginsPage() {
         </div>
 
         {/* Sidebar Footer */}
-        <div className="pt-6 border-t border-white/[0.06] mt-6">
+        <div className="pt-6 border-t border-white/[0.06] mt-6 space-y-3">
           <div className="flex items-center gap-3 text-xs text-gray-400">
             <RefreshCw className="w-4 h-4 text-emerald-500 shrink-0" />
             <div className="truncate">
@@ -305,6 +305,9 @@ export default function PluginsPage() {
               </span>
             </div>
           </div>
+          <p className="text-[10px] text-gray-500 leading-tight">
+            Unofficial TheoTown Hub. Hak cipta milik BlueFlower Games & Creator.
+          </p>
         </div>
       </aside>
 
