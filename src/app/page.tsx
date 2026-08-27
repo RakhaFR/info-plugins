@@ -5,7 +5,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { formatCompactNumber, formatNumber } from '@/lib/utils';
 import {
-  ArrowRight, LayoutGrid, ShieldCheck, Cpu, Download, Star, Loader2, X, Eye, Play, Sparkles, Building2
+  ArrowRight, LayoutGrid, ShieldCheck, Cpu, Download, Star, Loader2, X, Eye, Play, Building2
 } from 'lucide-react';
 
 const RED = '#e53935';
@@ -109,28 +109,24 @@ export default function LandingPage() {
 
       {/* ── HERO ── */}
       <section className="relative min-h-[90vh] flex items-center pt-24 pb-16 px-6 sm:px-12 overflow-hidden">
+        {/* Background Image / Banner dari icon.jpg dengan dark spotlight overlay */}
+        <div className="absolute inset-0 z-0">
+          <Image
+            src="/icon.jpg"
+            alt="Hero Background"
+            fill
+            className="object-cover object-center opacity-25 scale-105 filter blur-sm"
+            priority
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#0d0f14] via-[#0d0f14]/80 to-[#0d0f14]/60" />
+          <div className="absolute inset-0 bg-radial-gradient from-transparent via-[#0d0f14]/70 to-[#0d0f14]" />
+        </div>
+
         {/* Glow backdrop */}
-        <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-red-600/10 rounded-full blur-[120px] pointer-events-none" />
-        <div className="absolute top-1/3 right-10 w-[400px] h-[200px] bg-lime-500/10 rounded-full blur-[100px] pointer-events-none" />
+        <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-red-600/15 rounded-full blur-[120px] pointer-events-none z-0" />
 
         <div className="relative z-10 max-w-4xl mx-auto text-center space-y-8">
-          {/* Spotlight Icon Banner */}
-          <div className="inline-block relative">
-            <div className="absolute inset-0 bg-red-600/30 blur-2xl rounded-full scale-125 pointer-events-none" />
-            <div className="relative w-20 h-20 sm:w-24 sm:h-24 mx-auto rounded-2xl overflow-hidden shadow-[0_10px_35px_rgba(0,0,0,0.9)] border-2 border-white/20 p-1 bg-[#13161e]">
-              <div className="relative w-full h-full rounded-xl overflow-hidden">
-                <Image src="/icon.jpg" alt="TheoTown Icon" fill className="object-cover" priority />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/20" />
-              </div>
-            </div>
-          </div>
-
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/[0.05] border border-white/10 text-xs font-medium text-gray-300 backdrop-blur-md shadow-[0_4px_16px_rgba(0,0,0,0.6)]">
-            <Sparkles className="w-3.5 h-3.5 text-amber-400" />
-            <span>Pusat Informasi Plugin TheoTown Indonesia</span>
-          </div>
-
-          <h1 className="font-display font-extrabold text-4xl sm:text-6xl lg:text-7xl leading-none text-white tracking-tight">
+          <h1 className="font-display font-extrabold text-4xl sm:text-6xl lg:text-7xl leading-none text-white tracking-tight drop-shadow-2xl">
             Temukan Plugin & Mod <br />
             <span className="text-red-500">
               TheoTown Terbaik
