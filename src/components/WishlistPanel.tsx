@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { useAuth } from '@/context/AuthContext';
-import { Heart, Copy, Check, Trash2, ChevronDown, ChevronUp, X } from 'lucide-react';
+import { Bookmark, Copy, Check, Trash2, ChevronDown, ChevronUp, X } from 'lucide-react';
 
 interface WishlistPanelProps {
   onLoginRequired: () => void;
@@ -18,9 +18,9 @@ export function WishlistPanel({ onLoginRequired }: WishlistPanelProps) {
     return (
       <button
         onClick={onLoginRequired}
-        className="w-full px-3 py-2.5 rounded-xl text-xs font-semibold flex items-center gap-2 text-gray-400 hover:text-white hover:bg-white/[0.04] transition-colors"
+        className="w-full px-3 py-2.5 rounded-xl text-xs font-semibold flex items-center gap-2 text-gray-400 hover:text-amber-400 hover:bg-white/[0.04] transition-colors"
       >
-        <Heart className="w-4 h-4 text-red-500" /> Wishlist (Login)
+        <Bookmark className="w-4 h-4 text-amber-400" /> Wishlist (Login)
       </button>
     );
   }
@@ -62,10 +62,10 @@ export function WishlistPanel({ onLoginRequired }: WishlistPanelProps) {
         className="w-full px-3 py-2.5 rounded-xl text-xs font-semibold flex items-center justify-between transition-colors text-gray-400 hover:text-white hover:bg-white/[0.04]"
       >
         <span className="flex items-center gap-2">
-          <Heart className="w-4 h-4 text-red-500" />
+          <Bookmark className="w-4 h-4 text-amber-400" />
           Wishlist
           {wishlist.length > 0 && (
-            <span className="px-1.5 py-0.5 rounded-full text-[10px] bg-red-500/20 text-red-400 font-bold">
+            <span className="px-1.5 py-0.5 rounded-full text-[10px] bg-amber-500/20 text-amber-400 font-bold">
               {wishlist.length}
             </span>
           )}
@@ -124,7 +124,7 @@ export function WishlistPanel({ onLoginRequired }: WishlistPanelProps) {
                   <li
                     key={item.pluginId}
                     className={`flex items-center gap-2 px-3 py-2 group cursor-pointer transition-colors ${
-                      selected.has(item.pluginId) ? 'bg-red-500/10' : 'hover:bg-white/[0.03]'
+                      selected.has(item.pluginId) ? 'bg-amber-500/10' : 'hover:bg-white/[0.03]'
                     }`}
                     onClick={() => toggleSelect(item.pluginId)}
                   >
@@ -132,7 +132,7 @@ export function WishlistPanel({ onLoginRequired }: WishlistPanelProps) {
                       type="checkbox"
                       readOnly
                       checked={selected.has(item.pluginId)}
-                      className="accent-red-500 w-3 h-3 shrink-0 pointer-events-none"
+                      className="accent-amber-500 w-3 h-3 shrink-0 pointer-events-none"
                     />
                     <div className="flex-1 min-w-0">
                       <p className="text-[11px] text-white font-medium truncate">{item.name}</p>

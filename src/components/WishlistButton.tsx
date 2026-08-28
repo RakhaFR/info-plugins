@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { Heart } from 'lucide-react';
+import { Bookmark } from 'lucide-react';
 import { useAuth } from '@/context/AuthContext';
 
 interface WishlistButtonProps {
@@ -27,13 +27,13 @@ export function WishlistButton({ plugin, onLoginRequired, size = 'sm' }: Wishlis
     <button
       onClick={handleClick}
       title={isWishlisted ? 'Hapus dari Wishlist' : 'Tambah ke Wishlist'}
-      className={`${btnSize} rounded-lg transition-all ${
+      className={`${btnSize} rounded-lg transition-all border ${
         isWishlisted
-          ? 'text-red-400 bg-red-500/20 hover:bg-red-500/30'
-          : 'text-gray-500 bg-white/5 hover:bg-white/10 hover:text-red-400'
+          ? 'text-amber-400 bg-amber-500/20 border-amber-500/30 hover:bg-amber-500/30'
+          : 'text-gray-400 bg-black/40 border-white/10 hover:border-amber-400/50 hover:text-amber-400 hover:bg-amber-500/10'
       }`}
     >
-      <Heart className={`${iconSize} ${isWishlisted ? 'fill-current' : ''}`} />
+      <Bookmark className={`${iconSize} ${isWishlisted ? 'fill-current' : ''}`} />
     </button>
   );
 }

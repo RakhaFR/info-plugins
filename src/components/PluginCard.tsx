@@ -61,10 +61,10 @@ export function PluginCard({ plugin, topNewestIds, onClick, onLoginRequired }: P
         {/* Body */}
         <div className="p-4">
           <div className="flex justify-between items-start gap-2 mb-2">
-            <h3 className="font-display font-bold text-sm text-white line-clamp-1 group-hover:text-red-400 transition-colors">
+            <h3 className="font-display font-bold text-sm text-white line-clamp-1 group-hover:text-red-400 transition-colors flex-1 min-w-0">
               {plugin.name}
             </h3>
-            <div className="flex items-center gap-1 shrink-0">
+            <div className="flex items-center gap-2 shrink-0">
               <span className="text-[11px] font-mono text-gray-500">#{plugin.id}</span>
               <WishlistButton plugin={plugin} onLoginRequired={onLoginRequired} />
             </div>

@@ -16,6 +16,7 @@ import {
 } from 'lucide-react';
 import { useAuth } from '@/context/AuthContext';
 import { AuthModal } from '@/components/AuthModal';
+import { AuthPromptModal } from '@/components/AuthPromptModal';
 import { WishlistPanel } from '@/components/WishlistPanel';
 import { WishlistButton } from '@/components/WishlistButton';
 
@@ -46,8 +47,25 @@ export default function PluginsPage() {
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [authModalOpen, setAuthModalOpen] = useState(false);
+  const [promptModalOpen, setPromptModalOpen] = useState(false);
 
-  const { user, signOut } = useAuth();
+  const { user, loading: authLoading, signOut } = useAuth();
+
+  // Show periodic login prompt modal if user is not logged in (cooldown: 24 hours)
+  useEffect(() => {
+    if (authLoading || user) return;
+    const lastPrompt = localStorage.getItem('last_auth_prompt_time');
+    const now = Date.now();
+    const COOLDOWN = 24 * 60 * 60 * 1000; // 24 hours
+
+    if (!lastPrompt || now - parseInt(lastPrompt) > COOLDOWN) {
+      const timer = setTimeout(() => {
+        setPromptModalOpen(true);
+        localStorage.setItem('last_auth_prompt_time', now.toString());
+      }, 1500);
+      return () => clearTimeout(timer);
+    }
+  }, [user, authLoading]);
 
   useEffect(() => {
     fetchPlugins();
@@ -618,6 +636,14 @@ export default function PluginsPage() {
 
       {/* ── AUTH MODAL ── */}
       {authModalOpen && <AuthModal onClose={() => setAuthModalOpen(false)} />}
+
+      {/* ── PROMPT MODAL ── */}
+      {promptModalOpen && !user && (
+        <AuthPromptModal
+          onClose={() => setPromptModalOpen(false)}
+          onOpenAuth={() => setAuthModalOpen(true)}
+        />
+      )}
     </div>
   );
 }
