@@ -173,7 +173,12 @@ export default function PluginsPage() {
           <div className="relative w-8 h-8 rounded-lg overflow-hidden border border-white/20 shadow-[0_4px_12px_rgba(0,0,0,0.8)]">
             <Image src="/icon.jpg" alt="Logo" fill className="object-cover" />
           </div>
-          <span className="font-display font-bold text-lg text-white">TheoTown Hub</span>
+          <div className="flex items-center gap-1.5">
+            <span className="font-display font-bold text-lg text-white">TheoTown Hub</span>
+            <span className="px-1.5 py-0.5 text-[10px] font-mono font-bold text-amber-400 bg-amber-500/10 border border-amber-500/20 rounded-md">
+              v1
+            </span>
+          </div>
         </Link>
         <button onClick={() => setSidebarOpen(!sidebarOpen)} className="p-2 text-gray-300">
           {sidebarOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
@@ -204,9 +209,14 @@ export default function PluginsPage() {
               </div>
             </div>
             <div>
-              <h1 className="font-display font-bold text-lg text-white leading-tight">
-                TheoTown<span style={{ color: '#c6e000' }}>Hub</span>
-              </h1>
+              <div className="flex items-center gap-1.5">
+                <h1 className="font-display font-bold text-lg text-white leading-tight">
+                  TheoTown<span style={{ color: '#c6e000' }}>Hub</span>
+                </h1>
+                <span className="px-1.5 py-0.2 text-[10px] font-mono font-bold text-amber-400 bg-amber-500/10 border border-amber-500/20 rounded-md">
+                  v1
+                </span>
+              </div>
               <span className="text-[11px] text-gray-400 font-medium">Plugin Showcase Hub</span>
             </div>
           </Link>

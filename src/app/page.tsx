@@ -127,9 +127,14 @@ export default function LandingPage() {
             <Image src="/icon.jpg" alt="Logo" fill className="object-cover" />
             <div className="absolute inset-0 bg-black/20" />
           </div>
-          <span className="font-display font-bold text-xl tracking-tight text-white">
-            TheoTown<span style={{ color: LIME }}>Hub</span>
-          </span>
+          <div className="flex items-center gap-1.5">
+            <span className="font-display font-bold text-xl tracking-tight text-white">
+              TheoTown<span style={{ color: LIME }}>Hub</span>
+            </span>
+            <span className="px-1.5 py-0.5 text-[10px] font-mono font-bold text-amber-400 bg-amber-500/10 border border-amber-500/20 rounded-md">
+              v1
+            </span>
+          </div>
         </Link>
 
         <div className="hidden md:flex items-center gap-8 text-xs font-semibold text-gray-400">
