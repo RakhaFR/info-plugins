@@ -197,15 +197,20 @@ export function WishlistPageView({
           )}
 
           {/* Grid folders */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-            {allFolderList.map((folder) => {
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6 pt-4">
+            {allFolderList.map((folder, idx) => {
               const items = itemsByFolder(folder.id);
+              // Palette colors for folders
+              const colors = ['#2563eb', '#d97706', '#059669', '#7c3aed', '#db2777', '#0891b2'];
+              const folderColor = colors[idx % colors.length];
+
               return (
                 <FolderCard
                   key={folder.id}
                   id={folder.id}
                   name={folder.name}
                   items={items}
+                  color={folderColor}
                   isDefault={folder.id === 'default'}
                   onClick={() => {
                     setActiveFolderId(folder.id);

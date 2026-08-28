@@ -35,22 +35,29 @@ export function subscribeWishlist(
 ) {
   const ref = collection(db, 'users', uid, 'wishlist');
   const q = query(ref, orderBy('addedAt', 'desc'));
-  return onSnapshot(q, (snap) => {
-    const items: WishlistItem[] = snap.docs.map((d) => {
-      const data = d.data();
-      return {
-        pluginId: d.id,
-        name: data.name || '',
-        author: data.author || '',
-        previewImage: data.previewImage || '',
-        category: data.category || '',
-        folderId: data.folderId || 'default',
-        downloaded: !!data.downloaded,
-        addedAt: data.addedAt?.toDate?.() ?? null,
-      };
-    });
-    callback(items);
-  });
+  return onSnapshot(
+    q,
+    (snap) => {
+      const items: WishlistItem[] = snap.docs.map((d) => {
+        const data = d.data();
+        return {
+          pluginId: d.id,
+          name: data.name || '',
+          author: data.author || '',
+          previewImage: data.previewImage || '',
+          category: data.category || '',
+          folderId: data.folderId || 'default',
+          downloaded: !!data.downloaded,
+          addedAt: data.addedAt?.toDate?.() ?? null,
+        };
+      });
+      callback(items);
+    },
+    (err) => {
+      console.warn('Firestore wishlist error:', err.message);
+      callback([]);
+    }
+  );
 }
 
 // Subscribe to custom folders
@@ -60,17 +67,24 @@ export function subscribeFolders(
 ) {
   const ref = collection(db, 'users', uid, 'folders');
   const q = query(ref, orderBy('createdAt', 'asc'));
-  return onSnapshot(q, (snap) => {
-    const folders: WishlistFolder[] = snap.docs.map((d) => {
-      const data = d.data();
-      return {
-        id: d.id,
-        name: data.name || 'Folder Baru',
-        createdAt: data.createdAt?.toDate?.() ?? null,
-      };
-    });
-    callback(folders);
-  });
+  return onSnapshot(
+    q,
+    (snap) => {
+      const folders: WishlistFolder[] = snap.docs.map((d) => {
+        const data = d.data();
+        return {
+          id: d.id,
+          name: data.name || 'Folder Baru',
+          createdAt: data.createdAt?.toDate?.() ?? null,
+        };
+      });
+      callback(folders);
+    },
+    (err) => {
+      console.warn('Firestore folders error:', err.message);
+      callback([]);
+    }
+  );
 }
 
 export async function createFolder(uid: string, folderName: string) {

@@ -1,7 +1,7 @@
 'use client';
 
-import React from 'react';
-import { Folder, Trash2, Layers } from 'lucide-react';
+import React, { useState } from 'react';
+import { Trash2, Layers } from 'lucide-react';
 import type { WishlistItem } from '@/lib/wishlist';
 
 interface FolderCardProps {
@@ -11,103 +11,198 @@ interface FolderCardProps {
   onClick: () => void;
   onDelete?: () => void;
   isDefault?: boolean;
+  color?: string;
 }
 
-export function FolderCard({ id, name, items, onClick, onDelete, isDefault }: FolderCardProps) {
-  // Get top 3 preview images
+const darkenColor = (hex: string, percent: number): string => {
+  let color = hex.startsWith('#') ? hex.slice(1) : hex;
+  if (color.length === 3) {
+    color = color
+      .split('')
+      .map((c) => c + c)
+      .join('');
+  }
+  const num = parseInt(color.slice(0, 6), 16);
+  let r = (num >> 16) & 0xff;
+  let g = (num >> 8) & 0xff;
+  let b = num & 0xff;
+  r = Math.max(0, Math.min(255, Math.floor(r * (1 - percent))));
+  g = Math.max(0, Math.min(255, Math.floor(g * (1 - percent))));
+  b = Math.max(0, Math.min(255, Math.floor(b * (1 - percent))));
+  return '#' + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1).toUpperCase();
+};
+
+export function FolderCard({
+  id,
+  name,
+  items,
+  onClick,
+  onDelete,
+  isDefault,
+  color = '#2563eb', // Indigo/Blue theme by default
+}: FolderCardProps) {
+  const maxItems = 3;
   const previewImages = items
     .filter((item) => item.previewImage)
     .map((item) => item.previewImage!)
-    .slice(0, 3);
+    .slice(0, maxItems);
 
-  // Downloaded count vs total
   const downloadedCount = items.filter((i) => i.downloaded).length;
 
+  const [open, setOpen] = useState(false);
+  const [paperOffsets, setPaperOffsets] = useState<{ x: number; y: number }[]>(
+    Array.from({ length: maxItems }, () => ({ x: 0, y: 0 }))
+  );
+
+  const folderBackColor = darkenColor(color, 0.25);
+  const paper1 = '#1e293b';
+  const paper2 = '#334155';
+  const paper3 = '#475569';
+
+  const handleFolderClick = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    onClick();
+  };
+
+  const handlePaperMouseMove = (
+    e: React.MouseEvent<HTMLDivElement, MouseEvent>,
+    index: number
+  ) => {
+    if (!open) return;
+    const rect = e.currentTarget.getBoundingClientRect();
+    const centerX = rect.left + rect.width / 2;
+    const centerY = rect.top + rect.height / 2;
+    const offsetX = (e.clientX - centerX) * 0.15;
+    const offsetY = (e.clientY - centerY) * 0.15;
+    setPaperOffsets((prev) => {
+      const newOffsets = [...prev];
+      newOffsets[index] = { x: offsetX, y: offsetY };
+      return newOffsets;
+    });
+  };
+
+  const handlePaperMouseLeave = (
+    e: React.MouseEvent<HTMLDivElement, MouseEvent>,
+    index: number
+  ) => {
+    setPaperOffsets((prev) => {
+      const newOffsets = [...prev];
+      newOffsets[index] = { x: 0, y: 0 };
+      return newOffsets;
+    });
+  };
+
+  // Transform offset calculation when open: left, right, center top
+  const getOpenTransform = (index: number) => {
+    if (index === 0) return 'translate(-115%, -65%) rotate(-14deg)';
+    if (index === 1) return 'translate(15%, -65%) rotate(14deg)';
+    if (index === 2) return 'translate(-50%, -95%) rotate(0deg)';
+    return '';
+  };
+
   return (
-    <div
-      onClick={onClick}
-      className="group relative bg-[#13161e] hover:bg-[#1a1e28] border border-white/[0.08] hover:border-amber-500/40 rounded-2xl p-5 cursor-pointer transition-all duration-300 flex flex-col justify-between shadow-lg hover:shadow-amber-500/5 select-none"
-    >
-      {/* Delete folder button (non-default) */}
-      {!isDefault && onDelete && (
-        <button
-          onClick={(e) => {
-            e.stopPropagation();
-            onDelete();
-          }}
-          title="Hapus Folder"
-          className="absolute top-3 right-3 opacity-0 group-hover:opacity-100 p-1.5 text-gray-500 hover:text-red-400 hover:bg-red-500/10 rounded-lg transition-all z-20"
+    <div className="flex flex-col items-center justify-center p-4 group select-none">
+      {/* Folder Object */}
+      <div
+        onClick={handleFolderClick}
+        onMouseEnter={() => setOpen(true)}
+        onMouseLeave={() => setOpen(false)}
+        className="relative transition-all duration-300 ease-out cursor-pointer hover:-translate-y-2"
+      >
+        {/* Folder Back Container */}
+        <div
+          className="relative w-[150px] h-[105px] rounded-tl-0 rounded-tr-[12px] rounded-br-[12px] rounded-bl-[12px] shadow-xl"
+          style={{ backgroundColor: folderBackColor }}
         >
-          <Trash2 className="w-4 h-4" />
-        </button>
-      )}
+          {/* Folder Tab at top left */}
+          <span
+            className="absolute z-0 bottom-[98%] left-0 w-[50px] h-[14px] rounded-tl-[8px] rounded-tr-[8px] rounded-bl-0 rounded-br-0"
+            style={{ backgroundColor: folderBackColor }}
+          ></span>
 
-      {/* Top Floating Preview Images Stack */}
-      <div className="relative h-28 w-full flex items-center justify-center mb-4 pt-2">
-        {previewImages.length === 0 ? (
-          <div className="w-20 h-20 rounded-2xl bg-amber-500/5 border border-amber-500/10 flex items-center justify-center text-amber-500/40 group-hover:scale-105 transition-transform">
-            <Layers className="w-8 h-8" />
-          </div>
-        ) : (
-          <div className="relative w-full h-full flex items-center justify-center">
-            {previewImages.map((imgUrl, idx) => {
-              // Calculate stacked floating offsets
-              const count = previewImages.length;
-              let offsetClass = '';
-              let zIndex = 10 - idx;
-              let scale = 1;
-              let rotate = 0;
+          {/* Delete Button floating top right */}
+          {!isDefault && onDelete && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onDelete();
+              }}
+              title="Hapus Folder"
+              className="absolute -top-3 -right-3 z-40 p-1.5 bg-red-600/90 hover:bg-red-600 text-white rounded-full opacity-0 group-hover:opacity-100 transition-opacity shadow-md"
+            >
+              <Trash2 className="w-3.5 h-3.5" />
+            </button>
+          )}
 
-              if (count === 1) {
-                rotate = 0;
-                scale = 1;
-              } else if (count === 2) {
-                rotate = idx === 0 ? -6 : 6;
-                scale = idx === 0 ? 0.95 : 1;
-              } else {
-                if (idx === 0) { rotate = -10; scale = 0.9; }
-                if (idx === 1) { rotate = 10; scale = 0.95; }
-                if (idx === 2) { rotate = 0; scale = 1; }
-              }
+          {/* 3 Floating Image Cards (Left, Right, Center) */}
+          {[0, 1, 2].map((i) => {
+            const imgSrc = previewImages[i];
+            const sizeClasses =
+              i === 0
+                ? 'w-[75%] h-[80%]'
+                : i === 1
+                ? 'w-[82%] h-[80%]'
+                : 'w-[90%] h-[80%]';
 
-              return (
-                <div
-                  key={idx}
-                  style={{
-                    zIndex,
-                    transform: `rotate(${rotate}deg) scale(${scale}) translateY(${idx * 2}px)`,
-                  }}
-                  className="absolute w-24 sm:w-28 aspect-[16/10] rounded-xl overflow-hidden border border-white/20 shadow-[0_8px_20px_rgba(0,0,0,0.6)] bg-[#0b0d12] transition-transform group-hover:translate-y-[-4px]"
-                >
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
+            const transformStyle = open
+              ? `${getOpenTransform(i)} translate(${paperOffsets[i].x}px, ${
+                  paperOffsets[i].y
+                }px)`
+              : undefined;
+
+            return (
+              <div
+                key={i}
+                onMouseMove={(e) => handlePaperMouseMove(e, i)}
+                onMouseLeave={(e) => handlePaperMouseLeave(e, i)}
+                className={`absolute z-20 bottom-[10%] left-1/2 rounded-lg overflow-hidden border border-white/20 shadow-md transition-all duration-300 ease-in-out ${
+                  !open
+                    ? 'transform -translate-x-1/2 translate-y-[10%] group-hover:translate-y-0'
+                    : 'hover:scale-105'
+                } ${sizeClasses}`}
+                style={{
+                  ...(!open ? {} : { transform: transformStyle }),
+                  backgroundColor: i === 0 ? paper1 : i === 1 ? paper2 : paper3,
+                }}
+              >
+                {imgSrc ? (
+                  // eslint-disable-next-line @next/next/no-img-element
                   <img
-                    src={imgUrl}
+                    src={imgSrc}
                     alt="Preview"
                     className="w-full h-full object-cover"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
-                </div>
-              );
-            })}
-          </div>
-        )}
+                ) : (
+                  <div className="w-full h-full flex items-center justify-center text-white/20">
+                    <Layers className="w-5 h-5" />
+                  </div>
+                )}
+              </div>
+            );
+          })}
+
+          {/* Folder Front Cover Overlay */}
+          <div
+            className={`absolute z-30 w-full h-full origin-bottom transition-all duration-300 ease-in-out ${
+              !open ? 'group-hover:[transform:skew(12deg)_scaleY(0.65)]' : ''
+            }`}
+            style={{
+              backgroundColor: color,
+              borderRadius: '6px 12px 12px 12px',
+              ...(open && { transform: 'skew(12deg) scaleY(0.65)' }),
+            }}
+          ></div>
+        </div>
       </div>
 
-      {/* Folder Tab Visual Base (File Manager look) */}
-      <div className="pt-3 border-t border-white/[0.06] flex items-center justify-between">
-        <div className="flex items-center gap-2.5 min-w-0">
-          <div className="p-2 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 shrink-0">
-            <Folder className="w-4 h-4 fill-current" />
-          </div>
-          <div className="min-w-0">
-            <h4 className="font-display font-bold text-sm text-white group-hover:text-amber-400 transition-colors truncate">
-              {name}
-            </h4>
-            <span className="text-[11px] text-gray-400 block truncate">
-              {items.length} Plugin • {downloadedCount} Terdownload
-            </span>
-          </div>
-        </div>
+      {/* Folder Name & Info below */}
+      <div className="text-center mt-3 max-w-[170px] truncate cursor-pointer" onClick={handleFolderClick}>
+        <h4 className="font-display font-bold text-xs text-white group-hover:text-amber-400 transition-colors truncate">
+          {name}
+        </h4>
+        <span className="text-[10px] text-gray-400 block truncate mt-0.5">
+          {items.length} Plugin • {downloadedCount} Terdownload
+        </span>
       </div>
     </div>
   );
