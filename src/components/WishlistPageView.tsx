@@ -80,9 +80,19 @@ export function WishlistPageView({
     ...folders,
   ];
 
-  // Group wishlist items by folder
+  // Group wishlist items by folder & populate missing previewImages from allPlugins
   const itemsByFolder = (folderId: string) =>
-    wishlist.filter((item) => item.folderId === folderId);
+    wishlist
+      .filter((item) => item.folderId === folderId)
+      .map((item) => {
+        if (!item.previewImage) {
+          const match = allPlugins.find((p) => p.id === item.pluginId);
+          if (match?.previewImage) {
+            return { ...item, previewImage: match.previewImage };
+          }
+        }
+        return item;
+      });
 
   // Active folder object
   const currentFolder = allFolderList.find((f) => f.id === activeFolderId);

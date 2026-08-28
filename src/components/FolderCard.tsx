@@ -43,9 +43,8 @@ export function FolderCard({
 }: FolderCardProps) {
   const maxItems = 3;
   const previewImages = items
-    .filter((item) => item.previewImage)
-    .map((item) => item.previewImage!)
-    .slice(0, maxItems);
+    .map((item) => item.previewImage)
+    .filter(Boolean) as string[];
 
   const downloadedCount = items.filter((i) => i.downloaded).length;
 
@@ -136,7 +135,8 @@ export function FolderCard({
 
           {/* 3 Floating Image Cards (Left, Right, Center) */}
           {[0, 1, 2].map((i) => {
-            const imgSrc = previewImages[i];
+            const item = items[i];
+            const imgSrc = item?.previewImage;
             const sizeClasses =
               i === 0
                 ? 'w-[75%] h-[80%]'
@@ -155,7 +155,7 @@ export function FolderCard({
                 key={i}
                 onMouseMove={(e) => handlePaperMouseMove(e, i)}
                 onMouseLeave={(e) => handlePaperMouseLeave(e, i)}
-                className={`absolute z-20 bottom-[10%] left-1/2 rounded-lg overflow-hidden border border-white/20 shadow-md transition-all duration-300 ease-in-out ${
+                className={`absolute z-20 bottom-[10%] left-1/2 rounded-lg overflow-hidden border border-white/30 shadow-lg transition-all duration-300 ease-in-out ${
                   !open
                     ? 'transform -translate-x-1/2 translate-y-[10%] group-hover:translate-y-0'
                     : 'hover:scale-105'
@@ -166,15 +166,20 @@ export function FolderCard({
                 }}
               >
                 {imgSrc ? (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
-                    src={imgSrc}
-                    alt="Preview"
-                    className="w-full h-full object-cover"
-                  />
+                  <div className="relative w-full h-full bg-[#0d0f14]">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={imgSrc}
+                      alt={item?.name || 'Preview'}
+                      className="w-full h-full object-cover"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
+                  </div>
                 ) : (
-                  <div className="w-full h-full flex items-center justify-center text-white/20">
-                    <Layers className="w-5 h-5" />
+                  <div className="w-full h-full bg-gradient-to-br from-slate-800 to-slate-900 flex flex-col items-center justify-center p-1 text-center">
+                    <div className="w-6 h-1 rounded bg-amber-400/40 mb-1" />
+                    <div className="w-8 h-1 rounded bg-white/20 mb-0.5" />
+                    <div className="w-5 h-1 rounded bg-white/10" />
                   </div>
                 )}
               </div>

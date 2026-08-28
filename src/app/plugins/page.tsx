@@ -48,6 +48,7 @@ export default function PluginsPage() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [authModalOpen, setAuthModalOpen] = useState(false);
   const [promptModalOpen, setPromptModalOpen] = useState(false);
+  const [avatarError, setAvatarError] = useState(false);
 
   const { user, wishlist, loading: authLoading, signOut } = useAuth();
 
@@ -355,11 +356,16 @@ export default function PluginsPage() {
           {user ? (
             <div className="space-y-2">
               <div className="flex items-center gap-2 px-1">
-                {user.photoURL ? (
+                {user.photoURL && !avatarError ? (
                   // eslint-disable-next-line @next/next/no-img-element
-                  <img src={user.photoURL} alt="avatar" className="w-6 h-6 rounded-full" />
+                  <img
+                    src={user.photoURL}
+                    alt="avatar"
+                    onError={() => setAvatarError(true)}
+                    className="w-6 h-6 rounded-full object-cover shrink-0"
+                  />
                 ) : (
-                  <div className="w-6 h-6 rounded-full bg-red-600 flex items-center justify-center">
+                  <div className="w-6 h-6 rounded-full bg-red-600 flex items-center justify-center shrink-0">
                     <UserIcon className="w-3.5 h-3.5 text-white" />
                   </div>
                 )}
