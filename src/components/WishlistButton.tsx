@@ -5,7 +5,7 @@ import { Bookmark } from 'lucide-react';
 import { useAuth } from '@/context/AuthContext';
 
 interface WishlistButtonProps {
-  plugin: { id: string; name: string; author: string };
+  plugin: { id: string; name: string; author: string; previewImage?: string; category?: string };
   onLoginRequired: () => void;
   size?: 'sm' | 'md';
 }

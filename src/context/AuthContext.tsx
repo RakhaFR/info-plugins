@@ -11,18 +11,37 @@ import {
   type User,
 } from 'firebase/auth';
 import { auth } from '@/lib/firebase';
-import { subscribeWishlist, addToWishlist, removeFromWishlist, type WishlistItem } from '@/lib/wishlist';
+import {
+  subscribeWishlist,
+  subscribeFolders,
+  addToWishlist,
+  removeFromWishlist,
+  toggleDownloadedStatus,
+  createFolder,
+  deleteFolder,
+  moveWishlistItem,
+  type WishlistItem,
+  type WishlistFolder,
+} from '@/lib/wishlist';
 
 interface AuthContextValue {
   user: User | null;
   loading: boolean;
   wishlist: WishlistItem[];
   wishlistIds: Set<string>;
+  folders: WishlistFolder[];
   signInEmail: (email: string, password: string) => Promise<void>;
   signUpEmail: (email: string, password: string) => Promise<void>;
   signInGoogle: () => Promise<void>;
   signOut: () => Promise<void>;
-  toggleWishlist: (plugin: { id: string; name: string; author: string }) => Promise<void>;
+  toggleWishlist: (
+    plugin: { id: string; name: string; author: string; previewImage?: string; category?: string },
+    folderId?: string
+  ) => Promise<void>;
+  toggleDownloaded: (pluginId: string, currentStatus: boolean) => Promise<void>;
+  createNewFolder: (name: string) => Promise<string>;
+  removeFolder: (folderId: string) => Promise<void>;
+  moveItem: (pluginId: string, folderId: string) => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextValue | null>(null);
@@ -31,6 +50,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
   const [wishlist, setWishlist] = useState<WishlistItem[]>([]);
+  const [folders, setFolders] = useState<WishlistFolder[]>([]);
 
   useEffect(() => {
     const unsub = onAuthStateChanged(auth, (u) => {
@@ -41,9 +61,17 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   }, []);
 
   useEffect(() => {
-    if (!user) { setWishlist([]); return; }
-    const unsub = subscribeWishlist(user.uid, setWishlist);
-    return unsub;
+    if (!user) {
+      setWishlist([]);
+      setFolders([]);
+      return;
+    }
+    const unsubW = subscribeWishlist(user.uid, setWishlist);
+    const unsubF = subscribeFolders(user.uid, setFolders);
+    return () => {
+      unsubW();
+      unsubF();
+    };
   }, [user]);
 
   const wishlistIds = new Set(wishlist.map((w) => w.pluginId));
@@ -65,17 +93,57 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     await firebaseSignOut(auth);
   };
 
-  const toggleWishlist = async (plugin: { id: string; name: string; author: string }) => {
+  const toggleWishlist = async (
+    plugin: { id: string; name: string; author: string; previewImage?: string; category?: string },
+    folderId = 'default'
+  ) => {
     if (!user) return;
     if (wishlistIds.has(plugin.id)) {
       await removeFromWishlist(user.uid, plugin.id);
     } else {
-      await addToWishlist(user.uid, plugin);
+      await addToWishlist(user.uid, plugin, folderId);
     }
   };
 
+  const toggleDownloaded = async (pluginId: string, currentStatus: boolean) => {
+    if (!user) return;
+    await toggleDownloadedStatus(user.uid, pluginId, currentStatus);
+  };
+
+  const createNewFolder = async (name: string) => {
+    if (!user) return '';
+    return await createFolder(user.uid, name);
+  };
+
+  const removeFolder = async (folderId: string) => {
+    if (!user) return;
+    await deleteFolder(user.uid, folderId);
+  };
+
+  const moveItem = async (pluginId: string, targetFolderId: string) => {
+    if (!user) return;
+    await moveWishlistItem(user.uid, pluginId, targetFolderId);
+  };
+
   return (
-    <AuthContext.Provider value={{ user, loading, wishlist, wishlistIds, signInEmail, signUpEmail, signInGoogle, signOut, toggleWishlist }}>
+    <AuthContext.Provider
+      value={{
+        user,
+        loading,
+        wishlist,
+        wishlistIds,
+        folders,
+        signInEmail,
+        signUpEmail,
+        signInGoogle,
+        signOut,
+        toggleWishlist,
+        toggleDownloaded,
+        createNewFolder,
+        removeFolder,
+        moveItem,
+      }}
+    >
       {children}
     </AuthContext.Provider>
   );

@@ -12,12 +12,12 @@ import { SectionTabs } from '@/components/SectionTabs';
 import { PluginSkeleton } from '@/components/PluginSkeleton';
 import {
   Building2, Search, LayoutGrid, Zap, CalendarDays, Award, FolderOpen, RotateCw, ChevronLeft, ChevronRight,
-  ArrowUpDown, Grid, List, ChevronDown, RefreshCw, X, Menu, LogIn, LogOut, User as UserIcon
+  ArrowUpDown, Grid, List, ChevronDown, RefreshCw, X, Menu, LogIn, LogOut, User as UserIcon, Bookmark
 } from 'lucide-react';
 import { useAuth } from '@/context/AuthContext';
 import { AuthModal } from '@/components/AuthModal';
 import { AuthPromptModal } from '@/components/AuthPromptModal';
-import { WishlistPanel } from '@/components/WishlistPanel';
+import { WishlistPageView } from '@/components/WishlistPageView';
 import { WishlistButton } from '@/components/WishlistButton';
 
 const ITEMS_PER_PAGE = 12;
@@ -27,7 +27,7 @@ export default function PluginsPage() {
   const [metadata, setMetadata] = useState<Partial<PluginMetadata>>({});
   const [loading, setLoading] = useState(true);
 
-  const [activeMainMenu, setActiveMainMenu] = useState<'all' | 'recent' | 'schedule' | 'certified'>('all');
+  const [activeMainMenu, setActiveMainMenu] = useState<'all' | 'recent' | 'schedule' | 'certified' | 'wishlist'>('all');
   const [activeCategory, setActiveCategory] = useState<string>('all');
   const [activePlatform, setActivePlatform] = useState<string>('all');
   const [activeSort, setActiveSort] = useState<string>('newest');
@@ -49,7 +49,7 @@ export default function PluginsPage() {
   const [authModalOpen, setAuthModalOpen] = useState(false);
   const [promptModalOpen, setPromptModalOpen] = useState(false);
 
-  const { user, loading: authLoading, signOut } = useAuth();
+  const { user, wishlist, loading: authLoading, signOut } = useAuth();
 
   // Show periodic login prompt modal if user is not logged in (cooldown: 24 hours)
   useEffect(() => {
@@ -281,13 +281,29 @@ export default function PluginsPage() {
                   <span className="px-2 py-0.5 rounded-full text-[10px] bg-amber-500/20 text-amber-400 font-bold">TOP</span>
                 </button>
               </li>
-            </ul>
-          </div>
 
-          {/* Wishlist */}
-          <div className="space-y-2">
-            <h3 className="text-[11px] font-semibold text-gray-500 uppercase tracking-wider px-2">Wishlist Saya</h3>
-            <WishlistPanel onLoginRequired={() => setAuthModalOpen(true)} />
+              <li>
+                <button
+                  onClick={() => { setActiveMainMenu('wishlist'); setSidebarOpen(false); }}
+                  className={`w-full px-3 py-2.5 rounded-xl text-xs font-semibold flex items-center justify-between transition-colors ${
+                    activeMainMenu === 'wishlist'
+                      ? 'bg-amber-500 text-gray-950 shadow-md shadow-amber-500/20'
+                      : 'text-gray-400 hover:text-white hover:bg-white/[0.04]'
+                  }`}
+                >
+                  <span className="flex items-center gap-2">
+                    <Bookmark className={`w-4 h-4 ${activeMainMenu === 'wishlist' ? 'text-gray-950 fill-current' : 'text-amber-400'}`} /> Wishlist Saya
+                  </span>
+                  {wishlist.length > 0 && (
+                    <span className={`px-2 py-0.5 rounded-full text-[10px] font-bold ${
+                      activeMainMenu === 'wishlist' ? 'bg-black/20 text-gray-950' : 'bg-amber-500/20 text-amber-400'
+                    }`}>
+                      {wishlist.length}
+                    </span>
+                  )}
+                </button>
+              </li>
+            </ul>
           </div>
 
           {/* Kategori */}
@@ -381,7 +397,7 @@ export default function PluginsPage() {
       <main className="flex-1 p-4 sm:p-8 space-y-6 max-w-7xl mx-auto w-full min-w-0">
 
         {/* Controls Toolbar (hanya untuk view biasa) */}
-        {activeMainMenu !== 'recent' && activeMainMenu !== 'schedule' && (
+        {activeMainMenu !== 'recent' && activeMainMenu !== 'schedule' && activeMainMenu !== 'wishlist' && (
           <div className="flex flex-wrap items-center justify-between gap-4 p-4 bg-[#13161e] border border-white/[0.07] rounded-xl">
             <span className="text-xs text-gray-400 font-medium">
               Menampilkan <strong className="text-white">{filteredMainPlugins.length}</strong> plugin
@@ -574,8 +590,18 @@ export default function PluginsPage() {
           </div>
         )}
 
+        {/* ── SECTION: WISHLIST SAYA (Folders & Plugin Cards) ── */}
+        {activeMainMenu === 'wishlist' && (
+          <WishlistPageView
+            allPlugins={allPlugins}
+            topNewestIds={topNewestIds}
+            onSelectPlugin={setSelectedPlugin}
+            onLoginRequired={() => setAuthModalOpen(true)}
+          />
+        )}
+
         {/* ── SECTION: SEMUA / CERTIFIED (Grid biasa) ── */}
-        {activeMainMenu !== 'recent' && activeMainMenu !== 'schedule' && (
+        {activeMainMenu !== 'recent' && activeMainMenu !== 'schedule' && activeMainMenu !== 'wishlist' && (
           <div className="space-y-6">
             {loading ? (
               <PluginSkeleton count={12} />
