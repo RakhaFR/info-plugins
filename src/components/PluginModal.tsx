@@ -4,13 +4,15 @@ import React from 'react';
 import type { Plugin } from '@/types/plugin';
 import { formatNumber } from '@/lib/utils';
 import { X, ExternalLink, Heart, User, Gift, Gem } from 'lucide-react';
+import { WishlistButton } from './WishlistButton';
 
 interface PluginModalProps {
   plugin: Plugin | null;
   onClose: () => void;
+  onLoginRequired: () => void;
 }
 
-export function PluginModal({ plugin, onClose }: PluginModalProps) {
+export function PluginModal({ plugin, onClose, onLoginRequired }: PluginModalProps) {
   if (!plugin) return null;
   const isFree = plugin.price.amount === 0;
 
@@ -48,6 +50,7 @@ export function PluginModal({ plugin, onClose }: PluginModalProps) {
               {plugin.certified && (
                 <Heart className="w-5 h-5 text-red-500 fill-current" />
               )}
+              <WishlistButton plugin={plugin} onLoginRequired={onLoginRequired} size="md" />
             </h2>
             <p className="text-xs text-gray-400 mt-1 flex items-center gap-2">
               <User className="w-3.5 h-3.5 text-gray-500" />

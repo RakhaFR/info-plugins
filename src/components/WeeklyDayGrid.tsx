@@ -12,6 +12,7 @@ interface WeeklyDayGridProps {
   selectedDay: string;
   onSelectDay: (day: string) => void;
   onPluginClick: (plugin: Plugin) => void;
+  onLoginRequired: () => void;
   accentColor: 'red' | 'green';
   filterFn: (plugin: Plugin) => boolean;
 }
@@ -22,6 +23,7 @@ export function WeeklyDayGrid({
   selectedDay,
   onSelectDay,
   onPluginClick,
+  onLoginRequired,
   accentColor,
   filterFn,
 }: WeeklyDayGridProps) {
@@ -131,6 +133,7 @@ export function WeeklyDayGrid({
                 plugin={plugin}
                 topNewestIds={topNewestIds}
                 onClick={onPluginClick}
+                onLoginRequired={onLoginRequired}
               />
             ))}
           </div>

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Outfit, Plus_Jakarta_Sans } from 'next/font/google';
 import './globals.css';
+import { AuthProvider } from '@/context/AuthContext';
 
 const displayFont = Outfit({
   subsets: ['latin'],
@@ -37,7 +38,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="id" className={`${displayFont.variable} ${bodyFont.variable}`}>
       <body className="bg-background text-foreground antialiased font-body">
-        {children}
+        <AuthProvider>{children}</AuthProvider>
       </body>
     </html>
   );

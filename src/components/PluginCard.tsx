@@ -4,14 +4,16 @@ import React from 'react';
 import type { Plugin } from '@/types/plugin';
 import { isPluginRecent, formatNumber } from '@/lib/utils';
 import { Zap, RotateCw, Heart, Gift, Gem, Download, Star } from 'lucide-react';
+import { WishlistButton } from './WishlistButton';
 
 interface PluginCardProps {
   plugin: Plugin;
   topNewestIds: Set<string>;
   onClick: (plugin: Plugin) => void;
+  onLoginRequired: () => void;
 }
 
-export function PluginCard({ plugin, topNewestIds, onClick }: PluginCardProps) {
+export function PluginCard({ plugin, topNewestIds, onClick, onLoginRequired }: PluginCardProps) {
   const isFree = plugin.price.amount === 0;
   const isRecent = isPluginRecent(plugin, topNewestIds);
   const isUpdated = parseInt(plugin.version) > 1;
@@ -62,7 +64,10 @@ export function PluginCard({ plugin, topNewestIds, onClick }: PluginCardProps) {
             <h3 className="font-display font-bold text-sm text-white line-clamp-1 group-hover:text-red-400 transition-colors">
               {plugin.name}
             </h3>
-            <span className="text-[11px] font-mono text-gray-500 shrink-0">#{plugin.id}</span>
+            <div className="flex items-center gap-1 shrink-0">
+              <span className="text-[11px] font-mono text-gray-500">#{plugin.id}</span>
+              <WishlistButton plugin={plugin} onLoginRequired={onLoginRequired} />
+            </div>
           </div>
 
           <p className="text-xs text-gray-400 line-clamp-2 leading-relaxed mb-4">
