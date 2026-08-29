@@ -74,7 +74,27 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     };
   }, [user]);
 
-  const wishlistIds = new Set(wishlist.map((w) => w.pluginId));
+  // Filter active wishlist items (only items that belong to 'default' or an existing folder)
+  const activeWishlist = React.useMemo(() => {
+    return wishlist.filter(
+      (item) => item.folderId === 'default' || folders.some((f) => f.id === item.folderId)
+    );
+  }, [wishlist, folders]);
+
+  // Clean up any orphaned ghost items from previously deleted folders
+  useEffect(() => {
+    if (!user || wishlist.length === 0) return;
+    const orphaned = wishlist.filter(
+      (item) => item.folderId !== 'default' && !folders.some((f) => f.id === item.folderId)
+    );
+    if (orphaned.length > 0) {
+      orphaned.forEach((item) => {
+        removeFromWishlist(user.uid, item.pluginId).catch(() => {});
+      });
+    }
+  }, [user, wishlist, folders]);
+
+  const wishlistIds = new Set(activeWishlist.map((w) => w.pluginId));
 
   const signInEmail = async (email: string, password: string) => {
     await signInWithEmailAndPassword(auth, email, password);
@@ -130,7 +150,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       value={{
         user,
         loading,
-        wishlist,
+        wishlist: activeWishlist,
         wishlistIds,
         folders,
         signInEmail,

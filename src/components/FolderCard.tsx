@@ -124,7 +124,9 @@ export function FolderCard({
             <button
               onClick={(e) => {
                 e.stopPropagation();
-                onDelete();
+                if (window.confirm(`Hapus folder "${name}" beserta seluruh plugin di dalamnya?`)) {
+                  onDelete();
+                }
               }}
               title="Hapus Folder"
               className="absolute -top-3 -right-3 z-40 p-1.5 bg-red-600/90 hover:bg-red-600 text-white rounded-full opacity-0 group-hover:opacity-100 transition-opacity shadow-md"

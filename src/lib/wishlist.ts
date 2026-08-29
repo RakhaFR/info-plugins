@@ -8,6 +8,9 @@ import {
   serverTimestamp,
   query,
   orderBy,
+  where,
+  getDocs,
+  writeBatch,
 } from 'firebase/firestore';
 import { db } from './firebase';
 
@@ -97,6 +100,23 @@ export async function createFolder(uid: string, folderName: string) {
 }
 
 export async function deleteFolder(uid: string, folderId: string) {
+  try {
+    // 1. Delete all wishlist items inside this folder
+    const wishlistRef = collection(db, 'users', uid, 'wishlist');
+    const q = query(wishlistRef, where('folderId', '==', folderId));
+    const snap = await getDocs(q);
+    if (!snap.empty) {
+      const batch = writeBatch(db);
+      snap.docs.forEach((docSnap) => {
+        batch.delete(docSnap.ref);
+      });
+      await batch.commit();
+    }
+  } catch (err) {
+    console.error('Error deleting items in folder:', err);
+  }
+
+  // 2. Delete the folder doc
   await deleteDoc(doc(db, 'users', uid, 'folders', folderId));
 }
 
