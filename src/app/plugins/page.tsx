@@ -17,6 +17,7 @@ import {
 import { useAuth } from '@/context/AuthContext';
 import { AuthModal } from '@/components/AuthModal';
 import { AuthPromptModal } from '@/components/AuthPromptModal';
+import { InstallPwaButton } from '@/components/InstallPwaButton';
 import { WishlistPageView } from '@/components/WishlistPageView';
 import { WishlistButton } from '@/components/WishlistButton';
 
@@ -180,9 +181,12 @@ export default function PluginsPage() {
             </span>
           </div>
         </Link>
-        <button onClick={() => setSidebarOpen(!sidebarOpen)} className="p-2 text-gray-300">
-          {sidebarOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-        </button>
+        <div className="flex items-center gap-2">
+          <InstallPwaButton variant="compact" />
+          <button onClick={() => setSidebarOpen(!sidebarOpen)} className="p-2 text-gray-300">
+            {sidebarOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+          </button>
+        </div>
       </div>
 
       {/* ── SIDEBAR OVERLAY FOR MOBILE ── */}
@@ -222,15 +226,18 @@ export default function PluginsPage() {
           </Link>
 
           {/* Search box */}
-          <div className="relative">
-            <Search className="w-4 h-4 text-gray-500 absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none" />
-            <input
-              type="text"
-              placeholder="Cari nama, author, ID..."
-              value={searchQuery}
-              onChange={(e) => { setSearchQuery(e.target.value); setMainPage(1); setRecentPage(1); setSchedulePage(1); }}
-              className="w-full pl-9 pr-4 py-2 bg-[#13161e] border border-white/10 rounded-xl text-xs text-white placeholder-gray-500 focus:outline-none focus:border-red-500 transition-colors"
-            />
+          <div className="space-y-3">
+            <InstallPwaButton variant="outline" className="w-full justify-center" />
+            <div className="relative">
+              <Search className="w-4 h-4 text-gray-500 absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none" />
+              <input
+                type="text"
+                placeholder="Cari nama, author, ID..."
+                value={searchQuery}
+                onChange={(e) => { setSearchQuery(e.target.value); setMainPage(1); setRecentPage(1); setSchedulePage(1); }}
+                className="w-full pl-9 pr-4 py-2 bg-[#13161e] border border-white/10 rounded-xl text-xs text-white placeholder-gray-500 focus:outline-none focus:border-red-500 transition-colors"
+              />
+            </div>
           </div>
 
           {/* Menu Utama */}

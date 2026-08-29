@@ -8,6 +8,10 @@ import { PluginSkeleton } from '@/components/PluginSkeleton';
 import {
   ArrowRight, LayoutGrid, ShieldCheck, Cpu, Download, Star, Loader2, X, Eye, Play, Building2
 } from 'lucide-react';
+import { InstallPwaButton } from '@/components/InstallPwaButton';
+import { DriftWall } from '@/components/DriftWall';
+import { TextMarquee } from '@/components/TextMarquee';
+import { FAQSection } from '@/components/FAQSection';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -29,6 +33,8 @@ export default function LandingPage() {
   const [pageReady, setPageReady] = useState(false);
   const [stats, setStats] = useState({ totalPlugins: 0, totalDownloads: 0, certified: 0 });
   const [popularPlugins, setPopularPlugins] = useState<FeaturedPlugin[]>([]);
+  const [heroImages, setHeroImages] = useState<{ image: string; title?: string }[]>([]);
+  const [categories, setCategories] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -70,6 +76,25 @@ export default function LandingPage() {
         const cert = metadata.certifiedCreators || 0;
 
         setStats({ totalPlugins: totalP, totalDownloads: totalD, certified: cert });
+
+        // Extract random preview images for DriftWall (limit to 12 max for zero lag)
+        const pluginImages = plugins
+          .map((p: { previewImage?: string; name?: string }) => ({
+            image: p.previewImage,
+            title: p.name,
+          }))
+          .filter((item: { image?: string }) => Boolean(item.image && !item.image.includes('placeholder')))
+          .slice(0, 12);
+        setHeroImages(pluginImages);
+
+        // Extract unique categories for TextMarquee
+        const catStats = metadata.categoryStats || {};
+        const catNames = Object.keys(catStats);
+        if (catNames.length > 0) {
+          setCategories(catNames);
+        } else {
+          setCategories(['Commercial', 'Residential', 'Industrial', 'Transport', 'Infrastructure', 'Parks', 'Public Buildings', 'Decoration', 'Water & Energy']);
+        }
 
         // Trigger counting animation
         animateCount(totalP, setDisplayPlugins);
@@ -140,15 +165,18 @@ export default function LandingPage() {
         <div className="hidden md:flex items-center gap-8 text-xs font-semibold text-gray-400">
           <a href="#fitur" className="hover:text-white transition-colors">Fitur Utama</a>
           <a href="#populer" className="hover:text-white transition-colors">Plugin Populer</a>
-          <a href="#komunitas" className="hover:text-white transition-colors">Komunitas</a>
+          <a href="#faq" className="hover:text-white transition-colors">FAQ</a>
         </div>
 
-        <Link
-          href="/plugins"
-          className="hidden sm:inline-flex items-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white font-semibold text-xs rounded-xl transition-all shadow-lg shadow-red-600/20 hover:scale-105"
-        >
-          <Download className="w-3.5 h-3.5" /> Buka Plugin Hub
-        </Link>
+        <div className="hidden sm:flex items-center gap-3">
+          <InstallPwaButton variant="compact" />
+          <Link
+            href="/plugins"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white font-semibold text-xs rounded-xl transition-all shadow-lg shadow-red-600/20 hover:scale-105"
+          >
+            <Download className="w-3.5 h-3.5" /> Buka Plugin Hub
+          </Link>
+        </div>
 
         <button
           onClick={() => setMenuOpen(!menuOpen)}
@@ -163,7 +191,8 @@ export default function LandingPage() {
         <div className="fixed top-[65px] left-0 right-0 z-40 bg-[#13161e] border-b border-white/10 p-6 flex flex-col gap-4 md:hidden">
           <a href="#fitur" onClick={() => setMenuOpen(false)} className="text-sm text-gray-300">Fitur Utama</a>
           <a href="#populer" onClick={() => setMenuOpen(false)} className="text-sm text-gray-300">Plugin Populer</a>
-          <a href="#komunitas" onClick={() => setMenuOpen(false)} className="text-sm text-gray-300">Komunitas</a>
+          <a href="#faq" onClick={() => setMenuOpen(false)} className="text-sm text-gray-300">FAQ</a>
+          <InstallPwaButton variant="outline" className="w-full justify-center" />
           <Link
             href="/plugins"
             onClick={() => setMenuOpen(false)}
@@ -176,17 +205,8 @@ export default function LandingPage() {
 
       {/* ── HERO ── */}
       <section className="relative min-h-[90vh] flex items-center pt-24 pb-16 px-6 sm:px-12 overflow-hidden">
-        {/* Background Image Banner */}
-        <div className="absolute inset-0 z-0">
-          <Image
-            src="/icon.jpg"
-            alt="Hero Background"
-            fill
-            className="object-cover object-center opacity-25 scale-105 filter blur-sm"
-            priority
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#0d0f14] via-[#0d0f14]/80 to-[#0d0f14]/60" />
-        </div>
+        {/* DriftWall Background */}
+        <DriftWall items={heroImages} columns={7} speed={30} dim={0.85} />
 
         {/* Glow backdrop */}
         <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-red-600/15 rounded-full blur-[120px] pointer-events-none z-0" />
@@ -258,6 +278,9 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
+
+      {/* ── RUNNING CATEGORIES MARQUEE ── */}
+      <TextMarquee items={categories} />
 
       {/* ── FEATURES SECTION ── */}
       <section id="fitur" className="py-20 px-6 sm:px-12 bg-[#0b0d12] border-t border-white/[0.06]">
@@ -373,6 +396,9 @@ export default function LandingPage() {
           )}
         </div>
       </section>
+
+      {/* ── FAQ SECTION ── */}
+      <FAQSection />
 
       {/* ── FOOTER ── */}
       <footer className="py-8 px-6 sm:px-12 bg-[#08090c] border-t border-white/[0.06] text-center sm:text-left">
