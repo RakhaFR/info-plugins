@@ -97,9 +97,6 @@ export function DriftWall({
 
   const safeItems = useMemo(() => items.filter(item => item && item.image && !item.image.includes('icon.jpg')), [items]);
 
-  // Don't render until plugin images are loaded
-  if (safeItems.length === 0) return null;
-
   // Responsive tile size & column count based on container width
   const responsiveCols = containerWidth < 480 ? 2 : containerWidth < 768 ? 3 : containerWidth < 1024 ? 5 : columns;
   const responsiveTileW = containerWidth < 480 ? 120 : containerWidth < 768 ? 150 : tileWidth;
@@ -323,6 +320,8 @@ export function DriftWall({
       </div>
     );
   };
+
+  if (safeItems.length === 0) return null;
 
   return (
     <div
