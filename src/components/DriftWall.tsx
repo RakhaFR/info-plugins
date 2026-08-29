@@ -39,10 +39,7 @@ interface ColumnMeta {
   copies: number;
 }
 
-const DEFAULT_ITEMS: DriftWallItem[] = Array.from({ length: 12 }, (_, i) => ({
-  image: '/icon.jpg',
-  title: `Plugin ${i + 1}`,
-}));
+const DEFAULT_ITEMS: DriftWallItem[] = [];
 
 const cx = (...parts: (string | false | undefined)[]) => parts.filter(Boolean).join(' ');
 
@@ -55,7 +52,7 @@ const columnFactor = (index: number, variance: number): number => {
 };
 
 export function DriftWall({
-  items = DEFAULT_ITEMS,
+  items = [],
   columns = 5,
   tileWidth = 220,
   tileHeight = 140,
@@ -98,7 +95,10 @@ export function DriftWall({
   const activeIdRef = useRef<string | null>(null);
   const [reduced, setReduced] = useState(false);
 
-  const safeItems = useMemo(() => (items && items.length > 0 ? items : DEFAULT_ITEMS), [items]);
+  const safeItems = useMemo(() => items.filter(item => item && item.image && !item.image.includes('icon.jpg')), [items]);
+
+  // Don't render until plugin images are loaded
+  if (safeItems.length === 0) return null;
 
   // Responsive tile size & column count based on container width
   const responsiveCols = containerWidth < 480 ? 2 : containerWidth < 768 ? 3 : containerWidth < 1024 ? 5 : columns;

@@ -62,30 +62,38 @@ export default function LandingPage() {
   useEffect(() => {
     AOS.init({ duration: 800, once: true, easing: 'ease-out-quad' });
 
-    // Preload hero background image
-    const img = new window.Image();
-    img.src = '/icon.jpg';
-    img.onload = () => setPageReady(true);
-    img.onerror = () => setPageReady(true);
-
     fetch('/api/plugins')
       .then(res => res.json())
-      .then(({ plugins, metadata }) => {
+      .then(async ({ plugins, metadata }) => {
         const totalP = metadata.totalPlugins || plugins.length || 0;
         const totalD = metadata.totalDownloads || 0;
         const cert = metadata.certifiedCreators || 0;
 
         setStats({ totalPlugins: totalP, totalDownloads: totalD, certified: cert });
 
-        // Extract random preview images for DriftWall (limit to 12 max for zero lag)
+        // Extract valid preview images for DriftWall
         const pluginImages = plugins
           .map((p: { previewImage?: string; name?: string }) => ({
             image: p.previewImage,
             title: p.name,
           }))
-          .filter((item: { image?: string }) => Boolean(item.image && !item.image.includes('placeholder')))
-          .slice(0, 12);
+          .filter((item: { image?: string }) => Boolean(item.image && !item.image.includes('placeholder') && !item.image.includes('icon.jpg')))
+          .slice(0, 15);
+
         setHeroImages(pluginImages);
+
+        // Preload all drift wall images before unlocking loading screen
+        if (pluginImages.length > 0) {
+          const imagePromises = pluginImages.map((item: { image: string }) => {
+            return new Promise((resolve) => {
+              const img = new window.Image();
+              img.src = item.image;
+              img.onload = resolve;
+              img.onerror = resolve;
+            });
+          });
+          await Promise.all(imagePromises);
+        }
 
         // Extract unique categories for TextMarquee
         const catStats = metadata.categoryStats || {};
@@ -117,7 +125,10 @@ export default function LandingPage() {
         setPopularPlugins(top6);
       })
       .catch(err => console.error('Gagal fetch data landing:', err))
-      .finally(() => setLoading(false));
+      .finally(() => {
+        setLoading(false);
+        setPageReady(true);
+      });
   }, []);
 
   return (
