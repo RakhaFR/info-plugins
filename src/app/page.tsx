@@ -31,6 +31,7 @@ interface FeaturedPlugin {
 
 export default function LandingPage() {
   const [pageReady, setPageReady] = useState(false);
+  const [loadProgress, setLoadProgress] = useState(15);
   const [stats, setStats] = useState({ totalPlugins: 0, totalDownloads: 0, certified: 0 });
   const [popularPlugins, setPopularPlugins] = useState<FeaturedPlugin[]>([]);
   const [heroImages, setHeroImages] = useState<{ image: string; title?: string }[]>([]);
@@ -61,6 +62,17 @@ export default function LandingPage() {
 
   useEffect(() => {
     AOS.init({ duration: 800, once: true, easing: 'ease-out-quad' });
+
+    // Progress bar simulation up to 88% while waiting for network
+    const progressTimer = setInterval(() => {
+      setLoadProgress((prev) => {
+        if (prev >= 88) {
+          clearInterval(progressTimer);
+          return 88;
+        }
+        return prev + Math.floor(Math.random() * 15 + 8);
+      });
+    }, 180);
 
     // Loading screen ditutup setelah data API siap — TIDAK nunggu gambar selesai download
     fetch('/api/plugins')
@@ -123,9 +135,15 @@ export default function LandingPage() {
       })
       .catch(err => console.error('Gagal fetch data landing:', err))
       .finally(() => {
-        setLoading(false);
-        setPageReady(true);
+        clearInterval(progressTimer);
+        setLoadProgress(100);
+        setTimeout(() => {
+          setLoading(false);
+          setPageReady(true);
+        }, 320);
       });
+
+    return () => clearInterval(progressTimer);
   }, []);
 
   return (
@@ -143,13 +161,17 @@ export default function LandingPage() {
             </span>
           </div>
 
-          <div className="w-48 h-1 bg-white/10 rounded-full overflow-hidden">
-            <div className="h-full bg-red-600 animate-[load-bar_1.2s_ease-in-out_infinite]" />
+          <div className="w-56 h-2 bg-white/10 rounded-full overflow-hidden p-0.5 border border-white/10">
+            <div
+              className="h-full bg-gradient-to-r from-red-600 via-red-500 to-amber-500 rounded-full transition-all duration-300 ease-out shadow-[0_0_12px_rgba(229,57,53,0.8)]"
+              style={{ width: `${Math.min(100, loadProgress)}%` }}
+            />
           </div>
 
-          <span className="text-xs text-gray-500 tracking-widest uppercase">
-            Memuat aset...
-          </span>
+          <div className="flex items-center gap-2 text-xs text-gray-400 font-mono tracking-wider">
+            <span>Memuat aset...</span>
+            <span className="text-red-400 font-bold">{Math.min(100, loadProgress)}%</span>
+          </div>
         </div>
       )}
 
