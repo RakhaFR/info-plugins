@@ -62,54 +62,51 @@ export default function LandingPage() {
   useEffect(() => {
     AOS.init({ duration: 800, once: true, easing: 'ease-out-quad' });
 
+    // Loading screen ditutup setelah data API siap — TIDAK nunggu gambar selesai download
     fetch('/api/plugins')
       .then(res => res.json())
-      .then(async ({ plugins, metadata }) => {
+      .then(({ plugins, metadata }) => {
         const totalP = metadata.totalPlugins || plugins.length || 0;
         const totalD = metadata.totalDownloads || 0;
         const cert = metadata.certifiedCreators || 0;
 
         setStats({ totalPlugins: totalP, totalDownloads: totalD, certified: cert });
 
-        // Extract valid preview images for DriftWall
+        // Pilih tile: mobile max 6, desktop max 12
+        const isMobile = window.innerWidth < 768;
+        const tileLimit = isMobile ? 6 : 12;
+
         const pluginImages = plugins
           .map((p: { previewImage?: string; name?: string }) => ({
             image: p.previewImage,
             title: p.name,
           }))
-          .filter((item: { image?: string }) => Boolean(item.image && !item.image.includes('placeholder') && !item.image.includes('icon.jpg')))
-          .slice(0, 15);
+          .filter((item: { image?: string }) =>
+            Boolean(item.image && !item.image.includes('placeholder') && !item.image.includes('icon.jpg'))
+          )
+          .slice(0, tileLimit);
 
         setHeroImages(pluginImages);
 
-        // Preload all drift wall images before unlocking loading screen
-        if (pluginImages.length > 0) {
-          const imagePromises = pluginImages.map((item: { image: string }) => {
-            return new Promise((resolve) => {
-              const img = new window.Image();
-              img.src = item.image;
-              img.onload = resolve;
-              img.onerror = resolve;
-            });
-          });
-          await Promise.all(imagePromises);
-        }
+        // Preload gambar DriftWall di BACKGROUND (non-blocking, loading screen sudah terbuka)
+        pluginImages.forEach((item: { image: string }) => {
+          const img = new window.Image();
+          img.src = item.image;
+        });
 
-        // Extract unique categories for TextMarquee
+        // Categories
         const catStats = metadata.categoryStats || {};
         const catNames = Object.keys(catStats);
-        if (catNames.length > 0) {
-          setCategories(catNames);
-        } else {
-          setCategories(['Commercial', 'Residential', 'Industrial', 'Transport', 'Infrastructure', 'Parks', 'Public Buildings', 'Decoration', 'Water & Energy']);
-        }
+        setCategories(
+          catNames.length > 0
+            ? catNames
+            : ['Commercial', 'Residential', 'Industrial', 'Transport', 'Infrastructure', 'Parks', 'Public Buildings', 'Decoration', 'Water & Energy']
+        );
 
-        // Trigger counting animation
         animateCount(totalP, setDisplayPlugins);
         animateCount(totalD, setDisplayDownloads);
         animateCount(cert, setDisplayCertified);
 
-        // Top 6 popular
         const top6 = [...plugins]
           .sort((a, b) => (b.downloads || 0) - (a.downloads || 0))
           .slice(0, 6)
