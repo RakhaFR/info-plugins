@@ -156,9 +156,9 @@ export default function PluginsPage() {
 
   const filteredSchedulePlugins = useMemo(() => {
     return allPlugins
-      .filter(p => parseInt(p.version) > 1 && !isPluginRecent(p, topNewestIds) && matchesFilters(p))
+      .filter(p => parseInt(p.version) > 1 && matchesFilters(p))
       .sort(sortFn);
-  }, [allPlugins, topNewestIds, activeCategory, activePlatform, searchQuery, activeSort]);
+  }, [allPlugins, activeCategory, activePlatform, searchQuery, activeSort]);
 
   // Categories list
   const categoryList = useMemo(() => {
@@ -607,7 +607,7 @@ export default function PluginsPage() {
                 onPluginClick={setSelectedPlugin}
                 onLoginRequired={() => setAuthModalOpen(true)}
                 accentColor="green"
-                filterFn={(p) => parseInt(p.version) > 1 && !isPluginRecent(p, topNewestIds)}
+                filterFn={(p) => parseInt(p.version) > 1}
               />
             )}
           </div>

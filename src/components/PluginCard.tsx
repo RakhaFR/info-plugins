@@ -15,8 +15,8 @@ interface PluginCardProps {
 
 export function PluginCard({ plugin, topNewestIds, onClick, onLoginRequired }: PluginCardProps) {
   const isFree = plugin.price.amount === 0;
-  const isRecent = isPluginRecent(plugin, topNewestIds);
   const isUpdated = parseInt(plugin.version) > 1;
+  const isRecent = !isUpdated && (plugin.version === '1' || parseInt(plugin.version) === 1);
   const ratingLabel = plugin.rating?.label || 'NO RATINGS';
   const ratingDisplay = plugin.rating?.count > 0 ? `${ratingLabel} (${plugin.rating.count})` : 'Belum Ada Rating';
 
@@ -40,14 +40,14 @@ export function PluginCard({ plugin, topNewestIds, onClick, onLoginRequired }: P
           </span>
 
           <div className="absolute top-2 right-2 flex flex-col gap-1 items-end">
+            {isUpdated && (
+              <span className="px-2 py-0.5 text-[10px] font-bold bg-emerald-500/90 text-white rounded shadow-sm flex items-center gap-1">
+                <RotateCw className="w-3 h-3" /> UPDATED (v{plugin.version})
+              </span>
+            )}
             {isRecent && (
               <span className="px-2 py-0.5 text-[10px] font-bold bg-red-500/90 text-white rounded shadow-sm flex items-center gap-1">
                 <Zap className="w-3 h-3 fill-current" /> BARU RILIS
-              </span>
-            )}
-            {!isRecent && isUpdated && (
-              <span className="px-2 py-0.5 text-[10px] font-bold bg-emerald-500/90 text-white rounded shadow-sm flex items-center gap-1">
-                <RotateCw className="w-3 h-3" /> UPDATED (v{plugin.version})
               </span>
             )}
             {plugin.certified && (

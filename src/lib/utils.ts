@@ -48,7 +48,7 @@ export function parseForumDate(dateStr: string | undefined, baseDate?: Date | st
 
 export function isPluginRecent(plugin: Plugin, topNewestIds: Set<string>): boolean {
   const isV1 = plugin.version === '1' || parseInt(plugin.version) === 1;
-  return topNewestIds.has(plugin.id) || isV1;
+  return isV1;
 }
 
 export function getTopNewestIds(plugins: Plugin[], count = 40): Set<string> {
