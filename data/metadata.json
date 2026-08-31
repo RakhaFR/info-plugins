@@ -1,15 +1,15 @@
 {
-  "scrapeDate": "2026-08-31T02:08:24.326Z",
-  "totalPlugins": 4916,
-  "totalPages": 5,
-  "totalDownloads": 430302946,
-  "certifiedCreators": 554,
+  "scrapeDate": "2026-08-31T23:41:43.621Z",
+  "totalPlugins": 4919,
+  "totalPages": 3,
+  "totalDownloads": 430311249,
+  "certifiedCreators": 556,
   "categoryStats": {
+    "Residential": 768,
     "Decorations": 419,
     "Industrial": 125,
     "Parks, Sports and Management": 349,
     "Commercial": 1136,
-    "Residential": 765,
     "Other": 200,
     "Transport": 263,
     "Military": 42,
@@ -30,9 +30,9 @@
     "Heightmaps": 4
   },
   "ratingStats": {
+    "VERY POSITIVE": 2038,
     "MIXED": 282,
-    "VERY POSITIVE": 2037,
-    "POSITIVE": 2557,
+    "POSITIVE": 2558,
     "NEGATIVE": 36
   },
   "source": "https://forum.theotown.com/plugins/list"

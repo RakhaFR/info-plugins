@@ -139,6 +139,16 @@ function normalizeForumDate(dateText, referenceDate = new Date()) {
   return clean;
 }
 
+function getFormattedCurrentDate(date = new Date()) {
+  const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  const day = date.getDate();
+  const month = months[date.getMonth()];
+  const year = date.getFullYear();
+  const hours = String(date.getHours()).padStart(2, '0');
+  const minutes = String(date.getMinutes()).padStart(2, '0');
+  return `${day} ${month} ${year}, ${hours}:${minutes}`;
+}
+
 // ============================================
 // HTML Parser
 // ============================================
@@ -430,8 +440,24 @@ async function main() {
       plugins.forEach(p => {
         const existingIdx = allPlugins.findIndex(existing => existing.id === p.id);
         if (existingIdx !== -1) {
-          allPlugins[existingIdx] = p;
+          const existing = allPlugins[existingIdx];
+          const oldVer = parseInt(existing.version) || 1;
+          const newVer = parseInt(p.version) || 1;
+          
+          if (newVer > oldVer) {
+            // Version updated! Stamp with current fetch date so it appears in today's schedule
+            p.uploadDate = getFormattedCurrentDate(new Date());
+            allPlugins[existingIdx] = p;
+          } else {
+            // Stats update (downloads, rating, etc.): keep existing date
+            if (existing.uploadDate) {
+              p.uploadDate = existing.uploadDate;
+            }
+            allPlugins[existingIdx] = p;
+          }
         } else {
+          // Brand new plugin! Stamp with current fetch date
+          p.uploadDate = getFormattedCurrentDate(new Date());
           allPlugins.unshift(p);
         }
       });
