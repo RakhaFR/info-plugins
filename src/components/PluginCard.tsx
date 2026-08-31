@@ -2,7 +2,7 @@
 
 import React from 'react';
 import type { Plugin } from '@/types/plugin';
-import { isPluginRecent, formatNumber } from '@/lib/utils';
+import { isPluginRecent, isWithin24Hours, formatNumber } from '@/lib/utils';
 import { Zap, RotateCw, Heart, Gift, Gem, Download, Star } from 'lucide-react';
 import { WishlistButton } from './WishlistButton';
 
@@ -11,12 +11,16 @@ interface PluginCardProps {
   topNewestIds: Set<string>;
   onClick: (plugin: Plugin) => void;
   onLoginRequired: () => void;
+  forceShowBadge?: boolean;
 }
 
-export function PluginCard({ plugin, topNewestIds, onClick, onLoginRequired }: PluginCardProps) {
+export function PluginCard({ plugin, topNewestIds, onClick, onLoginRequired, forceShowBadge = false }: PluginCardProps) {
   const isFree = plugin.price.amount === 0;
-  const isUpdated = parseInt(plugin.version) > 1;
-  const isRecent = !isUpdated && (plugin.version === '1' || parseInt(plugin.version) === 1);
+  const isWithin1Day = isWithin24Hours(plugin.uploadDate);
+  const showStatusBadge = forceShowBadge || isWithin1Day;
+
+  const isUpdated = showStatusBadge && parseInt(plugin.version) > 1;
+  const isRecent = showStatusBadge && !isUpdated && (plugin.version === '1' || parseInt(plugin.version) === 1);
   const ratingLabel = plugin.rating?.label || 'NO RATINGS';
   const ratingDisplay = plugin.rating?.count > 0 ? `${ratingLabel} (${plugin.rating.count})` : 'Belum Ada Rating';
 

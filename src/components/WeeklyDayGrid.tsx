@@ -139,6 +139,7 @@ export function WeeklyDayGrid({
                 topNewestIds={topNewestIds}
                 onClick={onPluginClick}
                 onLoginRequired={onLoginRequired}
+                forceShowBadge={true}
               />
             ))}
           </div>

@@ -57,6 +57,18 @@ export function getTopNewestIds(plugins: Plugin[], count = 40): Set<string> {
   );
 }
 
+/**
+ * Checks if a plugin date is within the last 24 hours (1 day).
+ */
+export function isWithin24Hours(dateStr: string | undefined, baseDate: Date = new Date()): boolean {
+  if (!dateStr) return false;
+  const dt = parseForumDate(dateStr, baseDate);
+  if (!dt) return false;
+  const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+  const diff = baseDate.getTime() - dt.getTime();
+  return diff >= 0 && diff <= ONE_DAY_MS;
+}
+
 export function getStaleLabel(dt: Date, selectedDay: string, referenceDate: Date = new Date()): string {
   if (dt.toDateString() !== referenceDate.toDateString() && DAY_INDEX_MAP[dt.getDay()] === selectedDay) {
     const diffDays = Math.round((referenceDate.getTime() - dt.getTime()) / 86400000);
