@@ -13,18 +13,36 @@ export const DAY_INDEX_MAP: Record<number, string> = {
 
 export const DAYS = ['Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu', 'Minggu'];
 
-export function parseForumDate(dateStr: string | undefined): Date | null {
+export function parseForumDate(dateStr: string | undefined, baseDate?: Date | string): Date | null {
   if (!dateStr) return null;
-  const now = new Date();
-  const str = dateStr.trim().toLowerCase();
-  if (str.startsWith('today') || str.startsWith('hari ini')) return now;
-  if (str.startsWith('yesterday') || str.startsWith('kemarin')) {
-    const y = new Date(now);
-    y.setDate(y.getDate() - 1);
-    return y;
+  const str = dateStr.trim();
+  const lower = str.toLowerCase();
+  const ref = baseDate ? new Date(baseDate) : new Date();
+
+  if (lower.startsWith('today') || lower.startsWith('hari ini')) {
+    const timeMatch = str.match(/(\d{1,2}):(\d{2})/);
+    const d = new Date(ref);
+    if (timeMatch) {
+      d.setHours(parseInt(timeMatch[1], 10), parseInt(timeMatch[2], 10), 0, 0);
+    }
+    return d;
   }
-  const parsed = Date.parse(dateStr.replace(/,/g, ''));
+
+  if (lower.startsWith('yesterday') || lower.startsWith('kemarin')) {
+    const timeMatch = str.match(/(\d{1,2}):(\d{2})/);
+    const d = new Date(ref);
+    d.setDate(d.getDate() - 1);
+    if (timeMatch) {
+      d.setHours(parseInt(timeMatch[1], 10), parseInt(timeMatch[2], 10), 0, 0);
+    }
+    return d;
+  }
+
+  // Support "26 Aug 2026, 09:47" or "26 Aug 2026"
+  const cleaned = str.replace(/,/g, '');
+  const parsed = Date.parse(cleaned);
   if (!isNaN(parsed)) return new Date(parsed);
+
   return null;
 }
 
@@ -39,10 +57,9 @@ export function getTopNewestIds(plugins: Plugin[], count = 40): Set<string> {
   );
 }
 
-export function getStaleLabel(dt: Date, selectedDay: string): string {
-  const now = new Date();
-  if (dt.toDateString() !== now.toDateString() && DAY_INDEX_MAP[dt.getDay()] === selectedDay) {
-    const diffDays = Math.round((now.getTime() - dt.getTime()) / 86400000);
+export function getStaleLabel(dt: Date, selectedDay: string, referenceDate: Date = new Date()): string {
+  if (dt.toDateString() !== referenceDate.toDateString() && DAY_INDEX_MAP[dt.getDay()] === selectedDay) {
+    const diffDays = Math.round((referenceDate.getTime() - dt.getTime()) / 86400000);
     if (diffDays === 1) return 'Update kemarin';
     if (diffDays > 1) return `Update ${diffDays} hari lalu`;
   }

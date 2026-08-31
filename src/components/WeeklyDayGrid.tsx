@@ -47,6 +47,11 @@ export function WeeklyDayGrid({
     }
   });
 
+  // Sort each day's entries by newest upload date
+  Object.keys(weeklyMap).forEach((day) => {
+    weeklyMap[day].sort((a, b) => b.dt.getTime() - a.dt.getTime());
+  });
+
   const dayEntries = weeklyMap[selectedDay] || [];
   const isToday = selectedDay === currentDayName;
   const staleLabel = dayEntries.length > 0 ? getStaleLabel(dayEntries[0].dt, selectedDay) : '';

@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "scrape": "node scraper.js"
+    "scrape": "node scraper.js",
+    "scrape:update": "node scraper.js --update --pages 3"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

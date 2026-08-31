@@ -110,6 +110,35 @@ function parseSize(text) {
   };
 }
 
+function normalizeForumDate(dateText, referenceDate = new Date()) {
+  if (!dateText) return '';
+  const clean = cleanText(dateText);
+  const lower = clean.toLowerCase();
+  const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  
+  if (lower.startsWith('today') || lower.startsWith('hari ini')) {
+    const timeMatch = clean.match(/(\d{1,2}:\d{2})/);
+    const timeStr = timeMatch ? timeMatch[1] : `${String(referenceDate.getHours()).padStart(2, '0')}:${String(referenceDate.getMinutes()).padStart(2, '0')}`;
+    const day = referenceDate.getDate();
+    const month = months[referenceDate.getMonth()];
+    const year = referenceDate.getFullYear();
+    return `${day} ${month} ${year}, ${timeStr}`;
+  }
+  
+  if (lower.startsWith('yesterday') || lower.startsWith('kemarin')) {
+    const timeMatch = clean.match(/(\d{1,2}:\d{2})/);
+    const timeStr = timeMatch ? timeMatch[1] : '00:00';
+    const yesterday = new Date(referenceDate);
+    yesterday.setDate(yesterday.getDate() - 1);
+    const day = yesterday.getDate();
+    const month = months[yesterday.getMonth()];
+    const year = yesterday.getFullYear();
+    return `${day} ${month} ${year}, ${timeStr}`;
+  }
+  
+  return clean;
+}
+
 // ============================================
 // HTML Parser
 // ============================================
@@ -128,7 +157,7 @@ function getTotalPages(html) {
   return match ? parseInt(match[1]) : 1;
 }
 
-function parsePluginsFromPage(html) {
+function parsePluginsFromPage(html, scrapeDate = new Date()) {
   const $ = cheerio.load(html);
   const plugins = [];
   
@@ -187,7 +216,7 @@ function parsePluginsFromPage(html) {
       // Date
       const posterText = $listInner.find('div.topic-poster').text();
       const dateMatch = posterText.match(/»\s*(.+?)$/m);
-      const uploadDate = dateMatch ? cleanText(dateMatch[1]) : '';
+      const uploadDate = dateMatch ? normalizeForumDate(dateMatch[1], scrapeDate) : '';
       
       // Version
       const version = cleanText($row.find('dd.posts').text());
@@ -245,15 +274,26 @@ function parsePluginsFromPage(html) {
 
 async function findChromePath() {
   const possiblePaths = [
+    // Windows
     'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
     'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
     process.env.LOCALAPPDATA + '\\Google\\Chrome\\Application\\chrome.exe',
     'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
     'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
+    // Linux / Mac / CI
+    '/usr/bin/google-chrome',
+    '/usr/bin/google-chrome-stable',
+    '/usr/bin/chromium',
+    '/usr/bin/chromium-browser',
+    '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
   ];
   
+  if (process.env.PUPPETEER_EXECUTABLE_PATH && fs.existsSync(process.env.PUPPETEER_EXECUTABLE_PATH)) {
+    return process.env.PUPPETEER_EXECUTABLE_PATH;
+  }
+  
   for (const p of possiblePaths) {
-    if (fs.existsSync(p)) return p;
+    if (p && fs.existsSync(p)) return p;
   }
   return null;
 }
@@ -261,12 +301,13 @@ async function findChromePath() {
 async function main() {
   const args = process.argv.slice(2);
   const shouldResume = args.includes('--resume');
+  const isUpdateMode = args.includes('--update') || args.includes('--quick');
   const pagesArgIndex = args.indexOf('--pages');
-  const maxPages = pagesArgIndex !== -1 ? parseInt(args[pagesArgIndex + 1]) : null;
+  const maxPages = pagesArgIndex !== -1 ? parseInt(args[pagesArgIndex + 1]) : (isUpdateMode ? 3 : null);
   
   console.log('');
   console.log('╔══════════════════════════════════════════════════════╗');
-  console.log('║     🏙️  TheoTown Plugin Store Scraper v2.1          ║');
+  console.log('║     🏙️  TheoTown Plugin Store Scraper v2.2          ║');
   console.log('║     (Human-like random delay: 2s - 5s)             ║');
   console.log('╚══════════════════════════════════════════════════════╝');
   console.log('');
@@ -276,8 +317,16 @@ async function main() {
     fs.mkdirSync(OUTPUT_DIR, { recursive: true });
   }
   
+  // Load existing plugins if in update mode
+  let existingPlugins = [];
+  if (fs.existsSync(OUTPUT_FILE)) {
+    try {
+      existingPlugins = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf8'));
+    } catch (e) {}
+  }
+
   // Load progress
-  let progress = { lastPage: 0, totalPages: 0, plugins: [] };
+  let progress = { lastPage: 0, totalPages: 0, plugins: isUpdateMode ? existingPlugins : [] };
   if (shouldResume && fs.existsSync(PROGRESS_FILE)) {
     try {
       progress = JSON.parse(fs.readFileSync(PROGRESS_FILE, 'utf8'));
@@ -375,12 +424,15 @@ async function main() {
         html = await page.content();
       }
       
-      const plugins = parsePluginsFromPage(html);
+      const plugins = parsePluginsFromPage(html, new Date());
       
-      // Deduplicate by ID if necessary
+      // Upsert: Update existing plugins with fresh stats/date or insert new ones at top
       plugins.forEach(p => {
-        if (!allPlugins.some(existing => existing.id === p.id)) {
-          allPlugins.push(p);
+        const existingIdx = allPlugins.findIndex(existing => existing.id === p.id);
+        if (existingIdx !== -1) {
+          allPlugins[existingIdx] = p;
+        } else {
+          allPlugins.unshift(p);
         }
       });
       
