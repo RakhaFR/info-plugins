@@ -1,8 +1,8 @@
 {
-  "scrapeDate": "2026-09-03T11:10:27.774Z",
+  "scrapeDate": "2026-09-03T16:24:10.033Z",
   "totalPlugins": 4924,
   "totalPages": 5,
-  "totalDownloads": 430344606,
+  "totalDownloads": 430348435,
   "certifiedCreators": 557,
   "categoryStats": {
     "Commercial": 1137,
@@ -30,8 +30,8 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY POSITIVE": 2044,
-    "POSITIVE": 2560,
+    "POSITIVE": 2561,
+    "VERY POSITIVE": 2043,
     "MIXED": 280,
     "NEGATIVE": 36
   },
