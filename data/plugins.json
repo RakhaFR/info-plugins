@@ -1,5 +1,311 @@
 [
   {
+    "id": "14607",
+    "name": "Qaher F-313",
+    "url": "https://forum.theotown.com/plugins/list?term=:14607",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=ObvUnBA8ghZvurvW3BClHmhXdqILo33M",
+    "description": "The Qaher-313 is a light stealth fighter independently developed by Iran. Unveiled by the Iranian military on February 2, 2013, it is part of the \"Qaher\" series aircraft development program, aiming to counter arms embargoes and enhance self-sufficiency in military technology. After its initial announcement, a prototype equipped with an engine was displayed, and Iran declared that it had completed high-speed ground taxiing tests.The size is 2×2, which belongs to decoration and the price is 1T. Made by Mr. STAR and progamin.",
+    "descriptionHtml": "The Qaher-313 is a light stealth fighter independently developed by Iran. Unveiled by the Iranian military on February 2, 2013, it is part of the \"Qaher\" series aircraft development program, aiming to counter arms embargoes and enhance self-sufficiency in military technology. After its initial announcement, a prototype equipped with an engine was displayed, and Iran declared that it had completed high-speed ground taxiing tests.The size is 2×2, which belongs to decoration and the price is 1T. Made by Mr. STAR and progamin.",
+    "category": "Decorations",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "2.65KB",
+      "bytes": 2714
+    },
+    "minVersion": "Any",
+    "author": "KL3266219485",
+    "authorId": "2050504",
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "3",
+    "downloads": 15,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14613",
+    "name": "Modulable Parisian buildings 2",
+    "url": "https://forum.theotown.com/plugins/list?term=:14613",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=bTFuxcf9HimYDWFl8uHpwwhOQiWfBwTi",
+    "description": "Bon retour à Paris ! This pack adds two more types of modulable Parisian buildings to add a touch of beauty from the City of Light to yours. The buildings will be under the same 'Parisian' category as from the previous plugin ('Modulable Parisian buildings', check that out too!) which is located under 'Zones'. Contains: 1x1 TTT Rivoli buildings Based on the buildings on the Rue de Rivoli in the 1st arrondissement of Paris, a street with uniform façades developed under the reign of Napoleon (the First) and named after his 1797 victory at Rivoli. The scale is quite accurate to real life, although this might make it a bit small in comparison to the oversized buildings of the previous pack. > Rotation aware > Night-animated > Can be built diagonally > Variously residential and commercial > Two compositions of blocks included to get you started 2x2 TTT particulier buildings Based on the hôtels particuliers of Paris, like the Hôtel de Sully or the Hôtel de Besenval. These were private townhouses or city mansions built mostly under the Ancien Régime, and they often reflected the best of 17th- and 18th-century French classicism. Today, many have been turned into important governmental buildings (like the Palais de l'Élysée, formerly the Hôtel d'Évreux, home to the President of France). I also took inspiration from some palaces like the Louvre, the (former) Tuileries, or the Luxembourg, especially for the pavilions, and I've included a miniaturised recreation of the Louvre as a composition. > Rotation-aware* > Night-animated > Variously residential and commercial > Fences for walls, gates, and colonnades included *the half-gates aren't fully rotation-aware due to technical limitations with fences > A composition of the Louvre included (The title is supposed to be 'Modulable Parisian buildings II', hence the II of the French flag in the thumbnail, but alas the character limit strikes again.)",
+    "descriptionHtml": "Bon retour à Paris ! This pack adds two more types of modulable Parisian buildings to add a touch of beauty from the City of Light to yours. The buildings will be under the same 'Parisian' category as from the previous plugin ('Modulable Parisian buildings', check that out too!) which is located under 'Zones'.<br>\n<br>\nContains:<br>\n<br>\n1x1 TTT Rivoli buildings<br>\nBased on the buildings on the Rue de Rivoli in the 1st arrondissement of Paris, a street with uniform façades developed under the reign of Napoleon (the First) and named after his 1797 victory at Rivoli. The scale is quite accurate to real life, although this might make it a bit small in comparison to the oversized buildings of the previous pack.<br>\n&gt; Rotation aware<br>\n&gt; Night-animated<br>\n&gt; Can be built diagonally<br>\n&gt; Variously residential and commercial<br>\n&gt; Two compositions of blocks included to get you started<br>\n<br>\n2x2 TTT particulier buildings<br>\nBased on the hôtels particuliers of Paris, like the Hôtel de Sully or the Hôtel de Besenval. These were private townhouses or city mansions built mostly under the Ancien Régime, and they often reflected the best of 17th- and 18th-century French classicism. Today, many have been turned into important governmental buildings (like the Palais de l'Élysée, formerly the Hôtel d'Évreux, home to the President of France). I also took inspiration from some palaces like the Louvre, the (former) Tuileries, or the Luxembourg, especially for the pavilions, and I've included a miniaturised recreation of the Louvre as a composition.<br>\n&gt; Rotation-aware*<br>\n&gt; Night-animated<br>\n&gt; Variously residential and commercial<br>\n&gt; Fences for walls, gates, and colonnades included *the half-gates aren't fully rotation-aware due to technical limitations with fences<br>\n&gt; A composition of the Louvre included<br>\n<br>\n(The title is supposed to be 'Modulable Parisian buildings II', hence the II of the French flag in the thumbnail, but alas the character limit strikes again.)",
+    "category": "Packs",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "533.54KB",
+      "bytes": 546345
+    },
+    "minVersion": "Any",
+    "author": "yekaterinborough",
+    "authorId": "756209",
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "3",
+    "downloads": 91,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14578",
+    "name": "Altera Supermarket",
+    "url": "https://forum.theotown.com/plugins/list?term=:14578",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=DiU6S0HyTSWib3tFB2VPSxDNGZfBeETE",
+    "description": "A modern supermarket from Altera, a fictional Mruisian retail brand. Designed in a detailed pixel-art style for TheoTown. Vehicle texture by: Theotheoderich. Tree textures by: Lobby. Other texture by: Maksim_Mrusia",
+    "descriptionHtml": "A modern supermarket from Altera, a fictional Mruisian retail brand. Designed in a detailed pixel-art style for TheoTown.<br>\n<br>\nVehicle texture by: Theotheoderich.<br>\nTree textures by: Lobby.<br>\nOther texture by: Maksim_Mrusia",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "6.12KB",
+      "bytes": 6267
+    },
+    "minVersion": "Any",
+    "author": "LENUN1922",
+    "authorId": "315683",
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "3",
+    "downloads": 26,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14490",
+    "name": "Modular power plant (MPP)",
+    "url": "https://forum.theotown.com/plugins/list?term=:14490",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=NjHNCssRlMjs1AG0iZ0yOkpUky8CtgYW",
+    "description": "Here's my new plugin - Modular power plant. It includes the main building consistsing of three parts, a chimney, and cooling towers as separate parts. Everything in the new category. Every element has night animation. Thanks to Ostrovsk for the code and to the FPS community for help making this plugin.",
+    "descriptionHtml": "Here's my new plugin - Modular power plant. It includes the main building consistsing of three parts, a chimney, and cooling towers as separate parts. Everything in the new category. Every element has night animation. Thanks to Ostrovsk for the code and to the FPS community for help making this plugin.",
+    "category": "Supply (Energy, Water, Waste Disposal)",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "55.72KB",
+      "bytes": 57057
+    },
+    "minVersion": "Any",
+    "author": "N5c8t15",
+    "authorId": "1269221",
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "5",
+    "downloads": 41,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14617",
+    "name": "TWIN TOWERS OF SAO PAULO",
+    "url": "https://forum.theotown.com/plugins/list?term=:14617",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=XUl3yzkou6IxBmWs0Cc3gz2EscN0e2VD",
+    "description": "Hello, here's a new plugin, in this case my first plugin for a building in Brazil. I've done stadiums before, but not buildings from this great country! In this case, they are the Twin Towers of Sao Paulo, two identical buildings that appear different due to their rotation. The Plugin is 5x5 and both towers are obtained by rotating the building and belong to the Commercial Category level 3 It features Night Animation ! Greetings to the people of Greater Sao Paulo!",
+    "descriptionHtml": "Hello, here's a new plugin, in this case my first plugin for a building in Brazil. I've done stadiums before, but not buildings from this great country!<br>\nIn this case, they are the Twin Towers of Sao Paulo, two identical buildings that appear different due to their rotation. <br>\nThe Plugin is 5x5 and both towers are obtained by rotating the building and belong to the Commercial Category level 3 <br>\nIt features Night Animation !<br>\nGreetings to the people of Greater Sao Paulo!",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "190.94KB",
+      "bytes": 195523
+    },
+    "minVersion": "Any",
+    "author": "Franco Ticosa",
+    "authorId": "587116",
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "2",
+    "downloads": 34,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14616",
+    "name": "KT Gwanghwamun Building East",
+    "url": "https://forum.theotown.com/plugins/list?term=:14616",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=6l4DhPCjSvZhEnWQ53hKhWZdgWfstrq9",
+    "description": "KT Gwanghwamun Building East is an office building located in Cheongjin-dong, Jongno-gu, Seoul. Completed in January 2015, it was designed by Renzo Piano Building Workshop and SAMOO Architects & Engineers. The building is 25 stories above ground and features a distinctive glass curtain-wall facade and a 12-meter-high piloti that makes the main volume appear to float above the ground. It also incorporates landscaped spaces, a rooftop garden inspired by traditional Korean architecture, and various sustainable design features.",
+    "descriptionHtml": "KT Gwanghwamun Building East is an office building located in Cheongjin-dong, Jongno-gu, Seoul. Completed in January 2015, it was designed by Renzo Piano Building Workshop and SAMOO Architects &amp; Engineers. The building is 25 stories above ground and features a distinctive glass curtain-wall facade and a 12-meter-high piloti that makes the main volume appear to float above the ground. It also incorporates landscaped spaces, a rooftop garden inspired by traditional Korean architecture, and various sustainable design features.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "35.14KB",
+      "bytes": 35983
+    },
+    "minVersion": "Any",
+    "author": "Dekuz",
+    "authorId": "6922",
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "4",
+    "downloads": 39,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14619",
+    "name": "New popular hospital",
+    "url": "https://forum.theotown.com/plugins/list?term=:14619",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=PocJO04IK5LDImLKUDwjll13SXenzo8n",
+    "description": "It's a fictional hospital plugin 5x5. It costs 1200 and generates 4 service cars. It has influence on medical service and has performance. It's monthly price is 50. Its provide aspect health care, is 35000 and its aspect health care capacity is 65000.Tree and terrain are from world texture forum, while the three ambulances are inspired by vehicles always in world texture forum, so credit to Theotown and Lobby (the vehicles generated are the main vehicles of the game, they aren't the vehicles drawn in the building, I have to learn yet how to make functional vehicles)",
+    "descriptionHtml": "It's a fictional hospital plugin 5x5. It costs 1200 and generates 4 service cars. It has influence on medical service and has performance. It's monthly price is 50. Its provide aspect health care, is 35000 and its aspect health care capacity is 65000.Tree and terrain are from world texture forum, while the three ambulances are inspired by vehicles always in world texture forum, so credit to Theotown and Lobby (the vehicles generated are the main vehicles of the game, they aren't the vehicles drawn in the building, I have to learn yet how to make functional vehicles)",
+    "category": "Service (Police, Health Care, Education,...)",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "73.04KB",
+      "bytes": 74793
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "2",
+    "downloads": 27,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14622",
+    "name": "Four Seasons Hotel Seoul",
+    "url": "https://forum.theotown.com/plugins/list?term=:14622",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=IfOU7TYhucOroUEndFSnUj2zGENL4xmK",
+    "description": "Four Seasons Hotel Seoul is a luxury five-star hotel located in Gwanghwamun, Seoul. Opened in 2015, the 25-story building was designed by Heerim Architects & Planners. It features 317 guest rooms and suites, several restaurants and bars, a spa, fitness facilities, and event spaces. The building combines contemporary architecture with elements inspired by Korean tradition and is located near major historical landmarks such as Gyeongbokgung Palace.",
+    "descriptionHtml": "Four Seasons Hotel Seoul is a luxury five-star hotel located in Gwanghwamun, Seoul. Opened in 2015, the 25-story building was designed by Heerim Architects &amp; Planners. It features 317 guest rooms and suites, several restaurants and bars, a spa, fitness facilities, and event spaces. The building combines contemporary architecture with elements inspired by Korean tradition and is located near major historical landmarks such as Gyeongbokgung Palace.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "37.64KB",
+      "bytes": 38543
+    },
+    "minVersion": "Any",
+    "author": "Dekuz",
+    "authorId": "6922",
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "2",
+    "downloads": 54,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14625",
+    "name": "Bunker Hill Monument",
+    "url": "https://forum.theotown.com/plugins/list?term=:14625",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=eUIAWPohdnprtb7PHAGhEb94sIWMWreE",
+    "description": "l am adgek.Bunker Hill Monument is located on Breed's Hill in Charlestown, Massachusetts, this monument was built to commemorate the Battle of Bunker Hill during the American Revolutionary War. It features nighttime light animations.Hope you like it.",
+    "descriptionHtml": "l am adgek.Bunker Hill Monument is located on Breed's Hill in Charlestown, Massachusetts, this monument was built to commemorate the Battle of Bunker Hill during the American Revolutionary War.<br>\nIt features nighttime light animations.Hope you like it.",
+    "category": "Award and Special",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "28.98KB",
+      "bytes": 29676
+    },
+    "minVersion": "Any",
+    "author": "ADGEK",
+    "authorId": "952975",
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "2",
+    "downloads": 18,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
     "id": "14602",
     "name": "Guohong Center",
     "url": "https://forum.theotown.com/plugins/list?term=:14602",
@@ -26,7 +332,7 @@
     "authorId": "341193",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "2",
-    "downloads": 2383,
+    "downloads": 2485,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -60,7 +366,7 @@
     "authorId": "6922",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "5",
-    "downloads": 3051,
+    "downloads": 3218,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -94,7 +400,7 @@
     "authorId": "1156629",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "4",
-    "downloads": 918,
+    "downloads": 941,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -128,7 +434,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "13",
-    "downloads": 367,
+    "downloads": 374,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -162,7 +468,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "2",
-    "downloads": 473,
+    "downloads": 483,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -196,7 +502,7 @@
     "authorId": "6922",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "5",
-    "downloads": 3109,
+    "downloads": 3141,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -230,7 +536,7 @@
     "authorId": "682550",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 555,
+    "downloads": 565,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -264,7 +570,7 @@
     "authorId": "6922",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "3",
-    "downloads": 2473,
+    "downloads": 2494,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -298,7 +604,7 @@
     "authorId": "2082181",
     "uploadDate": "25 Aug 2026, 18:22",
     "version": "4",
-    "downloads": 1146,
+    "downloads": 1157,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -332,7 +638,7 @@
     "authorId": "682550",
     "uploadDate": "26 Aug 2026, 15:28",
     "version": "2",
-    "downloads": 533,
+    "downloads": 538,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -366,7 +672,7 @@
     "authorId": "683743",
     "uploadDate": "26 Aug 2026, 16:17",
     "version": "7",
-    "downloads": 2534,
+    "downloads": 2571,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -400,7 +706,7 @@
     "authorId": "878261",
     "uploadDate": "26 Aug 2026, 20:11",
     "version": "2",
-    "downloads": 967,
+    "downloads": 981,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -434,7 +740,7 @@
     "authorId": "862856",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 1320,
+    "downloads": 1332,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -468,7 +774,7 @@
     "authorId": "1931483",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 1061,
+    "downloads": 1070,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -502,7 +808,7 @@
     "authorId": "2075576",
     "uploadDate": "26 Aug 2026, 09:47",
     "version": "2",
-    "downloads": 1246,
+    "downloads": 1252,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -536,7 +842,7 @@
     "authorId": "1249060",
     "uploadDate": "25 Aug 2026, 17:38",
     "version": "4",
-    "downloads": 3530,
+    "downloads": 3542,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -570,7 +876,7 @@
     "authorId": "1981212",
     "uploadDate": "2 Sep 2026, 11:14",
     "version": "14",
-    "downloads": 2477,
+    "downloads": 2488,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -604,7 +910,7 @@
     "authorId": "1246123",
     "uploadDate": "25 Aug 2026, 08:57",
     "version": "9",
-    "downloads": 12921,
+    "downloads": 12929,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -638,7 +944,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:02",
     "version": "7",
-    "downloads": 24614,
+    "downloads": 24625,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -672,7 +978,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:01",
     "version": "7",
-    "downloads": 11623,
+    "downloads": 11626,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -706,7 +1012,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:00",
     "version": "5",
-    "downloads": 10361,
+    "downloads": 10367,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -740,7 +1046,7 @@
     "authorId": "1931483",
     "uploadDate": "25 Aug 2026, 06:12",
     "version": "3",
-    "downloads": 3370,
+    "downloads": 3386,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -774,7 +1080,7 @@
     "authorId": "2051509",
     "uploadDate": "24 Aug 2026, 22:07",
     "version": "4",
-    "downloads": 2188,
+    "downloads": 2199,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -808,7 +1114,7 @@
     "authorId": "425553",
     "uploadDate": "24 Aug 2026, 10:36",
     "version": "7",
-    "downloads": 5239,
+    "downloads": 5248,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -842,7 +1148,7 @@
     "authorId": "878261",
     "uploadDate": "24 Aug 2026, 02:11",
     "version": "6",
-    "downloads": 8607,
+    "downloads": 8642,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -876,7 +1182,7 @@
     "authorId": "682550",
     "uploadDate": "23 Aug 2026, 19:53",
     "version": "4",
-    "downloads": 2228,
+    "downloads": 2240,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -910,7 +1216,7 @@
     "authorId": "2158880",
     "uploadDate": "23 Aug 2026, 17:20",
     "version": "4",
-    "downloads": 1770,
+    "downloads": 1774,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +1250,7 @@
     "authorId": "2158880",
     "uploadDate": "23 Aug 2026, 17:04",
     "version": "3",
-    "downloads": 2040,
+    "downloads": 2048,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -978,11 +1284,11 @@
     "authorId": "1019836",
     "uploadDate": "23 Aug 2026, 16:14",
     "version": "6",
-    "downloads": 19294,
+    "downloads": 19305,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 108
+      "count": 109
     }
   },
   {
@@ -1012,7 +1318,7 @@
     "authorId": "756209",
     "uploadDate": "23 Aug 2026, 16:04",
     "version": "2",
-    "downloads": 6000,
+    "downloads": 6014,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1046,7 +1352,7 @@
     "authorId": "2119637",
     "uploadDate": "23 Aug 2026, 10:47",
     "version": "4",
-    "downloads": 3169,
+    "downloads": 3175,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1386,7 @@
     "authorId": "1033436",
     "uploadDate": "22 Aug 2026, 18:50",
     "version": "2",
-    "downloads": 635,
+    "downloads": 638,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1114,7 +1420,7 @@
     "authorId": "2158880",
     "uploadDate": "22 Aug 2026, 18:16",
     "version": "2",
-    "downloads": 2151,
+    "downloads": 2163,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1454,7 @@
     "authorId": "712278",
     "uploadDate": "22 Aug 2026, 14:52",
     "version": "7",
-    "downloads": 1596,
+    "downloads": 1599,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1182,7 +1488,7 @@
     "authorId": "1033436",
     "uploadDate": "22 Aug 2026, 04:24",
     "version": "2",
-    "downloads": 558,
+    "downloads": 564,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1216,7 +1522,7 @@
     "authorId": "356847",
     "uploadDate": "22 Aug 2026, 01:51",
     "version": "37",
-    "downloads": 149692,
+    "downloads": 149699,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1250,7 +1556,7 @@
     "authorId": "2075576",
     "uploadDate": "21 Aug 2026, 08:21",
     "version": "11",
-    "downloads": 2750,
+    "downloads": 2753,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1284,11 +1590,11 @@
     "authorId": "341193",
     "uploadDate": "21 Aug 2026, 05:03",
     "version": "3",
-    "downloads": 4354,
+    "downloads": 4371,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 29
+      "count": 30
     }
   },
   {
@@ -1318,7 +1624,7 @@
     "authorId": "6922",
     "uploadDate": "28 Aug 2026, 06:22",
     "version": "5",
-    "downloads": 3241,
+    "downloads": 3260,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1352,7 +1658,7 @@
     "authorId": "1981212",
     "uploadDate": "20 Aug 2026, 15:05",
     "version": "21",
-    "downloads": 620,
+    "downloads": 623,
     "rating": {
       "score": null,
       "label": null,
@@ -1386,7 +1692,7 @@
     "authorId": "5566",
     "uploadDate": "20 Aug 2026, 12:47",
     "version": "7",
-    "downloads": 1025770,
+    "downloads": 1025811,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1726,7 @@
     "authorId": "2050504",
     "uploadDate": "20 Aug 2026, 11:44",
     "version": "7",
-    "downloads": 863,
+    "downloads": 866,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1454,7 +1760,7 @@
     "authorId": "414723",
     "uploadDate": "20 Aug 2026, 11:05",
     "version": "13",
-    "downloads": 3428,
+    "downloads": 3431,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1488,7 +1794,7 @@
     "authorId": "2075576",
     "uploadDate": "20 Aug 2026, 07:36",
     "version": "8",
-    "downloads": 3288,
+    "downloads": 3289,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1522,7 +1828,7 @@
     "authorId": "1111579",
     "uploadDate": "20 Aug 2026, 05:28",
     "version": "4",
-    "downloads": 933,
+    "downloads": 940,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1862,7 @@
     "authorId": "587116",
     "uploadDate": "20 Aug 2026, 04:01",
     "version": "2",
-    "downloads": 1798,
+    "downloads": 1811,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1590,7 +1896,7 @@
     "authorId": "227382",
     "uploadDate": "19 Aug 2026, 15:20",
     "version": "9",
-    "downloads": 27396,
+    "downloads": 27398,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1624,7 +1930,7 @@
     "authorId": "2119637",
     "uploadDate": "19 Aug 2026, 10:45",
     "version": "4",
-    "downloads": 2386,
+    "downloads": 2391,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1658,7 +1964,7 @@
     "authorId": "2060627",
     "uploadDate": "19 Aug 2026, 08:26",
     "version": "17",
-    "downloads": 5970,
+    "downloads": 5973,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,7 +1998,7 @@
     "authorId": "878261",
     "uploadDate": "19 Aug 2026, 04:08",
     "version": "2",
-    "downloads": 1316,
+    "downloads": 1321,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1726,7 +2032,7 @@
     "authorId": "587116",
     "uploadDate": "18 Aug 2026, 21:50",
     "version": "7",
-    "downloads": 10289,
+    "downloads": 10293,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1760,7 +2066,7 @@
     "authorId": "1973241",
     "uploadDate": "18 Aug 2026, 19:12",
     "version": "5",
-    "downloads": 1213,
+    "downloads": 1217,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1794,7 +2100,7 @@
     "authorId": "1021137",
     "uploadDate": "18 Aug 2026, 15:28",
     "version": "5",
-    "downloads": 13910,
+    "downloads": 13921,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1828,7 +2134,7 @@
     "authorId": "1021137",
     "uploadDate": "18 Aug 2026, 15:27",
     "version": "7",
-    "downloads": 41748,
+    "downloads": 41750,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1862,7 +2168,7 @@
     "authorId": "1252908",
     "uploadDate": "18 Aug 2026, 14:29",
     "version": "2",
-    "downloads": 4953,
+    "downloads": 5012,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1896,7 +2202,7 @@
     "authorId": "1021137",
     "uploadDate": "18 Aug 2026, 14:20",
     "version": "16",
-    "downloads": 38415,
+    "downloads": 38431,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1930,11 +2236,11 @@
     "authorId": "682550",
     "uploadDate": "18 Aug 2026, 12:01",
     "version": "2",
-    "downloads": 1670,
+    "downloads": 1673,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 6
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 7
     }
   },
   {
@@ -1964,7 +2270,7 @@
     "authorId": "2060627",
     "uploadDate": "18 Aug 2026, 06:17",
     "version": "5",
-    "downloads": 985,
+    "downloads": 990,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1998,7 +2304,7 @@
     "authorId": "315683",
     "uploadDate": "17 Aug 2026, 20:03",
     "version": "2",
-    "downloads": 855,
+    "downloads": 858,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2032,7 +2338,7 @@
     "authorId": "1492",
     "uploadDate": "17 Aug 2026, 16:26",
     "version": "5",
-    "downloads": 13325,
+    "downloads": 13451,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2066,7 +2372,7 @@
     "authorId": "1019836",
     "uploadDate": "17 Aug 2026, 08:00",
     "version": "2",
-    "downloads": 3006,
+    "downloads": 3022,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2100,7 +2406,7 @@
     "authorId": "952975",
     "uploadDate": "16 Aug 2026, 17:36",
     "version": "3",
-    "downloads": 1267,
+    "downloads": 1273,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2168,7 +2474,7 @@
     "authorId": "211223",
     "uploadDate": "16 Aug 2026, 10:22",
     "version": "16",
-    "downloads": 16241,
+    "downloads": 16247,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2202,7 +2508,7 @@
     "authorId": "1021137",
     "uploadDate": "16 Aug 2026, 08:10",
     "version": "8",
-    "downloads": 25293,
+    "downloads": 25300,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2236,7 +2542,7 @@
     "authorId": "1021137",
     "uploadDate": "16 Aug 2026, 08:09",
     "version": "9",
-    "downloads": 19930,
+    "downloads": 19941,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2270,7 +2576,7 @@
     "authorId": "1169481",
     "uploadDate": "15 Aug 2026, 15:23",
     "version": "8",
-    "downloads": 2284,
+    "downloads": 2292,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2304,7 +2610,7 @@
     "authorId": "1169481",
     "uploadDate": "15 Aug 2026, 15:20",
     "version": "2",
-    "downloads": 3164,
+    "downloads": 3173,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2338,7 +2644,7 @@
     "authorId": "626674",
     "uploadDate": "15 Aug 2026, 05:46",
     "version": "2",
-    "downloads": 1594,
+    "downloads": 1603,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2372,7 +2678,7 @@
     "authorId": "1019836",
     "uploadDate": "15 Aug 2026, 04:24",
     "version": "4",
-    "downloads": 2148,
+    "downloads": 2157,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2406,7 +2712,7 @@
     "authorId": "1021137",
     "uploadDate": "14 Aug 2026, 18:05",
     "version": "5",
-    "downloads": 24155,
+    "downloads": 24161,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2440,7 +2746,7 @@
     "authorId": "1082481",
     "uploadDate": "14 Aug 2026, 17:23",
     "version": "2",
-    "downloads": 838,
+    "downloads": 841,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2474,7 +2780,7 @@
     "authorId": "2050504",
     "uploadDate": "14 Aug 2026, 06:21",
     "version": "5",
-    "downloads": 549,
+    "downloads": 553,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2508,7 +2814,7 @@
     "authorId": "211223",
     "uploadDate": "14 Aug 2026, 00:41",
     "version": "9",
-    "downloads": 29447,
+    "downloads": 29450,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2542,7 +2848,7 @@
     "authorId": "2043384",
     "uploadDate": "13 Aug 2026, 23:47",
     "version": "9",
-    "downloads": 11911,
+    "downloads": 11934,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2576,7 +2882,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Aug 2026, 15:34",
     "version": "7",
-    "downloads": 1306,
+    "downloads": 1310,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2610,7 +2916,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Aug 2026, 15:34",
     "version": "6",
-    "downloads": 841,
+    "downloads": 848,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2644,7 +2950,7 @@
     "authorId": "587116",
     "uploadDate": "12 Aug 2026, 19:10",
     "version": "3",
-    "downloads": 1838,
+    "downloads": 1844,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2678,7 +2984,7 @@
     "authorId": "587116",
     "uploadDate": "12 Aug 2026, 19:10",
     "version": "4",
-    "downloads": 1119,
+    "downloads": 1124,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2712,7 +3018,7 @@
     "authorId": "883619",
     "uploadDate": "12 Aug 2026, 12:27",
     "version": "5",
-    "downloads": 1170,
+    "downloads": 1171,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2746,7 +3052,7 @@
     "authorId": "2075576",
     "uploadDate": "12 Aug 2026, 09:56",
     "version": "4",
-    "downloads": 808,
+    "downloads": 810,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2814,7 +3120,7 @@
     "authorId": "2060627",
     "uploadDate": "11 Aug 2026, 13:24",
     "version": "3",
-    "downloads": 2306,
+    "downloads": 2310,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8458,7 +8764,7 @@
     "authorId": "2043384",
     "uploadDate": "28 Aug 2026, 01:45",
     "version": "4",
-    "downloads": 4152,
+    "downloads": 4164,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -9988,7 +10294,7 @@
     "authorId": "2082181",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "30",
-    "downloads": 7509,
+    "downloads": 7520,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -15099,12 +15405,12 @@
     "name": "J-20",
     "url": "https://forum.theotown.com/plugins/list?term=:13723",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=0gxpwwL22fT0kfQRbZxXgSPO5HfjKek0",
-    "description": "Hey there！This is my very fist plugin.It's a badass chinese fifthgen fighter jet, There is only two rotating frame at present.There is no night view yet.I hope you like her.Its size is 2x2，The price of a set is 1T.He belongs to decoration in the game.",
-    "descriptionHtml": "Hey there！This is my very fist plugin.It's a badass chinese fifthgen fighter jet, There is only two rotating frame at present.There is no night view yet.I hope you like her.Its size is 2x2，The price of a set is 1T.He belongs to decoration in the game.<br>",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=C8qa7ZVci2E3JMb78abJVHutfOVz0jRp",
+    "description": "Hey there！This is my very fist plugin.It's a badass chinese fifthgen fighter jet, There is only two rotating frame at present.There is no night view yet.I hope you like her.Its size is 2x2，The price of a set is 1T.He belongs to decoration in the game.Now it has a ground shadow！",
+    "descriptionHtml": "Hey there！This is my very fist plugin.It's a badass chinese fifthgen fighter jet, There is only two rotating frame at present.There is no night view yet.I hope you like her.Its size is 2x2，The price of a set is 1T.He belongs to decoration in the game.Now it has a ground shadow！<br>",
     "category": "Decorations",
     "price": {
-      "amount": 30,
+      "amount": 35,
       "currency": "diamonds"
     },
     "platforms": [
@@ -15113,19 +15419,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "3.22KB",
-      "bytes": 3297
+      "raw": "3.6KB",
+      "bytes": 3686
     },
     "minVersion": "Any",
     "author": "KL3266219485",
     "authorId": "2050504",
-    "uploadDate": "12 May 2026, 18:51",
-    "version": "6",
-    "downloads": 4133,
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "8",
+    "downloads": 4721,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 22
+      "count": 24
     }
   },
   {
@@ -21921,7 +22227,7 @@
     "authorId": "1169481",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "5",
-    "downloads": 13324,
+    "downloads": 13339,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -24449,12 +24755,12 @@
     "name": "U.C.A.M. of GAFA",
     "url": "https://forum.theotown.com/plugins/list?term=:10265",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=FvcnjXZKVAwThe8hhJWhgeJET7hBlpAo",
-    "description": "The University City Art Museum of Guangzhou Academy of Fine Arts is located on the east side of the main entrance square of the University Town Campus of Guangzhou Academy of Fine Arts. It was completed in 2005. The museum has four floors with a total construction area of approximately 16,000 square meters. It is a comprehensive art museum that focuses on exhibitions, collections, art exchanges, academic research, and public services. The University Town Art Museum focuses on promoting, researching and displaying young art, emphasizing contemporaneity, experimentation and internationalization. In recent years, the annual graduate works exhibition of Guangzhou Academy of Fine Arts has become an important event that attracts high attention and praise from the art circle and citizens of Guangzhou. Contemporary young art will also be carried out in the University Town Art Museum and the open space of the University Town Campus of Guangzhou Academy of Fine Arts, with interdisciplinary and experimental exhibitions and exchanges. The collection mainly consists of outstanding graduation works in recent years and art works from international exchanges.Of course, this is also my Alma mater art gallery. I am extremely happy about the approval of this plugin. This is the first plugin I created, but due to some technical issues, it took me a full year to fix and release it. This also means that I have been developing the plugin for a full year. Over these 365 days, I am extremely grateful for everyone's love and support for me. Therefore, the price will remain at 30 diamonds until the night scene update. I hope that in the coming days, I can continue to bring you more interesting plugins!!! There are no night views for the moment. I will update them when I have time. size：6X6 H3DY1OG0S.",
-    "descriptionHtml": "The University City Art Museum of Guangzhou Academy of Fine Arts is located on the east side of the main entrance square of the University Town Campus of Guangzhou Academy of Fine Arts. It was completed in 2005. The museum has four floors with a total construction area of approximately 16,000 square meters. It is a comprehensive art museum that focuses on exhibitions, collections, art exchanges, academic research, and public services.<br>\n<br>\nThe University Town Art Museum focuses on promoting, researching and displaying young art, emphasizing contemporaneity, experimentation and internationalization. In recent years, the annual graduate works exhibition of Guangzhou Academy of Fine Arts has become an important event that attracts high attention and praise from the art circle and citizens of Guangzhou. Contemporary young art will also be carried out in the University Town Art Museum and the open space of the University Town Campus of Guangzhou Academy of Fine Arts, with interdisciplinary and experimental exhibitions and exchanges. The collection mainly consists of outstanding graduation works in recent years and art works from international exchanges.Of course, this is also my Alma mater art gallery.<br>\n<br>\nI am extremely happy about the approval of this plugin. This is the first plugin I created, but due to some technical issues, it took me a full year to fix and release it. This also means that I have been developing the plugin for a full year. Over these 365 days, I am extremely grateful for everyone's love and support for me. Therefore, the price will remain at 30 diamonds until the night scene update. I hope that in the coming days, I can continue to bring you more interesting plugins!!!<br>\n<br>\nThere are no night views for the moment. I will update them when I have time.<br>\n<br>\nsize：6X6<br>\n<br>\nH3DY1OG0S.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=gc3JUbT0BmFcL3F18ZsUlgFa0dRY2ese",
+    "description": "The University City Art Museum of Guangzhou Academy of Fine Arts is located on the east side of the main entrance square of the University Town Campus of Guangzhou Academy of Fine Arts. It was completed in 2005. The museum has four floors with a total construction area of approximately 16,000 square meters. It is a comprehensive art museum that focuses on exhibitions, collections, art exchanges, academic research, and public services. The University Town Art Museum focuses on promoting, researching and displaying young art, emphasizing contemporaneity, experimentation and internationalization. In recent years, the annual graduate works exhibition of Guangzhou Academy of Fine Arts has become an important event that attracts high attention and praise from the art circle and citizens of Guangzhou. Contemporary young art will also be carried out in the University Town Art Museum and the open space of the University Town Campus of Guangzhou Academy of Fine Arts, with interdisciplinary and experimental exhibitions and exchanges. The collection mainly consists of outstanding graduation works in recent years and art works from international exchanges.Of course, this is also my Alma mater art gallery. I am extremely happy about the approval of this plugin. This is the first plugin I created, but due to some technical issues, it took me a full year to fix and release it. This also means that I have been developing the plugin for a full year. Over these 365 days, I am extremely grateful for everyone's love and support for me. I hope that in the coming days, I can continue to bring you more interesting plugins!!! size: 6X6 The nighttime scene texture has been reset by Rong. The price is uniformly set at 31 diamonds Rong & H3DY1OG0S.",
+    "descriptionHtml": "The University City Art Museum of Guangzhou Academy of Fine Arts is located on the east side of the main entrance square of the University Town Campus of Guangzhou Academy of Fine Arts. It was completed in 2005. The museum has four floors with a total construction area of approximately 16,000 square meters. It is a comprehensive art museum that focuses on exhibitions, collections, art exchanges, academic research, and public services.<br>\n<br>\nThe University Town Art Museum focuses on promoting, researching and displaying young art, emphasizing contemporaneity, experimentation and internationalization. In recent years, the annual graduate works exhibition of Guangzhou Academy of Fine Arts has become an important event that attracts high attention and praise from the art circle and citizens of Guangzhou. Contemporary young art will also be carried out in the University Town Art Museum and the open space of the University Town Campus of Guangzhou Academy of Fine Arts, with interdisciplinary and experimental exhibitions and exchanges. The collection mainly consists of outstanding graduation works in recent years and art works from international exchanges.Of course, this is also my Alma mater art gallery.<br>\n<br>\nI am extremely happy about the approval of this plugin. This is the first plugin I created, but due to some technical issues, it took me a full year to fix and release it. This also means that I have been developing the plugin for a full year. Over these 365 days, I am extremely grateful for everyone's love and support for me. I hope that in the coming days, I can continue to bring you more interesting plugins!!!<br>\n<br>\nsize: 6X6<br>\n<br>\nThe nighttime scene texture has been reset by Rong. The price is uniformly set at 31 diamonds<br>\n<br>\nRong &amp; H3DY1OG0S.",
     "category": "Service (Police, Health Care, Education,...)",
     "price": {
-      "amount": 30,
+      "amount": 31,
       "currency": "diamonds"
     },
     "platforms": [
@@ -24463,19 +24769,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "35.58KB",
-      "bytes": 36434
+      "raw": "73.31KB",
+      "bytes": 75069
     },
     "minVersion": "Any",
     "author": "H3DY1OG0S",
     "authorId": "149434",
-    "uploadDate": "21 Mar 2026, 14:29",
-    "version": "7",
-    "downloads": 6597,
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "9",
+    "downloads": 6929,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 26
+      "count": 28
     }
   },
   {
@@ -37728,7 +38034,7 @@
     "authorId": "1117299",
     "uploadDate": "28 Aug 2026, 12:36",
     "version": "4",
-    "downloads": 8127,
+    "downloads": 8136,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -46070,8 +46376,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:11233",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=qDseiJCF7XWsVr5qyPHB1IBKzYmhi5FC",
-    "description": "Diagonal Haussmannian buildings added! (November 2025) Oh Paris... The city of light, the city of love, and the city with some of the most beautiful architecture in the world. And your town can have a piece of it too, with this pack of modulable Parisian buildings. With connectable, rotation-aware, night-animated pieces, they are perfect to line the avenues of your French-inspired builds, and they remain gorgeous in builds with inspiration outside of France. Contains: 2x2 TTT residential Haussmannian buildings - Based on Haussmannian apartment blocks around the city, such as on the Avenue de l'Opéra or the Île de la Cité. - Rotation-aware - Night-animated - Hall, corner, wing, crossing, and diagonal corner pieces - 4 variants of the rez-de-chaussée 3x3 TTT residential Sorbonnesque buildings - Based on the neoclassical and Rennaissance buildings of the Sorbonne and the Place Vendôme. - Rotation-aware - Night-animated - Hall, corner, internal corner (2x2), and hall (2x2) pieces - Note: the 2x2 buildings may appear laterally symmetrical but they aren't. All buildings are located under a 'Parisian' category in Zones.",
-    "descriptionHtml": "Diagonal Haussmannian buildings added! (November 2025)<br>\n<br>\nOh Paris... The city of light, the city of love, and the city with some of the most beautiful architecture in the world. And your town can have a piece of it too, with this pack of modulable Parisian buildings. With connectable, rotation-aware, night-animated pieces, they are perfect to line the avenues of your French-inspired builds, and they remain gorgeous in builds with inspiration outside of France.<br>\n<br>\nContains:<br>\n<br>\n2x2 TTT residential Haussmannian buildings<br>\n- Based on Haussmannian apartment blocks around the city, such as on the Avenue de l'Opéra or the Île de la Cité.<br>\n- Rotation-aware<br>\n- Night-animated<br>\n- Hall, corner, wing, crossing, and diagonal corner pieces<br>\n- 4 variants of the rez-de-chaussée<br>\n<br>\n3x3 TTT residential Sorbonnesque buildings<br>\n- Based on the neoclassical and Rennaissance buildings of the Sorbonne and the Place Vendôme.<br>\n- Rotation-aware<br>\n- Night-animated<br>\n- Hall, corner, internal corner (2x2), and hall (2x2) pieces<br>\n- Note: the 2x2 buildings may appear laterally symmetrical but they aren't.<br>\n<br>\nAll buildings are located under a 'Parisian' category in Zones.",
+    "description": "Oh Paris... The city of light, the city of love, and the city with some of the most beautiful architecture in the world. And your town can have a piece of it too, with this pack of modulable Parisian buildings. With connectable, rotation-aware, night-animated pieces, they are perfect to line the avenues of your French-inspired builds, and they remain gorgeous in builds with inspiration outside of France. Also, more buildings can be found in this plugin's sequel, 'Modulable Parisian buildings II'. Contains: 2x2 TTT residential Haussmannian buildings - Based on Haussmannian apartment blocks around the city, such as on the Avenue de l'Opéra or the Île de la Cité. - Rotation-aware - Night-animated - Hall, corner, wing, crossing, and diagonal corner pieces - 4 variants of the rez-de-chaussée - A decorative 1x1 diagonal piece to fit into tight spaces 3x3 TTT residential Sorbonnesque buildings - Based on the neoclassical and Rennaissance buildings of the Sorbonne and the Place Vendôme. - Rotation-aware - Night-animated - Hall, corner, internal corner (2x2), and hall (2x2) pieces - Note: the 2x2 buildings may appear laterally symmetrical but they aren't. All buildings are located under a 'Parisian' category in Zones. November 2025: Diagonal Haussmannian buildings added! September 2026: Separate categories and 1x1 diagonal deco added; preparations for part II.",
+    "descriptionHtml": "Oh Paris... The city of light, the city of love, and the city with some of the most beautiful architecture in the world. And your town can have a piece of it too, with this pack of modulable Parisian buildings. With connectable, rotation-aware, night-animated pieces, they are perfect to line the avenues of your French-inspired builds, and they remain gorgeous in builds with inspiration outside of France. Also, more buildings can be found in this plugin's sequel, 'Modulable Parisian buildings II'.<br>\n<br>\nContains:<br>\n<br>\n2x2 TTT residential Haussmannian buildings<br>\n- Based on Haussmannian apartment blocks around the city, such as on the Avenue de l'Opéra or the Île de la Cité.<br>\n- Rotation-aware<br>\n- Night-animated<br>\n- Hall, corner, wing, crossing, and diagonal corner pieces<br>\n- 4 variants of the rez-de-chaussée<br>\n- A decorative 1x1 diagonal piece to fit into tight spaces<br>\n<br>\n3x3 TTT residential Sorbonnesque buildings<br>\n- Based on the neoclassical and Rennaissance buildings of the Sorbonne and the Place Vendôme.<br>\n- Rotation-aware<br>\n- Night-animated<br>\n- Hall, corner, internal corner (2x2), and hall (2x2) pieces<br>\n- Note: the 2x2 buildings may appear laterally symmetrical but they aren't.<br>\n<br>\nAll buildings are located under a 'Parisian' category in Zones.<br>\n<br>\nNovember 2025: Diagonal Haussmannian buildings added!<br>\nSeptember 2026: Separate categories and 1x1 diagonal deco added; preparations for part II.",
     "category": "Residential",
     "price": {
       "amount": 30,
@@ -46083,19 +46389,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "435.47KB",
-      "bytes": 445921
+      "raw": "440.15KB",
+      "bytes": 450714
     },
     "minVersion": "Any",
     "author": "yekaterinborough",
     "authorId": "756209",
-    "uploadDate": "08 Nov 2025, 07:04",
-    "version": "8",
-    "downloads": 110216,
+    "uploadDate": "5 Sep 2026, 20:18",
+    "version": "10",
+    "downloads": 112051,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 292
+      "count": 303
     }
   },
   {
@@ -101638,7 +101944,7 @@
     "authorId": "113059",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "5",
-    "downloads": 17370,
+    "downloads": 17372,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
