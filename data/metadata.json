@@ -1,8 +1,8 @@
 {
-  "scrapeDate": "2026-09-08T23:23:19.163Z",
+  "scrapeDate": "2026-09-09T04:37:38.668Z",
   "totalPlugins": 4941,
   "totalPages": 5,
-  "totalDownloads": 430419392,
+  "totalDownloads": 430421309,
   "certifiedCreators": 560,
   "categoryStats": {
     "Parks, Sports and Management": 350,
@@ -31,8 +31,8 @@
   },
   "ratingStats": {
     "VERY POSITIVE": 2049,
-    "MIXED": 286,
-    "POSITIVE": 2566,
+    "MIXED": 287,
+    "POSITIVE": 2565,
     "NEGATIVE": 36
   },
   "source": "https://forum.theotown.com/plugins/list"
