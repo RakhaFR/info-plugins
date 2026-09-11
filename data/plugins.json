@@ -1,5 +1,175 @@
 [
   {
+    "id": "14576",
+    "name": "oxxo",
+    "url": "https://forum.theotown.com/plugins/list?term=:14576",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=8N4sUskFX0TYWGAypRRYPf3tMgCjVNrk",
+    "description": "Hello everyone! OXXO is the largest convenience store chain in Mexico and Latin America, owned by the Mexican conglomerate FEMSA (Fomento Económico Mexicano). It was founded in 1978 in Monterrey, Nuevo León. Thanks for downloading :)",
+    "descriptionHtml": "Hello everyone!<br>\n<br>\nOXXO is the largest convenience store chain in Mexico and Latin America, owned by the Mexican conglomerate FEMSA (Fomento Económico Mexicano). It was founded in 1978 in Monterrey, Nuevo León.<br>\n<br>\nThanks for downloading :)",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "3.04KB",
+      "bytes": 3113
+    },
+    "minVersion": "Any",
+    "author": "Alegh5881",
+    "authorId": "878261",
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "3",
+    "downloads": 43,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14636",
+    "name": "GALLERIA FORET",
+    "url": "https://forum.theotown.com/plugins/list?term=:14636",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=LxbguR4lnTfsgLyvveaWCmiNxOAkhYDP",
+    "description": "GALLERIA FORET is a luxury residential complex located in Seongsu-dong, Seoul. Completed in 2011, the complex consists of two 45-story residential towers and features spacious apartments, landscaped gardens, and various community facilities. Its distinctive glass-and-steel facade and location near Seoul Forest make it one of the prominent residential developments in the area.",
+    "descriptionHtml": "GALLERIA FORET is a luxury residential complex located in Seongsu-dong, Seoul. Completed in 2011, the complex consists of two 45-story residential towers and features spacious apartments, landscaped gardens, and various community facilities. Its distinctive glass-and-steel facade and location near Seoul Forest make it one of the prominent residential developments in the area.",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "99.93KB",
+      "bytes": 102328
+    },
+    "minVersion": "Any",
+    "author": "Dekuz",
+    "authorId": "6922",
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "3",
+    "downloads": 330,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 6
+    }
+  },
+  {
+    "id": "14638",
+    "name": "Ha Noi Keangnam 72",
+    "url": "https://forum.theotown.com/plugins/list?term=:14638",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=GHnFyk0YiiLDXP0N5argssPvHtitKDNr",
+    "description": "Keangnam Hanoi Landmark Tower is a prominent architectural landmark rising 328 meters in Hanoi's modern business district. This multi-complex skyscraper features premium grade-A office spaces, luxury residences, the upscale InterContinental Hanoi Landmark72 hotel, and a vibrant retail podium. + Commercial building level 3: 5000 peoples. + Night animation: Yes Original image credit: @NamVu. Detailed editing + Night animation + Plugin packaging: YinDreamX.",
+    "descriptionHtml": "Keangnam Hanoi Landmark Tower is a prominent architectural landmark rising 328 meters in Hanoi's modern business district. This multi-complex skyscraper features premium grade-A office spaces, luxury residences, the upscale InterContinental Hanoi Landmark72 hotel, and a vibrant retail podium.<br>\n+ Commercial building level 3: 5000 peoples.<br>\n+ Night animation: Yes<br>\nOriginal image credit: @NamVu.<br>\nDetailed editing + Night animation + Plugin packaging: YinDreamX.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "366.03KB",
+      "bytes": 374815
+    },
+    "minVersion": "Any",
+    "author": "yinx",
+    "authorId": "2060627",
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "2",
+    "downloads": 116,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 3
+    }
+  },
+  {
+    "id": "14639",
+    "name": "Big Residential complex buildi",
+    "url": "https://forum.theotown.com/plugins/list?term=:14639",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=C5KAjqNnSTAqWG6SYnde3iX0FUIOXPuD",
+    "description": "\"It's a fictional building (8x8) that has 2000 people and generates 3 RCI cars. I used road, trees and grass from world texture forum from trees.png and world_0_0.png. To create the sidewalk behind the trees, I used the decorations from world_2048_1024.png then I modified the decorations used. So credit to Theotown and Lobby. It is for poor residential area",
+    "descriptionHtml": "\"It's a fictional building (8x8) that has 2000 people and generates 3 RCI cars. I used road, trees and grass from world texture forum from trees.png and world_0_0.png. To create the sidewalk behind the trees, I used the decorations from world_2048_1024.png then I modified the decorations used. So credit to Theotown and Lobby. It is for poor residential area",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "81.14KB",
+      "bytes": 83087
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "2",
+    "downloads": 99,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14642",
+    "name": "Elevatto",
+    "url": "https://forum.theotown.com/plugins/list?term=:14642",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=UBmoyi8atwRdmkJS40sjS072ZCmuTefN",
+    "description": "A low-income condominium complex, located in Aracaju-SE, with no nightlife.",
+    "descriptionHtml": "A low-income condominium complex, located in Aracaju-SE, with no nightlife.",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "49.06KB",
+      "bytes": 50237
+    },
+    "minVersion": "Any",
+    "author": "16030712",
+    "authorId": "770316",
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "2",
+    "downloads": 142,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 3
+    }
+  },
+  {
     "id": "14614",
     "name": "West Bund Museum",
     "url": "https://forum.theotown.com/plugins/list?term=:14614",
@@ -26,7 +196,7 @@
     "authorId": "149434",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "3",
-    "downloads": 2077,
+    "downloads": 2203,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -60,7 +230,7 @@
     "authorId": "171359",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 2005,
+    "downloads": 2110,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -94,11 +264,11 @@
     "authorId": "171359",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "8",
-    "downloads": 1221,
+    "downloads": 1269,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 4
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 5
     }
   },
   {
@@ -128,11 +298,11 @@
     "authorId": "481062",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "3",
-    "downloads": 479,
+    "downloads": 505,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 5
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 6
     }
   },
   {
@@ -162,7 +332,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 751,
+    "downloads": 783,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -196,7 +366,7 @@
     "authorId": "481062",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 724,
+    "downloads": 754,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -230,11 +400,11 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "3",
-    "downloads": 1290,
+    "downloads": 1345,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -264,7 +434,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "2",
-    "downloads": 1634,
+    "downloads": 1715,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -298,7 +468,7 @@
     "authorId": "2050504",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 339,
+    "downloads": 354,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -332,11 +502,11 @@
     "authorId": "756209",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 2487,
+    "downloads": 2544,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 27
+      "count": 28
     }
   },
   {
@@ -366,7 +536,7 @@
     "authorId": "315683",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 816,
+    "downloads": 844,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -400,7 +570,7 @@
     "authorId": "1269221",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "5",
-    "downloads": 1612,
+    "downloads": 1658,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -434,7 +604,7 @@
     "authorId": "587116",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 1069,
+    "downloads": 1097,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -468,7 +638,7 @@
     "authorId": "6922",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "4",
-    "downloads": 1443,
+    "downloads": 1482,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -502,7 +672,7 @@
     "authorId": "682550",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 1184,
+    "downloads": 1215,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -536,7 +706,7 @@
     "authorId": "6922",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 2665,
+    "downloads": 2745,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -570,7 +740,7 @@
     "authorId": "952975",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 688,
+    "downloads": 702,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -604,7 +774,7 @@
     "authorId": "341193",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "2",
-    "downloads": 3876,
+    "downloads": 4042,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -638,7 +808,7 @@
     "authorId": "6922",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "5",
-    "downloads": 5344,
+    "downloads": 5570,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -672,7 +842,7 @@
     "authorId": "1156629",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "4",
-    "downloads": 1506,
+    "downloads": 1529,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -706,7 +876,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "13",
-    "downloads": 596,
+    "downloads": 610,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,7 +910,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "2",
-    "downloads": 723,
+    "downloads": 737,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -774,7 +944,7 @@
     "authorId": "6922",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "5",
-    "downloads": 4489,
+    "downloads": 4531,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -808,7 +978,7 @@
     "authorId": "682550",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 813,
+    "downloads": 823,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -842,7 +1012,7 @@
     "authorId": "6922",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "3",
-    "downloads": 3270,
+    "downloads": 3311,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -876,11 +1046,11 @@
     "authorId": "2082181",
     "uploadDate": "25 Aug 2026, 18:22",
     "version": "4",
-    "downloads": 1547,
+    "downloads": 1558,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -910,7 +1080,7 @@
     "authorId": "682550",
     "uploadDate": "26 Aug 2026, 15:28",
     "version": "2",
-    "downloads": 758,
+    "downloads": 767,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -944,7 +1114,7 @@
     "authorId": "683743",
     "uploadDate": "26 Aug 2026, 16:17",
     "version": "7",
-    "downloads": 4242,
+    "downloads": 4335,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -978,7 +1148,7 @@
     "authorId": "878261",
     "uploadDate": "26 Aug 2026, 20:11",
     "version": "2",
-    "downloads": 1433,
+    "downloads": 1454,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1012,7 +1182,7 @@
     "authorId": "862856",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 1707,
+    "downloads": 1723,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1046,7 +1216,7 @@
     "authorId": "1931483",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 1387,
+    "downloads": 1403,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1250,7 @@
     "authorId": "2075576",
     "uploadDate": "26 Aug 2026, 09:47",
     "version": "2",
-    "downloads": 1540,
+    "downloads": 1552,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1114,7 +1284,7 @@
     "authorId": "1249060",
     "uploadDate": "25 Aug 2026, 17:38",
     "version": "4",
-    "downloads": 4298,
+    "downloads": 4324,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1318,7 @@
     "authorId": "1981212",
     "uploadDate": "2 Sep 2026, 11:14",
     "version": "14",
-    "downloads": 3090,
+    "downloads": 3121,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1182,7 +1352,7 @@
     "authorId": "1246123",
     "uploadDate": "25 Aug 2026, 08:57",
     "version": "9",
-    "downloads": 13306,
+    "downloads": 13331,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1216,7 +1386,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:02",
     "version": "7",
-    "downloads": 25003,
+    "downloads": 25049,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1250,7 +1420,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:01",
     "version": "7",
-    "downloads": 11802,
+    "downloads": 11813,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1284,7 +1454,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:00",
     "version": "5",
-    "downloads": 10642,
+    "downloads": 10655,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1318,11 +1488,11 @@
     "authorId": "1931483",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "6",
-    "downloads": 4334,
+    "downloads": 4385,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 49
+      "count": 50
     }
   },
   {
@@ -1352,7 +1522,7 @@
     "authorId": "2051509",
     "uploadDate": "24 Aug 2026, 22:07",
     "version": "4",
-    "downloads": 2547,
+    "downloads": 2562,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1386,7 +1556,7 @@
     "authorId": "425553",
     "uploadDate": "24 Aug 2026, 10:36",
     "version": "7",
-    "downloads": 5803,
+    "downloads": 5825,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1590,7 @@
     "authorId": "878261",
     "uploadDate": "24 Aug 2026, 02:11",
     "version": "6",
-    "downloads": 9986,
+    "downloads": 10051,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1454,7 +1624,7 @@
     "authorId": "682550",
     "uploadDate": "23 Aug 2026, 19:53",
     "version": "4",
-    "downloads": 2778,
+    "downloads": 2814,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1488,7 +1658,7 @@
     "authorId": "2158880",
     "uploadDate": "23 Aug 2026, 17:20",
     "version": "4",
-    "downloads": 2114,
+    "downloads": 2137,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1522,7 +1692,7 @@
     "authorId": "2158880",
     "uploadDate": "23 Aug 2026, 17:04",
     "version": "3",
-    "downloads": 2496,
+    "downloads": 2520,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1726,7 @@
     "authorId": "1019836",
     "uploadDate": "23 Aug 2026, 16:14",
     "version": "6",
-    "downloads": 19874,
+    "downloads": 19903,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1590,7 +1760,7 @@
     "authorId": "756209",
     "uploadDate": "23 Aug 2026, 16:04",
     "version": "2",
-    "downloads": 7559,
+    "downloads": 7591,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1624,7 +1794,7 @@
     "authorId": "2119637",
     "uploadDate": "23 Aug 2026, 10:47",
     "version": "4",
-    "downloads": 3736,
+    "downloads": 3746,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1658,7 +1828,7 @@
     "authorId": "1033436",
     "uploadDate": "22 Aug 2026, 18:50",
     "version": "2",
-    "downloads": 772,
+    "downloads": 785,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,7 +1862,7 @@
     "authorId": "2158880",
     "uploadDate": "22 Aug 2026, 18:16",
     "version": "2",
-    "downloads": 2769,
+    "downloads": 2802,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1726,7 +1896,7 @@
     "authorId": "712278",
     "uploadDate": "22 Aug 2026, 14:52",
     "version": "7",
-    "downloads": 1740,
+    "downloads": 1748,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1760,7 +1930,7 @@
     "authorId": "1033436",
     "uploadDate": "22 Aug 2026, 04:24",
     "version": "2",
-    "downloads": 790,
+    "downloads": 798,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1794,7 +1964,7 @@
     "authorId": "356847",
     "uploadDate": "22 Aug 2026, 01:51",
     "version": "37",
-    "downloads": 150129,
+    "downloads": 150141,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1828,7 +1998,7 @@
     "authorId": "2075576",
     "uploadDate": "21 Aug 2026, 08:21",
     "version": "11",
-    "downloads": 2886,
+    "downloads": 2890,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1862,7 +2032,7 @@
     "authorId": "341193",
     "uploadDate": "21 Aug 2026, 05:03",
     "version": "3",
-    "downloads": 5238,
+    "downloads": 5270,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1896,7 +2066,7 @@
     "authorId": "6922",
     "uploadDate": "28 Aug 2026, 06:22",
     "version": "5",
-    "downloads": 4150,
+    "downloads": 4179,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1930,7 +2100,7 @@
     "authorId": "1981212",
     "uploadDate": "20 Aug 2026, 15:05",
     "version": "21",
-    "downloads": 748,
+    "downloads": 755,
     "rating": {
       "score": null,
       "label": null,
@@ -1964,11 +2134,11 @@
     "authorId": "5566",
     "uploadDate": "20 Aug 2026, 12:47",
     "version": "7",
-    "downloads": 1029102,
+    "downloads": 1029182,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1839
+      "count": 1840
     }
   },
   {
@@ -1998,7 +2168,7 @@
     "authorId": "2050504",
     "uploadDate": "20 Aug 2026, 11:44",
     "version": "7",
-    "downloads": 927,
+    "downloads": 929,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2032,7 +2202,7 @@
     "authorId": "414723",
     "uploadDate": "20 Aug 2026, 11:05",
     "version": "13",
-    "downloads": 3518,
+    "downloads": 3525,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2066,7 +2236,7 @@
     "authorId": "2075576",
     "uploadDate": "20 Aug 2026, 07:36",
     "version": "8",
-    "downloads": 3384,
+    "downloads": 3386,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2100,7 +2270,7 @@
     "authorId": "1111579",
     "uploadDate": "20 Aug 2026, 05:28",
     "version": "4",
-    "downloads": 1123,
+    "downloads": 1161,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2134,7 +2304,7 @@
     "authorId": "587116",
     "uploadDate": "20 Aug 2026, 04:01",
     "version": "2",
-    "downloads": 2165,
+    "downloads": 2173,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2168,7 +2338,7 @@
     "authorId": "227382",
     "uploadDate": "19 Aug 2026, 15:20",
     "version": "9",
-    "downloads": 27535,
+    "downloads": 27544,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2202,7 +2372,7 @@
     "authorId": "2119637",
     "uploadDate": "19 Aug 2026, 10:45",
     "version": "4",
-    "downloads": 2655,
+    "downloads": 2667,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2236,7 +2406,7 @@
     "authorId": "2060627",
     "uploadDate": "19 Aug 2026, 08:26",
     "version": "17",
-    "downloads": 6276,
+    "downloads": 6298,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2270,7 +2440,7 @@
     "authorId": "878261",
     "uploadDate": "19 Aug 2026, 04:08",
     "version": "2",
-    "downloads": 1457,
+    "downloads": 1466,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2304,7 +2474,7 @@
     "authorId": "587116",
     "uploadDate": "18 Aug 2026, 21:50",
     "version": "7",
-    "downloads": 10421,
+    "downloads": 10424,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2338,7 +2508,7 @@
     "authorId": "1973241",
     "uploadDate": "18 Aug 2026, 19:12",
     "version": "5",
-    "downloads": 1326,
+    "downloads": 1331,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2372,7 +2542,7 @@
     "authorId": "1021137",
     "uploadDate": "18 Aug 2026, 15:28",
     "version": "5",
-    "downloads": 14449,
+    "downloads": 14466,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2406,7 +2576,7 @@
     "authorId": "1021137",
     "uploadDate": "18 Aug 2026, 15:27",
     "version": "7",
-    "downloads": 41965,
+    "downloads": 41973,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2440,11 +2610,11 @@
     "authorId": "1252908",
     "uploadDate": "18 Aug 2026, 14:29",
     "version": "2",
-    "downloads": 5947,
+    "downloads": 6065,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 36
+      "count": 37
     }
   },
   {
@@ -2474,7 +2644,7 @@
     "authorId": "1021137",
     "uploadDate": "18 Aug 2026, 14:20",
     "version": "16",
-    "downloads": 38715,
+    "downloads": 38753,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2508,7 +2678,7 @@
     "authorId": "682550",
     "uploadDate": "18 Aug 2026, 12:01",
     "version": "2",
-    "downloads": 2024,
+    "downloads": 2041,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2542,7 +2712,7 @@
     "authorId": "2060627",
     "uploadDate": "18 Aug 2026, 06:17",
     "version": "5",
-    "downloads": 1178,
+    "downloads": 1186,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2576,7 +2746,7 @@
     "authorId": "315683",
     "uploadDate": "17 Aug 2026, 20:03",
     "version": "2",
-    "downloads": 1021,
+    "downloads": 1028,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2610,11 +2780,11 @@
     "authorId": "1492",
     "uploadDate": "17 Aug 2026, 16:26",
     "version": "5",
-    "downloads": 15068,
+    "downloads": 15249,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 150
+      "count": 151
     }
   },
   {
@@ -2644,7 +2814,7 @@
     "authorId": "1019836",
     "uploadDate": "17 Aug 2026, 08:00",
     "version": "2",
-    "downloads": 3564,
+    "downloads": 3593,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2678,7 +2848,7 @@
     "authorId": "952975",
     "uploadDate": "16 Aug 2026, 17:36",
     "version": "3",
-    "downloads": 1374,
+    "downloads": 1376,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2712,7 +2882,7 @@
     "authorId": "211223",
     "uploadDate": "16 Aug 2026, 10:32",
     "version": "12",
-    "downloads": 16856,
+    "downloads": 16859,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -3370,7 +3540,7 @@
     "name": "Bitexco Financial Tower HCMC",
     "url": "https://forum.theotown.com/plugins/list?term=:14468",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=0ajxqhg9QC6YaCX3NJjvOBpwqTo3CkPK",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=v9Zh7sXfuTN8hJqhGRovtK3R0YpQpbAw",
     "description": "Bitexco Financial Tower is a skyscraper located in Ho Chi Minh City. The building occupies an area of ​​nearly 6,100 square meters. With an estimated total investment of approximately US$220 million, it was developed by the Hanoi-based Bitexco Group. + Commercial building level 3: 5000 peoples. + Night animation: Yes Original image credit: @NamVu. Detailed editing + Night animation + plugin packaging: YinDreamX.",
     "descriptionHtml": "Bitexco Financial Tower is a skyscraper located in Ho Chi Minh City. The building occupies an area of ​​nearly 6,100 square meters. With an estimated total investment of approximately US$220 million, it was developed by the Hanoi-based Bitexco Group.<br>\n+ Commercial building level 3: 5000 peoples.<br>\n+ Night animation: Yes<br>\nOriginal image credit: @NamVu.<br>\nDetailed editing + Night animation + plugin packaging: YinDreamX.",
     "category": "Commercial",
@@ -3384,19 +3554,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "100.66KB",
-      "bytes": 103076
+      "raw": "109.07KB",
+      "bytes": 111688
     },
     "minVersion": "Any",
     "author": "yinx",
     "authorId": "2060627",
-    "uploadDate": "11 Aug 2026, 13:24",
-    "version": "3",
-    "downloads": 2354,
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "5",
+    "downloads": 2537,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 15
+      "count": 16
     }
   },
   {
@@ -4560,9 +4730,9 @@
     "name": "Ostrovsk: City Cleanliness",
     "url": "https://forum.theotown.com/plugins/list?term=:14411",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=gkHNyrdwRXaWKPZs14qklHEqTs1fqBgC",
-    "description": "🥷🏻⚡ Greetings to everyone! I present to you another plugin from the \"Ostrovsk Transport\" family! 💪🏻🌆 🧹 OSTROVSK: CITY CLEANLINESS 🌆 > The plugin contains Street Cleaning Transport from all over the CIS and the World. For now, the plugin is small — **16 models in total** 😁 --- 🚛 MODELS: 1) OstAZ 1101 \"Chistik\" 2) GAZ C41R13 Street Washer 3) KamAZ 43253 Extended Street Washer 4) KamAZ 65115-L4 Street Washer 5) KamAZ 43253 Street Washer 6) Tatra T3SU White-Red, Street Washer 7) Tatra T3SU Red-Yellow, Street Washer 8) Tatra T3SU Two-Door White-Yellow, Street Washer 9) ZIL 130 Blue, Street Washer 10) Tatra T3SU Two-Door Green, Street Washer 11) MAZ 555102 Street Washer 12) ZIL 130 Yellow, Street Washer 13) ZIL 130 Swamp Green, Street Washer 14) MAZ 533702 White, Street Washer 15) MAZ 555102 Brown, Street Washer 16) Mercedes-Benz Unimog 4023 White, Street Washer --- ### ⚙️ FEATURES: > 🌃 Night Animation included! > 🌇 The plugin tab can be found in the \"Services\" section. 💪🏻⚡Have a great game and awesome cities, everyone!",
-    "descriptionHtml": "🥷🏻⚡ Greetings to everyone!<br>\n<br>\nI present to you another plugin from the \"Ostrovsk Transport\" family! 💪🏻🌆<br>\n<br>\n🧹 OSTROVSK: CITY CLEANLINESS 🌆<br>\n<br>\n&gt; The plugin contains Street Cleaning Transport from all over the CIS and the World. For now, the plugin is small — **16 models in total** 😁<br>\n<br>\n---<br>\n🚛 MODELS:<br>\n<br>\n1) OstAZ 1101 \"Chistik\"<br>\n2) GAZ C41R13 Street Washer<br>\n3) KamAZ 43253 Extended Street Washer<br>\n4) KamAZ 65115-L4 Street Washer<br>\n5) KamAZ 43253 Street Washer<br>\n6) Tatra T3SU White-Red, Street Washer<br>\n7) Tatra T3SU Red-Yellow, Street Washer<br>\n8) Tatra T3SU Two-Door White-Yellow, Street Washer<br>\n9) ZIL 130 Blue, Street Washer<br>\n10) Tatra T3SU Two-Door Green, Street Washer<br>\n11) MAZ 555102 Street Washer<br>\n12) ZIL 130 Yellow, Street Washer<br>\n13) ZIL 130 Swamp Green, Street Washer<br>\n14) MAZ 533702 White, Street Washer<br>\n15) MAZ 555102 Brown, Street Washer<br>\n16) Mercedes-Benz Unimog 4023 White, Street Washer<br>\n<br>\n---<br>\n<br>\n### ⚙️ FEATURES:<br>\n&gt; 🌃 Night Animation included!<br>\n&gt; 🌇 The plugin tab can be found in the \"Services\" section.<br>\n<br>\n💪🏻⚡Have a great game and awesome cities, everyone!",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=efZjap0uzImWwIFJ8B1icXhtgqutQ485",
+    "description": "🥷🏻⚡ Greetings to everyone! I present to you another plugin from the \"Ostrovsk Transport\" family! 💪🏻🌆 \"New Update - All models of transport received their versions in the form of Road Decorations\" 🧹 OSTROVSK: CITY CLEANLINESS 🌆 > The plugin contains Street Cleaning Transport from all over the CIS and the World. For now, the plugin is small — **16 models in total** 😁 --- 🚛 Models In the plugin: 1) OstAZ 1101 \"Chistik\" 2) GAZ C41R13 Street Washer 3) KamAZ 43253 Extended Street Washer 4) KamAZ 65115-L4 Street Washer 5) KamAZ 43253 Street Washer 6) Tatra T3SU White-Red, Street Washer 7) Tatra T3SU Red-Yellow, Street Washer 8) Tatra T3SU Two-Door White-Yellow, Street Washer 9) ZIL 130 Blue, Street Washer 10) Tatra T3SU Two-Door Green, Street Washer 11) MAZ 555102 Street Washer 12) ZIL 130 Yellow, Street Washer 13) ZIL 130 Swamp Green, Street Washer 14) MAZ 533702 White, Street Washer 15) MAZ 555102 Brown, Street Washer 16) Mercedes-Benz Unimog 4023 White, Street Washer --- ### ⚙️ FEATURES: > 🌃 Night Animation included! > 🌇 The plugin tab can be found in the \"Services\" section. 💪🏻⚡Have a great game and awesome cities, everyone!",
+    "descriptionHtml": "🥷🏻⚡ Greetings to everyone!<br>\n<br>\nI present to you another plugin from the \"Ostrovsk Transport\" family! 💪🏻🌆<br>\n<br>\n\"New Update - All models of transport received their versions in the form of Road Decorations\"<br>\n<br>\n🧹 OSTROVSK: CITY CLEANLINESS 🌆<br>\n<br>\n&gt; The plugin contains Street Cleaning Transport from all over the CIS and the World. For now, the plugin is small — **16 models in total** 😁<br>\n<br>\n<br>\n---<br>\n🚛 Models In the plugin:<br>\n1) OstAZ 1101 \"Chistik\"<br>\n2) GAZ C41R13 Street Washer<br>\n3) KamAZ 43253 Extended Street Washer<br>\n4) KamAZ 65115-L4 Street Washer<br>\n5) KamAZ 43253 Street Washer<br>\n6) Tatra T3SU White-Red, Street Washer<br>\n7) Tatra T3SU Red-Yellow, Street Washer<br>\n8) Tatra T3SU Two-Door White-Yellow, Street Washer<br>\n9) ZIL 130 Blue, Street Washer<br>\n10) Tatra T3SU Two-Door Green, Street Washer<br>\n11) MAZ 555102 Street Washer<br>\n12) ZIL 130 Yellow, Street Washer<br>\n13) ZIL 130 Swamp Green, Street Washer<br>\n14) MAZ 533702 White, Street Washer<br>\n15) MAZ 555102 Brown, Street Washer<br>\n16) Mercedes-Benz Unimog 4023 White, Street Washer<br>\n<br>\n---<br>\n<br>\n### ⚙️ FEATURES:<br>\n&gt; 🌃 Night Animation included!<br>\n&gt; 🌇 The plugin tab can be found in the \"Services\" section.<br>\n<br>\n💪🏻⚡Have a great game and awesome cities, everyone!",
     "category": "Transport",
     "price": {
       "amount": 30,
@@ -4574,19 +4744,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "89.15KB",
-      "bytes": 91290
+      "raw": "141.23KB",
+      "bytes": 144620
     },
     "minVersion": "Any",
     "author": "Ostrovsk",
     "authorId": "601724",
-    "uploadDate": "03 Aug 2026, 18:42",
-    "version": "2",
-    "downloads": 1497,
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "4",
+    "downloads": 1891,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 14
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 19
     }
   },
   {
@@ -4901,8 +5071,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:14402",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=LE4lDnllEU4jAzil61LZiKzbJ27AtLhe",
-    "description": "🥷🏻⚡Greetings to all friends! I present to you a New Plugin - \"Ostrovsk School Transport\"🚍 ‼️ Here is what's included! ⚡ 💫 The plugin is currently small and contains 16 Transport Models: --- 🚍 SCHOOL BUS MODELS: 1) AEC Routemaster RM School Bus 2) Ataman A092H6 School Bus 3) BAZ A079-14 \"Podsnizhnyk\" School Bus 4) Ford Transit FBD School Bus 5) GAZ A64R42 School Bus 6) Hyundai County LWB School Bus 7) KAvZ 39765-022 School Bus 8) KAvZ 4235-32 School Bus 9) LAZ A141 JN \"Liner 9\" School Bus 10) GAZ 322133 School Bus 11) OstAZ 2606 \"Over\" School Bus 12) PAZ 32053-70 School Bus, Yellow 13) PAZ 32053-70 School Bus, Orange 14) PAZ 3205 Restyling School Bus, Yellow 15) PAZ 3205 Restyling School Bus, Orange 16) PAZ 320455-04 Vector Next School Bus --- 🌏 FUTURE PLANS & FEATURES: - I will expand the plugin in the future with models from Asia, Europe, and America😁 > 💫 Custom Category added in the \"Education\" tab! > 🌃 All models feature Night Animation! 🌆⚡ Have a great game, everyone!",
-    "descriptionHtml": "🥷🏻⚡Greetings to all friends!<br>\n<br>\nI present to you a New Plugin - <br>\n\"Ostrovsk School Transport\"🚍 <br>\n<br>\n‼️ Here is what's included! ⚡<br>\n<br>\n💫 The plugin is currently small and contains 16 Transport Models:<br>\n<br>\n---<br>\n🚍 SCHOOL BUS MODELS:<br>\n1) AEC Routemaster RM School Bus<br>\n2) Ataman A092H6 School Bus<br>\n3) BAZ A079-14 \"Podsnizhnyk\" School Bus<br>\n4) Ford Transit FBD School Bus<br>\n5) GAZ A64R42 School Bus<br>\n6) Hyundai County LWB School Bus<br>\n7) KAvZ 39765-022 School Bus<br>\n8) KAvZ 4235-32 School Bus<br>\n9) LAZ A141 JN \"Liner 9\" School Bus<br>\n10) GAZ 322133 School Bus<br>\n11) OstAZ 2606 \"Over\" School Bus<br>\n12) PAZ 32053-70 School Bus, Yellow<br>\n13) PAZ 32053-70 School Bus, Orange<br>\n14) PAZ 3205 Restyling School Bus, Yellow<br>\n15) PAZ 3205 Restyling School Bus, Orange<br>\n16) PAZ 320455-04 Vector Next School Bus<br>\n---<br>\n<br>\n🌏 FUTURE PLANS &amp; FEATURES:<br>\n- I will expand the plugin in the future with models from Asia, Europe, and America😁<br>\n<br>\n&gt; 💫 Custom Category added in the \"Education\" tab!<br>\n&gt; 🌃 All models feature Night Animation!<br>\n<br>\n 🌆⚡ Have a great game, everyone!",
+    "description": "🥷🏻⚡Greetings to all friends! I present to you a New Plugin - \"Ostrovsk School Transport\"🚍 \"New Update\"‼️ - All 16 vehicle models in the plugin received their versions in the form of Road Decorations --- 🚍 SCHOOL BUS MODELS: 1) AEC Routemaster RM School Bus 2) Ataman A092H6 School Bus 3) BAZ A079-14 \"Podsnizhnyk\" School Bus 4) Ford Transit FBD School Bus 5) GAZ A64R42 School Bus 6) Hyundai County LWB School Bus 7) KAvZ 39765-022 School Bus 8) KAvZ 4235-32 School Bus 9) LAZ A141 JN \"Liner 9\" School Bus 10) GAZ 322133 School Bus 11) OstAZ 2606 \"Over\" School Bus 12) PAZ 32053-70 School Bus, Yellow 13) PAZ 32053-70 School Bus, Orange 14) PAZ 3205 Restyling School Bus, Yellow 15) PAZ 3205 Restyling School Bus, Orange 16) PAZ 320455-04 Vector Next School Bus --- 🌏 FUTURE PLANS & FEATURES: - I will expand the plugin in the future with models from Asia, Europe, and America😁 > 💫 Custom Category added in the \"Education\" tab! > 🌃 All models feature Night Animation! 🌆⚡ Have a great game, everyone!",
+    "descriptionHtml": "🥷🏻⚡Greetings to all friends!<br>\n<br>\nI present to you a New Plugin - <br>\n\"Ostrovsk School Transport\"🚍 <br>\n<br>\n\"New Update\"‼️ - All 16 vehicle models in the plugin received their versions in the form of Road Decorations<br>\n<br>\n---<br>\n🚍 SCHOOL BUS MODELS:<br>\n1) AEC Routemaster RM School Bus<br>\n2) Ataman A092H6 School Bus<br>\n3) BAZ A079-14 \"Podsnizhnyk\" School Bus<br>\n4) Ford Transit FBD School Bus<br>\n5) GAZ A64R42 School Bus<br>\n6) Hyundai County LWB School Bus<br>\n7) KAvZ 39765-022 School Bus<br>\n8) KAvZ 4235-32 School Bus<br>\n9) LAZ A141 JN \"Liner 9\" School Bus<br>\n10) GAZ 322133 School Bus<br>\n11) OstAZ 2606 \"Over\" School Bus<br>\n12) PAZ 32053-70 School Bus, Yellow<br>\n13) PAZ 32053-70 School Bus, Orange<br>\n14) PAZ 3205 Restyling School Bus, Yellow<br>\n15) PAZ 3205 Restyling School Bus, Orange<br>\n16) PAZ 320455-04 Vector Next School Bus<br>\n---<br>\n<br>\n🌏 FUTURE PLANS &amp; FEATURES:<br>\n- I will expand the plugin in the future with models from Asia, Europe, and America😁<br>\n<br>\n&gt; 💫 Custom Category added in the \"Education\" tab!<br>\n&gt; 🌃 All models feature Night Animation!<br>\n<br>\n 🌆⚡ Have a great game, everyone!",
     "category": "Transport",
     "price": {
       "amount": 30,
@@ -4914,19 +5084,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "108.59KB",
-      "bytes": 111196
+      "raw": "140.08KB",
+      "bytes": 143442
     },
     "minVersion": "Any",
     "author": "Ostrovsk",
     "authorId": "601724",
-    "uploadDate": "01 Aug 2026, 18:34",
-    "version": "2",
-    "downloads": 1934,
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "4",
+    "downloads": 2388,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 17
+      "count": 20
     }
   },
   {
@@ -7620,9 +7790,9 @@
     "name": "Brazilian States - Pack",
     "url": "https://forum.theotown.com/plugins/list?term=:14225",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=5Y3i8u6Na0ScQOKzsfwpFUzlXy386lI9",
-    "description": "Hello, this pack adds the flags of the 26 Brazilian states + DF + the flag of Brazil all together. Give feedback about the flags of each state, this will be important for future updates. I hope you like them. Note: I know there is already a Brazilian States pack plugin, when I made this one, I didn't know about it. MEGA UPDATE: · Indonesian language added · Pack moved to the 'Decorations' tab · Icon remake · States divided into Region icons · Flag corrections + Shadows · Night Animation added I posted this update because I'll be inactive for a while. I'm working on big plugins, and to make up for the wait, I released this update. I hope you like it.",
-    "descriptionHtml": "Hello, this pack adds the flags of the 26 Brazilian states + DF + the flag of Brazil all together. Give feedback about the flags of each state, this will be important for future updates. I hope you like them. Note: I know there is already a Brazilian States pack plugin, when I made this one, I didn't know about it.<br>\n<br>\nMEGA UPDATE:<br>\n<br>\n· Indonesian language added<br>\n· Pack moved to the 'Decorations' tab<br>\n· Icon remake<br>\n· States divided into Region icons<br>\n· Flag corrections + Shadows<br>\n· Night Animation added<br>\n<br>\nI posted this update because I'll be inactive for a while. I'm working on big plugins, and to make up for the wait, I released this update. I hope you like it.<br>\n<br>",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=FjlCoiqjoVtoC70z4Bhh4kruvgSIWGEJ",
+    "description": "Hello, this pack adds the flags of the 26 Brazilian states + DF + the flag of Brazil all together. Give feedback about the flags of each state, this will be important for future updates. I hope you like them. Note: I know there is already a Brazilian States pack plugin, when I made this one, I didn't know about it. REFORMULATION UPDATE: · All flag textures adapted to the style of my new Flag Pack · Brazil is now the Pavilion Flagpole · DF shape corrected (Not square anymore)",
+    "descriptionHtml": "Hello, this pack adds the flags of the 26 Brazilian states + DF + the flag of Brazil all together. Give feedback about the flags of each state, this will be important for future updates. I hope you like them. Note: I know there is already a Brazilian States pack plugin, when I made this one, I didn't know about it.<br>\n<br>\nREFORMULATION UPDATE:<br>\n<br>\n· All flag textures adapted to the style of my new Flag Pack<br>\n· Brazil is now the Pavilion Flagpole<br>\n· DF shape corrected (Not square anymore)<br>\n<br>",
     "category": "Decorations",
     "price": {
       "amount": 30,
@@ -7634,15 +7804,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "33.38KB",
-      "bytes": 34181
+      "raw": "46.88KB",
+      "bytes": 48005
     },
     "minVersion": "Any",
     "author": "LuBofill",
     "authorId": "2082181",
-    "uploadDate": "15 Jul 2026, 04:17",
-    "version": "5",
-    "downloads": 1120,
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "7",
+    "downloads": 1338,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8776,7 +8946,7 @@
     "name": "FLC Twin Tower",
     "url": "https://forum.theotown.com/plugins/list?term=:14211",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=2h0hPNBcpDTGV84I40ywC9R3dwXWsaJc",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=zoXlDx7EHvKqMSnKHL3xT8NdS6VXEwuA",
     "description": "FLC Twin Towers in Hanoi, Vietnam. Features two towers with 50 and 38 floors, including a 5-story commercial center and 3 interconnected basements. + Residential building level 3: 5000 peoples. + Night animation: Yes Original image credit: @NamVu. Toyota Hilux credit: @Manchan. Detailed editing + plugin packaging: YinDreamX.",
     "descriptionHtml": "FLC Twin Towers in Hanoi, Vietnam. Features two towers with 50 and 38 floors, including a 5-story commercial center and 3 interconnected basements.<br>\n+ Residential building level 3: 5000 peoples.<br>\n+ Night animation: Yes<br>\nOriginal image credit: @NamVu.<br>\nToyota Hilux credit: @Manchan.<br>\nDetailed editing + plugin packaging: YinDreamX.<br>",
     "category": "Residential",
@@ -8790,19 +8960,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "125.08KB",
-      "bytes": 128082
+      "raw": "125.44KB",
+      "bytes": 128451
     },
     "minVersion": "Any",
     "author": "yinx",
     "authorId": "2060627",
-    "uploadDate": "06 Jul 2026, 10:53",
-    "version": "2",
-    "downloads": 9012,
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "4",
+    "downloads": 10372,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 33
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 35
     }
   },
   {
@@ -9036,7 +9206,7 @@
     "authorId": "2043384",
     "uploadDate": "28 Aug 2026, 01:45",
     "version": "4",
-    "downloads": 4526,
+    "downloads": 4545,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -10566,7 +10736,7 @@
     "authorId": "2082181",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "30",
-    "downloads": 7998,
+    "downloads": 8023,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -15699,7 +15869,7 @@
     "authorId": "2050504",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "8",
-    "downloads": 5082,
+    "downloads": 5109,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -22499,7 +22669,7 @@
     "authorId": "1169481",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "5",
-    "downloads": 13925,
+    "downloads": 13955,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -25049,7 +25219,7 @@
     "authorId": "149434",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "9",
-    "downloads": 7412,
+    "downloads": 7429,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -38306,7 +38476,7 @@
     "authorId": "1117299",
     "uploadDate": "28 Aug 2026, 12:36",
     "version": "4",
-    "downloads": 8380,
+    "downloads": 8395,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -41446,11 +41616,11 @@
     "url": "https://forum.theotown.com/plugins/list?term=:11585",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=UlXxn7xBoPUdgrfZD1drhE06YPPFx7p1",
-    "description": "Greetings to everyone I can📊👋🏻 I present to you a plugin that belongs to the services - \"Ostrovsk Social Assistance\", that is, Social Assistance of Ostrovsk, for people with disabilities🏥 The plugin contains 5 transport models and one building. The building is not to say that excellent, but in general good🙂 Transport models: GAZ-3221 Soc. Help GAZ A68R52 City Soc. Help Hyundai County LWB Social. Help GAZ-2217 Sobol Social. Help Lada Largus Kub Social. Help Cars are made as a decoration, the transport spawns and takes an active part in traffic. Except for the GAZ-3221 - it spawns from the building itself. Also, each object (Building and Car) has an impact on: Health 🏥 Management 🏛️ All of this is located in the \"Services\" category🥷",
-    "descriptionHtml": "Greetings to everyone I can📊👋🏻<br>\n I present to you a plugin that belongs to the services - \"Ostrovsk Social Assistance\", that is, Social Assistance of Ostrovsk, for people with disabilities🏥<br>\n<br>\nThe plugin contains 5 transport models and one building. The building is not to say that excellent, but in general good🙂<br>\n<br>\nTransport models:<br>\nGAZ-3221 Soc. Help<br>\nGAZ A68R52 City Soc. Help<br>\nHyundai County LWB Social. Help<br>\nGAZ-2217 Sobol Social. Help<br>\nLada Largus Kub Social. Help<br>\n<br>\nCars are made as a decoration, the transport spawns and takes an active part in traffic. Except for the GAZ-3221 - it spawns from the building itself.<br>\n<br>\n Also, each object (Building and Car)<br>\nhas an impact on:<br>\nHealth 🏥<br>\nManagement 🏛️<br>\n<br>\nAll of this is located in the \"Services\" category🥷",
+    "description": "Greetings to everyone I can📊👋🏻 I present to you a plugin that belongs to the services - \"Ostrovsk Social Assistance\", that is, Social Assistance of Ostrovsk, for people with disabilities🏥 Also, each object (Building and Car) has an impact on: Health 🏥 Management 🏛️ All of this is located in the \"Services\" category🥷 \"New Update - The building of the social. Assistance was updated. Shadows were strengthened and Night Animation was added🌃\"‼️ Also, 5 models from the plugin (that is, all models) - received their versions in the form of Road Deco",
+    "descriptionHtml": "Greetings to everyone I can📊👋🏻<br>\n I present to you a plugin that belongs to the services - \"Ostrovsk Social Assistance\", that is, Social Assistance of Ostrovsk, for people with disabilities🏥<br>\nAlso, each object (Building and Car)<br>\nhas an impact on:<br>\nHealth 🏥<br>\nManagement 🏛️<br>\nAll of this is located in the \"Services\" category🥷<br>\n<br>\n\"New Update - The building of the social. Assistance was updated. Shadows were strengthened and Night Animation was added🌃\"‼️<br>\n<br>\n Also, 5 models from the plugin (that is, all models) - received their versions in the form of Road Deco",
     "category": "Transport",
     "price": {
-      "amount": 35,
+      "amount": 30,
       "currency": "diamonds"
     },
     "platforms": [
@@ -41459,19 +41629,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "27.71KB",
-      "bytes": 28375
+      "raw": "40.45KB",
+      "bytes": 41421
     },
     "minVersion": "Any",
     "author": "Ostrovsk",
     "authorId": "601724",
-    "uploadDate": "21 Dec 2025, 05:51",
-    "version": "6",
-    "downloads": 14049,
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "8",
+    "downloads": 14521,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 70
+      "count": 73
     }
   },
   {
@@ -46669,7 +46839,7 @@
     "authorId": "756209",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "10",
-    "downloads": 113678,
+    "downloads": 113723,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -49740,9 +49910,9 @@
     "name": "Jakarta Bajaj Depot",
     "url": "https://forum.theotown.com/plugins/list?term=:10287",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=LCaxbYlAC3c8tXYABZujd17k71B2xKBt",
-    "description": "Bajaj (pronounced Bajai) is the most iconic public transportation in Jakarta, Indonesia. The name bajaj is actually the brand name of the vehicle itself, Bajaj Auto from India. ‎ ‎– Red Bajaj Depot (Transportation 3x3) ‎– Bajaj BBG Depot (Transportation 3x3) ‎– Kroya Bajaj Depot (Transportation 3x3) ‎– Maxride Bajaj Depot (Transportation 3x3) ‎ ‎Hope you enjoy the plugin 😊 ‎• Rotate aware ‎• Night animation ‎• Winter animation",
-    "descriptionHtml": "Bajaj (pronounced Bajai) is the most iconic public transportation in Jakarta, Indonesia. The name bajaj is actually the brand name of the vehicle itself, Bajaj Auto from India.<br>\n‎<br>\n‎– Red Bajaj Depot (Transportation 3x3)<br>\n‎– Bajaj BBG Depot (Transportation 3x3)<br>\n‎– Kroya Bajaj Depot (Transportation 3x3)<br>\n‎– Maxride Bajaj Depot (Transportation 3x3)<br>\n‎<br>\n‎Hope you enjoy the plugin 😊<br>\n‎• Rotate aware<br>\n‎• Night animation<br>\n‎• Winter animation",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=JWahBb8v3shKU0AU84FwDar8JaI4XnVX",
+    "description": "Bajaj (pronounced Bajai) is the most iconic public transportation in Jakarta, Indonesia. The name bajaj is actually the brand name of the vehicle itself, Bajaj Auto from India. – Red Bajaj Depot (Transportation 3x3) – Bajaj BBG Depot (Transportation 3x3) – Kroya Bajaj Depot (Transportation 3x3) – Maxride Bajaj Depot (Transportation 3x3) – Red Bajaj (Decoration 1x1) – Bajaj BBG (Decoration 1x1) – Kroya Bajaj (Decoration 1x1) – Maxride Bajaj (Decoration 1x1) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
+    "descriptionHtml": "Bajaj (pronounced Bajai) is the most iconic public transportation in Jakarta, Indonesia. The name bajaj is actually the brand name of the vehicle itself, Bajaj Auto from India.<br>\n<br>\n– Red Bajaj Depot (Transportation 3x3)<br>\n– Bajaj BBG Depot (Transportation 3x3)<br>\n– Kroya Bajaj Depot (Transportation 3x3)<br>\n– Maxride Bajaj Depot (Transportation 3x3)<br>\n– Red Bajaj (Decoration 1x1)<br>\n– Bajaj BBG (Decoration 1x1)<br>\n– Kroya Bajaj (Decoration 1x1)<br>\n– Maxride Bajaj (Decoration 1x1)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
     "category": "Transport",
     "price": {
       "amount": 30,
@@ -49754,19 +49924,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "117.76KB",
-      "bytes": 120586
+      "raw": "64.96KB",
+      "bytes": 66519
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "26 Sep 2025, 04:33",
-    "version": "14",
-    "downloads": 70608,
+    "uploadDate": "11 Sep 2026, 16:25",
+    "version": "16",
+    "downloads": 71446,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 124
+      "count": 125
     }
   },
   {
@@ -102216,11 +102386,11 @@
     "authorId": "113059",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "5",
-    "downloads": 17508,
+    "downloads": 17510,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 89
+      "count": 90
     }
   },
   {
