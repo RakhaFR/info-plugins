@@ -1,5 +1,73 @@
 [
   {
+    "id": "14645",
+    "name": "An unfinished building",
+    "url": "https://forum.theotown.com/plugins/list?term=:14645",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=CmYrNqHOfGlm5lBFKeFs7zyCKqHfelig",
+    "description": "This is an unfinished building, reflecting a construction project that has been halted by the property developer due to funding or other issues. It adds a sense of realism to your city and can also be paired with community gates.",
+    "descriptionHtml": "This is an unfinished building, reflecting a construction project that has been halted by the property developer due to funding or other issues. It adds a sense of realism to your city and can also be paired with community gates.",
+    "category": "Other",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "16.19KB",
+      "bytes": 16579
+    },
+    "minVersion": "Any",
+    "author": "yanyujinze_",
+    "authorId": "1931483",
+    "uploadDate": "12 Sep 2026, 10:41",
+    "version": "2",
+    "downloads": 20,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14647",
+    "name": "VITACOM MELO ALVES",
+    "url": "https://forum.theotown.com/plugins/list?term=:14647",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=cvlZRGV5M7QAvRbFhgUeMXuA0gPpKikd",
+    "description": "Hello, here's another Brazilian plugin! In this case, it's a rather interesting building located in Sao Paulo, the Vitacom Melo Alves building. I came across it while searching for buildings in Sao Paulo on Google and it seemed like a crazy idea Doing it in Theo Town! It is a Condominium-type building with high-end apartments and a rather curious shape. The plugin is 3x3 in size and belongs to the Residential Level 3 category. It also features a great nighttime animation with orange neon details. I hope you like this plugin. Thanks for downloading!",
+    "descriptionHtml": "Hello, here's another Brazilian plugin!<br>\nIn this case, it's a rather interesting building located in Sao Paulo, the Vitacom Melo Alves building. I came across it while searching for buildings in Sao Paulo on Google and it seemed like a crazy idea Doing it in Theo Town!<br>\nIt is a Condominium-type building with high-end apartments and a rather curious shape.<br>\nThe plugin is 3x3 in size and belongs to the Residential Level 3 category. It also features a great nighttime animation with orange neon details. I hope you like this plugin. Thanks for downloading!",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "27.24KB",
+      "bytes": 27894
+    },
+    "minVersion": "Any",
+    "author": "Franco Ticosa",
+    "authorId": "587116",
+    "uploadDate": "12 Sep 2026, 10:41",
+    "version": "2",
+    "downloads": 21,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
     "id": "14576",
     "name": "oxxo",
     "url": "https://forum.theotown.com/plugins/list?term=:14576",
@@ -26,7 +94,7 @@
     "authorId": "878261",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "3",
-    "downloads": 115,
+    "downloads": 142,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -60,11 +128,11 @@
     "authorId": "6922",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "3",
-    "downloads": 709,
+    "downloads": 906,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 9
+      "count": 13
     }
   },
   {
@@ -94,7 +162,7 @@
     "authorId": "2060627",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "2",
-    "downloads": 242,
+    "downloads": 300,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -128,7 +196,7 @@
     "authorId": "682550",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "2",
-    "downloads": 312,
+    "downloads": 401,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -162,7 +230,7 @@
     "authorId": "770316",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "2",
-    "downloads": 420,
+    "downloads": 543,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -196,11 +264,11 @@
     "authorId": "149434",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "3",
-    "downloads": 2349,
+    "downloads": 2448,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 15
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 16
     }
   },
   {
@@ -230,7 +298,7 @@
     "authorId": "171359",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 2266,
+    "downloads": 2339,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -264,7 +332,7 @@
     "authorId": "171359",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "8",
-    "downloads": 1346,
+    "downloads": 1390,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -298,7 +366,7 @@
     "authorId": "481062",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "3",
-    "downloads": 539,
+    "downloads": 557,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -332,7 +400,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 822,
+    "downloads": 845,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -366,7 +434,7 @@
     "authorId": "481062",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 799,
+    "downloads": 819,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -400,7 +468,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "3",
-    "downloads": 1418,
+    "downloads": 1464,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -434,7 +502,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "2",
-    "downloads": 1806,
+    "downloads": 1863,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -468,7 +536,7 @@
     "authorId": "2050504",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 375,
+    "downloads": 384,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -502,7 +570,7 @@
     "authorId": "756209",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 2689,
+    "downloads": 2735,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -536,7 +604,7 @@
     "authorId": "315683",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 878,
+    "downloads": 896,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -570,7 +638,7 @@
     "authorId": "1269221",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "5",
-    "downloads": 1745,
+    "downloads": 1799,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -604,7 +672,7 @@
     "authorId": "587116",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 1153,
+    "downloads": 1177,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,11 +706,11 @@
     "authorId": "6922",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "4",
-    "downloads": 1533,
+    "downloads": 1568,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 9
+      "count": 10
     }
   },
   {
@@ -672,7 +740,7 @@
     "authorId": "682550",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 1270,
+    "downloads": 1293,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -706,11 +774,11 @@
     "authorId": "6922",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 2841,
+    "downloads": 2903,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -740,7 +808,7 @@
     "authorId": "952975",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 726,
+    "downloads": 739,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -774,11 +842,11 @@
     "authorId": "341193",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "2",
-    "downloads": 4120,
+    "downloads": 4222,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 29
+      "count": 30
     }
   },
   {
@@ -808,7 +876,7 @@
     "authorId": "6922",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "5",
-    "downloads": 5661,
+    "downloads": 5728,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -842,7 +910,7 @@
     "authorId": "1156629",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "4",
-    "downloads": 1563,
+    "downloads": 1580,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -876,7 +944,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "13",
-    "downloads": 625,
+    "downloads": 634,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -910,7 +978,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "2",
-    "downloads": 760,
+    "downloads": 767,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,11 +1012,11 @@
     "authorId": "6922",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "5",
-    "downloads": 4654,
+    "downloads": 4695,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 38
+      "count": 39
     }
   },
   {
@@ -978,7 +1046,7 @@
     "authorId": "682550",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 839,
+    "downloads": 845,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1012,11 +1080,11 @@
     "authorId": "6922",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "3",
-    "downloads": 3373,
+    "downloads": 3407,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 24
+      "count": 25
     }
   },
   {
@@ -1046,7 +1114,7 @@
     "authorId": "2082181",
     "uploadDate": "25 Aug 2026, 18:22",
     "version": "4",
-    "downloads": 1583,
+    "downloads": 1597,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1080,7 +1148,7 @@
     "authorId": "682550",
     "uploadDate": "26 Aug 2026, 15:28",
     "version": "2",
-    "downloads": 781,
+    "downloads": 785,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1114,7 +1182,7 @@
     "authorId": "683743",
     "uploadDate": "26 Aug 2026, 16:17",
     "version": "7",
-    "downloads": 4464,
+    "downloads": 4693,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1216,7 @@
     "authorId": "878261",
     "uploadDate": "26 Aug 2026, 20:11",
     "version": "2",
-    "downloads": 1483,
+    "downloads": 1504,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1182,7 +1250,7 @@
     "authorId": "862856",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 1746,
+    "downloads": 1757,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1216,7 +1284,7 @@
     "authorId": "1931483",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 1430,
+    "downloads": 1445,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1250,7 +1318,7 @@
     "authorId": "2075576",
     "uploadDate": "26 Aug 2026, 09:47",
     "version": "2",
-    "downloads": 1573,
+    "downloads": 1590,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1284,7 +1352,7 @@
     "authorId": "1249060",
     "uploadDate": "25 Aug 2026, 17:38",
     "version": "4",
-    "downloads": 4374,
+    "downloads": 4394,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1318,7 +1386,7 @@
     "authorId": "1981212",
     "uploadDate": "2 Sep 2026, 11:14",
     "version": "14",
-    "downloads": 3154,
+    "downloads": 3180,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1352,7 +1420,7 @@
     "authorId": "1246123",
     "uploadDate": "25 Aug 2026, 08:57",
     "version": "9",
-    "downloads": 13356,
+    "downloads": 13371,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1386,7 +1454,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:02",
     "version": "7",
-    "downloads": 25073,
+    "downloads": 25101,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1420,7 +1488,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:01",
     "version": "7",
-    "downloads": 11826,
+    "downloads": 11835,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1454,7 +1522,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:00",
     "version": "5",
-    "downloads": 10678,
+    "downloads": 10690,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1488,7 +1556,7 @@
     "authorId": "1931483",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "6",
-    "downloads": 4453,
+    "downloads": 4495,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1522,7 +1590,7 @@
     "authorId": "2051509",
     "uploadDate": "24 Aug 2026, 22:07",
     "version": "4",
-    "downloads": 2579,
+    "downloads": 2590,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1556,7 +1624,7 @@
     "authorId": "425553",
     "uploadDate": "24 Aug 2026, 10:36",
     "version": "7",
-    "downloads": 5865,
+    "downloads": 5910,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1590,7 +1658,7 @@
     "authorId": "878261",
     "uploadDate": "24 Aug 2026, 02:11",
     "version": "6",
-    "downloads": 10171,
+    "downloads": 10240,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1624,7 +1692,7 @@
     "authorId": "682550",
     "uploadDate": "23 Aug 2026, 19:53",
     "version": "4",
-    "downloads": 2853,
+    "downloads": 2884,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1658,7 +1726,7 @@
     "authorId": "2158880",
     "uploadDate": "23 Aug 2026, 17:20",
     "version": "4",
-    "downloads": 2163,
+    "downloads": 2181,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,7 +1760,7 @@
     "authorId": "2158880",
     "uploadDate": "23 Aug 2026, 17:04",
     "version": "3",
-    "downloads": 2552,
+    "downloads": 2581,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1726,7 +1794,7 @@
     "authorId": "1019836",
     "uploadDate": "23 Aug 2026, 16:14",
     "version": "6",
-    "downloads": 19947,
+    "downloads": 19977,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1760,7 +1828,7 @@
     "authorId": "756209",
     "uploadDate": "23 Aug 2026, 16:04",
     "version": "2",
-    "downloads": 7738,
+    "downloads": 7775,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1794,7 +1862,7 @@
     "authorId": "2119637",
     "uploadDate": "23 Aug 2026, 10:47",
     "version": "4",
-    "downloads": 3805,
+    "downloads": 3837,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1828,7 +1896,7 @@
     "authorId": "1033436",
     "uploadDate": "22 Aug 2026, 18:50",
     "version": "2",
-    "downloads": 802,
+    "downloads": 813,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1862,7 +1930,7 @@
     "authorId": "2158880",
     "uploadDate": "22 Aug 2026, 18:16",
     "version": "2",
-    "downloads": 2843,
+    "downloads": 2873,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1896,7 +1964,7 @@
     "authorId": "712278",
     "uploadDate": "22 Aug 2026, 14:52",
     "version": "7",
-    "downloads": 1756,
+    "downloads": 1767,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1930,7 +1998,7 @@
     "authorId": "1033436",
     "uploadDate": "22 Aug 2026, 04:24",
     "version": "2",
-    "downloads": 804,
+    "downloads": 810,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1964,7 +2032,7 @@
     "authorId": "356847",
     "uploadDate": "22 Aug 2026, 01:51",
     "version": "37",
-    "downloads": 150175,
+    "downloads": 150195,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1998,7 +2066,7 @@
     "authorId": "2075576",
     "uploadDate": "21 Aug 2026, 08:21",
     "version": "11",
-    "downloads": 2897,
+    "downloads": 2902,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2032,7 +2100,7 @@
     "authorId": "341193",
     "uploadDate": "21 Aug 2026, 05:03",
     "version": "3",
-    "downloads": 5350,
+    "downloads": 5372,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2066,11 +2134,11 @@
     "authorId": "6922",
     "uploadDate": "28 Aug 2026, 06:22",
     "version": "5",
-    "downloads": 4254,
+    "downloads": 4279,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 45
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 46
     }
   },
   {
@@ -2100,7 +2168,7 @@
     "authorId": "1981212",
     "uploadDate": "20 Aug 2026, 15:05",
     "version": "21",
-    "downloads": 768,
+    "downloads": 777,
     "rating": {
       "score": null,
       "label": null,
@@ -2134,7 +2202,7 @@
     "authorId": "5566",
     "uploadDate": "20 Aug 2026, 12:47",
     "version": "7",
-    "downloads": 1029464,
+    "downloads": 1029563,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2168,7 +2236,7 @@
     "authorId": "2050504",
     "uploadDate": "20 Aug 2026, 11:44",
     "version": "7",
-    "downloads": 935,
+    "downloads": 936,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2202,7 +2270,7 @@
     "authorId": "414723",
     "uploadDate": "20 Aug 2026, 11:05",
     "version": "13",
-    "downloads": 3534,
+    "downloads": 3541,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2236,7 +2304,7 @@
     "authorId": "2075576",
     "uploadDate": "20 Aug 2026, 07:36",
     "version": "8",
-    "downloads": 3392,
+    "downloads": 3394,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2270,7 +2338,7 @@
     "authorId": "1111579",
     "uploadDate": "20 Aug 2026, 05:28",
     "version": "4",
-    "downloads": 1217,
+    "downloads": 1246,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2304,7 +2372,7 @@
     "authorId": "587116",
     "uploadDate": "20 Aug 2026, 04:01",
     "version": "2",
-    "downloads": 2198,
+    "downloads": 2208,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2338,7 +2406,7 @@
     "authorId": "227382",
     "uploadDate": "19 Aug 2026, 15:20",
     "version": "9",
-    "downloads": 27553,
+    "downloads": 27561,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2372,7 +2440,7 @@
     "authorId": "2119637",
     "uploadDate": "19 Aug 2026, 10:45",
     "version": "4",
-    "downloads": 2686,
+    "downloads": 2699,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2406,7 +2474,7 @@
     "authorId": "2060627",
     "uploadDate": "19 Aug 2026, 08:26",
     "version": "17",
-    "downloads": 6311,
+    "downloads": 6332,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2440,7 +2508,7 @@
     "authorId": "878261",
     "uploadDate": "19 Aug 2026, 04:08",
     "version": "2",
-    "downloads": 1474,
+    "downloads": 1475,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2474,7 +2542,7 @@
     "authorId": "587116",
     "uploadDate": "18 Aug 2026, 21:50",
     "version": "7",
-    "downloads": 10433,
+    "downloads": 10438,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2508,7 +2576,7 @@
     "authorId": "1973241",
     "uploadDate": "18 Aug 2026, 19:12",
     "version": "5",
-    "downloads": 1335,
+    "downloads": 1340,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2542,7 +2610,7 @@
     "authorId": "1021137",
     "uploadDate": "18 Aug 2026, 15:28",
     "version": "5",
-    "downloads": 14503,
+    "downloads": 14524,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2576,7 +2644,7 @@
     "authorId": "1021137",
     "uploadDate": "18 Aug 2026, 15:27",
     "version": "7",
-    "downloads": 41999,
+    "downloads": 42005,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2610,7 +2678,7 @@
     "authorId": "1252908",
     "uploadDate": "18 Aug 2026, 14:29",
     "version": "2",
-    "downloads": 6110,
+    "downloads": 6145,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2644,11 +2712,11 @@
     "authorId": "1021137",
     "uploadDate": "18 Aug 2026, 14:20",
     "version": "16",
-    "downloads": 38767,
+    "downloads": 38800,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 76
+      "count": 77
     }
   },
   {
@@ -2678,7 +2746,7 @@
     "authorId": "682550",
     "uploadDate": "18 Aug 2026, 12:01",
     "version": "2",
-    "downloads": 2067,
+    "downloads": 2084,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -3562,7 +3630,7 @@
     "authorId": "2060627",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "5",
-    "downloads": 2615,
+    "downloads": 2660,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4752,11 +4820,11 @@
     "authorId": "601724",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "4",
-    "downloads": 1971,
+    "downloads": 2015,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 19
+      "count": 20
     }
   },
   {
@@ -5092,11 +5160,11 @@
     "authorId": "601724",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "4",
-    "downloads": 2459,
+    "downloads": 2515,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 20
+      "count": 21
     }
   },
   {
@@ -6260,9 +6328,9 @@
     "name": "VietNam Commercial Pack",
     "url": "https://forum.theotown.com/plugins/list?term=:13895",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=OhEdXlbySKcCsm3QQaYA8oA9aXThNO7W",
-    "description": "The VietNam Commercial Pack. Find: Zones > VietNam Commercial Pack. + BigC Thang Long Supermarket + billboard. + 2 SOC buildings for the shipping company GHTK. + VTV Tower - Vietnam National Television. + Vinh Center. *Night animation: Yes. +More will be updated in the future. Original image credit: @NamVu.",
-    "descriptionHtml": "The VietNam Commercial Pack. Find: Zones &gt; VietNam Commercial Pack.<br>\n+ BigC Thang Long Supermarket + billboard.<br>\n+ 2 SOC buildings for the shipping company GHTK. <br>\n+ VTV Tower - Vietnam National Television.<br>\n+ Vinh Center.<br>\n*Night animation: Yes.<br>\n+More will be updated in the future.<br>\nOriginal image credit: @NamVu.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=FceS6VWAPIOOjYXvEhTnhAe1xJKoysz1",
+    "description": "*Upgrade image* The VietNam Commercial Pack. Find: Zones > VietNam Commercial Pack. + BigC Thang Long Supermarket & billboard. + 2 SOC buildings for the shipping company GHTK. + VTV Tower - Vietnam National Television. + Vinh Center. *Night animation: Yes. +More will be updated in the future. Original image credit: @NamVu. Detailed editing + Night animation + plugin packaging: YinDreamX.",
+    "descriptionHtml": "*Upgrade image*<br>\nThe VietNam Commercial Pack. Find: Zones &gt; VietNam Commercial Pack.<br>\n+ BigC Thang Long Supermarket &amp; billboard.<br>\n+ 2 SOC buildings for the shipping company GHTK. <br>\n+ VTV Tower - Vietnam National Television.<br>\n+ Vinh Center.<br>\n*Night animation: Yes.<br>\n+More will be updated in the future.<br>\nOriginal image credit: @NamVu.<br>\nDetailed editing + Night animation + plugin packaging: YinDreamX.",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -6274,15 +6342,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "232.1KB",
-      "bytes": 237670
+      "raw": "242.68KB",
+      "bytes": 248504
     },
     "minVersion": "Any",
     "author": "yinx",
     "authorId": "2060627",
-    "uploadDate": "25 Jul 2026, 15:54",
-    "version": "18",
-    "downloads": 5024,
+    "uploadDate": "12 Sep 2026, 10:41",
+    "version": "20",
+    "downloads": 5556,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -7812,7 +7880,7 @@
     "authorId": "2082181",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "7",
-    "downloads": 1381,
+    "downloads": 1399,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8968,11 +9036,11 @@
     "authorId": "2060627",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "4",
-    "downloads": 10520,
+    "downloads": 10574,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 38
+      "count": 39
     }
   },
   {
@@ -9206,7 +9274,7 @@
     "authorId": "2043384",
     "uploadDate": "28 Aug 2026, 01:45",
     "version": "4",
-    "downloads": 4566,
+    "downloads": 4583,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -9487,12 +9555,12 @@
   },
   {
     "id": "14197",
-    "name": "GUANGZHOU TecnoCore Plaza",
+    "name": "Guangzhou TecnoCore Plaza",
     "url": "https://forum.theotown.com/plugins/list?term=:14197",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=euVrphcluhFFxXXl9f3qTssH0ABD7VP2",
-    "description": "This building, which captivates observers with a modern design that widens as it rises, serves as TecnoCore's Guangzhou headquarters. Located in one of the city's major financial districts, it features a high-tech, fully illuminated façade that serves as a canvas for light shows. Meticulously designed to bring a touch of the Far East to the city, TecnoCore Plaza is a magnificent commercial complex distinguished by its superior architecture and a workforce of 5,100 employees. 2026, TR plugins. Developed using Phase 8 technology.",
-    "descriptionHtml": "This building, which captivates observers with a modern design that widens as it rises, serves as TecnoCore's Guangzhou headquarters. Located in one of the city's major financial districts, it features a high-tech, fully illuminated façade that serves as a canvas for light shows. Meticulously designed to bring a touch of the Far East to the city, TecnoCore Plaza is a magnificent commercial complex distinguished by its superior architecture and a workforce of 5,100 employees.<br>\n<br>\n 2026, TR plugins. Developed using Phase 8 technology.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Sn0uoXhX8gRdWoFm48fG2lowj2wOusC9",
+    "description": "Captivating observers with a modern design that widens as it rises, this building serves as TecnoCore's headquarters in Guangzhou. While its fully illuminated, high-tech façade hosts light shows, the building's vast financial spaces cater to the city's commercial needs. Meticulously designed to bring a touch of the Far East to your city, TecnoCore Plaza is a highly profitable commercial skyscraper featuring superior architecture and a workforce of 5,270 employees. UPDATE: Noise has been added to the structure's surface. Saturation and blurriness issues have been resolved. Nighttime animation has been improved. Unnecessary pixels have been removed. Shading problems have been fixed. Brightness has been readjusted. The asset's cover image and description have been updated. NOTE: This is the first and final asset in our \"China\" series to receive an update at this time. You can contact us via the TR pro forum account for assistance or collaboration. Do you have an asset suggestion? Our Instagram account: trpro_official_ 2026, TR plugins. Updated with Phase 9.5 technology.",
+    "descriptionHtml": "Captivating observers with a modern design that widens as it rises, this building serves as TecnoCore's headquarters in Guangzhou. While its fully illuminated, high-tech façade hosts light shows, the building's vast financial spaces cater to the city's commercial needs. Meticulously designed to bring a touch of the Far East to your city, TecnoCore Plaza is a highly profitable commercial skyscraper featuring superior architecture and a workforce of 5,270 employees. <br>\n<br>\nUPDATE: Noise has been added to the structure's surface. Saturation and blurriness issues have been resolved. Nighttime animation has been improved. Unnecessary pixels have been removed. Shading problems have been fixed. Brightness has been readjusted. The asset's cover image and description have been updated. <br>\n<br>\nNOTE: This is the first and final asset in our \"China\" series to receive an update at this time. <br>\n<br>\nYou can contact us via the TR pro forum account for assistance or collaboration. Do you have an asset suggestion? Our Instagram account: trpro_official_ <br>\n<br>\n2026, TR plugins. Updated with Phase 9.5 technology.",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -9504,19 +9572,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "142.08KB",
-      "bytes": 145490
+      "raw": "190.46KB",
+      "bytes": 195031
     },
-    "minVersion": "Any",
+    "minVersion": "2",
     "author": "[TR] pro",
     "authorId": "1117299",
-    "uploadDate": "03 Jul 2026, 15:55",
-    "version": "2",
-    "downloads": 3795,
+    "uploadDate": "12 Sep 2026, 10:41",
+    "version": "4",
+    "downloads": 4148,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -10736,7 +10804,7 @@
     "authorId": "2082181",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "30",
-    "downloads": 8055,
+    "downloads": 8073,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -15869,7 +15937,7 @@
     "authorId": "2050504",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "8",
-    "downloads": 5134,
+    "downloads": 5145,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -22669,7 +22737,7 @@
     "authorId": "1169481",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "5",
-    "downloads": 14005,
+    "downloads": 14030,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -25219,7 +25287,7 @@
     "authorId": "149434",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "9",
-    "downloads": 7459,
+    "downloads": 7469,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -38476,7 +38544,7 @@
     "authorId": "1117299",
     "uploadDate": "28 Aug 2026, 12:36",
     "version": "4",
-    "downloads": 8411,
+    "downloads": 8419,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -40116,12 +40184,12 @@
   },
   {
     "id": "11691",
-    "name": "BEACH Hotel",
+    "name": "Beach Hotel",
     "url": "https://forum.theotown.com/plugins/list?term=:11691",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=X6Ff4cKDj3HQf4VM67dJvBIomoTSLKRO",
-    "description": "Introducing the BEACH Hotel, with its iconic design and glass facade. It's also the second addition to my The SUMMER series, featuring summer-themed structures! Enjoy.",
-    "descriptionHtml": "Introducing the BEACH Hotel, with its iconic design and glass facade. It's also the second addition to my The SUMMER series, featuring summer-themed structures! Enjoy.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=mmltqulexsGXaMjZO2aMHELfdwDTWBc0",
+    "description": "Hotels are, of course, the most essential elements of prime holiday destinations. The BEACH hotel is a magnificent hotel and holiday resort featuring spacious first-class suites, buffet dining, valet parking services, and a massive staff. I am confident you will appreciate its impeccable facilities and extensive workforce. UPDATE: Issues regarding saturation and blurriness have been resolved. Graphical errors have been fixed. The description and cover photo have been updated. Ambient noise and nighttime entertainment animations have been added. You can contact us via the TR pro account on the forums for assistance or collaboration. Do you have an add-on suggestion? Check out our Instagram account: trpro_official_ 2026, TR plugins. Updated with Phase 9.5 technology.",
+    "descriptionHtml": "Hotels are, of course, the most essential elements of prime holiday destinations. The BEACH hotel is a magnificent hotel and holiday resort featuring spacious first-class suites, buffet dining, valet parking services, and a massive staff. I am confident you will appreciate its impeccable facilities and extensive workforce. <br>\n<br>\nUPDATE: Issues regarding saturation and blurriness have been resolved. Graphical errors have been fixed. The description and cover photo have been updated. Ambient noise and nighttime entertainment animations have been added. <br>\n<br>\nYou can contact us via the TR pro account on the forums for assistance or collaboration. Do you have an add-on suggestion? Check out our Instagram account: trpro_official_ <br>\n<br>\n2026, TR plugins. Updated with Phase 9.5 technology.",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -40133,15 +40201,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "12.32KB",
-      "bytes": 12616
+      "raw": "154.74KB",
+      "bytes": 158454
     },
-    "minVersion": "Any",
+    "minVersion": "2",
     "author": "[TR] pro",
     "authorId": "1117299",
-    "uploadDate": "08 Jan 2026, 07:05",
-    "version": "2",
-    "downloads": 17035,
+    "uploadDate": "12 Sep 2026, 10:41",
+    "version": "4",
+    "downloads": 17209,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -41204,15 +41272,15 @@
   },
   {
     "id": "11621",
-    "name": "SEASİDE Hotel",
+    "name": "SeaSide Hotel",
     "url": "https://forum.theotown.com/plugins/list?term=:11621",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=GuapGu72oPjRPdIkW1aSlKQOTzsRrnfX",
-    "description": "Introducing the stunning SEASIDE Hotel! With its high floors, dark exterior, and wealthy population of 2500, I'm sure you'll love it. Furthermore, this building is the first in my The SUMMER series, featuring summer-themed structures. Enjoy the extension!",
-    "descriptionHtml": "Introducing the stunning SEASIDE Hotel! With its high floors, dark exterior, and wealthy population of 2500, I'm sure you'll love it. Furthermore, this building is the first in my The SUMMER series, featuring summer-themed structures. Enjoy the extension!",
-    "category": "Residential",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=DRatgbovcI47F2Ue4Yhbq51baj6BA9w8",
+    "description": "The SeaSide Hotel is a magnificent structure featuring luxury rooms, sophisticated interior design, a top-tier staff, a spacious lobby, and stunning architecture. It is a unique build boasting a 3,480-person workforce, impeccable flooring, intricate exterior detailing, and night-time animations! UPDATE: Issues regarding saturation, brightness, and blurriness have been resolved. Graphical errors have been fixed. Night-time animations have been added. The cover photo and add-on description have been updated. The diamond cost has been reduced. Noise and shading effects have been added. You can contact us via the TR pro account on the forums for assistance or collaboration. Do you have an add-on suggestion? Check out our Instagram account: trpro_official_ 2026, TR plugins. Updated with Phase 9.5 technology.",
+    "descriptionHtml": "The SeaSide Hotel is a magnificent structure featuring luxury rooms, sophisticated interior design, a top-tier staff, a spacious lobby, and stunning architecture. It is a unique build boasting a 3,480-person workforce, impeccable flooring, intricate exterior detailing, and night-time animations! <br>\n<br>\nUPDATE: Issues regarding saturation, brightness, and blurriness have been resolved. Graphical errors have been fixed. Night-time animations have been added. The cover photo and add-on description have been updated. The diamond cost has been reduced. Noise and shading effects have been added. <br>\n<br>\nYou can contact us via the TR pro account on the forums for assistance or collaboration. Do you have an add-on suggestion? Check out our Instagram account: trpro_official_ <br>\n<br>\n2026, TR plugins. Updated with Phase 9.5 technology.",
+    "category": "Commercial",
     "price": {
-      "amount": 40,
+      "amount": 30,
       "currency": "diamonds"
     },
     "platforms": [
@@ -41221,15 +41289,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "28.29KB",
-      "bytes": 28969
+      "raw": "140.89KB",
+      "bytes": 144271
     },
-    "minVersion": "Any",
+    "minVersion": "2",
     "author": "[TR] pro",
     "authorId": "1117299",
-    "uploadDate": "26 Dec 2025, 15:56",
-    "version": "2",
-    "downloads": 7665,
+    "uploadDate": "12 Sep 2026, 10:41",
+    "version": "4",
+    "downloads": 7781,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -41637,11 +41705,11 @@
     "authorId": "601724",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "8",
-    "downloads": 14677,
+    "downloads": 14745,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 72
+      "count": 73
     }
   },
   {
@@ -46839,11 +46907,11 @@
     "authorId": "756209",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "10",
-    "downloads": 113868,
+    "downloads": 113909,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 315
+      "count": 316
     }
   },
   {
@@ -49932,7 +50000,7 @@
     "authorId": "1021137",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "16",
-    "downloads": 71517,
+    "downloads": 71555,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -102386,7 +102454,7 @@
     "authorId": "113059",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "5",
-    "downloads": 17516,
+    "downloads": 17517,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",

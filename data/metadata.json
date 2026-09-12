@@ -1,12 +1,13 @@
 {
-  "scrapeDate": "2026-09-12T04:31:04.756Z",
-  "totalPlugins": 4946,
+  "scrapeDate": "2026-09-12T10:42:16.326Z",
+  "totalPlugins": 4948,
   "totalPages": 5,
-  "totalDownloads": 430457480,
+  "totalDownloads": 430461808,
   "certifiedCreators": 561,
   "categoryStats": {
-    "Commercial": 1147,
+    "Other": 201,
     "Residential": 772,
+    "Commercial": 1148,
     "Parks, Sports and Management": 350,
     "Award and Special": 386,
     "Religion and Culture": 261,
@@ -16,7 +17,6 @@
     "Service (Police, Health Care, Education,...)": 231,
     "Transport": 264,
     "Industrial": 125,
-    "Other": 200,
     "Military": 42,
     "Official Game Extensions": 8,
     "Trees": 88,
@@ -30,8 +30,8 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY POSITIVE": 2051,
-    "POSITIVE": 2571,
+    "VERY POSITIVE": 2054,
+    "POSITIVE": 2569,
     "MIXED": 284,
     "NEGATIVE": 36
   },
