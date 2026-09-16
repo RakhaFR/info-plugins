@@ -1,8 +1,8 @@
 {
-  "scrapeDate": "2026-09-16T11:27:58.670Z",
+  "scrapeDate": "2026-09-16T16:51:06.332Z",
   "totalPlugins": 4948,
   "totalPages": 5,
-  "totalDownloads": 430515145,
+  "totalDownloads": 430517646,
   "certifiedCreators": 561,
   "categoryStats": {
     "Other": 201,
@@ -30,9 +30,9 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY POSITIVE": 2051,
+    "VERY POSITIVE": 2052,
     "MIXED": 285,
-    "POSITIVE": 2573,
+    "POSITIVE": 2572,
     "NEGATIVE": 36
   },
   "source": "https://forum.theotown.com/plugins/list"
