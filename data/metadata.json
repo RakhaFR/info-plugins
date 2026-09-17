@@ -1,20 +1,20 @@
 {
-  "scrapeDate": "2026-09-17T04:49:05.241Z",
-  "totalPlugins": 4954,
+  "scrapeDate": "2026-09-17T11:37:23.389Z",
+  "totalPlugins": 4957,
   "totalPages": 5,
-  "totalDownloads": 430522379,
+  "totalDownloads": 430529128,
   "certifiedCreators": 561,
   "categoryStats": {
+    "Supply (Energy, Water, Waste Disposal)": 85,
+    "Other": 202,
+    "Packs": 283,
     "Residential": 773,
     "Commercial": 1150,
     "Award and Special": 388,
     "Service (Police, Health Care, Education,...)": 232,
-    "Other": 201,
     "Parks, Sports and Management": 350,
     "Religion and Culture": 261,
-    "Packs": 282,
     "Decorations": 422,
-    "Supply (Energy, Water, Waste Disposal)": 84,
     "Transport": 264,
     "Industrial": 125,
     "Military": 42,
@@ -30,7 +30,8 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY POSITIVE": 2054,
+    "VERY POSITIVE": 2055,
+    "VERY NEGATIVE": 1,
     "POSITIVE": 2575,
     "MIXED": 285,
     "NEGATIVE": 36

@@ -1,5 +1,107 @@
 [
   {
+    "id": "14654",
+    "name": "Taeuiil Nuclear Power",
+    "url": "https://forum.theotown.com/plugins/list?term=:14654",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=QC9RtPRofZMNt5fMxLRbbepjFuCeYkZp",
+    "description": "This is an Very realistic simulation of vver 440/319 that its output is 440mw/440.000kw/hr , It cost 9 bilion dollars to built in game But is an strong Power station for powering up your big city.",
+    "descriptionHtml": "This is an Very realistic simulation of vver 440/319 that its output is 440mw/440.000kw/hr , It cost 9 bilion dollars to built in game But is an strong Power station for powering up your big city.",
+    "category": "Supply (Energy, Water, Waste Disposal)",
+    "price": {
+      "amount": 60,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "36.66KB",
+      "bytes": 37540
+    },
+    "minVersion": "1.12.80",
+    "author": "Someonethere",
+    "authorId": "2124354",
+    "uploadDate": "17 Sep 2026, 11:37",
+    "version": "3",
+    "downloads": 10,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14634",
+    "name": "ShipspartII Pack Industrialist",
+    "url": "https://forum.theotown.com/plugins/list?term=:14634",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=fdHnmqftkRwehBaHUUJ9uX4qvX3WpS14",
+    "description": "Ships part II is here! And there are more options too! It's been a couple of months since I uploaded plugins in the store, but I am actively making my upcoming BIGGEST INDUSTRIAL PACK EVER! It wont be soon though as it takes time Please enjoy this in the meantime! The pack includes: - Tugboats - Trawlers - Fishing boats - Dock crane - Oga also known as Francman from Discord ;)",
+    "descriptionHtml": "Ships part II is here! And there are more options too!<br>\nIt's been a couple of months since I uploaded plugins in the store, but I am actively making my upcoming BIGGEST INDUSTRIAL PACK EVER!<br>\nIt wont be soon though as it takes time<br>\nPlease enjoy this in the meantime!<br>\n<br>\n<br>\nThe pack includes:<br>\n - Tugboats<br>\n - Trawlers<br>\n - Fishing boats<br>\n - Dock crane<br>\n<br>\n- Oga also known as Francman from Discord ;)",
+    "category": "Other",
+    "price": {
+      "amount": 40,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "43.55KB",
+      "bytes": 44595
+    },
+    "minVersion": "Any",
+    "author": "Oga",
+    "authorId": "649062",
+    "uploadDate": "17 Sep 2026, 11:37",
+    "version": "4",
+    "downloads": 36,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14668",
+    "name": "Attack on Titan Pack!",
+    "url": "https://forum.theotown.com/plugins/list?term=:14668",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=BvxsCKJix99YWgQO2QJXupUe4fTiWhXO",
+    "description": "Attention, spoilers!!! Attack on Titan is my favorite anime. That's why I decided to make a pack based on it. It features various prominent buildings from cities such as Shiganshina, Trost, and Stohess. Also, with the help of the pack, you can now build legendary walls that protect humanity from the titans, which are also here. Let's give our hearts!",
+    "descriptionHtml": "Attention, spoilers!!!<br>\n<br>\nAttack on Titan is my favorite anime. That's why I decided to make a pack based on it. It features various prominent buildings from cities such as Shiganshina, Trost, and Stohess. Also, with the help of the pack, you can now build legendary walls that protect humanity from the titans, which are also here.  <br>\n<br>\nLet's give our hearts!",
+    "category": "Packs",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "665.51KB",
+      "bytes": 681482
+    },
+    "minVersion": "Any",
+    "author": "Energodarets",
+    "authorId": "922636",
+    "uploadDate": "17 Sep 2026, 11:37",
+    "version": "2",
+    "downloads": 39,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
     "id": "14653",
     "name": "DPRK HOUSE",
     "url": "https://forum.theotown.com/plugins/list?term=:14653",
@@ -26,11 +128,11 @@
     "authorId": "405140",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "2",
-    "downloads": 30,
+    "downloads": 57,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 1.5,
+      "label": "VERY NEGATIVE",
+      "count": 1
     }
   },
   {
@@ -60,7 +162,7 @@
     "authorId": "1111579",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "3",
-    "downloads": 227,
+    "downloads": 379,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -94,11 +196,11 @@
     "authorId": "315683",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "2",
-    "downloads": 126,
+    "downloads": 239,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 2
     }
   },
   {
@@ -128,7 +230,7 @@
     "authorId": "1019836",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "3",
-    "downloads": 276,
+    "downloads": 479,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -162,11 +264,11 @@
     "authorId": "1019836",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "2",
-    "downloads": 282,
+    "downloads": 498,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 5
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 7
     }
   },
   {
@@ -196,11 +298,11 @@
     "authorId": "682550",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "2",
-    "downloads": 60,
+    "downloads": 118,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
     }
   },
   {
@@ -230,7 +332,7 @@
     "authorId": "1931483",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "2",
-    "downloads": 847,
+    "downloads": 872,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -264,7 +366,7 @@
     "authorId": "587116",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "2",
-    "downloads": 883,
+    "downloads": 900,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -298,7 +400,7 @@
     "authorId": "878261",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "3",
-    "downloads": 466,
+    "downloads": 476,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -332,11 +434,11 @@
     "authorId": "6922",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "3",
-    "downloads": 2256,
+    "downloads": 2303,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 20
+      "count": 21
     }
   },
   {
@@ -366,7 +468,7 @@
     "authorId": "2060627",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "2",
-    "downloads": 828,
+    "downloads": 844,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -400,7 +502,7 @@
     "authorId": "682550",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "2",
-    "downloads": 1040,
+    "downloads": 1063,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -434,7 +536,7 @@
     "authorId": "770316",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "2",
-    "downloads": 1362,
+    "downloads": 1388,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -468,11 +570,11 @@
     "authorId": "149434",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "3",
-    "downloads": 3369,
+    "downloads": 3412,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -502,7 +604,7 @@
     "authorId": "171359",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "3",
-    "downloads": 3304,
+    "downloads": 3419,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -536,11 +638,11 @@
     "authorId": "171359",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "9",
-    "downloads": 1912,
+    "downloads": 1992,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 8
+      "count": 9
     }
   },
   {
@@ -570,7 +672,7 @@
     "authorId": "481062",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "3",
-    "downloads": 763,
+    "downloads": 772,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -604,7 +706,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 1069,
+    "downloads": 1078,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -638,7 +740,7 @@
     "authorId": "481062",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 1117,
+    "downloads": 1130,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -672,7 +774,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "3",
-    "downloads": 1921,
+    "downloads": 1946,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -706,7 +808,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "2",
-    "downloads": 2453,
+    "downloads": 2473,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -740,7 +842,7 @@
     "authorId": "2050504",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 539,
+    "downloads": 554,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -774,7 +876,7 @@
     "authorId": "756209",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 3594,
+    "downloads": 3631,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -808,7 +910,7 @@
     "authorId": "315683",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 1095,
+    "downloads": 1103,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -842,7 +944,7 @@
     "authorId": "1269221",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "5",
-    "downloads": 2322,
+    "downloads": 2351,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -876,7 +978,7 @@
     "authorId": "587116",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 1494,
+    "downloads": 1506,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -910,7 +1012,7 @@
     "authorId": "6922",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "4",
-    "downloads": 1919,
+    "downloads": 1939,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -944,7 +1046,7 @@
     "authorId": "682550",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 1687,
+    "downloads": 1703,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -978,7 +1080,7 @@
     "authorId": "6922",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 3572,
+    "downloads": 3672,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1012,11 +1114,11 @@
     "authorId": "952975",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 929,
+    "downloads": 939,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 6
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 7
     }
   },
   {
@@ -1046,7 +1148,7 @@
     "authorId": "341193",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "2",
-    "downloads": 5042,
+    "downloads": 5127,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1182,7 @@
     "authorId": "6922",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "5",
-    "downloads": 7098,
+    "downloads": 7228,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1114,7 +1216,7 @@
     "authorId": "1156629",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "4",
-    "downloads": 1861,
+    "downloads": 1871,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1250,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "13",
-    "downloads": 764,
+    "downloads": 774,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1182,7 +1284,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "2",
-    "downloads": 1068,
+    "downloads": 1087,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1216,7 +1318,7 @@
     "authorId": "6922",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "5",
-    "downloads": 5527,
+    "downloads": 5548,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1250,7 +1352,7 @@
     "authorId": "682550",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 971,
+    "downloads": 975,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1284,7 +1386,7 @@
     "authorId": "6922",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "3",
-    "downloads": 3819,
+    "downloads": 3839,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1318,7 +1420,7 @@
     "authorId": "2082181",
     "uploadDate": "25 Aug 2026, 18:22",
     "version": "4",
-    "downloads": 1824,
+    "downloads": 1832,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1352,7 +1454,7 @@
     "authorId": "682550",
     "uploadDate": "26 Aug 2026, 15:28",
     "version": "2",
-    "downloads": 925,
+    "downloads": 934,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1386,7 +1488,7 @@
     "authorId": "683743",
     "uploadDate": "26 Aug 2026, 16:17",
     "version": "7",
-    "downloads": 6251,
+    "downloads": 6370,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1522,7 @@
     "authorId": "878261",
     "uploadDate": "26 Aug 2026, 20:11",
     "version": "2",
-    "downloads": 1797,
+    "downloads": 1808,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1454,7 +1556,7 @@
     "authorId": "862856",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 2006,
+    "downloads": 2019,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1488,7 +1590,7 @@
     "authorId": "1931483",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "2",
-    "downloads": 1673,
+    "downloads": 1694,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1522,7 +1624,7 @@
     "authorId": "2075576",
     "uploadDate": "26 Aug 2026, 09:47",
     "version": "2",
-    "downloads": 1791,
+    "downloads": 1810,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1556,7 +1658,7 @@
     "authorId": "1249060",
     "uploadDate": "25 Aug 2026, 17:38",
     "version": "4",
-    "downloads": 4931,
+    "downloads": 4952,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1590,7 +1692,7 @@
     "authorId": "1981212",
     "uploadDate": "2 Sep 2026, 11:14",
     "version": "14",
-    "downloads": 3501,
+    "downloads": 3525,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1624,7 +1726,7 @@
     "authorId": "1246123",
     "uploadDate": "25 Aug 2026, 08:57",
     "version": "9",
-    "downloads": 13601,
+    "downloads": 13617,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1658,7 +1760,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:02",
     "version": "7",
-    "downloads": 25397,
+    "downloads": 25415,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1692,7 +1794,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:01",
     "version": "7",
-    "downloads": 11988,
+    "downloads": 11995,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1726,7 +1828,7 @@
     "authorId": "1117299",
     "uploadDate": "25 Aug 2026, 08:00",
     "version": "5",
-    "downloads": 10917,
+    "downloads": 10928,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1760,7 +1862,7 @@
     "authorId": "1931483",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "6",
-    "downloads": 4975,
+    "downloads": 4993,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1794,7 +1896,7 @@
     "authorId": "2051509",
     "uploadDate": "24 Aug 2026, 22:07",
     "version": "4",
-    "downloads": 2803,
+    "downloads": 2814,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1828,7 +1930,7 @@
     "authorId": "425553",
     "uploadDate": "24 Aug 2026, 10:36",
     "version": "7",
-    "downloads": 6334,
+    "downloads": 6353,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1862,7 +1964,7 @@
     "authorId": "878261",
     "uploadDate": "24 Aug 2026, 02:11",
     "version": "6",
-    "downloads": 11393,
+    "downloads": 11469,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1896,7 +1998,7 @@
     "authorId": "682550",
     "uploadDate": "23 Aug 2026, 19:53",
     "version": "4",
-    "downloads": 3284,
+    "downloads": 3310,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1930,7 +2032,7 @@
     "authorId": "2158880",
     "uploadDate": "23 Aug 2026, 17:20",
     "version": "4",
-    "downloads": 2547,
+    "downloads": 2577,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1964,7 +2066,7 @@
     "authorId": "2158880",
     "uploadDate": "23 Aug 2026, 17:04",
     "version": "3",
-    "downloads": 2923,
+    "downloads": 2948,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1998,7 +2100,7 @@
     "authorId": "1019836",
     "uploadDate": "23 Aug 2026, 16:14",
     "version": "6",
-    "downloads": 20391,
+    "downloads": 20402,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2032,7 +2134,7 @@
     "authorId": "756209",
     "uploadDate": "23 Aug 2026, 16:04",
     "version": "2",
-    "downloads": 8988,
+    "downloads": 9009,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2066,7 +2168,7 @@
     "authorId": "2119637",
     "uploadDate": "23 Aug 2026, 10:47",
     "version": "4",
-    "downloads": 4278,
+    "downloads": 4297,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2100,7 +2202,7 @@
     "authorId": "1033436",
     "uploadDate": "22 Aug 2026, 18:50",
     "version": "2",
-    "downloads": 973,
+    "downloads": 982,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2134,7 +2236,7 @@
     "authorId": "2158880",
     "uploadDate": "22 Aug 2026, 18:16",
     "version": "2",
-    "downloads": 3331,
+    "downloads": 3382,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2338,11 +2440,11 @@
     "authorId": "6922",
     "uploadDate": "28 Aug 2026, 06:22",
     "version": "5",
-    "downloads": 4847,
+    "downloads": 4858,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 50
+      "count": 51
     }
   },
   {
@@ -2372,7 +2474,7 @@
     "authorId": "1981212",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "22",
-    "downloads": 1272,
+    "downloads": 1308,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3834,7 +3936,7 @@
     "authorId": "2060627",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "5",
-    "downloads": 3073,
+    "downloads": 3095,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4072,7 +4174,7 @@
     "authorId": "1021137",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "14",
-    "downloads": 308727,
+    "downloads": 308803,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -5024,7 +5126,7 @@
     "authorId": "601724",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "4",
-    "downloads": 2441,
+    "downloads": 2455,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5364,7 +5466,7 @@
     "authorId": "601724",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "4",
-    "downloads": 2922,
+    "downloads": 2933,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -5853,8 +5955,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:11557",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=NOy6CFQ4aC9iUoKRpTgc9eDC2Zjgm8fp",
-    "description": "Greetings to all my friends ⚡🥷🏻 I present to you a new update for: Ostrovskiy Freight Transport III🌃 New models: 1) GAZ 3302 Blue Flatbed Truck, 6 meters 2) GAZ 3302 White Flatbed Truck, 5 meters 3) GAZ 3302 White Flatbed Truck, with Compressor, 5 meters 4) GAZ 2217 \"Sable\" Old Van, White 5) GAZ 3302 White, Blue Aerial Platform (Corner) 6) GAZ 3302 White, Yellow Aerial Platform 7) Old KamAZ 5511 Dump Truck, Orange 8) GAZ 3302 White Tow Truck. 3rd version 9) JAK K7 Tractor, Black 10) DAF 95 FT Tractor, Faded Blue 11) Volvo FH 16 6x4 2024 Tractor, Dark Gray 12) Volvo FH 16-780 8x4 2024 Tractor, Light Gray 13) GAZ 2217 Old Flatbed, White 14) Sitrak C7H ZZ3316 Dump Truck, White 15) Sitrak C7H 8x4 Cement Mixer, Orange 16) Sitrak C7H 8x4 Cement Mixer, White 17) Renault Magnum AE 1990 Light Gray, Cabin - Light Green Print 18) Renault Magnum AE 1990 Light Gray, Flatbed 19) GAZ 3302 White Bread, 7 meters 20) Old GAZ 3302 Faded Beige Bread with Rust, 5 meters 21) KamAZ 6520 Concrete Mixer, Orange 22) KamAZ 5320 Short Cabin, Gray 23) Daewoo V365T Concrete Mixer, Blue. Two versions 24) ZiL 431510 Extended Flatbed, Blue 25) ZiL 431510 Extended Tarpaulin, Blue 26) ZiL 130 Dump Truck, Blue 27) ZiL 130 Flatbed, Blue 28) ZiL 130 Frame without Tarpaulin, Faded Blue 29) GAZ 3302 Red, Black Booth, 6 meters 30) ZiL 133 GYa Yellow Tanker, Blue 31) ZiL 133 GYa Yellow Tanker, Faded Blue 32) GAZ 2217 \"Sable\" Van, White 33) Daewoo V365T Ultra 8x4 Extended Tarpaulin, White 34) Daewoo V365T Ultra 8x4 Extended Flatbed with Supports, White 35) Asia Granto 10x4 Flatbed with Supports, Carrying Sacks, Faded White 36) Mercedes-Benz Atego 1823 Short Flatbed, White 37) Mercedes-Benz Atego 1823 Short Cabin, White 38) ZIL 133 GYA Cement Mixer, Light Blue 39) ZIL 494360 Garbage Skipper Truck, Dark Blue 40) MAZ 5432 Garbage Skipper Truck, Faded Green 💫Also - New deco elements, Changing \"type\" to \"Decoration\", New in \"Constructor\"",
-    "descriptionHtml": "Greetings to all my friends ⚡🥷🏻<br>\nI present to you a new update for:<br>\nOstrovskiy Freight Transport III🌃<br>\nNew models:<br>\n1) GAZ 3302 Blue Flatbed Truck, 6 meters<br>\n2) GAZ 3302 White Flatbed Truck, 5 meters<br>\n3) GAZ 3302 White Flatbed Truck, with Compressor, 5 meters<br>\n4) GAZ 2217 \"Sable\" Old Van, White<br>\n5) GAZ 3302 White, Blue Aerial Platform (Corner)<br>\n6) GAZ 3302 White, Yellow Aerial Platform<br>\n7) Old KamAZ 5511 Dump Truck, Orange<br>\n8) GAZ 3302 White Tow Truck. 3rd version<br>\n9) JAK K7 Tractor, Black<br>\n10) DAF 95 FT Tractor, Faded Blue<br>\n11) Volvo FH 16 6x4 2024 Tractor, Dark Gray<br>\n12) Volvo FH 16-780 8x4 2024 Tractor, Light Gray<br>\n13) GAZ 2217 Old Flatbed, White<br>\n14) Sitrak C7H ZZ3316 Dump Truck, White<br>\n15) Sitrak C7H 8x4 Cement Mixer, Orange<br>\n16) Sitrak C7H 8x4 Cement Mixer, White<br>\n17) Renault Magnum AE 1990 Light Gray, Cabin - Light Green Print<br>\n18) Renault Magnum AE 1990 Light Gray, Flatbed<br>\n19) GAZ 3302 White Bread, 7 meters<br>\n20) Old GAZ 3302 Faded Beige Bread with Rust, 5 meters<br>\n21) KamAZ 6520 Concrete Mixer, Orange<br>\n22) KamAZ 5320 Short Cabin, Gray<br>\n23) Daewoo V365T Concrete Mixer, Blue. Two versions<br>\n24) ZiL 431510 Extended Flatbed, Blue<br>\n25) ZiL 431510 Extended Tarpaulin, Blue<br>\n26) ZiL 130 Dump Truck, Blue<br>\n27) ZiL 130 Flatbed, Blue<br>\n28) ZiL 130 Frame without Tarpaulin, Faded Blue<br>\n29) GAZ 3302 Red, Black Booth, 6 meters<br>\n30) ZiL 133 GYa Yellow Tanker, Blue<br>\n31) ZiL 133 GYa Yellow Tanker, Faded Blue<br>\n32) GAZ 2217 \"Sable\" Van, White<br>\n33) Daewoo V365T Ultra 8x4 Extended Tarpaulin, White<br>\n34) Daewoo V365T Ultra 8x4 Extended Flatbed with Supports, White<br>\n35) Asia Granto 10x4 Flatbed with Supports, Carrying Sacks, Faded White<br>\n36) Mercedes-Benz Atego 1823 Short Flatbed, White<br>\n37) Mercedes-Benz Atego 1823 Short Cabin, White<br>\n38) ZIL 133 GYA Cement Mixer, Light Blue<br>\n39) ZIL 494360 Garbage Skipper Truck, Dark Blue<br>\n40) MAZ 5432 Garbage Skipper Truck, Faded Green<br>\n💫Also - New deco elements, Changing \"type\" to \"Decoration\", New in \"Constructor\"",
+    "description": "Greetings to all my friends ⚡🥷🏻 I present to you a new update for: Ostrovskiy Freight Transport III🌃 Road Decorations have appeared in the plugin‼️💫 179 Models of Transport received their versions in the form of Road Deco💪🏻 KamAZ, Hino, Mercedes-Benz, Sitrak, GAZelles. You can now park as you want and where you want💪🏻⚡ Credits: I would like to thank Koudi. For a lot of help with the plugin and support💪🏻💫",
+    "descriptionHtml": "Greetings to all my friends ⚡🥷🏻<br>\nI present to you a new update for:<br>\nOstrovskiy Freight Transport III🌃<br>\n<br>\nRoad Decorations have appeared in the plugin‼️💫<br>\n<br>\n179 Models of Transport received their versions in the form of Road Deco💪🏻<br>\n<br>\nKamAZ, Hino, Mercedes-Benz, Sitrak, GAZelles. You can now park as you want and where you want💪🏻⚡<br>\n<br>\nCredits: I would like to thank Koudi. For a lot of help with the plugin and support💪🏻💫",
     "category": "Transport",
     "price": {
       "amount": 30,
@@ -5866,19 +5968,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "1.97MB",
-      "bytes": 2065695
+      "raw": "2.29MB",
+      "bytes": 2401239
     },
     "minVersion": "Any",
     "author": "Ostrovsk",
     "authorId": "601724",
-    "uploadDate": "30 Jul 2026, 12:51",
-    "version": "18",
-    "downloads": 48943,
+    "uploadDate": "17 Sep 2026, 11:37",
+    "version": "21",
+    "downloads": 50901,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 191
+      "count": 203
     }
   },
   {
@@ -6554,7 +6656,7 @@
     "authorId": "2060627",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "20",
-    "downloads": 5882,
+    "downloads": 5895,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -8084,7 +8186,7 @@
     "authorId": "2082181",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "7",
-    "downloads": 1679,
+    "downloads": 1688,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9240,7 +9342,7 @@
     "authorId": "2060627",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "4",
-    "downloads": 11375,
+    "downloads": 11389,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -9478,7 +9580,7 @@
     "authorId": "2043384",
     "uploadDate": "28 Aug 2026, 01:45",
     "version": "4",
-    "downloads": 4791,
+    "downloads": 4805,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -9784,11 +9886,11 @@
     "authorId": "1117299",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "4",
-    "downloads": 5028,
+    "downloads": 5048,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -11008,7 +11110,7 @@
     "authorId": "2082181",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "30",
-    "downloads": 8366,
+    "downloads": 8375,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -15189,7 +15291,7 @@
     "authorId": "611868",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "13",
-    "downloads": 31815,
+    "downloads": 31985,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -15678,8 +15780,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:10040",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=vv8kD6ZYx5dkCT2b6UphPcuPdpOa6QP7",
-    "description": "Greetings everyone! I present the first and rather major update for \"Ostrovsk Public Transport III\"⚫🎊 now 426 Transport models from all CIS countries and the World👍🏻🥷🏻 ‼️Night Animation‼️ absolutely on All available transport‼️ I would like to express my gratitude to a good person - Jaforzem, for his help and contribution!💫 New 16 models: 1) Tatra KT4SU White-Red - 2) Tatra KT4SU White and Blue - 3) 71-605 Lugansk Print - 4) Solaris Urbino IV 12 Medcom, white and blue - 5) 71-605A Print Smolensk - 6) RTEC 6243303M1 Chisinau Print - 7) MAZ 216.047 Yellow - 8) OstAZ 3205 \"Venger\" Green - 9) OstAZ 2606 \"Over\" White - 10) Simaz 2258 Restyling, Ulyanovsk Print - 11) 71-605U White Blueberry - 12) GalaAZ 3207.05 \"Victoria\", Odessa Print - 13) 71-605 White-Yellow - 14) Ford Transit FBD Grey - 15) Tatra T3SU two-door, white and blue Now in the plugin - 426 Models💪🏻🌆 Also new... Road decorations‼️⚡ Yes. Now I'll be slowly making Road Deco💡✨ If I'm lucky, at least half of what I have😁 The first ones to go are the Trams🚋🌆 New Road Decorations: 1) 71-134A LM99AV 2) 71-407 3) 71-605 Dnepr Print 4) 71-605 Nizhny Novgorod Print 5) 71-605U 6) 71-605U White 7) 71-605U White and Blue 8) 71-605U White and Red 9) 71-608K Yellow and Red 10) 71-619A Novosibirsk Print 11) 71-619KU 12) 71-623-04 Chelyabinsk Print 13) 71-623-04 Krasnodar Print 14) 71-628-02 St. Petersburg Print 15) 71-628M Krasnoyarsk Print 16) 71-628M Taganrog Print 17) 71-911E \"City Star\" 18) 71-911EM \"Lion Cub\" Ostrovsk Print 19) 71-911EM \"Lion Cub\" 20) BKM 60102 21) BKM T811 \"Minin\" 22) T3 KvP OD Odyssey 23) Tatra T3SU Two-Door 24) Tatra T3SU 25) Tatra T6B5SU 26) Tatra T6B5SU White and Red In the future, I'll add other Dor.Deco models if possible 🥷🏻💡👍🏻",
-    "descriptionHtml": "Greetings everyone!<br>\nI present the first and rather major update for \"Ostrovsk Public Transport III\"⚫🎊<br>\nnow 426 Transport models from all CIS countries and the World👍🏻🥷🏻<br>\n‼️Night Animation‼️ absolutely on All available transport‼️ <br>\nI would like to express my gratitude to a good person - Jaforzem, for his help and contribution!💫<br>\n<br>\nNew 16 models:<br>\n1) Tatra KT4SU White-Red<br>\n-<br>\n2) Tatra KT4SU White and Blue<br>\n-<br>\n3) 71-605 Lugansk Print<br>\n-<br>\n4) Solaris Urbino IV 12 Medcom, white and blue<br>\n-<br>\n5) 71-605A Print Smolensk<br>\n-<br>\n6) RTEC 6243303M1 Chisinau Print<br>\n-<br>\n7) MAZ 216.047 Yellow<br>\n-<br>\n8) OstAZ 3205 \"Venger\" Green<br>\n-<br>\n9) OstAZ 2606 \"Over\" White<br>\n-<br>\n10) Simaz 2258 Restyling, Ulyanovsk Print<br>\n-<br>\n11) 71-605U White Blueberry<br>\n-<br>\n12) GalaAZ 3207.05 \"Victoria\", Odessa Print<br>\n-<br>\n13) 71-605 White-Yellow<br>\n-<br>\n14) Ford Transit FBD Grey<br>\n-<br>\n15) Tatra T3SU two-door, white and blue<br>\n<br>\nNow in the plugin - 426 Models💪🏻🌆<br>\n<br>\nAlso new...<br>\nRoad decorations‼️⚡<br>\nYes. Now I'll be slowly making Road Deco💡✨<br>\nIf I'm lucky, at least half of what I have😁<br>\nThe first ones to go are the Trams🚋🌆<br>\nNew Road Decorations:<br>\n1) 71-134A LM99AV<br>\n2) 71-407<br>\n3) 71-605 Dnepr Print<br>\n4) 71-605 Nizhny Novgorod Print<br>\n5) 71-605U<br>\n6) 71-605U White<br>\n7) 71-605U White and Blue<br>\n8) 71-605U<br>\nWhite and Red<br>\n9) 71-608K Yellow and Red<br>\n10) 71-619A Novosibirsk Print<br>\n11) 71-619KU<br>\n12) 71-623-04 Chelyabinsk Print<br>\n13) 71-623-04 Krasnodar Print<br>\n14) 71-628-02 St. Petersburg Print<br>\n15) 71-628M Krasnoyarsk Print<br>\n16) 71-628M Taganrog Print<br>\n17) 71-911E \"City Star\"<br>\n18) 71-911EM \"Lion Cub\" Ostrovsk Print<br>\n19) 71-911EM \"Lion Cub\"<br>\n20) BKM 60102<br>\n21) BKM T811 \"Minin\"<br>\n22) T3 KvP OD Odyssey<br>\n23) Tatra T3SU Two-Door<br>\n24) Tatra T3SU<br>\n25) Tatra T6B5SU<br>\n26) Tatra T6B5SU White and Red<br>\nIn the future, I'll add other Dor.Deco models if possible<br>\n🥷🏻💡👍🏻",
+    "description": "Hello to all TheoTown players 💪🏻⚡ I present to you an update to my plugin. This is one of the largest updates ever. For a more detailed list of changes, innovations, and new mechanics, please visit our Discord community: https://discord.gg/avF992zCs 26 vehicle models have been updated. 100 new vehicles have been added. The plugin now features over 500 vehicle models 🎉💫 518 vehicle models now have their own road deco versions🎊🎉💫 Buses, Electric Buses, Minibuses, Trolleybuses, Trams, Articulated Buses, Multi-Section Trams - all vehicles in the plugin have their own \"Road Deco\" versions⚡🥷🏻 Thanks: Koudi🎓 - for all your help in developing the plugin and supporting it⚡ Jaforzem💪🏻 - for help with the articulated buses⚡",
+    "descriptionHtml": "Hello to all TheoTown players 💪🏻⚡<br>\n<br>\nI present to you an update to my plugin. This is one of the largest updates ever.<br>\nFor a more detailed list of changes, innovations, and new mechanics, please visit our Discord community: https://discord.gg/avF992zCs<br>\n<br>\n26 vehicle models have been updated.<br>\n<br>\n100 new vehicles have been added.<br>\n<br>\nThe plugin now features over 500 vehicle models 🎉💫<br>\n<br>\n518 vehicle models now have their own road deco versions🎊🎉💫<br>\n<br>\nBuses, Electric Buses, Minibuses, Trolleybuses, Trams, Articulated Buses, Multi-Section Trams - all vehicles in the plugin have their own \"Road Deco\" versions⚡🥷🏻<br>\n<br>\nThanks:<br>\nKoudi🎓 - for all your help in developing the plugin and supporting it⚡<br>\nJaforzem💪🏻 - for help with the articulated buses⚡",
     "category": "Transport",
     "price": {
       "amount": 30,
@@ -15691,19 +15793,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "1.54MB",
-      "bytes": 1614807
+      "raw": "3.1MB",
+      "bytes": 3250586
     },
     "minVersion": "Any",
     "author": "Ostrovsk",
     "authorId": "601724",
-    "uploadDate": "17 May 2026, 01:01",
-    "version": "43",
-    "downloads": 81561,
+    "uploadDate": "17 Sep 2026, 11:37",
+    "version": "46",
+    "downloads": 82183,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 485
+      "count": 493
     }
   },
   {
@@ -16141,7 +16243,7 @@
     "authorId": "2050504",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "8",
-    "downloads": 5344,
+    "downloads": 5361,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -21377,11 +21479,11 @@
     "authorId": "10216",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "3",
-    "downloads": 3087,
+    "downloads": 3119,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 24
+      "score": 3,
+      "label": "MIXED",
+      "count": 25
     }
   },
   {
@@ -22647,12 +22749,12 @@
     "name": "Map Edge Pack",
     "url": "https://forum.theotown.com/plugins/list?term=:13466",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=QUmN6ZACwExBczJfPyLV1G9tuU22mNiw",
-    "description": "Version: 1p Map Edge Pack This is a decorative plugin where you could make a fake map edges on existing map with fences and decals,for now it only had single level of elevation,but maybe will be added more in future. Credits: Lobby Divinus,and Just Anyone for in game texture. Offering paid plugin commission: yakkastudiosofficial@gmail.com • https://yakkastds.github.io/ Access Free Version Here: https://yakkaid.itch.io/",
-    "descriptionHtml": "Version: 1p<br>\nMap Edge Pack<br>\n<br>\nThis is a decorative plugin where you could make a fake map edges on existing map with fences and decals,for now it only had single level of elevation,but maybe will be added more in future.<br>\n<br>\nCredits: Lobby Divinus,and Just Anyone for in game texture.<br>\n<br>\nOffering paid plugin commission:<br>\nyakkastudiosofficial@gmail.com • https://yakkastds.github.io/<br>\n<br>\nAccess Free Version Here: https://yakkaid.itch.io/",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=VdUAWZutkEqAYOgcmaT99I74miZYI0g2",
+    "description": "V3 • 7 Sep 2026 Free download is available here: https://yakkaworks.github.io/store/ This is a decorative plugin where you could make a fake map edges on existing map with fences and decals,for now it only had single level of elevation,but maybe will be added more in future. Uses in game world texture. Credit: Lobby and Just Anyone Official Site: https://yakkaworks.github.io/ Customer Support: yakkaworks@gmail.com",
+    "descriptionHtml": "V3 • 7 Sep 2026<br>\n<br>\nFree download is available here:<br>\nhttps://yakkaworks.github.io/store/<br>\n<br>\nThis is a decorative plugin where you could make a fake map edges on existing map with fences and decals,for now it only had single level of elevation,but maybe will be added more in future.<br>\n<br>\nUses in game world texture.<br>\nCredit: Lobby and Just Anyone<br>\n<br>\nOfficial Site:<br>\nhttps://yakkaworks.github.io/<br>\n<br>\nCustomer Support:<br>\nyakkaworks@gmail.com",
     "category": "Decorations",
     "price": {
-      "amount": 30,
+      "amount": 40,
       "currency": "diamonds"
     },
     "platforms": [
@@ -22661,19 +22763,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "23.71KB",
-      "bytes": 24279
+      "raw": "24.03KB",
+      "bytes": 24607
     },
     "minVersion": "1.12.32",
     "author": "Yakka",
     "authorId": "10216",
-    "uploadDate": "04 Apr 2026, 05:01",
-    "version": "2",
-    "downloads": 984,
+    "uploadDate": "17 Sep 2026, 11:37",
+    "version": "4",
+    "downloads": 1032,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 7
+      "count": 8
     }
   },
   {
@@ -22941,7 +23043,7 @@
     "authorId": "1169481",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "5",
-    "downloads": 14425,
+    "downloads": 14438,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -25491,7 +25593,7 @@
     "authorId": "149434",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "9",
-    "downloads": 7650,
+    "downloads": 7656,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -34058,7 +34160,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "4",
-    "downloads": 16983,
+    "downloads": 17028,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -38001,7 +38103,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "3",
-    "downloads": 21309,
+    "downloads": 21340,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -38748,7 +38850,7 @@
     "authorId": "1117299",
     "uploadDate": "28 Aug 2026, 12:36",
     "version": "4",
-    "downloads": 8593,
+    "downloads": 8601,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -40413,7 +40515,7 @@
     "authorId": "1117299",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "4",
-    "downloads": 17971,
+    "downloads": 17994,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -41501,7 +41603,7 @@
     "authorId": "1117299",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "4",
-    "downloads": 8453,
+    "downloads": 8469,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -41909,7 +42011,7 @@
     "authorId": "601724",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "8",
-    "downloads": 15467,
+    "downloads": 15485,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -43915,7 +44017,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "3",
-    "downloads": 12599,
+    "downloads": 12631,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -44901,7 +45003,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "3",
-    "downloads": 11859,
+    "downloads": 11899,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -47111,11 +47213,11 @@
     "authorId": "756209",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "10",
-    "downloads": 114995,
+    "downloads": 115027,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 321
+      "count": 322
     }
   },
   {
@@ -47247,7 +47349,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "4",
-    "downloads": 17568,
+    "downloads": 17609,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -49027,12 +49129,12 @@
     "name": "Discord Background",
     "url": "https://forum.theotown.com/plugins/list?term=:3145",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=S9GWRjtfbERvTuvz5xFZC7UEvL4dAaP1",
-    "description": "Version: 1p Discord Background It's simple as adding discord colored background. Credits: Lobby,and Just Anyone Offering paid plugin commission: yakkastudiosofficial@gmail.com • https://yakkastds.github.io/ Access Free Version Here: https://yakkaid.itch.io/",
-    "descriptionHtml": "Version: 1p<br>\nDiscord Background<br>\n<br>\nIt's simple as adding discord colored background.<br>\n<br>\nCredits: Lobby,and Just Anyone<br>\n<br>\nOffering paid plugin commission:<br>\nyakkastudiosofficial@gmail.com • https://yakkastds.github.io/<br>\n<br>\nAccess Free Version Here: https://yakkaid.itch.io/",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=PflJ32Er8aBchW8UuLwrcIj2Bmpeb58A",
+    "description": "9 • 7 Sep 2026 Free download is available here: https://yakkaworks.github.io/store/ It's simple as adding discord colored background. Uses in game world texture. Credit: Lobby and Just Anyone Official Site: https://yakkaworks.github.io/ Customer Support: yakkaworks@gmail.com",
+    "descriptionHtml": "9 • 7 Sep 2026<br>\n<br>\nFree download is available here:<br>\nhttps://yakkaworks.github.io/store/<br>\n<br>\nIt's simple as adding discord colored background.<br>\nUses in game world texture.<br>\n<br>\nCredit: Lobby and Just Anyone<br>\n<br>\nOfficial Site:<br>\nhttps://yakkaworks.github.io/<br>\n<br>\nCustomer Support:<br>\nyakkaworks@gmail.com",
     "category": "Other",
     "price": {
-      "amount": 30,
+      "amount": 40,
       "currency": "diamonds"
     },
     "platforms": [
@@ -49047,9 +49149,9 @@
     "minVersion": "Any",
     "author": "Yakka",
     "authorId": "10216",
-    "uploadDate": "11 Oct 2025, 04:45",
-    "version": "8",
-    "downloads": 10352,
+    "uploadDate": "17 Sep 2026, 11:37",
+    "version": "10",
+    "downloads": 10487,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -50204,7 +50306,7 @@
     "authorId": "1021137",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "16",
-    "downloads": 71990,
+    "downloads": 72008,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -79149,12 +79251,12 @@
     "name": "Swiss Alps Railway",
     "url": "https://forum.theotown.com/plugins/list?term=:5848",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=RpuwTh3rdDX2WHImTPaOZ5M1KYDImTas",
-    "description": "Swiss Alps Railway Currently this plugin only had few modern swiss locomotive and a retro italian locomotive,with passenger wagons,green and red variation. No station included here. Credits: Lobby TheoTheoderich,and just anyone. For more plugin checkout my website: https://kiki012184.github.io/Yakka.id/",
-    "descriptionHtml": "Swiss Alps Railway<br>\n<br>\nCurrently this plugin only had few modern swiss locomotive and a retro italian locomotive,with passenger wagons,green and red variation. No station included here.<br>\n<br>\nCredits: Lobby TheoTheoderich,and just anyone.<br>\n<br>\nFor more plugin checkout my website:<br>\nhttps://kiki012184.github.io/Yakka.id/",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=ZMRTF6EZBoxs49yqrqkam2K6riM75G8S",
+    "description": "V7 • 8 Aug 2026 Get it for free at: https://yakkaworks.github.io/store/ A Transport plugin which adds handfull of swiss alps themed trains. Credits: Lobby & Just Anyone Official Website: https://yakkaworks.github.io/ Customer Support: yakkaworks@gmail.com",
+    "descriptionHtml": "V7 • 8 Aug 2026<br>\n<br>\nGet it for free at: https://yakkaworks.github.io/store/<br>\n<br>\nA Transport plugin which adds handfull of swiss alps themed trains.<br>\n<br>\nCredits: Lobby &amp; Just Anyone<br>\n<br>\nOfficial Website: https://yakkaworks.github.io/<br>\nCustomer Support: yakkaworks@gmail.com",
     "category": "Transport",
     "price": {
-      "amount": 30,
+      "amount": 50,
       "currency": "diamonds"
     },
     "platforms": [
@@ -79166,16 +79268,16 @@
       "raw": "10.31KB",
       "bytes": 10557
     },
-    "minVersion": "Any",
+    "minVersion": "1.12.50",
     "author": "Yakka",
     "authorId": "10216",
-    "uploadDate": "20 Nov 2023, 03:43",
-    "version": "6",
-    "downloads": 75458,
+    "uploadDate": "17 Sep 2026, 11:37",
+    "version": "10",
+    "downloads": 76159,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 175
+      "count": 178
     }
   },
   {
@@ -102658,7 +102760,7 @@
     "authorId": "113059",
     "uploadDate": "1 Sep 2026, 06:41",
     "version": "5",
-    "downloads": 17597,
+    "downloads": 17600,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
