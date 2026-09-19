@@ -1,8 +1,8 @@
 {
-  "scrapeDate": "2026-09-18T23:17:38.873Z",
+  "scrapeDate": "2026-09-19T04:34:37.110Z",
   "totalPlugins": 4957,
   "totalPages": 5,
-  "totalDownloads": 430546969,
+  "totalDownloads": 430549632,
   "certifiedCreators": 561,
   "categoryStats": {
     "Supply (Energy, Water, Waste Disposal)": 85,
@@ -30,8 +30,8 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "POSITIVE": 2577,
-    "VERY POSITIVE": 2055,
+    "POSITIVE": 2576,
+    "VERY POSITIVE": 2056,
     "MIXED": 286,
     "NEGATIVE": 36
   },
