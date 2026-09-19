@@ -1,8 +1,8 @@
 {
-  "scrapeDate": "2026-09-19T04:34:37.110Z",
+  "scrapeDate": "2026-09-19T10:54:23.704Z",
   "totalPlugins": 4957,
   "totalPages": 5,
-  "totalDownloads": 430549632,
+  "totalDownloads": 430553227,
   "certifiedCreators": 561,
   "categoryStats": {
     "Supply (Energy, Water, Waste Disposal)": 85,
@@ -30,9 +30,9 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "POSITIVE": 2576,
+    "POSITIVE": 2575,
     "VERY POSITIVE": 2056,
-    "MIXED": 286,
+    "MIXED": 287,
     "NEGATIVE": 36
   },
   "source": "https://forum.theotown.com/plugins/list"
