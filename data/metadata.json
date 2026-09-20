@@ -1,13 +1,13 @@
 {
-  "scrapeDate": "2026-09-20T16:02:00.057Z",
-  "totalPlugins": 4963,
+  "scrapeDate": "2026-09-20T20:46:50.322Z",
+  "totalPlugins": 4966,
   "totalPages": 5,
-  "totalDownloads": 430580960,
-  "certifiedCreators": 562,
+  "totalDownloads": 430583483,
+  "certifiedCreators": 563,
   "categoryStats": {
-    "Commercial": 1152,
+    "Commercial": 1154,
+    "Packs": 285,
     "Other": 203,
-    "Packs": 284,
     "Award and Special": 389,
     "Residential": 774,
     "Supply (Energy, Water, Waste Disposal)": 85,
@@ -30,8 +30,9 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY POSITIVE": 2059,
-    "POSITIVE": 2575,
+    "VERY POSITIVE": 2063,
+    "VERY NEGATIVE": 1,
+    "POSITIVE": 2576,
     "MIXED": 286,
     "NEGATIVE": 36
   },
