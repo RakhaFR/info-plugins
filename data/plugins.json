@@ -1,5 +1,379 @@
 [
   {
+    "id": "14676",
+    "name": "Ostrovsk Intercity Transport",
+    "url": "https://forum.theotown.com/plugins/list?term=:14676",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=6UGwajmvr9V8ZQNkH9cmW3oEtWGmawbV",
+    "description": "Hello everyone, friends! I’m introducing a new plugin from the \"Ostrovsk\" series 💫⚡ Ostrovsk Intercity Transport is a new plugin that adds intercity and tourist buses from various countries around the world to the game💪🏻 Initial models: 1) SsangYong TransStar (light blue) 2) SsangYong TransStar (dark blue) 3) SsangYong TransStar (gray) 4) Säffle System 2000 (white and red) 5) Säffle System 2000 (Rostov livery) 6) Säffle System 2000 (with Rostov Region flag) 7) Setra S228DT (blue) 8) Setra S228DT (purple) 9) Setra S228DT (gray) 10) Setra S228DT (green) 11) Setra S228DT (with graphics) 12) Setra S431DT (with graphics) 13) Setra S431DT (dark gray) 14) Setra S431DT (red) 15) Zonda YCK6129HG (purple) 16) Zonda YCK6129HG (pink) 17) Zonda YCK6129HG (white) 18) Neoplan N4026/L3 (white) 19) Neoplan N4026/L3 (white, red, and purple) 20) Neoplan P16 N1218HDL Cityliner L (dark gray) 21) Neoplan P16 N1218HDL Cityliner L (yellow) 22) Neoplan P16 N1218HDL Cityliner L (light blue) 23) Neoplan P16 N1218HDL Cityliner L (turquoise-blue) 24) Yutong C12PRO (ZK6128H) (dark gray) 25) Yutong C12PRO (ZK6128H) (light blue) 26) Yutong C12PRO (ZK6128H) (purple) All models appear in traffic, spawn automatically, and are available in the depot. \"Deco\" and \"Road Deco\" versions are provided for each model, fully compatible with the Road Deco system from the Ostrovsk series. Nighttime animation is implemented🌃💫 Kredits: Koudi — for help and support with the plugin.",
+    "descriptionHtml": "Hello everyone, friends! I’m introducing a new plugin from the \"Ostrovsk\" series 💫⚡<br>\n<br>\nOstrovsk Intercity Transport is a new plugin that adds intercity and tourist buses from various countries around the world to the game💪🏻 <br>\n<br>\nInitial models:<br>\n1) SsangYong TransStar (light blue)<br>\n2) SsangYong TransStar (dark blue)<br>\n3) SsangYong TransStar (gray)<br>\n4) Säffle System 2000 (white and red)<br>\n5) Säffle System 2000 (Rostov livery)<br>\n6) Säffle System 2000 (with Rostov Region flag)<br>\n7) Setra S228DT (blue)<br>\n8) Setra S228DT (purple)<br>\n9) Setra S228DT (gray)<br>\n10) Setra S228DT (green)<br>\n11) Setra S228DT (with graphics)<br>\n12) Setra S431DT (with graphics)<br>\n13) Setra S431DT (dark gray)<br>\n14) Setra S431DT (red)<br>\n15) Zonda YCK6129HG (purple)<br>\n16) Zonda YCK6129HG (pink)<br>\n17) Zonda YCK6129HG (white)<br>\n18) Neoplan N4026/L3 (white)<br>\n19) Neoplan N4026/L3 (white, red, and purple)<br>\n20) Neoplan P16 N1218HDL Cityliner L (dark gray)<br>\n21) Neoplan P16 N1218HDL Cityliner L (yellow)<br>\n22) Neoplan P16 N1218HDL Cityliner L (light blue)<br>\n23) Neoplan P16 N1218HDL Cityliner L (turquoise-blue)<br>\n24) Yutong C12PRO (ZK6128H) (dark gray)<br>\n25) Yutong C12PRO (ZK6128H) (light blue)<br>\n26) Yutong C12PRO (ZK6128H) (purple)<br>\n<br>\nAll models appear in traffic, spawn automatically, and are available in the depot. \"Deco\" and \"Road Deco\" versions are provided for each model, fully compatible with the Road Deco system from the Ostrovsk series. Nighttime animation is implemented🌃💫<br>\n <br>\nKredits: Koudi — for help and support with the plugin.",
+    "category": "Transport",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "207.4KB",
+      "bytes": 212378
+    },
+    "minVersion": "Any",
+    "author": "Ostrovsk",
+    "authorId": "601724",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "1",
+    "downloads": 19,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14687",
+    "name": "You shou yan",
+    "url": "https://forum.theotown.com/plugins/list?term=:14687",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=7aZh8A2Vl62A5qaTsEeS29EGiehOWTKI",
+    "description": "Hello~This is zybsy:3 This plugin offers 2X2-sized mythical creature statues in.It has a certain cultural impact and but not have a night view.",
+    "descriptionHtml": "Hello~This is zybsy:3<br>\nThis plugin offers 2X2-sized mythical creature statues in.It has a certain cultural impact and but not have a night view.<br>",
+    "category": "Other",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "25.8KB",
+      "bytes": 26419
+    },
+    "minVersion": "Any",
+    "author": "zybsy",
+    "authorId": "1252908",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "3",
+    "downloads": 12,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14688",
+    "name": "China Color TV Cent",
+    "url": "https://forum.theotown.com/plugins/list?term=:14688",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=sU6eZdKBm9DQdw72YO8kBnjgHxzKBQ1U",
+    "description": "The Central Color Television Cent. was CCTV’s headquarters from 1988 to 2013, at No. 11 Fuxing Road, Beijing. Size: 15*15; no night view.",
+    "descriptionHtml": "The Central Color Television Cent. was CCTV’s headquarters from 1988 to 2013, at No. 11 Fuxing Road, Beijing. Size: 15*15; no night view.",
+    "category": "Parks, Sports and Management",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "170.09KB",
+      "bytes": 174172
+    },
+    "minVersion": "Any",
+    "author": "Slavic forever",
+    "authorId": "683743",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "2",
+    "downloads": 74,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14666",
+    "name": "IFC SEOUL",
+    "url": "https://forum.theotown.com/plugins/list?term=:14666",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=r7wfLgxtaXMD3ZOBmJXHo348O1K4EyVI",
+    "description": "Remake of my old plugin IFC Seoul (International Finance Centre Seoul) is a major mixed-use complex located in Yeouido, Seoul. Completed in 2012, it consists of three office towers and IFC Mall. The complex was designed by Arquitectonica and features modern glass curtain-wall architecture. Three IFC, the tallest tower, rises to 284 meters and serves as the centerpiece of the complex. IFC Seoul was developed as part of Yeouido's transformation into an international financial district. photo by mos",
+    "descriptionHtml": "Remake of my old plugin<br>\n<br>\nIFC Seoul (International Finance Centre Seoul) is a major mixed-use complex located in Yeouido, Seoul. Completed in 2012, it consists of three office towers and IFC Mall. The complex was designed by Arquitectonica and features modern glass curtain-wall architecture. Three IFC, the tallest tower, rises to 284 meters and serves as the centerpiece of the complex. IFC Seoul was developed as part of Yeouido's transformation into an international financial district.<br>\n<br>\nphoto by mos",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "209.3KB",
+      "bytes": 214323
+    },
+    "minVersion": "Any",
+    "author": "Dekuz",
+    "authorId": "6922",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "6",
+    "downloads": 61,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14689",
+    "name": "CONRAD SEOUL",
+    "url": "https://forum.theotown.com/plugins/list?term=:14689",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Pz3SIrGVNuOnu7SOizqusDBV4NVh5J33",
+    "description": "CONRAD SEOUL is a luxury hotel located in Yeouido, Seoul, and forms part of the IFC Seoul complex. Opened in 2012, the hotel offers 434 guest rooms and features modern architecture with extensive glass curtain walls. It is directly connected to IFC Mall and is conveniently linked to Yeouido Station, making it a major landmark in Seoul’s Yeouido financial district. photo by mos",
+    "descriptionHtml": "CONRAD SEOUL is a luxury hotel located in Yeouido, Seoul, and forms part of the IFC Seoul complex. Opened in 2012, the hotel offers 434 guest rooms and features modern architecture with extensive glass curtain walls. It is directly connected to IFC Mall and is conveniently linked to Yeouido Station, making it a major landmark in Seoul’s Yeouido financial district.<br>\n<br>\nphoto by mos",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "67.91KB",
+      "bytes": 69540
+    },
+    "minVersion": "Any",
+    "author": "Dekuz",
+    "authorId": "6922",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "4",
+    "downloads": 47,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14691",
+    "name": "A modern luxury apartment bui",
+    "url": "https://forum.theotown.com/plugins/list?term=:14691",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=4KVvfLezVISSd9dPuD7eqUF9sPZhBIHr",
+    "description": "-A luxury łłł apartment residential building -A apartment located near or around bernabeu stadium -Night animation includes.",
+    "descriptionHtml": "-A luxury łłł apartment residential building <br>\n-A apartment located near or around bernabeu stadium <br>\n-Night animation includes.",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "48.01KB",
+      "bytes": 49162
+    },
+    "minVersion": "Any",
+    "author": "Sellado000000",
+    "authorId": "951034",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "2",
+    "downloads": 29,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14690",
+    "name": "Nation Financial Center",
+    "url": "https://forum.theotown.com/plugins/list?term=:14690",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=vEE84nP4Xn9lrftQNrU2KOOYcnUXMXIE",
+    "description": "Hello everyone, I'm Qingyu. This is my new plugin—Green City Nation Financial Center. Hangzhou Green City Nation Financial Center is 130 meters tall, with 28 above-ground floors, and is located in the core area of Qianjiang Century City. Its most striking architectural feature is its unique \"T-shaped\" layout, which breaks away from the conventional rectangular layout of traditional office buildings. It cleverly divides an entire floor into three separate, self-contained spaces, allowing each space to receive natural light from three or even four sides and enjoy 360° panoramic views. The plugin has a horizontal size of 8×8. At night, it features flashing aviation obstruction lights and comes in two versions: a pure interior-lit night view and an LED-lit night view.",
+    "descriptionHtml": "Hello everyone, I'm Qingyu. This is my new plugin—Green City Nation Financial Center.<br>\n<br>\nHangzhou Green City Nation Financial Center is 130 meters tall, with 28 above-ground floors, and is located in the core area of Qianjiang Century City. Its most striking architectural feature is its unique \"T-shaped\" layout, which breaks away from the conventional rectangular layout of traditional office buildings. It cleverly divides an entire floor into three separate, self-contained spaces, allowing each space to receive natural light from three or even four sides and enjoy 360° panoramic views.<br>\n<br>\nThe plugin has a horizontal size of 8×8. At night, it features flashing aviation obstruction lights and comes in two versions: a pure interior-lit night view and an LED-lit night view.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "287.37KB",
+      "bytes": 294267
+    },
+    "minVersion": "Any",
+    "author": "QingYuyyds",
+    "authorId": "341193",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "2",
+    "downloads": 61,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14648",
+    "name": "High‑rise block",
+    "url": "https://forum.theotown.com/plugins/list?term=:14648",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=UHtzbjiNayEsCcOWv81XF7mKkAT1JP1o",
+    "description": "Here comes a new plugin! This plugin features a high‑rise residential building in Urumqi, Xinjiang, China, named Tianshizhicheng. It is located in the eastern suburbs of Urumqi . I adopted a diagonal composition for the drawing, aiming to add more architectural diversity to your city, and it also includes a night scene.In addition, I have also created the Xuanheyuan residential building, which looks very similar to this one. However, the Xuanheyuan building has been authorized to zybsy for inclusion in the China pack. I would kindly ask the reviewers not to regard Xuanheyuan as a plagiarized plugin when reviewing the China pack.",
+    "descriptionHtml": "Here comes a new plugin! This plugin features a high‑rise residential building in Urumqi, Xinjiang, China, named Tianshizhicheng. It is located in the eastern suburbs of Urumqi . I adopted a diagonal composition for the drawing, aiming to add more architectural diversity to your city, and it also includes a night scene.In addition, I have also created the Xuanheyuan residential building, which looks very similar to this one. However, the Xuanheyuan building has been authorized to zybsy for inclusion in the China pack. I would kindly ask the reviewers not to regard Xuanheyuan as a plagiarized plugin when reviewing the China pack.",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "10.81KB",
+      "bytes": 11069
+    },
+    "minVersion": "Any",
+    "author": "yanyujinze_",
+    "authorId": "1931483",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "5",
+    "downloads": 22,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14694",
+    "name": "Big Banana",
+    "url": "https://forum.theotown.com/plugins/list?term=:14694",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=f9PYl9XBAq3ADoXswUeo8stGLoAvyuH3",
+    "description": "A big banana for your city. You can also use this as a unit of measurement. Plug-In Specifications: - 2×3 structure - Can be found in Decorations - Costs 100 Theons initially. - Has 4 frames... - Uh... That's it. Probably the simplest plug-in I ever made.",
+    "descriptionHtml": "A big banana for your city. You can also use this as a unit of measurement.<br>\n<br>\nPlug-In Specifications:<br>\n- 2×3 structure<br>\n- Can be found in Decorations<br>\n- Costs 100 Theons initially.<br>\n- Has 4 frames...<br>\n- Uh... That's it. Probably the simplest plug-in I ever made.",
+    "category": "Decorations",
+    "price": {
+      "amount": 60,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "186.84KB",
+      "bytes": 191324
+    },
+    "minVersion": "Any",
+    "author": "ThaineXylon",
+    "authorId": "22978",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "1",
+    "downloads": 4,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14698",
+    "name": "Military tank base",
+    "url": "https://forum.theotown.com/plugins/list?term=:14698",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=5wRmA0jgvwU2prpRuTI5DEfcZzPPfj5A",
+    "description": "It's s fictional tank base. The designed tanks are created by myself inspired by soviet era tanks (T64 and T72). The military plugin has 3 different frames with night animation, the tanks' formation is a decoration and hasn't the night animation (it's simply a tank formation). In the creation of the military base, I used black decorations terrain from world texture forum, so credit to Theotown and Lobby. The military plugin has influence on police and management. It can generate two service vehicles. The military plugin costs 1100 and it's monthly price is 25; the plugin decoration (tanks' formation) costs only 50 it hasn't monthly price.",
+    "descriptionHtml": "It's s fictional tank base. The designed tanks are created by myself inspired by soviet era tanks (T64 and T72). The military plugin has 3 different frames with night animation, the tanks' formation is a decoration and hasn't the night animation (it's simply a tank formation). In the creation of the military base, I used black decorations terrain from world texture forum, so credit to Theotown and Lobby. The military plugin has influence on police and management. It can generate two service vehicles. The military plugin costs 1100 and it's monthly price is 25; the plugin decoration (tanks' formation) costs only 50 it hasn't monthly price.",
+    "category": "Packs",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "140.78KB",
+      "bytes": 144159
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "2",
+    "downloads": 14,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14626",
+    "name": "Abandoned factory",
+    "url": "https://forum.theotown.com/plugins/list?term=:14626",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=AYTTQPna9pX25Slc3cCFijKZbANI2OAs",
+    "description": "Hello everyone, this is my first plugin, it is a park decoration in the form of an abandoned factory",
+    "descriptionHtml": "Hello everyone, this is my first plugin, it is a park decoration in the form of an abandoned factory",
+    "category": "Parks, Sports and Management",
+    "price": {
+      "amount": 50,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "13.17KB",
+      "bytes": 13486
+    },
+    "minVersion": "1",
+    "author": "Buldak",
+    "authorId": "2169812",
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "3",
+    "downloads": 13,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
     "id": "14618",
     "name": "D Tower",
     "url": "https://forum.theotown.com/plugins/list?term=:14618",
@@ -26,11 +400,11 @@
     "authorId": "6922",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "4",
-    "downloads": 745,
+    "downloads": 997,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 10
+      "count": 13
     }
   },
   {
@@ -60,11 +434,11 @@
     "authorId": "626674",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "2",
-    "downloads": 762,
+    "downloads": 1017,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 8
+      "count": 10
     }
   },
   {
@@ -94,11 +468,11 @@
     "authorId": "315683",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "2",
-    "downloads": 237,
+    "downloads": 316,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 4
+      "count": 5
     }
   },
   {
@@ -128,11 +502,11 @@
     "authorId": "668933",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 339,
+    "downloads": 419,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 7
+      "count": 8
     }
   },
   {
@@ -162,7 +536,7 @@
     "authorId": "22978",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 75,
+    "downloads": 96,
     "rating": {
       "score": null,
       "label": null,
@@ -196,11 +570,11 @@
     "authorId": "682550",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 369,
+    "downloads": 464,
     "rating": {
       "score": 2,
       "label": "NEGATIVE",
-      "count": 3
+      "count": 4
     }
   },
   {
@@ -230,7 +604,7 @@
     "authorId": "481062",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 213,
+    "downloads": 273,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -264,11 +638,11 @@
     "authorId": "6922",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "2",
-    "downloads": 1437,
+    "downloads": 1556,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 12
+      "count": 17
     }
   },
   {
@@ -298,7 +672,7 @@
     "authorId": "3422",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "2",
-    "downloads": 527,
+    "downloads": 566,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -332,7 +706,7 @@
     "authorId": "2124354",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "3",
-    "downloads": 556,
+    "downloads": 575,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -366,11 +740,11 @@
     "authorId": "649062",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "4",
-    "downloads": 1315,
+    "downloads": 1358,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 23
+      "count": 24
     }
   },
   {
@@ -400,7 +774,7 @@
     "authorId": "922636",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "2",
-    "downloads": 2489,
+    "downloads": 2554,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -434,7 +808,7 @@
     "authorId": "405140",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "2",
-    "downloads": 203,
+    "downloads": 211,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -468,11 +842,11 @@
     "authorId": "1111579",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "3",
-    "downloads": 1320,
+    "downloads": 1357,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 5
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 6
     }
   },
   {
@@ -502,7 +876,7 @@
     "authorId": "315683",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "2",
-    "downloads": 861,
+    "downloads": 893,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -536,7 +910,7 @@
     "authorId": "1019836",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "3",
-    "downloads": 1869,
+    "downloads": 1919,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -570,7 +944,7 @@
     "authorId": "1019836",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "2",
-    "downloads": 1920,
+    "downloads": 1970,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -604,7 +978,7 @@
     "authorId": "682550",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "2",
-    "downloads": 526,
+    "downloads": 547,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -638,7 +1012,7 @@
     "authorId": "1931483",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "2",
-    "downloads": 1144,
+    "downloads": 1163,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -672,7 +1046,7 @@
     "authorId": "587116",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "2",
-    "downloads": 1169,
+    "downloads": 1183,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -706,7 +1080,7 @@
     "authorId": "878261",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "3",
-    "downloads": 665,
+    "downloads": 679,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,11 +1114,11 @@
     "authorId": "6922",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "3",
-    "downloads": 3173,
+    "downloads": 3213,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 26
+      "count": 27
     }
   },
   {
@@ -752,7 +1126,7 @@
     "name": "Ha Noi Keangnam 72",
     "url": "https://forum.theotown.com/plugins/list?term=:14638",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=GHnFyk0YiiLDXP0N5argssPvHtitKDNr",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=952hh1ERv3Jk3RNMH9dBajIGaqWfr13e",
     "description": "Keangnam Hanoi Landmark Tower is a prominent architectural landmark rising 328 meters in Hanoi's modern business district. This multi-complex skyscraper features premium grade-A office spaces, luxury residences, the upscale InterContinental Hanoi Landmark72 hotel, and a vibrant retail podium. + Commercial building level 3: 5000 peoples. + Night animation: Yes Original image credit: @NamVu. Detailed editing + Night animation + Plugin packaging: YinDreamX.",
     "descriptionHtml": "Keangnam Hanoi Landmark Tower is a prominent architectural landmark rising 328 meters in Hanoi's modern business district. This multi-complex skyscraper features premium grade-A office spaces, luxury residences, the upscale InterContinental Hanoi Landmark72 hotel, and a vibrant retail podium.<br>\n+ Commercial building level 3: 5000 peoples.<br>\n+ Night animation: Yes<br>\nOriginal image credit: @NamVu.<br>\nDetailed editing + Night animation + Plugin packaging: YinDreamX.",
     "category": "Commercial",
@@ -766,15 +1140,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "366.03KB",
-      "bytes": 374815
+      "raw": "369.91KB",
+      "bytes": 378788
     },
     "minVersion": "Any",
     "author": "yinx",
     "authorId": "2060627",
-    "uploadDate": "11 Sep 2026, 16:25",
-    "version": "2",
-    "downloads": 1060,
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "4",
+    "downloads": 1091,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -808,7 +1182,7 @@
     "authorId": "682550",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "2",
-    "downloads": 1354,
+    "downloads": 1374,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -842,7 +1216,7 @@
     "authorId": "770316",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "2",
-    "downloads": 1705,
+    "downloads": 1726,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -876,7 +1250,7 @@
     "authorId": "149434",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "3",
-    "downloads": 3944,
+    "downloads": 3970,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -910,7 +1284,7 @@
     "authorId": "171359",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "3",
-    "downloads": 4435,
+    "downloads": 4491,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +1318,7 @@
     "authorId": "171359",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "9",
-    "downloads": 2528,
+    "downloads": 2554,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -978,11 +1352,11 @@
     "authorId": "481062",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "3",
-    "downloads": 925,
+    "downloads": 939,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 8
+      "count": 9
     }
   },
   {
@@ -1012,7 +1386,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 1217,
+    "downloads": 1228,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1046,7 +1420,7 @@
     "authorId": "481062",
     "uploadDate": "7 Sep 2026, 19:08",
     "version": "2",
-    "downloads": 1335,
+    "downloads": 1352,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1454,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "3",
-    "downloads": 2454,
+    "downloads": 2484,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1114,7 +1488,7 @@
     "authorId": "611868",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "2",
-    "downloads": 2787,
+    "downloads": 2804,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1148,7 +1522,7 @@
     "authorId": "2050504",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 815,
+    "downloads": 833,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1182,11 +1556,11 @@
     "authorId": "756209",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 4322,
+    "downloads": 4355,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 36
+      "count": 37
     }
   },
   {
@@ -1216,7 +1590,7 @@
     "authorId": "315683",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "3",
-    "downloads": 1259,
+    "downloads": 1273,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1228,7 +1602,7 @@
     "name": "Modular power plant (MPP)",
     "url": "https://forum.theotown.com/plugins/list?term=:14490",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=NjHNCssRlMjs1AG0iZ0yOkpUky8CtgYW",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=zsL7nYqxvgD3J6DdML2TBDO7vbbpC4N5",
     "description": "Here's my new plugin - Modular power plant. It includes the main building consistsing of three parts, a chimney, and cooling towers as separate parts. Everything in the new category. Every element has night animation. Thanks to Ostrovsk for the code and to the FPS community for help making this plugin.",
     "descriptionHtml": "Here's my new plugin - Modular power plant. It includes the main building consistsing of three parts, a chimney, and cooling towers as separate parts. Everything in the new category. Every element has night animation. Thanks to Ostrovsk for the code and to the FPS community for help making this plugin.",
     "category": "Supply (Energy, Water, Waste Disposal)",
@@ -1242,15 +1616,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "55.72KB",
-      "bytes": 57057
+      "raw": "57.13KB",
+      "bytes": 58501
     },
     "minVersion": "Any",
     "author": "N5c8t15",
     "authorId": "1269221",
-    "uploadDate": "5 Sep 2026, 20:18",
-    "version": "5",
-    "downloads": 2736,
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "7",
+    "downloads": 2769,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1284,7 +1658,7 @@
     "authorId": "587116",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 1706,
+    "downloads": 1719,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1318,7 +1692,7 @@
     "authorId": "6922",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "4",
-    "downloads": 2174,
+    "downloads": 2189,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1352,7 +1726,7 @@
     "authorId": "682550",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 1955,
+    "downloads": 1976,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1386,7 +1760,7 @@
     "authorId": "6922",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 4356,
+    "downloads": 4464,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1794,7 @@
     "authorId": "952975",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "2",
-    "downloads": 1048,
+    "downloads": 1057,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1488,7 +1862,7 @@
     "authorId": "6922",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "5",
-    "downloads": 8138,
+    "downloads": 8306,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1522,7 +1896,7 @@
     "authorId": "1156629",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "4",
-    "downloads": 2081,
+    "downloads": 2101,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1930,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "13",
-    "downloads": 886,
+    "downloads": 897,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1590,7 +1964,7 @@
     "authorId": "2050504",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "2",
-    "downloads": 1280,
+    "downloads": 1297,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2168,7 +2542,7 @@
     "authorId": "1931483",
     "uploadDate": "7 Sep 2026, 12:25",
     "version": "6",
-    "downloads": 5354,
+    "downloads": 5388,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2780,7 +3154,7 @@
     "authorId": "1981212",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "22",
-    "downloads": 1686,
+    "downloads": 1714,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4242,7 +4616,7 @@
     "authorId": "2060627",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "5",
-    "downloads": 3303,
+    "downloads": 3317,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4480,7 +4854,7 @@
     "authorId": "1021137",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "14",
-    "downloads": 310317,
+    "downloads": 310406,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -5432,7 +5806,7 @@
     "authorId": "601724",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "4",
-    "downloads": 2709,
+    "downloads": 2728,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5772,7 +6146,7 @@
     "authorId": "601724",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "4",
-    "downloads": 3145,
+    "downloads": 3164,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -6282,11 +6656,11 @@
     "authorId": "601724",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "21",
-    "downloads": 51561,
+    "downloads": 51584,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 205
+      "count": 206
     }
   },
   {
@@ -6962,7 +7336,7 @@
     "authorId": "2060627",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "20",
-    "downloads": 6026,
+    "downloads": 6039,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -8492,7 +8866,7 @@
     "authorId": "2082181",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "7",
-    "downloads": 1854,
+    "downloads": 1863,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9240,7 +9614,7 @@
     "authorId": "2060627",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "11",
-    "downloads": 12052,
+    "downloads": 12091,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9648,7 +10022,7 @@
     "authorId": "2060627",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "4",
-    "downloads": 11945,
+    "downloads": 11963,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10192,7 +10566,7 @@
     "authorId": "1117299",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "4",
-    "downloads": 5361,
+    "downloads": 5375,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11416,7 +11790,7 @@
     "authorId": "2082181",
     "uploadDate": "2 Sep 2026, 20:59",
     "version": "30",
-    "downloads": 8581,
+    "downloads": 8599,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11688,11 +12062,11 @@
     "authorId": "1087123",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 12726,
+    "downloads": 12825,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 91
+      "count": 93
     }
   },
   {
@@ -12946,7 +13320,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 5500,
+    "downloads": 5526,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -15597,7 +15971,7 @@
     "authorId": "611868",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "13",
-    "downloads": 33444,
+    "downloads": 33526,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -16107,11 +16481,11 @@
     "authorId": "601724",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "46",
-    "downloads": 82550,
+    "downloads": 82570,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 500
+      "count": 502
     }
   },
   {
@@ -16175,7 +16549,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 16863,
+    "downloads": 16907,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -16549,7 +16923,7 @@
     "authorId": "2050504",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "8",
-    "downloads": 5460,
+    "downloads": 5472,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -18261,9 +18635,9 @@
     "name": "Animation Vs. TheoTown Pack",
     "url": "https://forum.theotown.com/plugins/list?term=:13660",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=EoqAfQJyUuBzWgm4ka7ydqQ3RKnlWFyK",
-    "description": "UPDATE: Lowered the requirements from 330K inhabitants in one city, to requiring a Lvl 16 City. Yes, you can finally make \"Animation Vs. TheoTown\" possible with this pack. Plug-In Summary: A pack of 12 tall, 2x2 sculptures of stick figures that are \"loosely inspired\" from the hit animation series \"Animator Vs. Animation\" (AvA) and \"Animation Vs. Minecraft\" (AvM) both by Alan Becker on YouTube. Requires a \"Large Metropolis\" (i.e. Lvl 16) rank to be unlocked, and each stick costs 200K Theons to be built, along with a monthly cost of 250 Theons and a limit of 4 stick figures per city (for each stick figure in this pack.) Plug-In Specs: - The pack has its' own category under Awards called \"AvTT Pack\", the very first one. - There are at least 12 stick figures, each having four frames to display (first half with their arms down, the other is with their arms up.) - Each stick figure costs 200K Theons (initially) to be built. - Requires a city of Level 16 (Large Metropolis) to unlock the whole pack when playing in an non-sandbox mode. (Formerly, you needed 330K inhabitants in a city to be unlocked in non-sandbox modes.) - Each stick figure has a Culture influence of 100... - ...But with a monthly cost of 250 Theons. - Also, you can only build four of each stick figures for one city only. Stick Figures in this pack: - Orange Hollowhead - Red Stickman - Green Stickman - Yellow Stickman - Blue Stickman - Purple Stickman - Tall Orange Stickman - Tall Orange Stick King - Black Hollowhead - Red Hollowhead - Grey Hollowhead - Corndog Stickman (For the moderator's request, I can't use the actual names from the series inspired.) Credits: - To Alan Becker and his team for the entirety of the AvA and AvM IP... - To Lobby and theothederich for the new \"TheoTown\" logo used in the thumbnail.",
-    "descriptionHtml": "UPDATE: Lowered the requirements from 330K inhabitants in one city, to requiring a Lvl 16 City.<br>\n<br>\nYes, you can finally make \"Animation Vs. TheoTown\" possible with this pack.<br>\n<br>\nPlug-In Summary:<br>\nA pack of 12 tall, 2x2 sculptures of stick figures that are \"loosely inspired\" from the hit animation series \"Animator Vs. Animation\" (AvA) and \"Animation Vs. Minecraft\" (AvM) both by Alan Becker on YouTube. Requires a \"Large Metropolis\" (i.e. Lvl 16) rank to be unlocked, and each stick costs 200K Theons to be built, along with a monthly cost of 250 Theons and a limit of 4 stick figures per city (for each stick figure in this pack.)<br>\n<br>\nPlug-In Specs:<br>\n- The pack has its' own category under Awards called \"AvTT Pack\", the very first one.<br>\n- There are at least 12 stick figures, each having four frames to display (first half with their arms down, the other is with their arms up.)<br>\n- Each stick figure costs 200K Theons (initially) to be built.<br>\n- Requires a city of Level 16 (Large Metropolis) to unlock the whole pack when playing in an non-sandbox mode. (Formerly, you needed 330K inhabitants in a city to be unlocked in non-sandbox modes.)<br>\n- Each stick figure has a Culture influence of 100...<br>\n- ...But with a monthly cost of 250 Theons.<br>\n- Also, you can only build four of each stick figures for one city only.<br>\n<br>\nStick Figures in this pack:<br>\n- Orange Hollowhead<br>\n- Red Stickman<br>\n- Green Stickman<br>\n- Yellow Stickman<br>\n- Blue Stickman<br>\n- Purple Stickman<br>\n- Tall Orange Stickman<br>\n- Tall Orange Stick King<br>\n- Black Hollowhead<br>\n- Red Hollowhead<br>\n- Grey Hollowhead<br>\n- Corndog Stickman<br>\n(For the moderator's request, I can't use the actual names from the series inspired.)<br>\n<br>\nCredits:<br>\n- To Alan Becker and his team for the entirety of the AvA and AvM IP...<br>\n- To Lobby and theothederich for the new \"TheoTown\" logo used in the thumbnail.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=3phxBTwBUoOD52Grli5Yu2cDxmmtIzzf",
+    "description": "UPDATE: New figure - Missy! Yes, you can finally make \"Animation Vs. TheoTown\" possible with this pack. Plug-In Summary: 13 tall, 2x2 sculptures of stick figures that are \"loosely inspired\" from the hit animation series \"Animator Vs. Animation\" (AvA) and \"Animation Vs. Minecraft\" (AvM) both by Alan Becker on YouTube. Requires a \"Large Metropolis\" (i.e. Lvl 16) rank to be unlocked, and each stick costs 200K Theons to be built, along with a monthly cost of 250 Theons and a limit of 4 stick figures per city (for each stick figure in this pack.) Plug-In Specs: - The pack has its' own category under Awards called \"AvTT Pack\", the very first one. - There are 13 stick figures, each having four frames to display (first half with their arms down, the other is with their arms up (or in another pose)) - Each stick figure costs 200K Theons (initially) to be built. - Requires a city of Level 16 (Large Metropolis) to unlock the whole pack when playing in an non-sandbox mode. (Formerly, you needed 330K inhabitants in a city to be unlocked in non-sandbox modes.) - Each stick figure has a Culture influence of 100... - ...But with a monthly cost of 250 Theons. - Also, you can only build four of each stick figures for one city only. Stick Figures in this pack: - Orange Hollowhead - Red Stickman - Green Stickman - Yellow Stickman - Blue Stickman - Purple Stickman - Tall Orange Stickman - Tall Orange Stick King - Black Hollowhead - Red Hollowhead - Grey Hollowhead - Missy (NEW) - Corndog Stickman (For the moderator's request, I can't use the actual names from the series inspired.) Credits: - To Alan Becker and his team for the entirety of the AvA and AvM IP... - To Lobby and theothederich for the new \"TheoTown\" logo used in the thumbnail.",
+    "descriptionHtml": "UPDATE: New figure - Missy!<br>\n<br>\nYes, you can finally make \"Animation Vs. TheoTown\" possible with this pack.<br>\n<br>\nPlug-In Summary:<br>\n13 tall, 2x2 sculptures of stick figures that are \"loosely inspired\" from the hit animation series \"Animator Vs. Animation\" (AvA) and \"Animation Vs. Minecraft\" (AvM) both by Alan Becker on YouTube. Requires a \"Large Metropolis\" (i.e. Lvl 16) rank to be unlocked, and each stick costs 200K Theons to be built, along with a monthly cost of 250 Theons and a limit of 4 stick figures per city (for each stick figure in this pack.)<br>\n<br>\nPlug-In Specs:<br>\n- The pack has its' own category under Awards called \"AvTT Pack\", the very first one.<br>\n- There are 13 stick figures, each having four frames to display (first half with their arms down, the other is with their arms up (or in another pose))<br>\n- Each stick figure costs 200K Theons (initially) to be built.<br>\n- Requires a city of Level 16 (Large Metropolis) to unlock the whole pack when playing in an non-sandbox mode. (Formerly, you needed 330K inhabitants in a city to be unlocked in non-sandbox modes.)<br>\n- Each stick figure has a Culture influence of 100...<br>\n- ...But with a monthly cost of 250 Theons.<br>\n- Also, you can only build four of each stick figures for one city only.<br>\n<br>\nStick Figures in this pack:<br>\n- Orange Hollowhead<br>\n- Red Stickman<br>\n- Green Stickman<br>\n- Yellow Stickman<br>\n- Blue Stickman<br>\n- Purple Stickman<br>\n- Tall Orange Stickman<br>\n- Tall Orange Stick King<br>\n- Black Hollowhead<br>\n- Red Hollowhead<br>\n- Grey Hollowhead<br>\n- Missy (NEW)<br>\n- Corndog Stickman<br>\n(For the moderator's request, I can't use the actual names from the series inspired.)<br>\n<br>\nCredits:<br>\n- To Alan Becker and his team for the entirety of the AvA and AvM IP...<br>\n- To Lobby and theothederich for the new \"TheoTown\" logo used in the thumbnail.",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -18275,15 +18649,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "417.69KB",
-      "bytes": 427715
+      "raw": "347.96KB",
+      "bytes": 356311
     },
     "minVersion": "Any",
     "author": "ThaineXylon",
     "authorId": "22978",
-    "uploadDate": "02 May 2026, 06:44",
-    "version": "7",
-    "downloads": 4226,
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "9",
+    "downloads": 5067,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -18737,12 +19111,12 @@
     "name": "Houses of Worship",
     "url": "https://forum.theotown.com/plugins/list?term=:13707",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=kzXnjqMzYke8txkrZOTPifGema3eiIKs",
-    "description": "Hi! I'm Ayukucing and I'm back with another plugin. This plugin adds 5 Religious buildings : 1. Chinese folk temple (Byo/Miao) 2. Hindu temple (Kuil) 3. Buddhist temple (Vihara) 4. Mosque & 5. Church All the buildings are 3x3 and have similar religion influence, price and monthly price. Enjoy! ;))",
-    "descriptionHtml": "Hi! I'm Ayukucing and I'm back with another plugin.<br>\n<br>\nThis plugin adds 5 Religious buildings :<br>\n1. Chinese folk temple (Byo/Miao)<br>\n2. Hindu temple (Kuil)<br>\n3. Buddhist temple (Vihara)<br>\n4. Mosque &amp;<br>\n5. Church<br>\n<br>\nAll the buildings are 3x3 and have similar religion influence, price and monthly price. <br>\n<br>\nEnjoy! ;))",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=0B7nF9XndCLxmfArPfKDfmYVWqxcqutS",
+    "description": "Hi! I'm Ayukucing and I'm back with another plugin. This plugin adds 5 Religious buildings : 1. Chinese folk temple (Byo/Miao) 2. Hindu temple (Kuil) 3. Buddhist temple (Vihara) 4. Mosque & 5. Church All the buildings are 3x3 and have similar religion influence, price and monthly price. Change log :- • Mosque and Vihara redesigned. • smaller version of each building added (except Chinese temple) Enjoy! ;))",
+    "descriptionHtml": "Hi! I'm Ayukucing and I'm back with another plugin.<br>\n<br>\nThis plugin adds 5 Religious buildings :<br>\n1. Chinese folk temple (Byo/Miao)<br>\n2. Hindu temple (Kuil)<br>\n3. Buddhist temple (Vihara)<br>\n4. Mosque &amp;<br>\n5. Church<br>\n<br>\nAll the buildings are 3x3 and have similar religion influence, price and monthly price. <br>\n<br>\nChange log :-<br>\n• Mosque and Vihara redesigned.<br>\n• smaller version of each building added (except Chinese temple)<br>\n<br>\nEnjoy! ;))",
     "category": "Religion and Culture",
     "price": {
-      "amount": 60,
+      "amount": 30,
       "currency": "diamonds"
     },
     "platforms": [
@@ -18751,19 +19125,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "45.17KB",
-      "bytes": 46254
+      "raw": "80.61KB",
+      "bytes": 82545
     },
     "minVersion": "Any",
     "author": "AyuKucing",
     "authorId": "668518",
-    "uploadDate": "29 Apr 2026, 21:25",
-    "version": "2",
-    "downloads": 4513,
+    "uploadDate": "21 Sep 2026, 19:59",
+    "version": "3",
+    "downloads": 5042,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 31
+      "count": 34
     }
   },
   {
@@ -19167,7 +19541,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 6057,
+    "downloads": 6095,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -19915,11 +20289,11 @@
     "authorId": "22978",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "8",
-    "downloads": 2019,
+    "downloads": 2042,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -21785,7 +22159,7 @@
     "authorId": "10216",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "3",
-    "downloads": 3355,
+    "downloads": 3370,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -23077,7 +23451,7 @@
     "authorId": "10216",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "4",
-    "downloads": 1175,
+    "downloads": 1179,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -25899,7 +26273,7 @@
     "authorId": "149434",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "9",
-    "downloads": 7798,
+    "downloads": 7809,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -26103,7 +26477,7 @@
     "authorId": "10216",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "11",
-    "downloads": 153499,
+    "downloads": 153542,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -34466,7 +34840,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "4",
-    "downloads": 17621,
+    "downloads": 17649,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -38409,7 +38783,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "3",
-    "downloads": 21707,
+    "downloads": 21724,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -38477,7 +38851,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "4",
-    "downloads": 19822,
+    "downloads": 19843,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -40821,7 +41195,7 @@
     "authorId": "1117299",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "4",
-    "downloads": 18265,
+    "downloads": 18280,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -41909,7 +42283,7 @@
     "authorId": "1117299",
     "uploadDate": "12 Sep 2026, 10:41",
     "version": "4",
-    "downloads": 8674,
+    "downloads": 8687,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -42317,11 +42691,11 @@
     "authorId": "601724",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "8",
-    "downloads": 15846,
+    "downloads": 15880,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 77
+      "count": 78
     }
   },
   {
@@ -44323,7 +44697,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "3",
-    "downloads": 13026,
+    "downloads": 13042,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -45309,7 +45683,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "3",
-    "downloads": 12356,
+    "downloads": 12380,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -47519,11 +47893,11 @@
     "authorId": "756209",
     "uploadDate": "5 Sep 2026, 20:18",
     "version": "10",
-    "downloads": 115990,
+    "downloads": 116023,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 327
+      "count": 328
     }
   },
   {
@@ -47655,7 +48029,7 @@
     "authorId": "1249060",
     "uploadDate": "14 Sep 2026, 12:40",
     "version": "4",
-    "downloads": 18035,
+    "downloads": 18053,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -49457,7 +49831,7 @@
     "authorId": "10216",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "10",
-    "downloads": 10642,
+    "downloads": 10646,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -49491,7 +49865,7 @@
     "authorId": "10216",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "6",
-    "downloads": 24561,
+    "downloads": 24574,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -49525,7 +49899,7 @@
     "authorId": "10216",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "17",
-    "downloads": 29221,
+    "downloads": 29235,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -49559,7 +49933,7 @@
     "authorId": "10216",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "12",
-    "downloads": 139978,
+    "downloads": 140005,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -50612,7 +50986,7 @@
     "authorId": "1021137",
     "uploadDate": "11 Sep 2026, 16:25",
     "version": "16",
-    "downloads": 72387,
+    "downloads": 72412,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -79579,7 +79953,7 @@
     "authorId": "10216",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "10",
-    "downloads": 76492,
+    "downloads": 76501,
     "rating": {
       "score": 3,
       "label": "MIXED",
