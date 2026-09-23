@@ -1,21 +1,21 @@
 {
-  "scrapeDate": "2026-09-23T16:54:23.818Z",
-  "totalPlugins": 4987,
+  "scrapeDate": "2026-09-23T21:28:50.958Z",
+  "totalPlugins": 4989,
   "totalPages": 5,
-  "totalDownloads": 430619687,
+  "totalDownloads": 430621778,
   "certifiedCreators": 570,
   "categoryStats": {
+    "Parks, Sports and Management": 354,
+    "Religion and Culture": 262,
     "Commercial": 1163,
     "Transport": 266,
     "Other": 206,
-    "Parks, Sports and Management": 353,
     "Residential": 776,
     "Decorations": 423,
     "Packs": 286,
     "Award and Special": 389,
     "Supply (Energy, Water, Waste Disposal)": 85,
     "Service (Police, Health Care, Education,...)": 232,
-    "Religion and Culture": 261,
     "Industrial": 125,
     "Military": 42,
     "Official Game Extensions": 8,
@@ -30,10 +30,10 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "MIXED": 291,
     "VERY POSITIVE": 2069,
-    "NEGATIVE": 37,
-    "POSITIVE": 2585
+    "MIXED": 292,
+    "POSITIVE": 2587,
+    "NEGATIVE": 36
   },
   "source": "https://forum.theotown.com/plugins/list"
 }
