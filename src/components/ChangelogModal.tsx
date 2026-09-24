@@ -21,8 +21,22 @@ interface ChangelogVersion {
 
 const changelog: ChangelogVersion[] = [
   {
-    version: 'v1.1',
+    version: 'v1.2',
     date: 'Update Terkini',
+    highlights: [
+      { type: 'fixed', text: 'Tombol Install PWA tidak pernah muncul — penyebab: icon manifest pakai .jpg (Chrome wajib PNG)' },
+      { type: 'fixed', text: 'Service Worker intercept request manifest.json sehingga Chrome gagal baca manifest' },
+      { type: 'fixed', text: 'Layout rusak saat klik Install karena modal custom menumpuk di atas hero section 3D' },
+      { type: 'fixed', text: 'themeColor di viewport tidak match dengan manifest (perbedaan warna)' },
+      { type: 'improved', text: 'Tombol Install langsung trigger native browser prompt (dialog bawaan Chrome/Edge), tanpa modal panduan manual' },
+      { type: 'improved', text: 'Icon PWA di-generate ulang ke PNG 192x192, 512x512, dan 512x512 maskable dengan safe zone 10%' },
+      { type: 'improved', text: 'Manifest ditambah field id, scope, orientation, dan categories untuk validasi PWA Chrome' },
+      { type: 'added', text: 'Tombol Install hanya muncul setelah beforeinstallprompt ter-fire (hidden sampai browser siap)' },
+    ],
+  },
+  {
+    version: 'v1.1',
+    date: 'Update Sebelumnya',
     highlights: [
       { type: 'added', text: 'Tombol Update Log di navbar untuk melihat changelog' },
       { type: 'added', text: 'Custom modal panduan instalasi PWA untuk iOS Safari & browser yang belum support beforeinstallprompt' },

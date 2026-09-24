@@ -29,7 +29,13 @@ export const metadata: Metadata = {
   description: 'Pusat informasi plugin TheoTown terbaru. Pantau update mingguan, plugin baru rilis, dan certified creators.',
   keywords: ['TheoTown', 'plugin TheoTown', 'info plugin', 'update plugin', 'mod TheoTown'],
   authors: [{ name: 'TheoTown Plugin Hub' }],
-  icons: { icon: '/icon.jpg', apple: '/icon.jpg' },
+  icons: {
+    icon: [
+      { url: '/icon-192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/icon-512.png', sizes: '512x512', type: 'image/png' },
+    ],
+    apple: '/icon-512.png',
+  },
   manifest: '/manifest.json',
   openGraph: {
     title: 'TheoTown Plugin Hub — Info & Update Plugin',

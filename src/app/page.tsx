@@ -171,7 +171,7 @@ export default function LandingPage() {
               title="Lihat Update Log"
               className="px-1.5 py-0.5 text-[10px] font-mono font-bold text-amber-400 bg-amber-500/10 border border-amber-500/20 rounded-md hover:bg-amber-500/20 transition-colors cursor-pointer"
             >
-              v1.1
+              v1.2
             </button>
           </div>
         </Link>

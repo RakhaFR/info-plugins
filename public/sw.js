@@ -1,4 +1,4 @@
-const CACHE_NAME = 'theotownhub-cache-v1';
+const CACHE_NAME = 'theotownhub-v2';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
@@ -20,8 +20,33 @@ self.addEventListener('activate', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
-  if (event.request.method !== 'GET') return;
+  const { request } = event;
+
+  // Hanya handle GET
+  if (request.method !== 'GET') return;
+
+  const url = new URL(request.url);
+
+  // Jangan intercept manifest, sw, atau Next.js internal
+  if (
+    url.pathname === '/manifest.json' ||
+    url.pathname === '/sw.js' ||
+    url.pathname.startsWith('/_next/webpack')
+  ) {
+    return;
+  }
+
+  // Semua request lain: network-first, fallback ke cache
   event.respondWith(
-    fetch(event.request).catch(() => caches.match(event.request))
+    fetch(request)
+      .then((response) => {
+        // Cache hanya response valid
+        if (response && response.status === 200 && request.url.startsWith('http')) {
+          const clone = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
+        }
+        return response;
+      })
+      .catch(() => caches.match(request))
   );
 });
