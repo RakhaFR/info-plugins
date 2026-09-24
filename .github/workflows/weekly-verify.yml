@@ -1,0 +1,59 @@
+# Verify Plugins — Cek & hapus plugin yang sudah dihapus dari forum
+# Trigger: Otomatis setiap hari Minggu pukul 02:00 UTC (09:00 WIB)
+# Estimasi: ~15-20 menit (sweep ID all pages)
+
+name: 🧹 Weekly Plugin Verification
+
+on:
+  schedule:
+    # Setiap hari Minggu 02:00 UTC = 09:00 WIB
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+    inputs:
+      full_check:
+        description: 'Force full ID sweep (selalu true untuk scheduled)'
+        required: false
+        default: 'true'
+        type: string
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🌐 Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          echo "PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome-stable" >> $GITHUB_ENV
+
+      - name: 📊 Run quick update scrape (halaman 1-3 untuk data terbaru)
+        run: node scraper.js --update --pages 3
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/google-chrome-stable
+
+      - name: 🧹 Verify & remove deleted plugins
+        run: node verify-plugins.js --full-check
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/google-chrome-stable
+
+      - name: 📝 Commit & push cleaned data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/plugins.json data/metadata.json data/progress.json
+          git commit -m "🧹 Weekly verify & cleanup: $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git push

@@ -8,7 +8,10 @@
     "start": "next start",
     "lint": "eslint",
     "scrape": "node scraper.js",
-    "scrape:update": "node scraper.js --update --pages 3"
+    "scrape:update": "node scraper.js --update --pages 3",
+    "scrape:full": "node scraper.js --pages 247",
+    "scrape:verify": "node verify-plugins.js",
+    "scrape:verify:full": "node verify-plugins.js --full-check"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

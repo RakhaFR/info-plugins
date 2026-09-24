@@ -12,6 +12,7 @@ import { InstallPwaButton } from '@/components/InstallPwaButton';
 import { DriftWall } from '@/components/DriftWall';
 import { TextMarquee } from '@/components/TextMarquee';
 import { FAQSection } from '@/components/FAQSection';
+import { ChangelogModal } from '@/components/ChangelogModal';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -31,12 +32,12 @@ interface FeaturedPlugin {
 
 export default function LandingPage() {
   const [pageReady, setPageReady] = useState(false);
-  const [loadProgress, setLoadProgress] = useState(15);
   const [stats, setStats] = useState({ totalPlugins: 0, totalDownloads: 0, certified: 0 });
   const [popularPlugins, setPopularPlugins] = useState<FeaturedPlugin[]>([]);
   const [heroImages, setHeroImages] = useState<{ image: string; title?: string }[]>([]);
   const [categories, setCategories] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
+  const [changelogOpen, setChangelogOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
 
   // Animated counter states
@@ -62,17 +63,6 @@ export default function LandingPage() {
 
   useEffect(() => {
     AOS.init({ duration: 800, once: true, easing: 'ease-out-quad' });
-
-    // Progress bar simulation up to 88% while waiting for network
-    const progressTimer = setInterval(() => {
-      setLoadProgress((prev) => {
-        if (prev >= 88) {
-          clearInterval(progressTimer);
-          return 88;
-        }
-        return prev + Math.floor(Math.random() * 15 + 8);
-      });
-    }, 180);
 
     // Loading screen ditutup setelah data API siap — TIDAK nunggu gambar selesai download
     fetch('/api/plugins')
@@ -135,15 +125,9 @@ export default function LandingPage() {
       })
       .catch(err => console.error('Gagal fetch data landing:', err))
       .finally(() => {
-        clearInterval(progressTimer);
-        setLoadProgress(100);
-        setTimeout(() => {
-          setLoading(false);
-          setPageReady(true);
-        }, 320);
+        setLoading(false);
+        setPageReady(true);
       });
-
-    return () => clearInterval(progressTimer);
   }, []);
 
   return (
@@ -161,17 +145,13 @@ export default function LandingPage() {
             </span>
           </div>
 
-          <div className="w-56 h-2 bg-white/10 rounded-full overflow-hidden p-0.5 border border-white/10">
-            <div
-              className="h-full bg-gradient-to-r from-red-600 via-red-500 to-amber-500 rounded-full transition-all duration-300 ease-out shadow-[0_0_12px_rgba(229,57,53,0.8)]"
-              style={{ width: `${Math.min(100, loadProgress)}%` }}
-            />
+          <div className="w-48 h-1 bg-white/10 rounded-full overflow-hidden">
+            <div className="h-full bg-red-600 animate-[load-bar_1.2s_ease-in-out_infinite]" />
           </div>
 
-          <div className="flex items-center gap-2 text-xs text-gray-400 font-mono tracking-wider">
-            <span>Memuat aset...</span>
-            <span className="text-red-400 font-bold">{Math.min(100, loadProgress)}%</span>
-          </div>
+          <span className="text-xs text-gray-500 tracking-widest uppercase">
+            Memuat aset...
+          </span>
         </div>
       )}
 
@@ -186,9 +166,13 @@ export default function LandingPage() {
             <span className="font-display font-bold text-xl tracking-tight text-white">
               TheoTown<span style={{ color: LIME }}>Hub</span>
             </span>
-            <span className="px-1.5 py-0.5 text-[10px] font-mono font-bold text-amber-400 bg-amber-500/10 border border-amber-500/20 rounded-md">
-              v1
-            </span>
+            <button
+              onClick={e => { e.preventDefault(); setChangelogOpen(true); }}
+              title="Lihat Update Log"
+              className="px-1.5 py-0.5 text-[10px] font-mono font-bold text-amber-400 bg-amber-500/10 border border-amber-500/20 rounded-md hover:bg-amber-500/20 transition-colors cursor-pointer"
+            >
+              v1.1
+            </button>
           </div>
         </Link>
 
@@ -441,6 +425,9 @@ export default function LandingPage() {
           </p>
         </div>
       </footer>
+
+      {/* ── CHANGELOG MODAL ── */}
+      <ChangelogModal isOpen={changelogOpen} onClose={() => setChangelogOpen(false)} />
     </div>
   );
 }

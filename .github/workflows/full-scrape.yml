@@ -1,0 +1,56 @@
+# Full Scrape — Sinkronisasi ulang seluruh plugin dari forum
+# Trigger: Manual via GitHub Actions tab → "Run workflow"
+# Estimasi: ~15-20 menit untuk 247 halaman
+
+name: 🔄 Full Scrape (Sync All Plugins)
+
+on:
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: 'Jumlah halaman (kosongkan untuk auto-detect)'
+        required: false
+        default: '247'
+        type: string
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🌐 Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          echo "PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome-stable" >> $GITHUB_ENV
+
+      - name: 🚀 Run full scraper
+        run: node scraper.js --pages ${{ github.event.inputs.pages || '247' }}
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/google-chrome-stable
+
+      - name: 📊 Verify & cleanup deleted plugins
+        run: node verify-plugins.js --full-check
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/google-chrome-stable
+
+      - name: 📝 Commit & push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/plugins.json data/metadata.json data/progress.json
+          git commit -m "🔄 Full scrape sync: $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git push
