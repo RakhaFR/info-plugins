@@ -1,17 +1,17 @@
 {
-  "scrapeDate": "2026-09-27T21:19:18.318Z",
-  "totalPlugins": 5014,
+  "scrapeDate": "2026-09-28T17:23:43.923Z",
+  "totalPlugins": 5018,
   "totalPages": 5,
-  "totalDownloads": 430687993,
+  "totalDownloads": 430697086,
   "certifiedCreators": 572,
   "categoryStats": {
-    "Other": 209,
+    "Other": 210,
+    "Commercial": 1171,
+    "Decorations": 426,
     "Award and Special": 392,
-    "Commercial": 1170,
     "Packs": 287,
     "Transport": 267,
     "Industrial": 128,
-    "Decorations": 424,
     "Parks, Sports and Management": 356,
     "Supply (Energy, Water, Waste Disposal)": 86,
     "Trees": 90,
@@ -30,8 +30,8 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY POSITIVE": 2090,
-    "POSITIVE": 2596,
+    "VERY POSITIVE": 2092,
+    "POSITIVE": 2597,
     "MIXED": 289,
     "NEGATIVE": 36
   },
