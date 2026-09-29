@@ -49,5 +49,6 @@ jobs:
             echo "No new plugins or updates found."
           else
             git commit -m "⚡ Daily quick update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
             git push
           fi
