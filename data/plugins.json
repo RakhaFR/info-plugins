@@ -1,5 +1,243 @@
 [
   {
+    "id": "14774",
+    "name": "Grand Mercure Sinar Laut",
+    "url": "https://forum.theotown.com/plugins/list?term=:14774",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=WJ1EsdnTtfrH7ga1xYaTfGixsv6stFun",
+    "description": "Grand Mercure Lampung, which occupies the Sinar Laut Tower, is the tallest building on Sumatera Island, Lampung, Indonesian, reaching a height of 198 meters. Type Residential Size 5x5",
+    "descriptionHtml": "Grand Mercure Lampung, which occupies the Sinar Laut Tower, is the tallest building on Sumatera Island, Lampung, Indonesian, reaching a height of 198 meters.<br>\n<br>\nType Residential<br>\nSize 5x5",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "17.4KB",
+      "bytes": 17818
+    },
+    "minVersion": "Any",
+    "author": "Matteddy26",
+    "authorId": "797723",
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "4",
+    "downloads": 127,
+    "rating": {
+      "score": 3,
+      "label": "MIXED",
+      "count": 4
+    }
+  },
+  {
+    "id": "14783",
+    "name": "MrusOil Gas Station",
+    "url": "https://forum.theotown.com/plugins/list?term=:14783",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=c5UE3aEasRbI2wRvkaQXRtJao9zBogdg",
+    "description": "The MrusOil gas station is a fictional facility owned by MrusOil, a major oil company in the Republic of Mrusia. The station features a large red canopy bearing MrusOil branding, several fuel pumps, a compact service building, a parking area, access roads, and a small charging station. Its landscaping—incorporating trees, greenery, and decorative elements—allows the station to blend harmoniously into a modern urban environment. Created in a detailed pixel-art style for the game TheoTown , this building is perfectly suited for placement along city streets and highways, as well as in commercial districts and suburban areas. Part of the Mrusia infrastructure for your cities in TheoTown. Inspired by: Pertamina Vehicle texture by: Lobby. Tree textures by: Lobby",
+    "descriptionHtml": "The MrusOil gas station is a fictional facility owned by MrusOil, a major oil company in the Republic of Mrusia. The station features a large red canopy bearing MrusOil branding, several fuel pumps, a compact service building, a parking area, access roads, and a small charging station. Its landscaping—incorporating trees, greenery, and decorative elements—allows the station to blend harmoniously into a modern urban environment.<br>\n<br>\nCreated in a detailed pixel-art style for the game TheoTown , this building is perfectly suited for placement along city streets and highways, as well as in commercial districts and suburban areas.<br>\n<br>\nPart of the Mrusia infrastructure for your cities in TheoTown.<br>\n<br>\nInspired by: Pertamina<br>\nVehicle texture by: Lobby.<br>\nTree textures by: Lobby",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "13.46KB",
+      "bytes": 13783
+    },
+    "minVersion": "Any",
+    "author": "LENUN1922",
+    "authorId": "315683",
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "2",
+    "downloads": 75,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14782",
+    "name": "American Erastus Corning Tower",
+    "url": "https://forum.theotown.com/plugins/list?term=:14782",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=k1iN52F4hMX7coAplOrUjKUkCNNK0KiB",
+    "description": "The Erastus Corning Tower, standing 180 meters tall in Albany, is the tallest building in New York and the highest state capitol in the US.",
+    "descriptionHtml": "The Erastus Corning Tower, standing 180 meters tall in Albany, is the tallest building in New York and the highest state capitol in the US.",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "25.34KB",
+      "bytes": 25948
+    },
+    "minVersion": "Any",
+    "author": "ADGEK",
+    "authorId": "952975",
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "3",
+    "downloads": 107,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14777",
+    "name": "SFWC",
+    "url": "https://forum.theotown.com/plugins/list?term=:14777",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=qipdMwQuZazeJjwBWoT3Tacij9lNiWwl",
+    "description": "Located in Shanghai's Pudong district, the Shanghai World Financial Center (SWFC) is a massive skyscraper completed in 2008, standing 492 meters tall. With 101 floors, the SWFC houses spacious offices, observation decks, conference halls, commercial spaces, and a hotel. It is an iconic skyscraper recognized worldwide for its design—which tapers from bottom to top—and its most distinctive feature: a large aperture at the summit. The SWFC was designed as a tapering skyscraper formed by the combination of a square prism and two large curved shapes. The architects drew upon geometric concepts associated with the Chinese cultural notions of heaven and earth. As one of the three major skyscrapers in Shanghai's Lujiazui district, the SWFC was the world's second-tallest building—surpassed only by Taipei 101—upon its completion in 2008. Viewed as a symbol of China's ambition to become a global financial hub, the SWFC remains one of the tallest skyscrapers in the world. ADD-ON INFORMATION: The structure has been implemented in the game as a commercial skyscraper occupying a 7x7 footprint. It features versions with blue-and-white lighting and special Chinese New Year LED lighting for the night. The add-on includes a total of three different versions of the building, including one with a classic night animation featuring illuminated floors. NOTE: This add-on is an independent TheoTown fan creation and is not endorsed by any company or organization. For assistance or collaboration, you can contact us via the \"TR pro\" account on the forums. Do you have an add-on suggestion? Our Instagram account: trpro_official_ 2026, TR plugins. Developed using TR 2.0 technology.",
+    "descriptionHtml": "Located in Shanghai's Pudong district, the Shanghai World Financial Center (SWFC) is a massive skyscraper completed in 2008, standing 492 meters tall. With 101 floors, the SWFC houses spacious offices, observation decks, conference halls, commercial spaces, and a hotel. It is an iconic skyscraper recognized worldwide for its design—which tapers from bottom to top—and its most distinctive feature: a large aperture at the summit. The SWFC was designed as a tapering skyscraper formed by the combination of a square prism and two large curved shapes. The architects drew upon geometric concepts associated with the Chinese cultural notions of heaven and earth. As one of the three major skyscrapers in Shanghai's Lujiazui district, the SWFC was the world's second-tallest building—surpassed only by Taipei 101—upon its completion in 2008. Viewed as a symbol of China's ambition to become a global financial hub, the SWFC remains one of the tallest skyscrapers in the world. <br>\n<br>\nADD-ON INFORMATION: The structure has been implemented in the game as a commercial skyscraper occupying a 7x7 footprint. It features versions with blue-and-white lighting and special Chinese New Year LED lighting for the night. The add-on includes a total of three different versions of the building, including one with a classic night animation featuring illuminated floors. <br>\n<br>\nNOTE: This add-on is an independent TheoTown fan creation and is not endorsed by any company or organization. <br>\n<br>\nFor assistance or collaboration, you can contact us via the \"TR pro\" account on the forums. Do you have an add-on suggestion? Our Instagram account: trpro_official_ <br>\n<br>\n2026, TR plugins. Developed using TR 2.0 technology.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "801.64KB",
+      "bytes": 820879
+    },
+    "minVersion": "Any",
+    "author": "[TR] pro",
+    "authorId": "1117299",
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "3",
+    "downloads": 141,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 3
+    }
+  },
+  {
+    "id": "14784",
+    "name": "Industrial and Commercial Bank",
+    "url": "https://forum.theotown.com/plugins/list?term=:14784",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=wKC019pii0OKG3eVhJSYnxTgTuGKkdol",
+    "description": "Industrial and Commercial Bank of China (ICBC) is one of China's largest banks. This building module features its modern glass facade and iconic signage.",
+    "descriptionHtml": "Industrial and Commercial Bank of China (ICBC) is one of China's largest banks. This building module features its modern glass facade and iconic signage.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "115.61KB",
+      "bytes": 118385
+    },
+    "minVersion": "Any",
+    "author": "Slavic forever",
+    "authorId": "683743",
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "4",
+    "downloads": 208,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14791",
+    "name": "Action",
+    "url": "https://forum.theotown.com/plugins/list?term=:14791",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=HP06tRGAyuAvuICvJA7bn76UifZO4Xeg",
+    "description": "Action is a Dutch multinational discount store chain, offering a wide variety of everyday products at affordable prices. This TheoTown building is inspired by the typical modern Action store design, featuring a large single-story retail building, a flat gray roof, the recognizable Action branding, rooftop technical equipment, parking spaces and surrounding greenery. Designed in a detailed pixel-art style for TheoTown, this building is suitable for commercial districts, suburban areas, shopping zones and locations along major roads. A Dutch retail store brought into the TheoTown world. Vehicle texture by: Lobby. Tree textures by: Lobby",
+    "descriptionHtml": "Action is a Dutch multinational discount store chain, offering a wide variety of everyday products at affordable prices. This TheoTown building is inspired by the typical modern Action store design, featuring a large single-story retail building, a flat gray roof, the recognizable Action branding, rooftop technical equipment, parking spaces and surrounding greenery.<br>\n<br>\nDesigned in a detailed pixel-art style for TheoTown, this building is suitable for commercial districts, suburban areas, shopping zones and locations along major roads.<br>\n<br>\nA Dutch retail store brought into the TheoTown world.<br>\n<br>\nVehicle texture by: Lobby.<br>\nTree textures by: Lobby",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "8.02KB",
+      "bytes": 8212
+    },
+    "minVersion": "Any",
+    "author": "LENUN1922",
+    "authorId": "315683",
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "2",
+    "downloads": 38,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14792",
+    "name": "Nova Poshta Logistics Center",
+    "url": "https://forum.theotown.com/plugins/list?term=:14792",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Peq3CSaD2GLM79wUtZjsFEMvqmU2uJg1",
+    "description": "Nova Poshta Logistics Center is a Ukrainian logistics facility inspired by the real-life Nova Poshta delivery company. The building features a large low-rise warehouse structure with a dark gray roof, recognizable Nova Poshta branding, loading and service areas, rooftop technical equipment and surrounding greenery. Designed in a detailed pixel-art style for TheoTown, this building is suitable for industrial districts, logistics zones, suburban areas and locations near major roads. A Ukrainian logistics facility brought into the TheoTown world. Vehicle texture by: Lobby. Tree textures by: Lobby",
+    "descriptionHtml": "Nova Poshta Logistics Center is a Ukrainian logistics facility inspired by the real-life Nova Poshta delivery company. The building features a large low-rise warehouse structure with a dark gray roof, recognizable Nova Poshta branding, loading and service areas, rooftop technical equipment and surrounding greenery.<br>\n<br>\nDesigned in a detailed pixel-art style for TheoTown, this building is suitable for industrial districts, logistics zones, suburban areas and locations near major roads.<br>\n<br>\nA Ukrainian logistics facility brought into the TheoTown world.<br>\n<br>\nVehicle texture by: Lobby.<br>\nTree textures by: Lobby",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "6.27KB",
+      "bytes": 6420
+    },
+    "minVersion": "Any",
+    "author": "LENUN1922",
+    "authorId": "315683",
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "2",
+    "downloads": 35,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
     "id": "14765",
     "name": "Chongqing WFC",
     "url": "https://forum.theotown.com/plugins/list?term=:14765",
@@ -26,11 +264,11 @@
     "authorId": "2119576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 222,
+    "downloads": 586,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 12
     }
   },
   {
@@ -60,11 +298,11 @@
     "authorId": "391947",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 65,
+    "downloads": 185,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 2
+      "count": 3
     }
   },
   {
@@ -94,11 +332,11 @@
     "authorId": "1019836",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 554,
+    "downloads": 1336,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 10
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 15
     }
   },
   {
@@ -128,11 +366,11 @@
     "authorId": "2050504",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 123,
+    "downloads": 299,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 2
+      "count": 4
     }
   },
   {
@@ -162,11 +400,11 @@
     "authorId": "992457",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1184,
+    "downloads": 1294,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 14
+      "count": 15
     }
   },
   {
@@ -196,7 +434,7 @@
     "authorId": "1169481",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 925,
+    "downloads": 1015,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -230,7 +468,7 @@
     "authorId": "816803",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1034,
+    "downloads": 1108,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -264,7 +502,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 679,
+    "downloads": 727,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -298,11 +536,11 @@
     "authorId": "587116",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1509,
+    "downloads": 1642,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 10
+      "count": 11
     }
   },
   {
@@ -332,7 +570,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 494,
+    "downloads": 550,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -366,11 +604,11 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 266,
+    "downloads": 287,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 3
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
     }
   },
   {
@@ -400,7 +638,7 @@
     "authorId": "1981212",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 256,
+    "downloads": 292,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -434,7 +672,7 @@
     "authorId": "2075576",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "7",
-    "downloads": 150,
+    "downloads": 171,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -468,11 +706,11 @@
     "authorId": "816803",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 732,
+    "downloads": 784,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -502,7 +740,7 @@
     "authorId": "682550",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1170,
+    "downloads": 1343,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -536,7 +774,7 @@
     "authorId": "6922",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 1226,
+    "downloads": 1350,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -570,7 +808,7 @@
     "authorId": "2060627",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 495,
+    "downloads": 574,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -604,7 +842,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 654,
+    "downloads": 731,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,11 +876,11 @@
     "authorId": "862856",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1424,
+    "downloads": 1578,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 17
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 19
     }
   },
   {
@@ -672,7 +910,7 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 156,
+    "downloads": 172,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -706,7 +944,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 659,
+    "downloads": 729,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,7 +978,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 530,
+    "downloads": 592,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -774,7 +1012,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 376,
+    "downloads": 417,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -808,7 +1046,7 @@
     "authorId": "126998",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 754,
+    "downloads": 837,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -842,11 +1080,11 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 1200,
+    "downloads": 1371,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 9
+      "count": 10
     }
   },
   {
@@ -876,7 +1114,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 460,
+    "downloads": 522,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -910,7 +1148,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 441,
+    "downloads": 491,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +1182,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 665,
+    "downloads": 733,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -978,7 +1216,7 @@
     "authorId": "2067306",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 396,
+    "downloads": 441,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1012,7 +1250,7 @@
     "authorId": "224349",
     "uploadDate": "23 Sep 2026, 21:28",
     "version": "10",
-    "downloads": 4014,
+    "downloads": 4149,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1046,7 +1284,7 @@
     "authorId": "2188876",
     "uploadDate": "23 Sep 2026, 21:28",
     "version": "2",
-    "downloads": 1606,
+    "downloads": 1692,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1318,7 @@
     "authorId": "2182907",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 455,
+    "downloads": 472,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1114,7 +1352,7 @@
     "authorId": "601724",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1436,
+    "downloads": 1500,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1386,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "3",
-    "downloads": 607,
+    "downloads": 622,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1182,7 +1420,7 @@
     "authorId": "1931483",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1285,
+    "downloads": 1320,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1216,7 +1454,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1182,
+    "downloads": 1203,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1250,7 +1488,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1964,
+    "downloads": 2004,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1284,7 +1522,7 @@
     "authorId": "425553",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "3",
-    "downloads": 1860,
+    "downloads": 1903,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1318,7 +1556,7 @@
     "authorId": "2033350",
     "uploadDate": "22 Sep 2026, 11:33",
     "version": "2",
-    "downloads": 565,
+    "downloads": 579,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1352,7 +1590,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 571,
+    "downloads": 588,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1386,7 +1624,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1225,
+    "downloads": 1287,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1658,7 @@
     "authorId": "601724",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "2",
-    "downloads": 1035,
+    "downloads": 1078,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1454,7 +1692,7 @@
     "authorId": "1252908",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "3",
-    "downloads": 657,
+    "downloads": 675,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1488,7 +1726,7 @@
     "authorId": "683743",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "2",
-    "downloads": 3263,
+    "downloads": 3416,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1522,7 +1760,7 @@
     "authorId": "6922",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "6",
-    "downloads": 3513,
+    "downloads": 3784,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1794,7 @@
     "authorId": "6922",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "4",
-    "downloads": 2139,
+    "downloads": 2226,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1590,7 +1828,7 @@
     "authorId": "951034",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "2",
-    "downloads": 1223,
+    "downloads": 1269,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1624,7 +1862,7 @@
     "authorId": "341193",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "3",
-    "downloads": 5083,
+    "downloads": 5420,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1658,7 +1896,7 @@
     "authorId": "1931483",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "5",
-    "downloads": 1734,
+    "downloads": 1783,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,7 +1930,7 @@
     "authorId": "22978",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "2",
-    "downloads": 144,
+    "downloads": 147,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1726,7 +1964,7 @@
     "authorId": "682550",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "2",
-    "downloads": 1535,
+    "downloads": 1593,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1760,7 +1998,7 @@
     "authorId": "2169812",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "4",
-    "downloads": 883,
+    "downloads": 905,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1794,11 +2032,11 @@
     "authorId": "6922",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "4",
-    "downloads": 2462,
+    "downloads": 2538,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 25
+      "count": 26
     }
   },
   {
@@ -1828,7 +2066,7 @@
     "authorId": "626674",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "2",
-    "downloads": 2190,
+    "downloads": 2246,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1862,7 +2100,7 @@
     "authorId": "315683",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "2",
-    "downloads": 820,
+    "downloads": 837,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1896,7 +2134,7 @@
     "authorId": "668933",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 1165,
+    "downloads": 1207,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1930,7 +2168,7 @@
     "authorId": "22978",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 240,
+    "downloads": 249,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1964,7 +2202,7 @@
     "authorId": "682550",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 1474,
+    "downloads": 1552,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1998,11 +2236,11 @@
     "authorId": "481062",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 751,
+    "downloads": 777,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -2032,7 +2270,7 @@
     "authorId": "6922",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "2",
-    "downloads": 2737,
+    "downloads": 2893,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2066,7 +2304,7 @@
     "authorId": "3422",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "2",
-    "downloads": 925,
+    "downloads": 947,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2100,11 +2338,11 @@
     "authorId": "2124354",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 979,
+    "downloads": 1011,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 15
+      "count": 16
     }
   },
   {
@@ -2168,7 +2406,7 @@
     "authorId": "922636",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "2",
-    "downloads": 3998,
+    "downloads": 4055,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2202,7 +2440,7 @@
     "authorId": "405140",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 348,
+    "downloads": 356,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2236,7 +2474,7 @@
     "authorId": "1111579",
     "uploadDate": "22 Sep 2026, 11:33",
     "version": "5",
-    "downloads": 2360,
+    "downloads": 2404,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2372,7 +2610,7 @@
     "authorId": "682550",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "2",
-    "downloads": 811,
+    "downloads": 840,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2542,11 +2780,11 @@
     "authorId": "2060627",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 2675,
+    "downloads": 2740,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 23
+      "count": 24
     }
   },
   {
@@ -2678,7 +2916,7 @@
     "authorId": "171359",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "3",
-    "downloads": 5184,
+    "downloads": 5248,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2712,7 +2950,7 @@
     "authorId": "171359",
     "uploadDate": "16 Sep 2026, 21:15",
     "version": "9",
-    "downloads": 2924,
+    "downloads": 2960,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -3018,7 +3256,7 @@
     "authorId": "1269221",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "7",
-    "downloads": 3853,
+    "downloads": 3911,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -3664,7 +3902,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "5",
-    "downloads": 2414,
+    "downloads": 2470,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3766,7 +4004,7 @@
     "authorId": "1981212",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "25",
-    "downloads": 5547,
+    "downloads": 5595,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5194,7 +5432,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 1819,
+    "downloads": 1866,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -9818,11 +10056,11 @@
     "authorId": "1169481",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "7",
-    "downloads": 27710,
+    "downloads": 27916,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 263
+      "count": 267
     }
   },
   {
@@ -12210,9 +12448,9 @@
     "name": "Capital Place Hanoi",
     "url": "https://forum.theotown.com/plugins/list?term=:14087",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=gKdmjS4KHBn8chtTmjs6Ezg8bzxxE2fI",
-    "description": "+ Rising proudly in the heart of Hanoi, Capital Place is the first Grade A office building to achieve dual LEED certification. + Residential building level 3: 2000 peoples. + Night animation: Yes. Original image credit: @NamVu. Detailed editing + plugin packaging: YinDreamX.",
-    "descriptionHtml": "+ Rising proudly in the heart of Hanoi, Capital Place is the first Grade A office building to achieve dual LEED certification.<br>\n+ Residential building level 3: 2000 peoples.<br>\n+ Night animation: Yes.<br>\nOriginal image credit: @NamVu.<br>\nDetailed editing + plugin packaging: YinDreamX.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=tNJROzmn96SJCvclgQF8lALZpk7AclKB",
+    "description": "+ Rising proudly in the heart of Hanoi, Capital Place is the first Grade A office building to achieve dual LEED certification. + Residential building level 3: 5000 peoples. + Night animation: Yes. Original image credit: @NamVu. Detailed editing + plugin packaging: YinDreamX.",
+    "descriptionHtml": "+ Rising proudly in the heart of Hanoi, Capital Place is the first Grade A office building to achieve dual LEED certification.<br>\n+ Residential building level 3: 5000 peoples.<br>\n+ Night animation: Yes.<br>\nOriginal image credit: @NamVu.<br>\nDetailed editing + plugin packaging: YinDreamX.",
     "category": "Residential",
     "price": {
       "amount": 30,
@@ -12224,19 +12462,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "172.63KB",
-      "bytes": 176773
+      "raw": "142.2KB",
+      "bytes": 145613
     },
     "minVersion": "Any",
     "author": "yinx",
     "authorId": "2060627",
-    "uploadDate": "30 Jun 2026, 07:19",
-    "version": "8",
-    "downloads": 5412,
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "10",
+    "downloads": 6580,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 26
+      "count": 27
     }
   },
   {
@@ -13456,7 +13694,7 @@
     "authorId": "1087123",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 14430,
+    "downloads": 14570,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -14204,7 +14442,7 @@
     "authorId": "2075576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "10",
-    "downloads": 2275,
+    "downloads": 2318,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -14714,7 +14952,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 5950,
+    "downloads": 5980,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -17943,7 +18181,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 17871,
+    "downloads": 18017,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -20051,7 +20289,7 @@
     "authorId": "22978",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "9",
-    "downloads": 5452,
+    "downloads": 5467,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -20527,11 +20765,11 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 7192,
+    "downloads": 7314,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 50
+      "count": 51
     }
   },
   {
@@ -20935,7 +21173,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 6440,
+    "downloads": 6460,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -21683,7 +21921,7 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "10",
-    "downloads": 2228,
+    "downloads": 2240,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -25673,9 +25911,9 @@
     "name": "Masjid Negara",
     "url": "https://forum.theotown.com/plugins/list?term=:13326",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=6ESOcf0hAEQ70hLvWcBa64I64qt15uSt",
-    "description": "Hi, I'm back with another plugin, Masjid Negara. Located in Kuala Lumpur, it's the national mosque of Malaysia. Known for it's unique \"Umbrella-like\" roof and modern look. It is 13X13, has a religious influence of 100, and has a price of 50000T. I hope you like it!",
-    "descriptionHtml": "Hi, I'm back with another plugin, Masjid Negara.<br>\n<br>\nLocated in Kuala Lumpur, it's the national mosque of Malaysia. Known for it's unique \"Umbrella-like\" roof and modern look.<br>\n<br>\nIt is 13X13, has a religious influence of 100, and has a price of 50000T. I hope you like it!",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=hvZyyxWL6GB1cpP9VHJGv3p1E1tJCQSw",
+    "description": "Hi, I'm back with another plugin, Masjid Negara. Located in Kuala Lumpur, it's the national mosque of Malaysia. Known for it's unique \"Umbrella-like\" roof and modern look. It is 13X13, has a religious influence of 100, and has a price of 50000T. Changelog : • Night animation added. I hope you like it!",
+    "descriptionHtml": "Hi, I'm back with another plugin, Masjid Negara.<br>\n<br>\nLocated in Kuala Lumpur, it's the national mosque of Malaysia. Known for it's unique \"Umbrella-like\" roof and modern look.<br>\n<br>\nIt is 13X13, has a religious influence of 100, and has a price of 50000T. <br>\n<br>\nChangelog :<br>\n • Night animation added.<br>\nI hope you like it!",
     "category": "Religion and Culture",
     "price": {
       "amount": 60,
@@ -25687,19 +25925,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "79.07KB",
-      "bytes": 80968
+      "raw": "95.88KB",
+      "bytes": 98181
     },
     "minVersion": "Any",
     "author": "AyuKucing",
     "authorId": "668518",
-    "uploadDate": "31 Mar 2026, 20:15",
-    "version": "4",
-    "downloads": 4936,
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "7",
+    "downloads": 5723,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 28
+      "count": 27
     }
   },
   {
@@ -40211,7 +40449,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "4",
-    "downloads": 20092,
+    "downloads": 20118,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -51225,7 +51463,7 @@
     "authorId": "10216",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "6",
-    "downloads": 24748,
+    "downloads": 24761,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -51259,7 +51497,7 @@
     "authorId": "10216",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "17",
-    "downloads": 29385,
+    "downloads": 29396,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -51293,7 +51531,7 @@
     "authorId": "10216",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "12",
-    "downloads": 140348,
+    "downloads": 140371,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -51327,7 +51565,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 41262,
+    "downloads": 41274,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -51429,7 +51667,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "8",
-    "downloads": 17782,
+    "downloads": 17801,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -55168,7 +55406,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 13814,
+    "downloads": 13832,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -61572,9 +61810,9 @@
     "name": "Masjid Jawa",
     "url": "https://forum.theotown.com/plugins/list?term=:10412",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=vQQpK79JVwdUnLiTuQI7uXKq99qvWra5",
-    "description": "Hello and Eid Mubarak to all! I'm back with another plugin. It's a Javanese vernacular style mosque. This style of mosques can be found all across Java primarily in rural areas. It's 3×3 and provides the religion influence of 50. It's price is 5000 and monthly price is 500",
-    "descriptionHtml": "Hello and Eid Mubarak to all! I'm back with another plugin. <br>\nIt's a Javanese vernacular style mosque. This style of mosques can be found all across Java primarily in rural areas.<br>\nIt's 3×3 and provides the religion influence of 50.<br>\nIt's price is 5000 and monthly price is 500",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=WBEnpYJlLblMbA4dFYDzlPu3R8OhAIwY",
+    "description": "Hello there! I'm back with another plugin. It's a Javanese vernacular style mosque. This style of mosques can be found all across Java primarily in rural areas. It's 3×3 and provides the religion influence of 50. It's price is 5000 and monthly price is 50. Change log • mosque redesigned. • night animation added. I hope you enjoy it!",
+    "descriptionHtml": "Hello there! I'm back with another plugin. <br>\nIt's a Javanese vernacular style mosque. This style of mosques can be found all across Java primarily in rural areas.<br>\nIt's 3×3 and provides the religion influence of 50.<br>\nIt's price is 5000 and monthly price is 50.<br>\n<br>\nChange log<br>\n • mosque redesigned.<br>\n • night animation added.<br>\n<br>\nI hope you enjoy it!",
     "category": "Religion and Culture",
     "price": {
       "amount": 30,
@@ -61586,15 +61824,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "10.8KB",
-      "bytes": 11059
+      "raw": "12.24KB",
+      "bytes": 12534
     },
     "minVersion": "Any",
     "author": "AyuKucing",
     "authorId": "668518",
-    "uploadDate": "30 Mar 2025, 11:43",
-    "version": "2",
-    "downloads": 68074,
+    "uploadDate": "29 Sep 2026, 15:23",
+    "version": "4",
+    "downloads": 69007,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -67680,7 +67918,7 @@
     "authorId": "922636",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "4",
-    "downloads": 15037,
+    "downloads": 15065,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
