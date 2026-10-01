@@ -26,7 +26,7 @@
     "authorId": "2177849",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "2",
-    "downloads": 82,
+    "downloads": 471,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -60,11 +60,11 @@
     "authorId": "2193822",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "2",
-    "downloads": 49,
+    "downloads": 364,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
     }
   },
   {
@@ -94,11 +94,11 @@
     "authorId": "22978",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "2",
-    "downloads": 14,
+    "downloads": 123,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 1
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
     }
   },
   {
@@ -128,11 +128,11 @@
     "authorId": "797723",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 505,
+    "downloads": 768,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 7
+      "count": 8
     }
   },
   {
@@ -162,11 +162,11 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 593,
+    "downloads": 918,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -196,11 +196,11 @@
     "authorId": "952975",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "3",
-    "downloads": 637,
+    "downloads": 935,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 7
+      "count": 9
     }
   },
   {
@@ -230,11 +230,11 @@
     "authorId": "1117299",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "3",
-    "downloads": 993,
+    "downloads": 1641,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 17
+      "count": 23
     }
   },
   {
@@ -264,11 +264,11 @@
     "authorId": "683743",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 1207,
+    "downloads": 1867,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 16
     }
   },
   {
@@ -298,11 +298,11 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 396,
+    "downloads": 600,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 4
+      "count": 5
     }
   },
   {
@@ -332,11 +332,11 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 304,
+    "downloads": 451,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -366,11 +366,11 @@
     "authorId": "2119576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 929,
+    "downloads": 1159,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 13
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 15
     }
   },
   {
@@ -400,7 +400,7 @@
     "authorId": "391947",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 298,
+    "downloads": 370,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -434,11 +434,11 @@
     "authorId": "1019836",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 2105,
+    "downloads": 2717,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 18
+      "count": 20
     }
   },
   {
@@ -468,11 +468,11 @@
     "authorId": "2050504",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 443,
+    "downloads": 554,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 4
+      "count": 5
     }
   },
   {
@@ -502,7 +502,7 @@
     "authorId": "992457",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1456,
+    "downloads": 1600,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -536,7 +536,7 @@
     "authorId": "1169481",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1158,
+    "downloads": 1291,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -570,7 +570,7 @@
     "authorId": "816803",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1221,
+    "downloads": 1317,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -604,7 +604,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 811,
+    "downloads": 871,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,11 +638,11 @@
     "authorId": "587116",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1864,
+    "downloads": 2044,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 11
+      "count": 13
     }
   },
   {
@@ -672,7 +672,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 633,
+    "downloads": 704,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -706,7 +706,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 329,
+    "downloads": 362,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,11 +740,11 @@
     "authorId": "1981212",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 341,
+    "downloads": 376,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 4
+      "count": 5
     }
   },
   {
@@ -774,7 +774,7 @@
     "authorId": "2075576",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "7",
-    "downloads": 196,
+    "downloads": 216,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -808,11 +808,11 @@
     "authorId": "816803",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 883,
+    "downloads": 955,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 14
+      "count": 16
     }
   },
   {
@@ -842,11 +842,11 @@
     "authorId": "682550",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1558,
+    "downloads": 1827,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -876,7 +876,7 @@
     "authorId": "6922",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 1538,
+    "downloads": 1730,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -910,7 +910,7 @@
     "authorId": "2060627",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 661,
+    "downloads": 738,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +944,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 850,
+    "downloads": 948,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -978,7 +978,7 @@
     "authorId": "862856",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1781,
+    "downloads": 1975,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1012,11 +1012,11 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 203,
+    "downloads": 238,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
     }
   },
   {
@@ -1046,7 +1046,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 875,
+    "downloads": 1052,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1080,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 681,
+    "downloads": 751,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1114,7 +1114,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 482,
+    "downloads": 525,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1148,7 @@
     "authorId": "126998",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 965,
+    "downloads": 1061,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1182,7 +1182,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 1588,
+    "downloads": 1764,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1216,7 +1216,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 596,
+    "downloads": 662,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1250,11 +1250,11 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 559,
+    "downloads": 606,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 8
+      "count": 10
     }
   },
   {
@@ -1284,7 +1284,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 827,
+    "downloads": 935,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1318,7 +1318,7 @@
     "authorId": "2067306",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 490,
+    "downloads": 525,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1352,11 +1352,11 @@
     "authorId": "224349",
     "uploadDate": "23 Sep 2026, 21:28",
     "version": "10",
-    "downloads": 4354,
+    "downloads": 4626,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 28
+      "count": 29
     }
   },
   {
@@ -1386,7 +1386,7 @@
     "authorId": "2188876",
     "uploadDate": "23 Sep 2026, 21:28",
     "version": "2",
-    "downloads": 1806,
+    "downloads": 1919,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1420,7 @@
     "authorId": "2182907",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 491,
+    "downloads": 503,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1454,7 +1454,7 @@
     "authorId": "601724",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1608,
+    "downloads": 1736,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1488,7 +1488,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "3",
-    "downloads": 639,
+    "downloads": 657,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1522,7 +1522,7 @@
     "authorId": "1931483",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1376,
+    "downloads": 1503,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1556,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1244,
+    "downloads": 1282,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1590,7 +1590,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 2081,
+    "downloads": 2155,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1624,11 +1624,11 @@
     "authorId": "425553",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "3",
-    "downloads": 1967,
+    "downloads": 2045,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 14
+      "count": 15
     }
   },
   {
@@ -1658,7 +1658,7 @@
     "authorId": "2033350",
     "uploadDate": "22 Sep 2026, 11:33",
     "version": "2",
-    "downloads": 599,
+    "downloads": 623,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,7 +1692,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 610,
+    "downloads": 630,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1726,7 +1726,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1391,
+    "downloads": 1472,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1760,11 +1760,11 @@
     "authorId": "601724",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "2",
-    "downloads": 1131,
+    "downloads": 1189,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 10
+      "count": 11
     }
   },
   {
@@ -1794,11 +1794,11 @@
     "authorId": "1252908",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "3",
-    "downloads": 710,
+    "downloads": 739,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 9
+      "count": 10
     }
   },
   {
@@ -1828,7 +1828,7 @@
     "authorId": "683743",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "2",
-    "downloads": 3706,
+    "downloads": 4001,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1862,11 +1862,11 @@
     "authorId": "6922",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "6",
-    "downloads": 4068,
+    "downloads": 4339,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 28
+      "count": 29
     }
   },
   {
@@ -1896,11 +1896,11 @@
     "authorId": "6922",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "4",
-    "downloads": 2316,
+    "downloads": 2390,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 20
+      "count": 21
     }
   },
   {
@@ -1930,11 +1930,11 @@
     "authorId": "951034",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "2",
-    "downloads": 1319,
+    "downloads": 1360,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -1964,11 +1964,11 @@
     "authorId": "341193",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "3",
-    "downloads": 5759,
+    "downloads": 6165,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 33
+      "count": 34
     }
   },
   {
@@ -1998,11 +1998,11 @@
     "authorId": "1931483",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "5",
-    "downloads": 1835,
+    "downloads": 1904,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 14
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 15
     }
   },
   {
@@ -2032,7 +2032,7 @@
     "authorId": "22978",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "2",
-    "downloads": 150,
+    "downloads": 152,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2066,7 +2066,7 @@
     "authorId": "682550",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "2",
-    "downloads": 1671,
+    "downloads": 1740,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2100,7 +2100,7 @@
     "authorId": "2169812",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "4",
-    "downloads": 951,
+    "downloads": 986,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2134,11 +2134,11 @@
     "authorId": "6922",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "4",
-    "downloads": 2616,
+    "downloads": 2677,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 27
+      "count": 28
     }
   },
   {
@@ -2168,7 +2168,7 @@
     "authorId": "626674",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "2",
-    "downloads": 2306,
+    "downloads": 2356,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2202,7 +2202,7 @@
     "authorId": "315683",
     "uploadDate": "20 Sep 2026, 20:46",
     "version": "2",
-    "downloads": 863,
+    "downloads": 896,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2236,7 +2236,7 @@
     "authorId": "668933",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 1264,
+    "downloads": 1320,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2270,7 +2270,7 @@
     "authorId": "22978",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 259,
+    "downloads": 270,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2304,7 +2304,7 @@
     "authorId": "682550",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 1615,
+    "downloads": 1680,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2338,7 +2338,7 @@
     "authorId": "481062",
     "uploadDate": "20 Sep 2026, 16:01",
     "version": "2",
-    "downloads": 807,
+    "downloads": 842,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2372,7 +2372,7 @@
     "authorId": "6922",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "2",
-    "downloads": 3007,
+    "downloads": 3113,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2406,11 +2406,11 @@
     "authorId": "3422",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "2",
-    "downloads": 965,
+    "downloads": 988,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 17
+      "count": 19
     }
   },
   {
@@ -2440,7 +2440,7 @@
     "authorId": "2124354",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 1056,
+    "downloads": 1090,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2508,7 +2508,7 @@
     "authorId": "922636",
     "uploadDate": "17 Sep 2026, 11:37",
     "version": "2",
-    "downloads": 4121,
+    "downloads": 4177,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2542,7 +2542,7 @@
     "authorId": "405140",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 369,
+    "downloads": 379,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2576,11 +2576,11 @@
     "authorId": "1111579",
     "uploadDate": "22 Sep 2026, 11:33",
     "version": "5",
-    "downloads": 2458,
+    "downloads": 2517,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 17
+      "count": 18
     }
   },
   {
@@ -2882,7 +2882,7 @@
     "authorId": "2060627",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 2938,
+    "downloads": 3085,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3358,7 +3358,7 @@
     "authorId": "1269221",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "7",
-    "downloads": 4028,
+    "downloads": 4109,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4004,11 +4004,11 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "5",
-    "downloads": 2539,
+    "downloads": 2635,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 26
+      "count": 27
     }
   },
   {
@@ -4106,7 +4106,7 @@
     "authorId": "1981212",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "25",
-    "downloads": 5777,
+    "downloads": 5905,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5534,7 +5534,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 1931,
+    "downloads": 1981,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10158,11 +10158,11 @@
     "authorId": "1169481",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "7",
-    "downloads": 28173,
+    "downloads": 28478,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 272
+      "count": 285
     }
   },
   {
@@ -12572,11 +12572,11 @@
     "authorId": "2060627",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "10",
-    "downloads": 6764,
+    "downloads": 6916,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 31
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 32
     }
   },
   {
@@ -13796,11 +13796,11 @@
     "authorId": "1087123",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 14805,
+    "downloads": 15011,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 101
+      "count": 102
     }
   },
   {
@@ -14544,11 +14544,11 @@
     "authorId": "2075576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "10",
-    "downloads": 2361,
+    "downloads": 2386,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 8
+      "count": 9
     }
   },
   {
@@ -15054,7 +15054,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 6026,
+    "downloads": 6069,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -18283,7 +18283,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 18247,
+    "downloads": 18404,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -20391,11 +20391,11 @@
     "authorId": "22978",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "9",
-    "downloads": 5481,
+    "downloads": 5515,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 38
+      "count": 39
     }
   },
   {
@@ -20867,7 +20867,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 7476,
+    "downloads": 7611,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -21275,7 +21275,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "3",
-    "downloads": 6484,
+    "downloads": 6503,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -22023,7 +22023,7 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "10",
-    "downloads": 2257,
+    "downloads": 2274,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -26035,11 +26035,11 @@
     "authorId": "668518",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "7",
-    "downloads": 5846,
+    "downloads": 5952,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 28
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 30
     }
   },
   {
@@ -37314,19 +37314,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "3.32KB",
-      "bytes": 3400
+      "raw": "5.04KB",
+      "bytes": 5161
     },
-    "minVersion": "1.11.73",
+    "minVersion": "1.12.86",
     "author": "JustAnyone",
     "authorId": "1880",
-    "uploadDate": "09 Feb 2026, 15:47",
-    "version": "20",
-    "downloads": 110955,
+    "uploadDate": "1 Oct 2026, 16:01",
+    "version": "22",
+    "downloads": 112365,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 771
+      "count": 788
     }
   },
   {
@@ -40551,7 +40551,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Sep 2026, 15:51",
     "version": "4",
-    "downloads": 20152,
+    "downloads": 20189,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -51667,11 +51667,11 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 41290,
+    "downloads": 41328,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 88
+      "count": 89
     }
   },
   {
@@ -51735,11 +51735,11 @@
     "authorId": "10216",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "7",
-    "downloads": 26397,
+    "downloads": 26483,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 205
+      "count": 207
     }
   },
   {
@@ -51769,7 +51769,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "8",
-    "downloads": 17821,
+    "downloads": 17842,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -55508,11 +55508,11 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 13869,
+    "downloads": 13889,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 69
+      "count": 70
     }
   },
   {
@@ -61934,7 +61934,7 @@
     "authorId": "668518",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 69172,
+    "downloads": 69274,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -68020,7 +68020,7 @@
     "authorId": "922636",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "4",
-    "downloads": 15100,
+    "downloads": 15129,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -72473,11 +72473,11 @@
     "authorId": "15",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "23",
-    "downloads": 558636,
+    "downloads": 558955,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 2806
+      "count": 2807
     }
   },
   {
