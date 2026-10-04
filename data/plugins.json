@@ -1,5 +1,73 @@
 [
   {
+    "id": "14806",
+    "name": "Élite People Police Plugin",
+    "url": "https://forum.theotown.com/plugins/list?term=:14806",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=rQI9jdBpxpW4lWLm6JmVV207eXE1osbo",
+    "description": "This is a new police plugin. It costs 550 and has a monthly cost of 30; it influences police operations and management, and offers performance benefits. It is a 4x4 building. The other building is a 1x1; it costs 25 and has a monthly cost of 5. The 1x1 spawns my first functional vehicle (Ostrovsky helped me create the JSON code). The 4x4 building spawns 4 service vehicles.",
+    "descriptionHtml": "This is a new police plugin. It costs 550 and has a monthly cost of 30; it influences police operations and management, and offers performance benefits. It is a 4x4 building. The other building is a 1x1; it costs 25 and has a monthly cost of 5. The 1x1 spawns my first functional vehicle (Ostrovsky helped me create the JSON code). The 4x4 building spawns 4 service vehicles.",
+    "category": "Service (Police, Health Care, Education,...)",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "60.76KB",
+      "bytes": 62218
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "4 Oct 2026, 08:19",
+    "version": "2",
+    "downloads": 96,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14807",
+    "name": "International Congress Palace",
+    "url": "https://forum.theotown.com/plugins/list?term=:14807",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=B4TxAdFWoEDGIYluGDpVF8vudGfR62dW",
+    "description": "This is my first public management plugin. It is 8x8. It costs 1050 and its monthly price is 250. To create the terrain I used terrain decoration from world texture, then I modified it so credit to Theotown and Lobby. The rest of the building is all created by myself. It has influence on police, management, park, culture and has performance",
+    "descriptionHtml": "This is my first public management plugin. It is 8x8. It costs 1050 and its monthly price is 250. To create the terrain I used terrain decoration from world texture, then I modified it so credit to Theotown and Lobby. The rest of the building is all created by myself. It has influence on police, management, park, culture and has performance",
+    "category": "Parks, Sports and Management",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "146.93KB",
+      "bytes": 150456
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "4 Oct 2026, 08:19",
+    "version": "2",
+    "downloads": 133,
+    "rating": {
+      "score": 1.5,
+      "label": "VERY NEGATIVE",
+      "count": 1
+    }
+  },
+  {
     "id": "14789",
     "name": "High Street Centre",
     "url": "https://forum.theotown.com/plugins/list?term=:14789",
@@ -26,7 +94,7 @@
     "authorId": "2195213",
     "uploadDate": "2 Oct 2026, 15:25",
     "version": "2",
-    "downloads": 1155,
+    "downloads": 1408,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -60,11 +128,11 @@
     "authorId": "2177849",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "2",
-    "downloads": 899,
+    "downloads": 1019,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 3
+      "count": 4
     }
   },
   {
@@ -86,19 +154,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "51.99KB",
-      "bytes": 53238
+      "raw": "52KB",
+      "bytes": 53248
     },
     "minVersion": "Any",
     "author": "pRubick Still Here",
     "authorId": "2193822",
-    "uploadDate": "30 Sep 2026, 15:40",
-    "version": "2",
-    "downloads": 743,
+    "uploadDate": "4 Oct 2026, 08:19",
+    "version": "4",
+    "downloads": 845,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
     }
   },
   {
@@ -128,7 +196,7 @@
     "authorId": "22978",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "2",
-    "downloads": 258,
+    "downloads": 297,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -162,7 +230,7 @@
     "authorId": "797723",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 1179,
+    "downloads": 1313,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -196,11 +264,11 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 1414,
+    "downloads": 1565,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 8
+      "count": 10
     }
   },
   {
@@ -230,7 +298,7 @@
     "authorId": "952975",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "3",
-    "downloads": 1394,
+    "downloads": 1524,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -264,7 +332,7 @@
     "authorId": "1117299",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "3",
-    "downloads": 2629,
+    "downloads": 2925,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -298,11 +366,11 @@
     "authorId": "683743",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 2812,
+    "downloads": 3097,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 19
+      "count": 21
     }
   },
   {
@@ -332,7 +400,7 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 941,
+    "downloads": 1027,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -366,7 +434,7 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 706,
+    "downloads": 769,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -400,11 +468,11 @@
     "authorId": "2119576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 1545,
+    "downloads": 1669,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -434,7 +502,7 @@
     "authorId": "391947",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 502,
+    "downloads": 532,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -468,11 +536,11 @@
     "authorId": "1019836",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 3833,
+    "downloads": 4231,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 23
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 25
     }
   },
   {
@@ -502,11 +570,11 @@
     "authorId": "2050504",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 750,
+    "downloads": 809,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -536,11 +604,11 @@
     "authorId": "992457",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1860,
+    "downloads": 1933,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 19
+      "count": 20
     }
   },
   {
@@ -672,11 +740,11 @@
     "authorId": "587116",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 2421,
+    "downloads": 2559,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 13
+      "count": 14
     }
   },
   {
@@ -706,7 +774,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 949,
+    "downloads": 1049,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,7 +808,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 432,
+    "downloads": 451,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -753,8 +821,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:14696",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=pt7s7Y0LR0ruZfNrxDe7fGuGYVTEQ4W0",
-    "description": "🚑 Wee-woo wee-woo. An accident is occurring on the tracks; we need an ambulance. Stay calm. Hello everyone... the long-awaited moment has arrived. The Indonesian-style ambulance train plugin is here—a medical transport vehicle that operates on the rails to handle accidents and treat sick citizens in the vicinity of the railway. 📜Note: Nighttime animations are not yet available for this feature but will be added in a future update; bug fixes and the inclusion of two animation types are also planned.",
-    "descriptionHtml": "🚑 Wee-woo wee-woo. <br>\nAn accident is occurring on the tracks; we need an ambulance. Stay calm.<br>\n<br>\nHello everyone... the long-awaited moment has arrived. The Indonesian-style ambulance train plugin is here—a medical transport vehicle that operates on the rails to handle accidents and treat sick citizens in the vicinity of the railway.<br>\n<br>\n📜Note:<br>\nNighttime animations are not yet available for this feature but will be added in a future update; bug fixes and the inclusion of two animation types are also planned.",
+    "description": "🚑Wee-woo wee-woo. An accident is occurring on the tracks; we need an ambulance. Stay calm. Hello everyone... the long-awaited moment has arrived. The Indonesian-style ambulance train plugin is here—a medical transport vehicle that operates on the rails to handle accidents and treat sick citizens in the vicinity of the railway. --- Features: - Modern night-time animation - 4-way diagonal isometric tracks - Siren light animation --- ⚠️Important!!! This version does not include a siren sound feature; a future update might add a siren sound plugin. For now, there is only the siren animation --- Support and Appreciation: • IK2931",
+    "descriptionHtml": "🚑Wee-woo wee-woo. <br>\nAn accident is occurring on the tracks; we need an ambulance. Stay calm.<br>\n<br>\nHello everyone... the long-awaited moment has arrived. The Indonesian-style ambulance train plugin is here—a medical transport vehicle that operates on the rails to handle accidents and treat sick citizens in the vicinity of the railway.<br>\n<br>\n---<br>\nFeatures:<br>\n- Modern night-time animation<br>\n- 4-way diagonal isometric tracks<br>\n- Siren light animation<br>\n<br>\n---<br>\n⚠️Important!!!<br>\nThis version does not include a siren sound feature; a future update might add a siren sound plugin. For now, there is only the siren animation<br>\n<br>\n---<br>\nSupport and Appreciation:<br>\n • IK2931",
     "category": "Transport",
     "price": {
       "amount": 45,
@@ -766,19 +834,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "4.02KB",
-      "bytes": 4116
+      "raw": "7.49KB",
+      "bytes": 7670
     },
     "minVersion": "1.11.25",
     "author": "Arya sancaka",
     "authorId": "1981212",
-    "uploadDate": "26 Sep 2026, 16:20",
-    "version": "6",
-    "downloads": 475,
+    "uploadDate": "4 Oct 2026, 08:19",
+    "version": "13",
+    "downloads": 565,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -808,7 +876,7 @@
     "authorId": "2075576",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "7",
-    "downloads": 260,
+    "downloads": 280,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -842,7 +910,7 @@
     "authorId": "816803",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1130,
+    "downloads": 1188,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -876,7 +944,7 @@
     "authorId": "682550",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 2532,
+    "downloads": 2745,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -910,7 +978,7 @@
     "authorId": "6922",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 2077,
+    "downloads": 2197,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -922,9 +990,9 @@
     "name": "Brand Board",
     "url": "https://forum.theotown.com/plugins/list?term=:14730",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=FBVVmx8IRWfwvqntUNoyVz0gY9W3w9A3",
-    "description": "Signage of famous social networks, shopping stores, luxury car brands, etc. Features night animations, with more brands to be added. Plugin by YinDreamX.",
-    "descriptionHtml": "Signage of famous social networks, shopping stores, luxury car brands, etc. Features night animations, with more brands to be added.<br>\nPlugin by YinDreamX.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=4pCBOrDjGWJwyZLllxD6PhA6HjyUDdYN",
+    "description": "* Vibrant advertising signs for your city. Categorized into five types: Shopping, Banking, Automotive, Internet, and other brands. New brands will be added in future updates. + Night animation: Yes. + Plugin by YinDreamX.",
+    "descriptionHtml": "* Vibrant advertising signs for your city. Categorized into five types: Shopping, Banking, Automotive, Internet, and other brands. New brands will be added in future updates. <br>\n+ Night animation: Yes.<br>\n+ Plugin by YinDreamX.<br>",
     "category": "Decorations",
     "price": {
       "amount": 30,
@@ -936,19 +1004,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "13.97KB",
-      "bytes": 14305
+      "raw": "15.7KB",
+      "bytes": 16077
     },
     "minVersion": "Any",
     "author": "yinx",
     "authorId": "2060627",
-    "uploadDate": "26 Sep 2026, 16:20",
-    "version": "2",
-    "downloads": 876,
+    "uploadDate": "4 Oct 2026, 08:19",
+    "version": "5",
+    "downloads": 1059,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 19
+      "count": 20
     }
   },
   {
@@ -978,7 +1046,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1131,
+    "downloads": 1185,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1012,7 +1080,7 @@
     "authorId": "862856",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 2313,
+    "downloads": 2423,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1046,7 +1114,7 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 317,
+    "downloads": 329,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1148,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1319,
+    "downloads": 1417,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1114,11 +1182,11 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 885,
+    "downloads": 928,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 7
+      "count": 8
     }
   },
   {
@@ -1148,11 +1216,11 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 622,
+    "downloads": 657,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 7
+      "count": 8
     }
   },
   {
@@ -1182,7 +1250,7 @@
     "authorId": "126998",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1262,
+    "downloads": 1316,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1216,11 +1284,11 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 2139,
+    "downloads": 2256,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -1250,7 +1318,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 782,
+    "downloads": 815,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1284,7 +1352,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 705,
+    "downloads": 732,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1318,7 +1386,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1123,
+    "downloads": 1182,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1352,11 +1420,11 @@
     "authorId": "2067306",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 607,
+    "downloads": 629,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 2
+      "count": 3
     }
   },
   {
@@ -2474,7 +2542,7 @@
     "authorId": "2124354",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 1172,
+    "downloads": 1203,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2576,7 +2644,7 @@
     "authorId": "405140",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 405,
+    "downloads": 419,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2916,7 +2984,7 @@
     "authorId": "2060627",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 3432,
+    "downloads": 3544,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4038,7 +4106,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "5",
-    "downloads": 2815,
+    "downloads": 2877,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5568,11 +5636,11 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 2101,
+    "downloads": 2146,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 14
+      "count": 15
     }
   },
   {
@@ -8466,40 +8534,6 @@
     }
   },
   {
-    "id": "14358",
-    "name": "reco metro pack",
-    "url": "https://forum.theotown.com/plugins/list?term=:14358",
-    "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=dUW0gCxaz6N9qjTiUTDmyq1RfOshQOuK",
-    "description": "Ricoh Subway Pack is a pack that can meet subways from all over the world, and add a variety of trains to your city",
-    "descriptionHtml": "Ricoh Subway Pack is a pack that can meet subways from all over the world, and add a variety of trains to your city",
-    "category": "Transport",
-    "price": {
-      "amount": 30,
-      "currency": "diamonds"
-    },
-    "platforms": [
-      "Android",
-      "iOS",
-      "Desktop (Premium)"
-    ],
-    "size": {
-      "raw": "16.19KB",
-      "bytes": 16579
-    },
-    "minVersion": "Any",
-    "author": "reco0719",
-    "authorId": "405140",
-    "uploadDate": "29 Jul 2026, 04:50",
-    "version": "3",
-    "downloads": 1483,
-    "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 28
-    }
-  },
-  {
     "id": "12336",
     "name": "New building from Suvorovsky",
     "url": "https://forum.theotown.com/plugins/list?term=:12336",
@@ -9083,8 +9117,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:13895",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=FceS6VWAPIOOjYXvEhTnhAe1xJKoysz1",
-    "description": "*Upgrade image* The VietNam Commercial Pack. Find: Zones > VietNam Commercial Pack. + BigC Thang Long Supermarket & billboard. + 2 SOC buildings for the shipping company GHTK. + VTV Tower - Vietnam National Television. + Vinh Center. *Night animation: Yes. +More will be updated in the future. Original image credit: @NamVu. Detailed editing + Night animation + plugin packaging: YinDreamX.",
-    "descriptionHtml": "*Upgrade image*<br>\nThe VietNam Commercial Pack. Find: Zones &gt; VietNam Commercial Pack.<br>\n+ BigC Thang Long Supermarket &amp; billboard.<br>\n+ 2 SOC buildings for the shipping company GHTK. <br>\n+ VTV Tower - Vietnam National Television.<br>\n+ Vinh Center.<br>\n*Night animation: Yes.<br>\n+More will be updated in the future.<br>\nOriginal image credit: @NamVu.<br>\nDetailed editing + Night animation + plugin packaging: YinDreamX.",
+    "description": "*Upgrade image and adding GHTK cargo truck* The VietNam Commercial Pack. Find: Zones > VietNam Commercial Pack. + BigC Thang Long Supermarket & billboard. + 2 SOC buildings for the shipping company GHTK & spawn cargo truck. + VTV Tower - Vietnam National Television. + Vinh Center. *Night animation: Yes. +More will be updated in the future. Original image credit: @NamVu. Detailed editing + Night animation + plugin packaging: YinDreamX.",
+    "descriptionHtml": "*Upgrade image and adding GHTK cargo truck*<br>\nThe VietNam Commercial Pack. Find: Zones &gt; VietNam Commercial Pack.<br>\n+ BigC Thang Long Supermarket &amp; billboard.<br>\n+ 2 SOC buildings for the shipping company GHTK &amp; spawn cargo truck. <br>\n+ VTV Tower - Vietnam National Television.<br>\n+ Vinh Center.<br>\n*Night animation: Yes.<br>\n+More will be updated in the future.<br>\nOriginal image credit: @NamVu.<br>\nDetailed editing + Night animation + plugin packaging: YinDreamX.",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -9096,19 +9130,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "242.68KB",
-      "bytes": 248504
+      "raw": "249.99KB",
+      "bytes": 255990
     },
     "minVersion": "Any",
     "author": "yinx",
     "authorId": "2060627",
-    "uploadDate": "12 Sep 2026, 10:41",
-    "version": "20",
-    "downloads": 6151,
+    "uploadDate": "4 Oct 2026, 08:19",
+    "version": "22",
+    "downloads": 6348,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 32
+      "count": 36
     }
   },
   {
@@ -10192,11 +10226,11 @@
     "authorId": "1169481",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "7",
-    "downloads": 29247,
+    "downloads": 29512,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 294
+      "count": 296
     }
   },
   {
@@ -10949,12 +10983,12 @@
   },
   {
     "id": "14030",
-    "name": "urban villages in China",
+    "name": "Chinese urban village",
     "url": "https://forum.theotown.com/plugins/list?term=:14030",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=62pHIOOmSwDD5vPcYGKqJA2eT4gbJQv2",
-    "description": "Hello everyone. Today I'd like to show you the urban village buildings from southern China. There are 11 buildings in total most are 2×2 layouts, with three 3×3 ones. All buildings now come with night animations! Hope you like them 😊",
-    "descriptionHtml": "Hello everyone. Today I'd like to show you the urban village buildings from southern China. <br>\nThere are 11 buildings in total  most are 2×2 layouts, with three 3×3 ones. All buildings now come with night animations! Hope you like them 😊<br>",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=VB3NkIHzdEaDvzAjQkIKIr0VJsxSnb2R",
+    "description": "Hello everyone. Today I’d like to show you a plugin I made based on self-built houses in southwestern and southern China. It lets you build a relatively good-looking Chinese-style urban village. There are now 22 buildings in total, with 11 newly added. All buildings now have updated night animations! It might not be perfect, but I hope you like it 😊",
+    "descriptionHtml": "Hello everyone. Today I’d like to show you a plugin I made based on self-built houses in southwestern and southern China. It lets you build a relatively good-looking Chinese-style urban village. There are now 22 buildings in total, with 11 newly added. All buildings now have updated night animations! It might not be perfect, but I hope you like it 😊<br>",
     "category": "Residential",
     "price": {
       "amount": 30,
@@ -10966,19 +11000,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "268.73KB",
-      "bytes": 275180
+      "raw": "516.51KB",
+      "bytes": 528906
     },
     "minVersion": "Any",
     "author": "Slavic forever",
     "authorId": "683743",
-    "uploadDate": "13 Jul 2026, 06:15",
-    "version": "8",
-    "downloads": 19288,
+    "uploadDate": "4 Oct 2026, 08:19",
+    "version": "13",
+    "downloads": 24437,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 140
+      "count": 167
     }
   },
   {
@@ -12606,7 +12640,7 @@
     "authorId": "2060627",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "10",
-    "downloads": 7210,
+    "downloads": 7304,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -14578,7 +14612,7 @@
     "authorId": "2075576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "10",
-    "downloads": 2454,
+    "downloads": 2470,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -20901,11 +20935,11 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 7943,
+    "downloads": 8049,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 53
+      "count": 54
     }
   },
   {
@@ -22057,7 +22091,7 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "10",
-    "downloads": 2314,
+    "downloads": 2327,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -26069,7 +26103,7 @@
     "authorId": "668518",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "7",
-    "downloads": 6154,
+    "downloads": 6208,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -37356,11 +37390,11 @@
     "authorId": "1880",
     "uploadDate": "2 Oct 2026, 15:25",
     "version": "24",
-    "downloads": 112926,
+    "downloads": 113094,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 800
+      "count": 801
     }
   },
   {
@@ -51701,7 +51735,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 41382,
+    "downloads": 41408,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -51769,7 +51803,7 @@
     "authorId": "10216",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "7",
-    "downloads": 26622,
+    "downloads": 26672,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -51803,7 +51837,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "8",
-    "downloads": 17885,
+    "downloads": 17905,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -55542,7 +55576,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 13942,
+    "downloads": 13960,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -61968,11 +62002,11 @@
     "authorId": "668518",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 69502,
+    "downloads": 69580,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 105
+      "count": 106
     }
   },
   {
@@ -72507,11 +72541,11 @@
     "authorId": "15",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "23",
-    "downloads": 559616,
+    "downloads": 559883,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 2813
+      "count": 2815
     }
   },
   {
@@ -99956,8 +99990,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:5244",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=EsaChn2Y2cNxKkfp78vNVqJ4lDUz0j49",
-    "description": "Decorative Marine Animals with animation. === Contains: Dolphin Ring (will add more soon)",
-    "descriptionHtml": "Decorative Marine Animals with animation.<br>\n===<br>\nContains: Dolphin Ring (will add more soon)",
+    "description": "Decorative Marine Animals with animation. === Contains: Dolphin Ring, dolphin jump, orca and seals. === Update: added orca and seals more dolphin animation",
+    "descriptionHtml": "Decorative Marine Animals with animation.<br>\n===<br>\nContains: Dolphin Ring, dolphin jump, orca and seals.<br>\n===<br>\nUpdate:<br>\nadded orca and seals<br>\nmore dolphin animation",
     "category": "Decorations",
     "price": {
       "amount": 30,
@@ -99969,19 +100003,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "7.31KB",
-      "bytes": 7485
+      "raw": "15.45KB",
+      "bytes": 15821
     },
     "minVersion": "Any",
     "author": "neatopia",
     "authorId": "213127",
-    "uploadDate": "18 Jun 2022, 22:28",
-    "version": "4",
-    "downloads": 27515,
+    "uploadDate": "4 Oct 2026, 08:19",
+    "version": "8",
+    "downloads": 28003,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 68
+      "count": 70
     }
   },
   {
