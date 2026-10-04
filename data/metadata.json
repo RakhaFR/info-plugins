@@ -1,8 +1,8 @@
 {
-  "scrapeDate": "2026-10-04T08:32:24.317Z",
+  "scrapeDate": "2026-10-04T14:39:27.921Z",
   "totalPlugins": 5013,
-  "totalPages": 251,
-  "totalDownloads": 430411450,
+  "totalPages": 5,
+  "totalDownloads": 430418233,
   "certifiedCreators": 573,
   "categoryStats": {
     "Service (Police, Health Care, Education,...)": 230,
@@ -30,13 +30,10 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY NEGATIVE": 1,
-    "POSITIVE": 2589,
-    "VERY POSITIVE": 2098,
-    "MIXED": 285,
+    "VERY POSITIVE": 2097,
+    "MIXED": 287,
+    "POSITIVE": 2590,
     "NEGATIVE": 36
   },
-  "source": "https://forum.theotown.com/plugins/list",
-  "lastVerified": "2026-10-04T08:32:24.317Z",
-  "removedCount": 1
+  "source": "https://forum.theotown.com/plugins/list"
 }
