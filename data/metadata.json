@@ -1,21 +1,21 @@
 {
-  "scrapeDate": "2026-10-06T15:43:41.816Z",
-  "totalPlugins": 5019,
+  "scrapeDate": "2026-10-07T16:07:37.807Z",
+  "totalPlugins": 5024,
   "totalPages": 5,
-  "totalDownloads": 430469252,
+  "totalDownloads": 430480469,
   "certifiedCreators": 573,
   "categoryStats": {
-    "Commercial": 1175,
-    "Residential": 776,
+    "Commercial": 1176,
+    "Religion and Culture": 265,
+    "Military": 44,
+    "Packs": 287,
+    "Residential": 777,
     "Decorations": 427,
-    "Military": 43,
-    "Religion and Culture": 264,
     "Service (Police, Health Care, Education,...)": 230,
     "Parks, Sports and Management": 357,
     "Supply (Energy, Water, Waste Disposal)": 87,
     "Other": 207,
     "Award and Special": 392,
-    "Packs": 286,
     "Transport": 265,
     "Industrial": 128,
     "Trees": 90,
@@ -30,10 +30,10 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY POSITIVE": 2099,
-    "MIXED": 287,
-    "NEGATIVE": 37,
-    "POSITIVE": 2592
+    "VERY POSITIVE": 2101,
+    "POSITIVE": 2596,
+    "MIXED": 286,
+    "NEGATIVE": 38
   },
   "source": "https://forum.theotown.com/plugins/list"
 }

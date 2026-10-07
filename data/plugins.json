@@ -1,5 +1,175 @@
 [
   {
+    "id": "14826",
+    "name": "GCT tower",
+    "url": "https://forum.theotown.com/plugins/list?term=:14826",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=tkn9tbmXepYWXtwEhLVn1yUW55EDRQCq",
+    "description": "Gaziantep, one of the most populous cities in eastern Türkiye, also stands out for its significant commercial opportunities. I am sure you will like it. I would like to thank the entire TR plugins team for their support!",
+    "descriptionHtml": "Gaziantep, one of the most populous cities in eastern Türkiye, also stands out for its significant commercial opportunities. I am sure you will like it. I would like to thank the entire TR plugins team for their support!",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "41.84KB",
+      "bytes": 42844
+    },
+    "minVersion": "Any",
+    "author": "Burakplugin",
+    "authorId": "1873054",
+    "uploadDate": "7 Oct 2026, 16:07",
+    "version": "2",
+    "downloads": 258,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 4
+    }
+  },
+  {
+    "id": "14827",
+    "name": "Al-Aqabah Mosque",
+    "url": "https://forum.theotown.com/plugins/list?term=:14827",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=OZj6nO5a7ihjeBb7WIAYpPtWzUJ649Xp",
+    "description": "The Al-Aqabah Grand Mosque is a beautiful mosque for the local community, featuring a modern Islamic architectural style. It harmoniously blends the concept of human progress with the religious guidance that directs it. The name \"Al-Aqabah\" is derived from Surah Al-Balad (verses 11–12) in the Quran: \"But he has not attempted the steep path.\" (11) \"And what may let you know what the steep path is?\" (12). The name signifies the human struggle to overcome life's obstacles, specifically performing good deeds and shunning evil before attaining happiness. The mosque's design reflects this meaning; for instance, the staircase leading to the main prayer hall features five arches, symbolizing the courage required to confront evil and uphold the mandatory Pillars of Islam. Additionally, the minaret is shaped like a torch, illuminating the path for humanity as it strives to conquer evil. At the same time, the mosque is designed to be inclusive and accessible to all; featuring elevators, restrooms, and dedicated access for the elderly and people with disabilities. It also incorporates green open spaces, such as a garden that enhance the beauty and serenity of the surrounding area. Plugin Specifications: • Size: 7x7 • Category: Religion • Influence: Religion (450) & Culture (450) • Night animation: True • Rotation frame: Not Available NOTE: This mosque is an original design, though I realized something after completing the plugin: it bears a slight resemblance to the Cologne Central Mosque in Germany. While not an exact replica, I feel the Cologne Mosque was indeed part of the inspiration behind this plugin. Perhaps, I’ll create a Cologne Central Mosque plugin in the future. Thank you! © pRubick",
+    "descriptionHtml": "The Al-Aqabah Grand Mosque is a beautiful mosque for the local community, featuring a modern Islamic architectural style. It harmoniously blends the concept of human progress with the religious guidance that directs it. The name \"Al-Aqabah\" is derived from Surah Al-Balad (verses 11–12) in the Quran: \"But he has not attempted the steep path.\" (11) \"And what may let you know what the steep path is?\" (12). The name signifies the human struggle to overcome life's obstacles, specifically performing good deeds and shunning evil before attaining happiness. The mosque's design reflects this meaning; for instance, the staircase leading to the main prayer hall features five arches, symbolizing the courage required to confront evil and uphold the mandatory Pillars of Islam. Additionally, the minaret is shaped like a torch, illuminating the path for humanity as it strives to conquer evil. At the same time, the mosque is designed to be inclusive and accessible to all; featuring elevators, restrooms, and dedicated access for the elderly and people with disabilities. It also incorporates green open spaces, such as a garden that enhance the beauty and serenity of the surrounding area.<br>\n<br>\nPlugin Specifications:<br>\n<br>\n• Size: 7x7<br>\n• Category: Religion<br>\n• Influence: Religion (450) &amp; Culture (450)<br>\n• Night animation: True<br>\n• Rotation frame: Not Available<br>\n<br>\nNOTE: <br>\nThis mosque is an original design, though I realized something after completing the plugin: it bears a slight resemblance to the Cologne Central Mosque in Germany. While not an exact replica, I feel the Cologne Mosque was indeed part of the inspiration behind this plugin. Perhaps, I’ll create a Cologne Central Mosque plugin in the future. Thank you!<br>\n<br>\n© pRubick",
+    "category": "Religion and Culture",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "85.11KB",
+      "bytes": 87153
+    },
+    "minVersion": "Any",
+    "author": "pRubick Still Here",
+    "authorId": "2193822",
+    "uploadDate": "7 Oct 2026, 16:07",
+    "version": "2",
+    "downloads": 530,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 6
+    }
+  },
+  {
+    "id": "14831",
+    "name": "élite military base",
+    "url": "https://forum.theotown.com/plugins/list?term=:14831",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=bsxbjccyI2Zr9qREFnSVpuYC51gbuBox",
+    "description": "It's a fictional military pack. This plugin can influences police and management. Every part of the building has been created by myself using ibis paint (night animation too). I put performance to increase the influence. Every vehicle is fictional. The flag is a fictional. I tried to increase the design of the building. The building needs road. It can generate 4 service cars",
+    "descriptionHtml": "It's a fictional military pack. This plugin can influences police and management. Every part of the building has been created by myself using ibis paint (night animation too). I put performance to increase the influence. Every vehicle is fictional. The flag is a fictional. I tried to increase the design of the building. The building needs road. It can generate 4 service cars",
+    "category": "Military",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "93.42KB",
+      "bytes": 95662
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "7 Oct 2026, 16:07",
+    "version": "2",
+    "downloads": 362,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
+    }
+  },
+  {
+    "id": "14834",
+    "name": "2° Military pack",
+    "url": "https://forum.theotown.com/plugins/list?term=:14834",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=7IftrW4CoGUkmNbrqB5ZarYyhpcEWPLY",
+    "description": "This is new military pack. It has a building 8x8 for military service. It costs 2500 and its monthly price is 135. It has influence on police and management. For the terrain I used the terrain design from world texture (so credit to Theotown and Lobby). The second building is always military service, 8x8 and has influence on police and management too. This second building has performance. It costs 1500 and its monthly price is 100. The last part of this plugin is a new military vehicle for decoration. It is inspired by modern artillery tanks. It is 3x3 and has 4 frames and its cost is 50. The two military buildings generates 4 service military vehicles",
+    "descriptionHtml": "This is new military pack. It has a building 8x8 for military service. It costs 2500 and its monthly price is 135. It has influence on police and management. For the terrain I used the terrain design from world texture (so credit to Theotown and Lobby). The second building is always military service, 8x8 and has influence on police and management too. This second building has performance. It costs 1500 and its monthly price is 100. The last part of this plugin is a new military vehicle for decoration. It is inspired by modern artillery tanks. It is 3x3 and has 4 frames and its cost is 50. The two military buildings generates 4 service military vehicles",
+    "category": "Packs",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "188.35KB",
+      "bytes": 192870
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "7 Oct 2026, 16:07",
+    "version": "2",
+    "downloads": 283,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
+    }
+  },
+  {
+    "id": "14830",
+    "name": "Chinese Corner Apartment",
+    "url": "https://forum.theotown.com/plugins/list?term=:14830",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=UZ8yaZ2n8E4QVmr39nc4F1695BU59mFl",
+    "description": "Hi everyone! I've got a new plugin for you. It's a typical Chinese multi-story residential building, and it also features a beautiful night version. I used a diagonal perspective so it fits perfectly on the corner of a diagonal intersection. The design is inspired by a real building in Urumqi, Xinjiang, China.",
+    "descriptionHtml": "Hi everyone! I've got a new plugin for you.<br>\nIt's a typical Chinese multi-story residential building, and it also features a beautiful night version. I used a diagonal perspective so it fits perfectly on the corner of a diagonal intersection. The design is inspired by a real building in Urumqi, Xinjiang, China.",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "28.37KB",
+      "bytes": 29051
+    },
+    "minVersion": "Any",
+    "author": "yanyujinze_",
+    "authorId": "1931483",
+    "uploadDate": "7 Oct 2026, 16:07",
+    "version": "3",
+    "downloads": 507,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 7
+    }
+  },
+  {
     "id": "14811",
     "name": "Yangtze River International",
     "url": "https://forum.theotown.com/plugins/list?term=:14811",
@@ -26,11 +196,11 @@
     "authorId": "2119637",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "3",
-    "downloads": 89,
+    "downloads": 1059,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 18
     }
   },
   {
@@ -60,11 +230,11 @@
     "authorId": "2169812",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "2",
-    "downloads": 12,
+    "downloads": 166,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 1
+      "score": 3,
+      "label": "MIXED",
+      "count": 2
     }
   },
   {
@@ -94,11 +264,11 @@
     "authorId": "862856",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "2",
-    "downloads": 6,
+    "downloads": 128,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
     }
   },
   {
@@ -128,11 +298,11 @@
     "authorId": "2067306",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "3",
-    "downloads": 2,
+    "downloads": 255,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
     }
   },
   {
@@ -162,11 +332,11 @@
     "authorId": "2739",
     "uploadDate": "5 Oct 2026, 17:57",
     "version": "4",
-    "downloads": 30478,
+    "downloads": 30613,
     "rating": {
       "score": 2,
       "label": "NEGATIVE",
-      "count": 296
+      "count": 297
     }
   },
   {
@@ -196,7 +366,7 @@
     "authorId": "1914830",
     "uploadDate": "5 Oct 2026, 17:57",
     "version": "2",
-    "downloads": 254,
+    "downloads": 330,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -230,7 +400,7 @@
     "authorId": "682550",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "2",
-    "downloads": 456,
+    "downloads": 542,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -264,11 +434,11 @@
     "authorId": "682550",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "2",
-    "downloads": 583,
+    "downloads": 681,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 4
+      "score": 2,
+      "label": "NEGATIVE",
+      "count": 5
     }
   },
   {
@@ -298,7 +468,7 @@
     "authorId": "2195213",
     "uploadDate": "2 Oct 2026, 15:25",
     "version": "2",
-    "downloads": 1835,
+    "downloads": 1947,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -332,7 +502,7 @@
     "authorId": "2177849",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "2",
-    "downloads": 1274,
+    "downloads": 1351,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -366,7 +536,7 @@
     "authorId": "2193822",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "4",
-    "downloads": 1120,
+    "downloads": 1173,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -398,9 +568,9 @@
     "minVersion": "Any",
     "author": "ThaineXylon",
     "authorId": "22978",
-    "uploadDate": "6 Oct 2026, 15:43",
-    "version": "3",
-    "downloads": 387,
+    "uploadDate": "7 Oct 2026, 16:07",
+    "version": "4",
+    "downloads": 430,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -434,7 +604,7 @@
     "authorId": "797723",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 1625,
+    "downloads": 1715,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -468,7 +638,7 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 1999,
+    "downloads": 2134,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -502,7 +672,7 @@
     "authorId": "952975",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "3",
-    "downloads": 1826,
+    "downloads": 1907,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -536,7 +706,7 @@
     "authorId": "1117299",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "3",
-    "downloads": 3778,
+    "downloads": 4018,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -570,11 +740,11 @@
     "authorId": "683743",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 3977,
+    "downloads": 4505,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 26
+      "count": 27
     }
   },
   {
@@ -604,7 +774,7 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 1252,
+    "downloads": 1322,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,7 +808,7 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 948,
+    "downloads": 989,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -672,11 +842,11 @@
     "authorId": "2119576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 1941,
+    "downloads": 2049,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 20
+      "count": 21
     }
   },
   {
@@ -706,7 +876,7 @@
     "authorId": "391947",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 625,
+    "downloads": 649,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,7 +910,7 @@
     "authorId": "1019836",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 5283,
+    "downloads": 5573,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -774,7 +944,7 @@
     "authorId": "2050504",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 962,
+    "downloads": 999,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -808,7 +978,7 @@
     "authorId": "992457",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 2128,
+    "downloads": 2191,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -842,7 +1012,7 @@
     "authorId": "1169481",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1845,
+    "downloads": 1901,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -876,7 +1046,7 @@
     "authorId": "816803",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1748,
+    "downloads": 1790,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -910,7 +1080,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1202,
+    "downloads": 1242,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -944,11 +1114,11 @@
     "authorId": "587116",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 2859,
+    "downloads": 2962,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 16
+      "count": 17
     }
   },
   {
@@ -978,7 +1148,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 1321,
+    "downloads": 1411,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1012,7 +1182,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 505,
+    "downloads": 525,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1046,7 +1216,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "13",
-    "downloads": 806,
+    "downloads": 857,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1250,7 @@
     "authorId": "2075576",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "7",
-    "downloads": 321,
+    "downloads": 331,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1114,7 +1284,7 @@
     "authorId": "816803",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1342,
+    "downloads": 1370,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1148,7 +1318,7 @@
     "authorId": "682550",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 3346,
+    "downloads": 3555,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1182,7 +1352,7 @@
     "authorId": "6922",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 2480,
+    "downloads": 2558,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1216,7 +1386,7 @@
     "authorId": "2060627",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "5",
-    "downloads": 1683,
+    "downloads": 1893,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1250,7 +1420,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1357,
+    "downloads": 1412,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1284,11 +1454,11 @@
     "authorId": "862856",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 2773,
+    "downloads": 2875,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 18
+      "count": 20
     }
   },
   {
@@ -1318,7 +1488,7 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 393,
+    "downloads": 411,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1352,7 +1522,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1657,
+    "downloads": 1747,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1386,7 +1556,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1050,
+    "downloads": 1083,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1590,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 737,
+    "downloads": 760,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1454,7 +1624,7 @@
     "authorId": "126998",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1515,
+    "downloads": 1565,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1488,7 +1658,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 2566,
+    "downloads": 2669,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1522,7 +1692,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 908,
+    "downloads": 941,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,11 +1726,11 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 816,
+    "downloads": 846,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -1590,7 +1760,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1345,
+    "downloads": 1400,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1624,7 +1794,7 @@
     "authorId": "2067306",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 700,
+    "downloads": 716,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1658,7 +1828,7 @@
     "authorId": "224349",
     "uploadDate": "23 Sep 2026, 21:28",
     "version": "10",
-    "downloads": 5840,
+    "downloads": 5985,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1692,7 +1862,7 @@
     "authorId": "2188876",
     "uploadDate": "23 Sep 2026, 21:28",
     "version": "2",
-    "downloads": 2425,
+    "downloads": 2491,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1726,7 +1896,7 @@
     "authorId": "2182907",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 587,
+    "downloads": 604,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1760,7 +1930,7 @@
     "authorId": "601724",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 2300,
+    "downloads": 2367,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1794,7 +1964,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "3",
-    "downloads": 796,
+    "downloads": 817,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1828,7 +1998,7 @@
     "authorId": "1931483",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1958,
+    "downloads": 2026,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1862,7 +2032,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1477,
+    "downloads": 1508,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1896,7 +2066,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 2513,
+    "downloads": 2555,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1930,7 +2100,7 @@
     "authorId": "425553",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "3",
-    "downloads": 2390,
+    "downloads": 2437,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1964,7 +2134,7 @@
     "authorId": "2033350",
     "uploadDate": "22 Sep 2026, 11:33",
     "version": "2",
-    "downloads": 924,
+    "downloads": 953,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1998,7 +2168,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 740,
+    "downloads": 757,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2032,7 +2202,7 @@
     "authorId": "5566",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "2",
-    "downloads": 1851,
+    "downloads": 1902,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2066,11 +2236,11 @@
     "authorId": "601724",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "2",
-    "downloads": 1451,
+    "downloads": 1487,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 12
+      "count": 14
     }
   },
   {
@@ -2304,11 +2474,11 @@
     "authorId": "1931483",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "5",
-    "downloads": 2236,
+    "downloads": 2291,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -2338,7 +2508,7 @@
     "authorId": "22978",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "2",
-    "downloads": 187,
+    "downloads": 190,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2372,11 +2542,11 @@
     "authorId": "682550",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "2",
-    "downloads": 2281,
+    "downloads": 2377,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -2406,7 +2576,7 @@
     "authorId": "2169812",
     "uploadDate": "22 Sep 2026, 00:04",
     "version": "4",
-    "downloads": 1191,
+    "downloads": 1223,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2746,7 +2916,7 @@
     "authorId": "2124354",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 1292,
+    "downloads": 1309,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2848,7 +3018,7 @@
     "authorId": "405140",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 451,
+    "downloads": 454,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2882,7 +3052,7 @@
     "authorId": "1111579",
     "uploadDate": "22 Sep 2026, 11:33",
     "version": "5",
-    "downloads": 2807,
+    "downloads": 2862,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3188,7 +3358,7 @@
     "authorId": "2060627",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 3896,
+    "downloads": 4000,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3664,7 +3834,7 @@
     "authorId": "1269221",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "7",
-    "downloads": 4600,
+    "downloads": 4672,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4310,7 +4480,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "5",
-    "downloads": 3025,
+    "downloads": 3079,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4412,7 +4582,7 @@
     "authorId": "1981212",
     "uploadDate": "22 Sep 2026, 16:54",
     "version": "25",
-    "downloads": 6451,
+    "downloads": 6496,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -5186,19 +5356,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "16.55KB",
-      "bytes": 16947
+      "raw": "16.32KB",
+      "bytes": 16712
     },
     "minVersion": "1.12.16",
     "author": "Arya sancaka",
     "authorId": "1981212",
-    "uploadDate": "14 Sep 2026, 12:40",
-    "version": "22",
-    "downloads": 1957,
+    "uploadDate": "7 Oct 2026, 16:07",
+    "version": "24",
+    "downloads": 2315,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 7
+      "count": 9
     }
   },
   {
@@ -5840,7 +6010,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 2258,
+    "downloads": 2291,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -9342,7 +9512,7 @@
     "authorId": "2060627",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "22",
-    "downloads": 6523,
+    "downloads": 6566,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10430,11 +10600,11 @@
     "authorId": "1169481",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "7",
-    "downloads": 30027,
+    "downloads": 30303,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 307
+      "count": 311
     }
   },
   {
@@ -10714,9 +10884,9 @@
     "name": "Aircraft pack",
     "url": "https://forum.theotown.com/plugins/list?term=:14273",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=7XM7f5JGJMy1BdhPJh9Rl3CdaYlcpJ5e",
-    "description": "A collection of 6 planes and there are decorations and passengers, the names of the planes are -malaysia airplane -Brunei airlanes -NAM air -K2 airaways cargo -Batik air -Airasia Credits: Airplane templates and codes by lobby This plugin code is created by kezi animation Thanks 🙏",
-    "descriptionHtml": "A collection of 6 planes and there are decorations and passengers, the names of the planes are <br>\n-malaysia airplane <br>\n-Brunei airlanes <br>\n-NAM air<br>\n-K2 airaways cargo<br>\n-Batik air<br>\n-Airasia<br>\nCredits:<br>\nAirplane templates and codes by lobby<br>\nThis plugin code is created by kezi animation <br>\nThanks 🙏",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=iWzPv3yK06HpvtwrpUeeN6dobz5ziDL5",
+    "description": "A collection of 6 planes and there are decorations and passengers, the names of the planes are -malaysia airplane -Brunei airlanes -NAM air -K2 airaways cargo -Batik air -Airasia Credits: Airplane templates and codes by lobby This plugin code is created by kezi animation Thanks 🙏 Update: Addition of 4 airlines -Thai airways -myanmar airways -vietnam airlanes -philippine airlanes Accompanied by airplane decorations",
+    "descriptionHtml": "A collection of 6 planes and there are decorations and passengers, the names of the planes are <br>\n-malaysia airplane <br>\n-Brunei airlanes <br>\n-NAM air<br>\n-K2 airaways cargo<br>\n-Batik air<br>\n-Airasia<br>\nCredits:<br>\nAirplane templates and codes by lobby<br>\nThis plugin code is created by kezi animation <br>\nThanks 🙏<br>\nUpdate:<br>\nAddition of 4 airlines<br>\n-Thai airways <br>\n-myanmar airways <br>\n-vietnam airlanes <br>\n-philippine airlanes <br>\nAccompanied by airplane decorations",
     "category": "Other",
     "price": {
       "amount": 30,
@@ -10728,15 +10898,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "125.74KB",
-      "bytes": 128758
+      "raw": "210.12KB",
+      "bytes": 215163
     },
     "minVersion": "Any",
     "author": "Adexdia4343",
     "authorId": "2075576",
-    "uploadDate": "16 Jul 2026, 00:23",
-    "version": "2",
-    "downloads": 879,
+    "uploadDate": "7 Oct 2026, 16:07",
+    "version": "4",
+    "downloads": 1399,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11212,7 +11382,7 @@
     "authorId": "683743",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "13",
-    "downloads": 25278,
+    "downloads": 25475,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11620,11 +11790,11 @@
     "authorId": "2060627",
     "uploadDate": "5 Oct 2026, 17:57",
     "version": "15",
-    "downloads": 14104,
+    "downloads": 14255,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 62
+      "count": 63
     }
   },
   {
@@ -12844,7 +13014,7 @@
     "authorId": "2060627",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "10",
-    "downloads": 7492,
+    "downloads": 7583,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -14816,7 +14986,7 @@
     "authorId": "2075576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "10",
-    "downloads": 2522,
+    "downloads": 2536,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -20663,7 +20833,7 @@
     "authorId": "22978",
     "uploadDate": "21 Sep 2026, 19:59",
     "version": "9",
-    "downloads": 5654,
+    "downloads": 5668,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -21139,7 +21309,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 8298,
+    "downloads": 8397,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -22295,7 +22465,7 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "10",
-    "downloads": 2359,
+    "downloads": 2363,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -26307,7 +26477,7 @@
     "authorId": "668518",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "7",
-    "downloads": 6330,
+    "downloads": 6378,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -28325,9 +28495,9 @@
     "name": "Brazilian corner buildings.",
     "url": "https://forum.theotown.com/plugins/list?term=:12380",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=eqcnv252eYCHDfFR2zs0ZOlaFcZFBBR9",
-    "description": "Hi, this is my first plugin, Brazilian corner buildings. This plugin contains three commercial building, each with two color variations. add more buildings in future updates. :) Added: New building!",
-    "descriptionHtml": "Hi, this is my first plugin, Brazilian corner buildings. This plugin contains three commercial building, each with two color variations.<br>\nadd more buildings in future updates. :)<br>\nAdded: New building!",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=aauTbMFaGNUzKDCZfkx176dgdWEsLBIF",
+    "description": "Hi, this is my first plugin, Brazilian corner buildings. This plugin contains three commercial building, each with two color variations. add more buildings in future updates. :) Added: New details and improved lighting!",
+    "descriptionHtml": "Hi, this is my first plugin, Brazilian corner buildings. This plugin contains three commercial building, each with two color variations.<br>\nadd more buildings in future updates. :)<br>\nAdded: New details and improved lighting!",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -28339,19 +28509,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "33.46KB",
-      "bytes": 34263
+      "raw": "39.46KB",
+      "bytes": 40407
     },
     "minVersion": "Any",
     "author": "Sprair",
     "authorId": "1111579",
-    "uploadDate": "20 Mar 2026, 20:20",
-    "version": "20",
-    "downloads": 3488,
+    "uploadDate": "7 Oct 2026, 16:07",
+    "version": "22",
+    "downloads": 3811,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 11
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 15
     }
   },
   {
@@ -37594,7 +37764,7 @@
     "authorId": "1880",
     "uploadDate": "2 Oct 2026, 15:25",
     "version": "24",
-    "downloads": 113379,
+    "downloads": 113456,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -51939,7 +52109,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 41481,
+    "downloads": 41503,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -52007,7 +52177,7 @@
     "authorId": "10216",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "7",
-    "downloads": 26787,
+    "downloads": 26815,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -52041,7 +52211,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "8",
-    "downloads": 17946,
+    "downloads": 17959,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -55780,11 +55950,11 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 13992,
+    "downloads": 13997,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 70
+      "count": 71
     }
   },
   {
@@ -62206,7 +62376,7 @@
     "authorId": "668518",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 69756,
+    "downloads": 69812,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -68292,7 +68462,7 @@
     "authorId": "922636",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "4",
-    "downloads": 15310,
+    "downloads": 15330,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -72745,11 +72915,11 @@
     "authorId": "15",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "23",
-    "downloads": 560514,
+    "downloads": 560735,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 2816
+      "count": 2817
     }
   },
   {
@@ -100215,11 +100385,11 @@
     "authorId": "213127",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "8",
-    "downloads": 28322,
+    "downloads": 28382,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 71
+      "count": 72
     }
   },
   {
