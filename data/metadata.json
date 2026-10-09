@@ -1,11 +1,11 @@
 {
-  "scrapeDate": "2026-10-08T16:09:59.716Z",
-  "totalPlugins": 5024,
+  "scrapeDate": "2026-10-09T15:51:46.156Z",
+  "totalPlugins": 5025,
   "totalPages": 5,
-  "totalDownloads": 430488550,
+  "totalDownloads": 430497538,
   "certifiedCreators": 573,
   "categoryStats": {
-    "Commercial": 1176,
+    "Commercial": 1177,
     "Religion and Culture": 265,
     "Military": 44,
     "Packs": 287,
@@ -30,10 +30,10 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY POSITIVE": 2099,
-    "POSITIVE": 2598,
-    "MIXED": 286,
-    "NEGATIVE": 38
+    "VERY POSITIVE": 2101,
+    "POSITIVE": 2594,
+    "MIXED": 289,
+    "NEGATIVE": 37
   },
   "source": "https://forum.theotown.com/plugins/list"
 }
