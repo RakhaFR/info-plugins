@@ -1,5 +1,174 @@
 [
   {
+    "id": "14842",
+    "name": "UzBram ambulance",
+    "url": "https://forum.theotown.com/plugins/list?term=:14842",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=tJP63YOGKsYRduLTw9bChIu5f9epRNwY",
+    "description": "Hello everyone, I'm Kiottaioa. And I want to present you a rescue service plugin, namely the UzBram ambulance pack developed together with Ostrovsk. This plugin includes Three Class A, Class B ambulances, and Umbrela Corporation ambulance. The plugin is located in the service tab, you can use it as a spawner, decoration, road decoration and as the main ambulance transport in your city. Even more of my plugins and developments in my telegram channel @UzBramPlaginCreator.",
+    "descriptionHtml": "Hello everyone, I'm Kiottaioa. And I want to present you a rescue service plugin, namely the UzBram ambulance pack developed together with Ostrovsk. This plugin includes Three Class A, Class B ambulances, and Umbrela Corporation ambulance.<br>\n<br>\nThe plugin is located in the service tab, you can use it as a spawner, decoration, road decoration and as the main ambulance transport in your city.<br>\n<br>\nEven more of my plugins and developments in my telegram channel @UzBramPlaginCreator.",
+    "category": "Service (Police, Health Care, Education,...)",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "105.89KB",
+      "bytes": 108431
+    },
+    "minVersion": "Any",
+    "author": "Kiottaoia",
+    "authorId": "531460",
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "1",
+    "downloads": 75,
+    "rating": {
+      "score": 3,
+      "label": "MIXED",
+      "count": 2
+    }
+  },
+  {
+    "id": "14829",
+    "name": "Czech Historical Pack",
+    "url": "https://forum.theotown.com/plugins/list?term=:14829",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=P2XvGhnHZhEAwyngv2xiALGdNQEKzWip",
+    "description": "This pack features medieval buildings from the Czech lands, including churches, cathedrals, castles, and town halls. The Czech lands were a developed region during the Middle Ages, serving as one of Europe's key cultural, social, and economic hubs between the 12th and 16th centuries—on par with Germany, France, and Italy. Thanks to this legacy, dozens of medieval towns, fortresses, town halls, cathedrals, and churches have survived in the country to this day.",
+    "descriptionHtml": "This pack features medieval buildings from the Czech lands, including churches, cathedrals, castles, and town halls. The Czech lands were a developed region during the Middle Ages, serving as one of Europe's key cultural, social, and economic hubs between the 12th and 16th centuries—on par with Germany, France, and Italy. Thanks to this legacy, dozens of medieval towns, fortresses, town halls, cathedrals, and churches have survived in the country to this day.",
+    "category": "Packs",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "137.17KB",
+      "bytes": 140462
+    },
+    "minVersion": "Any",
+    "author": "Energodarets",
+    "authorId": "922636",
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "2",
+    "downloads": 139,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 3
+    }
+  },
+  {
+    "id": "14828",
+    "name": "Modular Gothic church",
+    "url": "https://forum.theotown.com/plugins/list?term=:14828",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=P1Olzy6IY5Y4QFyjN8XibZhPu3Gm2F0X",
+    "description": "The Gothic architectural tradition has produced some of the most stunning ecclesiastical edifices in our world, monuments to the glory of God. With this plugin, you can introduce some of that beauty into your own cities. The plugin's pieces and their variants have inspirations from Oxford to Ontario, but are particularly inspired by Perpendicular Gothic revivalist architecture in England, and even more particularly St Mary's Church in Sheffield (for the clock tower and narthex, mostly). Their relative diversity should give you lots of flexibility when designing churches for your cities, especially since you can combine them with my other modular plugins which adhere to similar colour schemes. Have fun! Contains: > 'Gothic' category under Public > Religion > 2x2 narthex (60,000₮, 60 religion, 30 culture) > 2x2 crossing (40,000₮, 40 religion, 20 culture) > 2x1 nave (20,000₮, 20 religion, 10 culture) > 1x1 tower (20,000₮, 10 religion, 20 culture) > Four wall-colour variations of each piece (limestone, sandstone, brick, ashlar) > Variations with a spire for the narthex and tower > All rotation aware (or symmetrical on two axes) with night animation (In my view, this plugin isn't quite as comprehensive as my modular Baroque church (check it out by the way!), but I am working on a modular Gothic *cathedral* plugin that should be much grander, if I ever finish it. Hopefully that plugin avoids the fate of Beauvais Cathedral.)",
+    "descriptionHtml": "The Gothic architectural tradition has produced some of the most stunning ecclesiastical edifices in our world, monuments to the glory of God. With this plugin, you can introduce some of that beauty into your own cities. The plugin's pieces and their variants have inspirations from Oxford to Ontario, but are particularly inspired by Perpendicular Gothic revivalist architecture in England, and even more particularly St Mary's Church in Sheffield (for the clock tower and narthex, mostly). Their relative diversity should give you lots of flexibility when designing churches for your cities, especially since you can combine them with my other modular plugins which adhere to similar colour schemes. Have fun!<br>\n<br>\nContains:<br>\n&gt; 'Gothic' category under Public &gt; Religion<br>\n&gt; 2x2 narthex (60,000₮, 60 religion, 30 culture)<br>\n&gt; 2x2 crossing (40,000₮, 40 religion, 20 culture)<br>\n&gt; 2x1 nave (20,000₮, 20 religion, 10 culture)<br>\n&gt; 1x1 tower (20,000₮, 10 religion, 20 culture)<br>\n&gt; Four wall-colour variations of each piece (limestone, sandstone, brick, ashlar)<br>\n&gt; Variations with a spire for the narthex and tower<br>\n&gt; All rotation aware (or symmetrical on two axes) with night animation<br>\n<br>\n(In my view, this plugin isn't quite as comprehensive as my modular Baroque church (check it out by the way!), but I am working on a modular Gothic *cathedral* plugin that should be much grander, if I ever finish it. Hopefully that plugin avoids the fate of Beauvais Cathedral.)",
+    "category": "Religion and Culture",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "516.5KB",
+      "bytes": 528896
+    },
+    "minVersion": "1.12.26",
+    "author": "yekaterinborough",
+    "authorId": "756209",
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "3",
+    "downloads": 139,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14837",
+    "name": "Advanced Lighting",
+    "url": "https://forum.theotown.com/plugins/list?term=:14837",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=SkwSjxpqtMefCkeHpLuXsnVrATCEez4U",
+    "description": "Before using this plugin, please enable “Debug Mode,” “Experimental Features,” and “Support for Multiple Road Styles.” Introduction：This mod is inspired by the “Lamp Block” in Minecraft. It is designed specifically for nighttime animations, adding more realistic and beautiful lighting effects to your city’s ground.",
+    "descriptionHtml": "Before using this plugin, please enable “Debug Mode,” “Experimental Features,” and “Support for Multiple Road Styles.”<br>\nIntroduction：This mod is inspired by the “Lamp Block” in Minecraft. It is designed specifically for nighttime animations, adding more realistic and beautiful lighting effects to your city’s ground.",
+    "category": "Road decoration",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "98.08KB",
+      "bytes": 100434
+    },
+    "minVersion": "Any",
+    "author": "_Chocolate_",
+    "authorId": "976914",
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "2",
+    "downloads": 133,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14671",
+    "name": "ETWD Police Car Parts and else",
+    "url": "https://forum.theotown.com/plugins/list?term=:14671",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=IqdLNgG3UOwPR9AeKER53VzX02a3g8Tp",
+    "description": "ETWD Police Car is my first police car mod uploaded to the add-on store. This mod includes a brand-new police car and a police helicopter that replaces the vanilla one. Vehicles can spawn automatically from police stations. Besides, there is a separate vehicle generator, but it only spawns utility vehicles without any police functions (they only patrol). You can find the replaced helicopter at police stations with helipads. Note: This mod overwrites one vanilla helicopter. It may cause ID conflicts with other mods. Please keep this in mind before downloading.",
+    "descriptionHtml": "ETWD Police Car is my first police car mod uploaded to the add-on store. This mod includes a brand-new police car and a police helicopter that replaces the vanilla one.<br>\nVehicles can spawn automatically from police stations. Besides, there is a separate vehicle generator, but it only spawns utility vehicles without any police functions (they only patrol).<br>\nYou can find the replaced helicopter at police stations with helipads.<br>\n <br>\nNote: This mod overwrites one vanilla helicopter. It may cause ID conflicts with other mods. Please keep this in mind before downloading.",
+    "category": "Service (Police, Health Care, Education,...)",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "size": {
+      "raw": "90.38KB",
+      "bytes": 92549
+    },
+    "minVersion": "Any",
+    "author": "KS GKUN",
+    "authorId": "2142214",
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "20",
+    "downloads": 35,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
     "id": "14804",
     "name": "Small shopping mall",
     "url": "https://forum.theotown.com/plugins/list?term=:14804",
@@ -26,11 +195,11 @@
     "authorId": "1942119",
     "uploadDate": "9 Oct 2026, 15:51",
     "version": "5",
-    "downloads": 51,
+    "downloads": 380,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
     }
   },
   {
@@ -60,7 +229,7 @@
     "authorId": "1873054",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "2",
-    "downloads": 543,
+    "downloads": 646,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -94,11 +263,11 @@
     "authorId": "2193822",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "2",
-    "downloads": 1157,
+    "downloads": 1417,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 9
+      "count": 10
     }
   },
   {
@@ -128,7 +297,7 @@
     "authorId": "682550",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "2",
-    "downloads": 867,
+    "downloads": 1084,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -162,11 +331,11 @@
     "authorId": "682550",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "2",
-    "downloads": 631,
+    "downloads": 790,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 5
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 7
     }
   },
   {
@@ -196,11 +365,11 @@
     "authorId": "1931483",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "3",
-    "downloads": 1015,
+    "downloads": 1233,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 13
     }
   },
   {
@@ -230,11 +399,11 @@
     "authorId": "2119637",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "3",
-    "downloads": 1883,
+    "downloads": 2286,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 21
+      "count": 22
     }
   },
   {
@@ -264,7 +433,7 @@
     "authorId": "2169812",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "2",
-    "downloads": 339,
+    "downloads": 408,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -298,11 +467,11 @@
     "authorId": "862856",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "2",
-    "downloads": 333,
+    "downloads": 405,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 5
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 6
     }
   },
   {
@@ -332,7 +501,7 @@
     "authorId": "2067306",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "3",
-    "downloads": 564,
+    "downloads": 663,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -366,11 +535,11 @@
     "authorId": "2739",
     "uploadDate": "5 Oct 2026, 17:57",
     "version": "4",
-    "downloads": 30868,
+    "downloads": 30972,
     "rating": {
       "score": 2,
       "label": "NEGATIVE",
-      "count": 302
+      "count": 304
     }
   },
   {
@@ -400,7 +569,7 @@
     "authorId": "1914830",
     "uploadDate": "5 Oct 2026, 17:57",
     "version": "2",
-    "downloads": 453,
+    "downloads": 499,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -434,7 +603,7 @@
     "authorId": "682550",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "2",
-    "downloads": 678,
+    "downloads": 742,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -468,7 +637,7 @@
     "authorId": "682550",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "2",
-    "downloads": 839,
+    "downloads": 914,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -502,11 +671,11 @@
     "authorId": "2195213",
     "uploadDate": "2 Oct 2026, 15:25",
     "version": "2",
-    "downloads": 2146,
+    "downloads": 2244,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 13
+      "count": 14
     }
   },
   {
@@ -536,11 +705,11 @@
     "authorId": "2177849",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "2",
-    "downloads": 1494,
+    "downloads": 1541,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 7
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 8
     }
   },
   {
@@ -570,7 +739,7 @@
     "authorId": "2193822",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "4",
-    "downloads": 1299,
+    "downloads": 1365,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -604,7 +773,7 @@
     "authorId": "22978",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "4",
-    "downloads": 486,
+    "downloads": 513,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -617,8 +786,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:14774",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=WJ1EsdnTtfrH7ga1xYaTfGixsv6stFun",
-    "description": "Grand Mercure Lampung, which occupies the Sinar Laut Tower, is the tallest building on Sumatera Island, Lampung, Indonesian, reaching a height of 198 meters. Type Residential Size 5x5",
-    "descriptionHtml": "Grand Mercure Lampung, which occupies the Sinar Laut Tower, is the tallest building on Sumatera Island, Lampung, Indonesian, reaching a height of 198 meters.<br>\n<br>\nType Residential<br>\nSize 5x5",
+    "description": "Grand Mercure Lampung, which occupies the Sinar Laut Tower, is the tallest building on Sumatera Island, Lampung, Indonesian, reaching a height of 198 meters. Type Residential Size 5x5 Thankyou to Grand Mercure Lampung, Indonesian and Lobby & Theotown 😊",
+    "descriptionHtml": "Grand Mercure Lampung, which occupies the Sinar Laut Tower, is the tallest building on Sumatera Island, Lampung, Indonesian, reaching a height of 198 meters.<br>\n<br>\nType Residential<br>\nSize 5x5<br>\n<br>\n<br>\nThankyou to Grand Mercure Lampung, Indonesian and Lobby &amp; Theotown 😊",
     "category": "Residential",
     "price": {
       "amount": 30,
@@ -636,9 +805,9 @@
     "minVersion": "Any",
     "author": "Matteddy26",
     "authorId": "797723",
-    "uploadDate": "29 Sep 2026, 15:23",
-    "version": "4",
-    "downloads": 1881,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "5",
+    "downloads": 1992,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -672,11 +841,11 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 2411,
+    "downloads": 2559,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -706,11 +875,11 @@
     "authorId": "952975",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "3",
-    "downloads": 2069,
+    "downloads": 2140,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 13
+      "count": 14
     }
   },
   {
@@ -740,7 +909,7 @@
     "authorId": "1117299",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "3",
-    "downloads": 4365,
+    "downloads": 4658,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -774,11 +943,11 @@
     "authorId": "683743",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 5084,
+    "downloads": 5335,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 28
+      "count": 30
     }
   },
   {
@@ -808,7 +977,7 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 1456,
+    "downloads": 1521,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -842,11 +1011,11 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 1091,
+    "downloads": 1147,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -876,7 +1045,7 @@
     "authorId": "2119576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 2233,
+    "downloads": 2306,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -910,7 +1079,7 @@
     "authorId": "391947",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 720,
+    "downloads": 754,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,11 +1113,11 @@
     "authorId": "1019836",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "4",
-    "downloads": 6087,
+    "downloads": 6288,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 31
+      "count": 32
     }
   },
   {
@@ -978,11 +1147,11 @@
     "authorId": "2050504",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "2",
-    "downloads": 1075,
+    "downloads": 1103,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 7
+      "count": 9
     }
   },
   {
@@ -1012,7 +1181,7 @@
     "authorId": "992457",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 2313,
+    "downloads": 2374,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1046,7 +1215,7 @@
     "authorId": "1169481",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 2024,
+    "downloads": 2097,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1249,7 @@
     "authorId": "816803",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1868,
+    "downloads": 1910,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1114,7 +1283,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1312,
+    "downloads": 1355,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1148,7 +1317,7 @@
     "authorId": "587116",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 3118,
+    "downloads": 3225,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1182,7 +1351,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 1547,
+    "downloads": 1618,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1216,7 +1385,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 566,
+    "downloads": 584,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1250,11 +1419,11 @@
     "authorId": "1981212",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "13",
-    "downloads": 957,
+    "downloads": 1020,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 10
+      "count": 11
     }
   },
   {
@@ -1284,7 +1453,7 @@
     "authorId": "2075576",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "7",
-    "downloads": 364,
+    "downloads": 380,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1318,7 +1487,7 @@
     "authorId": "816803",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1435,
+    "downloads": 1479,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1352,11 +1521,11 @@
     "authorId": "682550",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 3888,
+    "downloads": 4063,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 13
+      "count": 15
     }
   },
   {
@@ -1386,7 +1555,7 @@
     "authorId": "6922",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 2717,
+    "downloads": 2807,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1589,7 @@
     "authorId": "2060627",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "5",
-    "downloads": 2462,
+    "downloads": 2773,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1454,7 +1623,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1528,
+    "downloads": 1616,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1488,7 +1657,7 @@
     "authorId": "862856",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 3156,
+    "downloads": 3333,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1522,7 +1691,7 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 503,
+    "downloads": 536,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1725,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1889,
+    "downloads": 1964,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1590,7 +1759,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 1160,
+    "downloads": 1197,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1624,7 +1793,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 819,
+    "downloads": 844,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1658,7 +1827,7 @@
     "authorId": "126998",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1675,
+    "downloads": 1736,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,7 +1861,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 2886,
+    "downloads": 3007,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1726,7 +1895,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "3",
-    "downloads": 1008,
+    "downloads": 1049,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1760,7 +1929,7 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 897,
+    "downloads": 912,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1794,7 +1963,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "2",
-    "downloads": 1471,
+    "downloads": 1503,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1828,7 +1997,7 @@
     "authorId": "2067306",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "2",
-    "downloads": 773,
+    "downloads": 797,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2950,7 +3119,7 @@
     "authorId": "2124354",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "8",
-    "downloads": 1356,
+    "downloads": 1383,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -3052,7 +3221,7 @@
     "authorId": "405140",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 472,
+    "downloads": 476,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -3392,7 +3561,7 @@
     "authorId": "2060627",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 4154,
+    "downloads": 4276,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4514,7 +4683,7 @@
     "authorId": "1931483",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "5",
-    "downloads": 3179,
+    "downloads": 3224,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5398,7 +5567,7 @@
     "authorId": "1981212",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "24",
-    "downloads": 2528,
+    "downloads": 2615,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5479,8 +5648,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:13957",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=rpOLJAugDUJaZS6TRzoFTSCniLqL9qmN",
-    "description": "Welcome to Tianjin, the largest industrial city in China with the country’s oldest bus company. In this plugin, you can use the materials we provide to build a bus terminal in the style of Tianjin, or have the buses in Tianjin run along your routes. 2026.8.16 update: Add the night views. Fix some design flaws",
-    "descriptionHtml": "Welcome to Tianjin, the largest industrial city in China with the country’s oldest bus company.<br>\n<br>\nIn this plugin, you can use the materials we provide to build a bus terminal in the style of Tianjin, or have the buses in Tianjin run along your routes.<br>\n<br>\n2026.8.16 update:<br>\nAdd the night views.<br>\nFix some design flaws<br>\n<br>",
+    "description": "Thanks to Lobby for fixing the serious bug in this plugin. Welcome to Tianjin, the largest industrial city in China with the country’s oldest bus company. In this plugin, you can use the materials we provide to build a bus terminal in the style of Tianjin, or have the buses in Tianjin run along your routes. 2026.10.4 update: Added two buses FOTON BJ6105C7MHB BJ6123EVCA-13 Added the road deco of all the buses Fix a serious Bug Fix a drawn mistake of Sunlong",
+    "descriptionHtml": "Thanks to Lobby for fixing the serious bug in this plugin.<br>\nWelcome to Tianjin, the largest industrial city in China with the country’s oldest bus company.<br>\n<br>\nIn this plugin, you can use the materials we provide to build a bus terminal in the style of Tianjin, or have the buses in Tianjin run along your routes.<br>\n<br>\n2026.10.4 update:<br>\nAdded two buses<br>\nFOTON<br>\nBJ6105C7MHB<br>\nBJ6123EVCA-13<br>\nAdded the road deco of all the buses<br>\nFix a serious Bug<br>\nFix a drawn mistake of Sunlong <br>",
     "category": "Transport",
     "price": {
       "amount": 40,
@@ -5492,19 +5661,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "728.82KB",
-      "bytes": 746312
+      "raw": "942.38KB",
+      "bytes": 964997
     },
     "minVersion": "Any",
     "author": "432292",
     "authorId": "414723",
-    "uploadDate": "20 Aug 2026, 11:05",
-    "version": "13",
-    "downloads": 3626,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "15",
+    "downloads": 3986,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 39
+      "count": 42
     }
   },
   {
@@ -6044,7 +6213,7 @@
     "authorId": "315683",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "4",
-    "downloads": 2369,
+    "downloads": 2389,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -9218,7 +9387,7 @@
     "name": "Soviet residential buildings",
     "url": "https://forum.theotown.com/plugins/list?term=:5276",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=exsClKbaMDYnisbVNxbiRYIK5ory8ZJj",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=2t57QeCtwSBAxBq8vV5eaSM9qaiVYXLh",
     "description": "Version 2.7 ________--------________ Soviet buildings are represented in this plugin.in addition to the buildings of Stalin's time (\"Stalinka\"), the plugin presents buildings of all periods of the USSR in one form or another, except for the period of Lenin's rule. This plugin has a large size! ________--------________",
     "descriptionHtml": "Version 2.7<br>\n________--------________<br>\nSoviet buildings are represented in this plugin.in addition to the buildings of Stalin's time (\"Stalinka\"), the plugin presents buildings of all periods of the USSR in one form or another, except for the period of Lenin's rule. <br>\nThis plugin has a large size!<br>\n________--------________",
     "category": "Packs",
@@ -9238,13 +9407,13 @@
     "minVersion": "Any",
     "author": "erionit",
     "authorId": "211223",
-    "uploadDate": "28 Jul 2026, 04:25",
-    "version": "15",
-    "downloads": 249429,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "16",
+    "downloads": 255147,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 771
+      "count": 785
     }
   },
   {
@@ -9546,7 +9715,7 @@
     "authorId": "2060627",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "22",
-    "downloads": 6651,
+    "downloads": 6679,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10634,11 +10803,11 @@
     "authorId": "1169481",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "7",
-    "downloads": 30640,
+    "downloads": 30811,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 314
+      "count": 317
     }
   },
   {
@@ -10782,9 +10951,9 @@
     "name": "The United States Capitol",
     "url": "https://forum.theotown.com/plugins/list?term=:14276",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=cfXKUmX6zl5LHRl8WcZfDY8Y0gP2F26D",
-    "description": "Hi, I'm Timmy11, this is my new plugin. The United States Capitol is the seat of the United States Congress, the legislative branch of the federal government. The building is situated on Capitol Hill, at the eastern end of the National Mall in Washington, D.C. Construction began on September 18, 1793, when President George Washington laid the cornerstone. It has witnessed history, serving as the site of major legislative decisions and U.S. presidential inaugurations. Have nights animation. I hope you like it.",
-    "descriptionHtml": "Hi, I'm Timmy11, this is my new plugin. The United States Capitol is the seat of the United States Congress, the legislative branch of the federal government. The building is situated on Capitol Hill, at the eastern end of the National Mall in Washington, D.C. Construction began on September 18, 1793, when President George Washington laid the cornerstone. It has witnessed history, serving as the site of major legislative decisions and U.S. presidential inaugurations.<br>\nHave nights animation.<br>\nI hope you like it.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=DJkqgVMBdFgxPlovbC2YJefi7F7CF5Ws",
+    "description": "New upgrade ! The building can rotate to follow your city. Many thanks to Yekaterinborough for assistance with editing the code and the rotating frame animation for the structure. Code modified by Yekaterinborough. Hi, I'm Timmy11, this is my new plugin. The United States Capitol is the seat of the United States Congress, the legislative branch of the federal government. The building is situated on Capitol Hill, at the eastern end of the National Mall in Washington, D.C. Construction began on September 18, 1793, when President George Washington laid the cornerstone. It has witnessed history, serving as the site of major legislative decisions and U.S. presidential inaugurations. Have nights animation. I hope you like it !",
+    "descriptionHtml": "New upgrade !<br>\nThe building can rotate to follow your city. <br>\n   <br>\nMany thanks to Yekaterinborough for assistance with editing the code and the rotating frame animation for the structure.<br>\nCode modified by Yekaterinborough.<br>\n<br>\nHi, I'm Timmy11, this is my new plugin. The United States Capitol is the seat of the United States Congress, the legislative branch of the federal government. The building is situated on Capitol Hill, at the eastern end of the National Mall in Washington, D.C. Construction began on September 18, 1793, when President George Washington laid the cornerstone. It has witnessed history, serving as the site of major legislative decisions and U.S. presidential inaugurations.<br>\nHave nights animation.<br>\nI hope you like it !",
     "category": "Parks, Sports and Management",
     "price": {
       "amount": 60,
@@ -10796,19 +10965,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "79.38KB",
-      "bytes": 81285
+      "raw": "72.41KB",
+      "bytes": 74148
     },
     "minVersion": "Any",
     "author": "Timmy11",
     "authorId": "567245",
-    "uploadDate": "16 Jul 2026, 18:45",
-    "version": "4",
-    "downloads": 3503,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "8",
+    "downloads": 4885,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 21
+      "count": 28
     }
   },
   {
@@ -10940,7 +11109,7 @@
     "authorId": "2075576",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "4",
-    "downloads": 1554,
+    "downloads": 1627,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -11416,11 +11585,11 @@
     "authorId": "683743",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "13",
-    "downloads": 25882,
+    "downloads": 26081,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 177
+      "count": 180
     }
   },
   {
@@ -11824,7 +11993,7 @@
     "authorId": "2060627",
     "uploadDate": "5 Oct 2026, 17:57",
     "version": "15",
-    "downloads": 14488,
+    "downloads": 14618,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -13048,7 +13217,7 @@
     "authorId": "2060627",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "10",
-    "downloads": 7719,
+    "downloads": 7779,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -13490,11 +13659,11 @@
     "authorId": "2060627",
     "uploadDate": "9 Oct 2026, 15:51",
     "version": "14",
-    "downloads": 7280,
+    "downloads": 7570,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 59
+      "count": 62
     }
   },
   {
@@ -15020,7 +15189,7 @@
     "authorId": "2075576",
     "uploadDate": "28 Sep 2026, 17:23",
     "version": "10",
-    "downloads": 2578,
+    "downloads": 2591,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -15407,8 +15576,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:13606",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=W4SDbSzCxLihijiWbcQfEcMlzI1ckc0U",
-    "description": "Update 1: New thumbnail, fixed ID error, fixed bridges, added some diagonal frames Roads and road decorations inspired by ones in Canada, Mexico, and the US. Of course, they can be used anywhere. My first plugin. Work in progress. Suggestions and feedback would be appreciated. Includes: - Brick and concrete roads - Medium and high-speed asphalt roads with multiple variants - 4 and 6-lane highways (Not designed to intersect; use interchanges/roundabouts.) - Busway (aka bus road) with multiple variants - One-way and no sidewalk variants - Arrow markings, crosswalks, and a box junction - Bridges, tunnels, and diagonal support (diagonal frames not yet complete, sorry) Credit to Lobby and Theo for the original road and terrain graphics. Diagonal roads inspired by yekaterinborough's British road pack.",
-    "descriptionHtml": "Update 1: New thumbnail, fixed ID error, fixed bridges, added some diagonal frames<br>\n<br>\nRoads and road decorations inspired by ones in Canada, Mexico, and the US. Of course, they can be used anywhere.<br>\nMy first plugin. Work in progress. Suggestions and feedback would be appreciated.<br>\n<br>\nIncludes:<br>\n- Brick and concrete roads<br>\n- Medium and high-speed asphalt roads with multiple variants<br>\n- 4 and 6-lane highways (Not designed to intersect; use interchanges/roundabouts.)<br>\n- Busway (aka bus road) with multiple variants<br>\n- One-way and no sidewalk variants<br>\n- Arrow markings, crosswalks, and a box junction<br>\n- Bridges, tunnels, and diagonal support (diagonal frames not yet complete, sorry)<br>\n<br>\nCredit to Lobby and Theo for the original road and terrain graphics. Diagonal roads inspired by yekaterinborough's British road pack.",
+    "description": "IMPORTANT: I apologize for such a small update after a long wait. I originally planned for a final update with major fixes and many new decorations, but I haven't had any free time to do so, and I'm not exactly sure how to implement things that have been suggested. So far, I've increased bridge height, mostly fixed the bridge frames, completed the diagonal frames, and added new box junction variants. Unfortunately, this will have to be the last update for a while, but I hope to return one day. Thank you all for your patience and feedback. Roads and road decorations inspired by ones in Canada, Mexico, and the US. Of course, they can be used anywhere. This is NOT meant to be 100% accurate to real life. The purpose of this is to add more diversity to roads while staying close to the vanilla style. Includes: - Brick and concrete roads - Medium and high-speed asphalt roads with multiple variants - 4 and 6-lane highways (Not designed to intersect; use interchanges/roundabouts.) - Busway (aka bus road) with multiple variants - One-way and no sidewalk variants - Arrow markings, crosswalks, and box junctions - Bridges, tunnels, and diagonal support (diagonal frames not yet complete, sorry) Credit to Lobby and Theo for the original road and terrain graphics. Diagonal roads inspired by yekaterinborough's British road pack (it's much better than this plugin, try it out).",
+    "descriptionHtml": "IMPORTANT: I apologize for such a small update after a long wait. I originally planned for a final update with major fixes and many new decorations, but I haven't had any free time to do so, and I'm not exactly sure how to implement things that have been suggested. So far, I've increased bridge height, mostly fixed the bridge frames, completed the diagonal frames, and added new box junction variants. Unfortunately, this will have to be the last update for a while, but I hope to return one day. Thank you all for your patience and feedback.<br>\n<br>\nRoads and road decorations inspired by ones in Canada, Mexico, and the US. Of course, they can be used anywhere.<br>\nThis is NOT meant to be 100% accurate to real life. The purpose of this is to add more diversity to roads while staying close to the vanilla style.<br>\n<br>\nIncludes:<br>\n- Brick and concrete roads<br>\n- Medium and high-speed asphalt roads with multiple variants<br>\n- 4 and 6-lane highways (Not designed to intersect; use interchanges/roundabouts.)<br>\n- Busway (aka bus road) with multiple variants<br>\n- One-way and no sidewalk variants<br>\n- Arrow markings, crosswalks, and box junctions<br>\n- Bridges, tunnels, and diagonal support (diagonal frames not yet complete, sorry)<br>\n<br>\nCredit to Lobby and Theo for the original road and terrain graphics. Diagonal roads inspired by yekaterinborough's British road pack (it's much better than this plugin, try it out).",
     "category": "Road",
     "price": {
       "amount": 30,
@@ -15420,19 +15589,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "1.28MB",
-      "bytes": 1342177
+      "raw": "659.1KB",
+      "bytes": 674918
     },
     "minVersion": "Any",
     "author": "ls72",
     "authorId": "2031914",
-    "uploadDate": "08 Jun 2026, 18:39",
-    "version": "13",
-    "downloads": 14585,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "15",
+    "downloads": 20272,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 65
+      "count": 85
     }
   },
   {
@@ -20879,9 +21048,9 @@
     "name": "Cheung Kong Center II,HongKong",
     "url": "https://forum.theotown.com/plugins/list?term=:12995",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=JCSkv6oS4XgGWiMs2uFfDLIKflT8MAl1",
-    "description": "Main Description: ~~Commercial TTT ~~WITH Night animation ~~WITH 1500 workers capacity ~~NAMED in game,you can search for it easily LONG TIME NO SEEeee! Anson is here~ Here comes a brand new plugin for you —— Cheung Kong Center II ~~ It is a 41-story building located at 10 Harcourt Road, Admiralty, Hong Kong. It was designed by Leo A Daly Architects and constructed by United Construction. The site was formerly the demolished Hutchison House. The initial plan for this plugin is kinda different,it actually belong to my Hongkong Buildings Pack IK,but I thought if I merge all those buildings together,it would be hard for all the mayors to find the specific building that they want (IT IS HARD TO MAKE A CATEGORY!!!)So I chose to share them with you separately.And I will share you with more buildings come from Hongkong Buildings Pack IK. Hope you can enjoy this plugin.",
-    "descriptionHtml": "Main Description:<br>\n~~Commercial TTT<br>\n~~WITH Night animation<br>\n~~WITH 1500 workers capacity<br>\n~~NAMED in game,you can search for it easily<br>\n<br>\nLONG TIME NO SEEeee! Anson is here~<br>\nHere comes a brand new plugin for you —— Cheung Kong Center II ~~ It is a 41-story building located at 10 Harcourt Road, Admiralty, Hong Kong. It was designed by Leo A Daly Architects and constructed by United Construction. The site was formerly the demolished Hutchison House.<br>\nThe initial plan for this plugin is kinda different,it actually belong to my Hongkong Buildings Pack IK,but I thought if I merge all those buildings together,it would be hard for all the mayors to find the specific building that they want (IT IS HARD TO MAKE A CATEGORY!!!)So I chose to share them with you separately.And I will share you with more buildings come from Hongkong Buildings Pack IK.<br>\nHope you can enjoy this plugin.<br>",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=kDtJiIkbYgiYHZBeN9rikiogh9BTWyYF",
+    "description": "//UPDATE October 2026//:NEW Frame & Night Animations Main Description: ~~Commercial TTT ~~WITH Night animation ~~WITH 2000 workers capacity ~~NAMED in game,you can search for it easily LONG TIME NO SEEeee! Anson is here~ Here comes a brand new plugin for you —— Cheung Kong Center II ~~ It is a 41-story building located at 10 Harcourt Road, Admiralty, Hong Kong. It was designed by Leo A Daly Architects and constructed by United Construction. The site was formerly the demolished Hutchison House. The initial plan for this plugin is kinda different,it actually belong to my Hongkong Buildings Pack IK,but I thought if I merge all those buildings together,it would be hard for all the mayors to find the specific building that they want (IT IS HARD TO MAKE A CATEGORY!!!)So I chose to share them with you separately.And I will share you with more buildings come from Hongkong Buildings Pack IK. Hope you can enjoy this plugin.",
+    "descriptionHtml": "//UPDATE October 2026//:NEW Frame &amp; Night Animations <br>\nMain Description:<br>\n~~Commercial TTT<br>\n~~WITH Night animation<br>\n~~WITH 2000 workers capacity<br>\n~~NAMED in game,you can search for it easily<br>\n<br>\nLONG TIME NO SEEeee! Anson is here~<br>\nHere comes a brand new plugin for you —— Cheung Kong Center II ~~ It is a 41-story building located at 10 Harcourt Road, Admiralty, Hong Kong. It was designed by Leo A Daly Architects and constructed by United Construction. The site was formerly the demolished Hutchison House.<br>\nThe initial plan for this plugin is kinda different,it actually belong to my Hongkong Buildings Pack IK,but I thought if I merge all those buildings together,it would be hard for all the mayors to find the specific building that they want (IT IS HARD TO MAKE A CATEGORY!!!)So I chose to share them with you separately.And I will share you with more buildings come from Hongkong Buildings Pack IK.<br>\nHope you can enjoy this plugin.<br>",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -20893,19 +21062,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "141.19KB",
-      "bytes": 144579
+      "raw": "329.9KB",
+      "bytes": 337818
     },
     "minVersion": "Any",
     "author": "CeoAnson",
     "authorId": "297378",
-    "uploadDate": "02 May 2026, 06:43",
-    "version": "4",
-    "downloads": 6625,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "6",
+    "downloads": 7361,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 29
+      "count": 30
     }
   },
   {
@@ -21343,11 +21512,11 @@
     "authorId": "668518",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "6",
-    "downloads": 8595,
+    "downloads": 8707,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 54
+      "count": 55
     }
   },
   {
@@ -21492,8 +21661,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:13687",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=u1Xgzs8XR4TUUQkwTA5iJU88u4aeGfL9",
-    "description": "The Grand Mosque of the Sultan of Riau is an iconic historic mosque located on Penyengat Island, West Tanjung Pinang District, Tanjungpinang City, Riau Islands, Sumatra, Indonesia. Built in early 1803 and restored in 1832, the mosque is famous for its construction using egg white as a binder. Bright yellow in color, the mosque boasts unique architecture with 13 domes and four minarets (17 in total), symbolizing the five-rak'at prayer. 3 Buildings 📌 1 - Sultan Riau Grand Mosque Building Type: Religion Size: 3x3 📌 Rest Hut Building Type: Park Size: 1x1 📌 Al-Qur'an Education Park (Taman Pendidikan Al-qur'an \"TPA\") Building Type: Education low Size: 2x2 Thank you 🍡🍡",
-    "descriptionHtml": "The Grand Mosque of the Sultan of Riau is an iconic historic mosque located on Penyengat Island, West Tanjung Pinang District, Tanjungpinang City, Riau Islands, Sumatra, Indonesia. Built in early 1803 and restored in 1832, the mosque is famous for its construction using egg white as a binder. Bright yellow in color, the mosque boasts unique architecture with 13 domes and four minarets (17 in total), symbolizing the five-rak'at prayer.<br>\n<br>\n3 Buildings <br>\n<br>\n📌 1 - Sultan Riau Grand Mosque <br>\nBuilding Type: Religion <br>\nSize: 3x3<br>\n<br>\n📌 Rest Hut <br>\nBuilding Type: Park <br>\nSize: 1x1 <br>\n<br>\n📌 Al-Qur'an Education Park (Taman Pendidikan Al-qur'an \"TPA\") <br>\nBuilding Type: Education low<br>\nSize: 2x2<br>\n<br>\nThank you 🍡🍡",
+    "description": "The Grand Mosque of the Sultan of Riau is an iconic historic mosque located on Penyengat Island, West Tanjung Pinang District, Tanjungpinang City, Riau Islands, Sumatra, Indonesia. Built in early 1803 and restored in 1832, the mosque is famous for its construction using egg white as a binder. Bright yellow in color, the mosque boasts unique architecture with 13 domes and four minarets (17 in total), symbolizing the five-rak'at prayer. 3 Buildings 📌 1 - Sultan Riau Grand Mosque Building Type: Religion Size: 3x3 📌 Rest Hut Building Type: Park Size: 1x1 📌 Al-Qur'an Education Park (Taman Pendidikan Al-qur'an \"TPA\") Building Type: Education low Size: 2x2 🔰 Night Mode Thank you to Lobby & Theotown 🍡🍡",
+    "descriptionHtml": "The Grand Mosque of the Sultan of Riau is an iconic historic mosque located on Penyengat Island, West Tanjung Pinang District, Tanjungpinang City, Riau Islands, Sumatra, Indonesia. Built in early 1803 and restored in 1832, the mosque is famous for its construction using egg white as a binder. Bright yellow in color, the mosque boasts unique architecture with 13 domes and four minarets (17 in total), symbolizing the five-rak'at prayer.<br>\n<br>\n3 Buildings <br>\n<br>\n📌 1 - Sultan Riau Grand Mosque <br>\nBuilding Type: Religion <br>\nSize: 3x3<br>\n<br>\n📌 Rest Hut <br>\nBuilding Type: Park <br>\nSize: 1x1 <br>\n<br>\n📌 Al-Qur'an Education Park (Taman Pendidikan Al-qur'an \"TPA\") <br>\nBuilding Type: Education low<br>\nSize: 2x2<br>\n<br>\n🔰 Night Mode<br>\n<br>\nThank you to Lobby &amp; Theotown 🍡🍡",
     "category": "Religion and Culture",
     "price": {
       "amount": 30,
@@ -21505,15 +21674,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "178.24KB",
-      "bytes": 182518
+      "raw": "181.69KB",
+      "bytes": 186051
     },
     "minVersion": "Any",
     "author": "Matteddy26",
     "authorId": "797723",
-    "uploadDate": "28 Apr 2026, 20:47",
-    "version": "7",
-    "downloads": 2321,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "9",
+    "downloads": 2958,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -22389,19 +22558,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "249.67KB",
-      "bytes": 255662
+      "raw": "258.28KB",
+      "bytes": 264479
     },
     "minVersion": "Any",
     "author": "_Chocolate_",
     "authorId": "976914",
-    "uploadDate": "23 Apr 2026, 05:19",
-    "version": "5",
-    "downloads": 11246,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "7",
+    "downloads": 12715,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 52
+      "count": 54
     }
   },
   {
@@ -22499,7 +22668,7 @@
     "authorId": "22978",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "10",
-    "downloads": 2385,
+    "downloads": 2394,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -25265,7 +25434,7 @@
     "name": "Verona historical buildings",
     "url": "https://forum.theotown.com/plugins/list?term=:4781",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=a6gfBYcXArSFm6cxWEcmkeanqo0zDwRj",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=wPBTx9Gzfb0HJIUo9ol32f6fp0RcLceD",
     "description": "Version 2.1 ________--------________ This plugin presents buildings from the city center of Verona (Veneto region, Italy). ________--------________ Global updates textured! P. S. Thank you for comments! I updates roof:)",
     "descriptionHtml": "Version 2.1<br>\n________--------________<br>\nThis plugin presents buildings from the city center of Verona (Veneto region, Italy). <br>\n________--------________<br>\nGlobal updates textured!<br>\nP. S. Thank you for comments! I updates roof:)",
     "category": "Packs",
@@ -25285,13 +25454,13 @@
     "minVersion": "Any",
     "author": "erionit",
     "authorId": "211223",
-    "uploadDate": "06 Apr 2026, 10:19",
-    "version": "18",
-    "downloads": 98698,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "19",
+    "downloads": 101104,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 368
+      "count": 373
     }
   },
   {
@@ -26511,11 +26680,11 @@
     "authorId": "668518",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "7",
-    "downloads": 6462,
+    "downloads": 6506,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 30
+      "count": 31
     }
   },
   {
@@ -28551,7 +28720,7 @@
     "authorId": "1111579",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "22",
-    "downloads": 4043,
+    "downloads": 4123,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -37798,11 +37967,11 @@
     "authorId": "1880",
     "uploadDate": "2 Oct 2026, 15:25",
     "version": "24",
-    "downloads": 113600,
+    "downloads": 113676,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 804
+      "count": 806
     }
   },
   {
@@ -43312,12 +43481,12 @@
   },
   {
     "id": "2623",
-    "name": "Indonesia transport pack",
+    "name": "(DEP) Indonesia transport pack",
     "url": "https://forum.theotown.com/plugins/list?term=:2623",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=V6ihyEKbJuYYKqRH7gQxWVitdDgYJzS4",
-    "description": "Version: 8.4.1p Indonesia Transport Pack The Indonesian transportation package is a theotown plugin which contains public transportation content in Indonesia, it contains trains and buses complete with their infrastructure. This plugin also contains a complete road package with several road medians and road markings, will be expanded in the future. Chagelog: - Add: Support to Transport Update - Add: New Category Icons - Add: Steam trains! - Add: CRC EMU and INKA EMU Credits: Kingtut10101,Matthew filbert,Akunbaru123,Pederont,mdk_813,theotheoderich,Lobby divinus,JustAnyone,Hadestia,yusuf8a684,Kulche,Chanxin,Desolan,Mg3094066,Erato (Chris),and Daud License: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Offering paid plugin commission: yakkastudiosofficial@gmail.com • https://yakkastds.github.io/ Access Free Version Here: https://yakkaid.itch.io/",
-    "descriptionHtml": "Version: 8.4.1p<br>\nIndonesia Transport Pack<br>\n<br>\nThe Indonesian transportation package is a theotown plugin which contains public transportation content in Indonesia, it contains trains and buses complete with their infrastructure. This plugin also contains a complete road package with several road medians and road markings, will be expanded in the future. <br>\n<br>\nChagelog: <br>\n- Add: Support to Transport Update<br>\n- Add: New Category Icons<br>\n- Add: Steam trains!<br>\n- Add: CRC EMU and INKA EMU<br>\n<br>\n<br>\nCredits: Kingtut10101,Matthew filbert,Akunbaru123,Pederont,mdk_813,theotheoderich,Lobby divinus,JustAnyone,Hadestia,yusuf8a684,Kulche,Chanxin,Desolan,Mg3094066,Erato (Chris),and Daud<br>\nLicense: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.<br>\n<br>\nOffering paid plugin commission:<br>\nyakkastudiosofficial@gmail.com • https://yakkastds.github.io/<br>\n<br>\nAccess Free Version Here: https://yakkaid.itch.io/",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=fVQpGNEj8utPPWATRPgsn5YcSeLKN3El",
+    "description": "V8.4.5p • 6 Oct 2026 This plugin is deprecated,and only will recieve maintenance update. Replaced with coming soon newer pack. Free download is available here: https://yakkaworks.github.io/store/ The Indonesian transportation package is a theotown plugin which contains public transportation content in Indonesia, it contains trains and buses complete with their infrastructure. This plugin also contains a complete road package with several road medians and road markings, will be expanded in the future. Credit: Kingtut10101,Matthew filbert,Akunbaru123,Pederont,mdk_813,theotheoderich,Lobby divinus,JustAnyone,Hadestia,yusuf8a684,Kulche,Chanxin,Desolan,Mg3094066,Erato (Chris),and Daud License: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Official Site: https://yakkaworks.github.io/ Customer Support: yakkaworks@gmail.com",
+    "descriptionHtml": "V8.4.5p • 6 Oct 2026<br>\n<br>\nThis plugin is deprecated,and only will recieve maintenance update.  Replaced with coming soon newer pack.<br>\n<br>\nFree download is available here:<br>\nhttps://yakkaworks.github.io/store/<br>\n<br>\nThe Indonesian transportation package is a theotown plugin which contains public transportation content in Indonesia, it contains trains and buses complete with their infrastructure. This plugin also contains a complete road package with several road medians and road markings, will be expanded in the future. <br>\n<br>\nCredit: Kingtut10101,Matthew filbert,Akunbaru123,Pederont,mdk_813,theotheoderich,Lobby divinus,JustAnyone,Hadestia,yusuf8a684,Kulche,Chanxin,Desolan,Mg3094066,Erato (Chris),and Daud<br>\n<br>\nLicense: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.<br>\n<br>\nOfficial Site:<br>\nhttps://yakkaworks.github.io/<br>\n<br>\nCustomer Support:<br>\nyakkaworks@gmail.com",
     "category": "Transport",
     "price": {
       "amount": 40,
@@ -43332,16 +43501,16 @@
       "raw": "1.1MB",
       "bytes": 1153434
     },
-    "minVersion": "1.11.35",
+    "minVersion": "1.12.60",
     "author": "Yakka",
     "authorId": "10216",
-    "uploadDate": "08 Jan 2026, 12:19",
-    "version": "110",
-    "downloads": 443256,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "112",
+    "downloads": 450277,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 1666
+      "count": 1687
     }
   },
   {
@@ -43907,19 +44076,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "291.27KB",
-      "bytes": 298260
+      "raw": "199.13KB",
+      "bytes": 203909
     },
     "minVersion": "Any",
     "author": "_Chocolate_",
     "authorId": "976914",
-    "uploadDate": "31 Dec 2025, 14:28",
-    "version": "2",
-    "downloads": 30088,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "4",
+    "downloads": 32222,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 65
+      "count": 70
     }
   },
   {
@@ -52143,7 +52312,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 41543,
+    "downloads": 41558,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -52155,12 +52324,12 @@
     "name": "Invisible RRR",
     "url": "https://forum.theotown.com/plugins/list?term=:8973",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=pcSjPFrRSLXtKjh2eIVRlK6FRdoTUh3D",
-    "description": "Version: 1p Invisible RRR This plugin adds Invisible roads,rails,and runways. Which meant to be used with plugins like advanced road,advanced rails,and runway markings. Credits: Lobby Divinus,and Just Anyone. Offering paid plugin commission: yakkastudiosofficial@gmail.com • https://yakkastds.github.io/ Access Free Version Here: https://yakkaid.itch.io/",
-    "descriptionHtml": "Version: 1p<br>\nInvisible RRR<br>\n<br>\nThis plugin adds Invisible roads,rails,and runways. Which meant to be used with plugins like advanced road,advanced rails,and runway markings.<br>\n<br>\nCredits: Lobby Divinus,and Just Anyone.<br>\n<br>\nOffering paid plugin commission:<br>\nyakkastudiosofficial@gmail.com • https://yakkastds.github.io/<br>\n<br>\nAccess Free Version Here: https://yakkaid.itch.io/",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=dg3WNTOqLIEO2R3Lo442rnMxFsrfU74T",
+    "description": "V0.6 • 22 Sep 2026 Free download is available here: https://yakkaworks.github.io/store/ This plugin adds Invisible roads,rails,and runways. Which meant to be used with plugins like advanced road,advanced rails,and runway markings. Credit: Lobby and Just Anyone Official Site: https://yakkaworks.github.io/ Customer Support: yakkaworks@gmail.com",
+    "descriptionHtml": "V0.6 • 22 Sep 2026<br>\n<br>\nFree download is available here:<br>\nhttps://yakkaworks.github.io/store/<br>\n<br>\nThis plugin adds Invisible roads,rails,and runways. Which meant to be used with plugins like advanced road,advanced rails,and runway markings.<br>\n<br>\nCredit: Lobby and Just Anyone<br>\n<br>\nOfficial Site:<br>\nhttps://yakkaworks.github.io/<br>\n<br>\nCustomer Support:<br>\nyakkaworks@gmail.com",
     "category": "Transport",
     "price": {
-      "amount": 30,
+      "amount": 40,
       "currency": "diamonds"
     },
     "platforms": [
@@ -52169,19 +52338,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "2.39KB",
-      "bytes": 2447
+      "raw": "3.57KB",
+      "bytes": 3656
     },
-    "minVersion": "1.11.28",
+    "minVersion": "1.12.55",
     "author": "Yakka",
     "authorId": "10216",
-    "uploadDate": "11 Oct 2025, 04:30",
-    "version": "4",
-    "downloads": 91323,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "7",
+    "downloads": 92975,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 194
+      "count": 203
     }
   },
   {
@@ -52211,7 +52380,7 @@
     "authorId": "10216",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "7",
-    "downloads": 26874,
+    "downloads": 26906,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -52245,7 +52414,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "8",
-    "downloads": 17978,
+    "downloads": 17988,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -55984,7 +56153,7 @@
     "authorId": "10216",
     "uploadDate": "26 Sep 2026, 16:20",
     "version": "9",
-    "downloads": 14023,
+    "downloads": 14034,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -55996,9 +56165,9 @@
     "name": "Diagonal Decals",
     "url": "https://forum.theotown.com/plugins/list?term=:8972",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=IXVEeqaSjiQKkCDEUW6UZLa27dsh5hcI",
-    "description": "Version: 3p Diagonal Decals This simple plugin introduces diagonal versions of the in-game decals, including both regular and shore-side variants. It’s perfect for adding smoother transitions and more natural-looking details to your city’s terrain and coastlines, giving you greater flexibility in decoration without straying from the game’s native style. Credits: World Textures. Lobby Divinus,Just Anyone. Offering paid plugin commission: yakkastudiosofficial@gmail.com • https://yakkastds.github.io/ Access Free Version Here: https://yakkaid.itch.io/",
-    "descriptionHtml": "Version: 3p<br>\nDiagonal Decals<br>\n<br>\nThis simple plugin introduces diagonal versions of the in-game decals, including both regular and shore-side variants. It’s perfect for adding smoother transitions and more natural-looking details to your city’s terrain and coastlines, giving you greater flexibility in decoration without straying from the game’s native style.<br>\n<br>\nCredits: World Textures. Lobby Divinus,Just Anyone.<br>\n<br>\nOffering paid plugin commission:<br>\nyakkastudiosofficial@gmail.com • https://yakkastds.github.io/<br>\n<br>\nAccess Free Version Here: https://yakkaid.itch.io/",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=xvVa67x8OFakGGEiJqwyk5zuKu9XcFHe",
+    "description": "V1.2 • 06 Oct 2026 Free download is available here: https://yakkaworks.github.io/store/ This simple plugin introduces diagonal versions of the in-game decals, including both regular and shore-side variants. It’s perfect for adding smoother transitions and more natural-looking details to your city’s terrain and coastlines, giving you greater flexibility in decoration without straying from the game’s native style. Credit: Lobby Divinus,and Just Anyone. Official Site: https://yakkaworks.github.io/ Customer Support: yakkaworks@gmail.com",
+    "descriptionHtml": "V1.2 • 06 Oct 2026<br>\n<br>\nFree download is available here:<br>\nhttps://yakkaworks.github.io/store/<br>\n<br>\nThis simple plugin introduces diagonal versions of the in-game decals, including both regular and shore-side variants. It’s perfect for adding smoother transitions and more natural-looking details to your city’s terrain and coastlines, giving you greater flexibility in decoration without straying from the game’s native style.<br>\n<br>\nCredit: Lobby Divinus,and Just Anyone.<br>\n<br>\nOfficial Site:<br>\nhttps://yakkaworks.github.io/<br>\n<br>\nCustomer Support:<br>\nyakkaworks@gmail.com",
     "category": "Terrain",
     "price": {
       "amount": 40,
@@ -56010,19 +56179,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "66.23KB",
-      "bytes": 67820
+      "raw": "66.76KB",
+      "bytes": 68362
     },
-    "minVersion": "1.11.28",
+    "minVersion": "1.12.55",
     "author": "Yakka",
     "authorId": "10216",
-    "uploadDate": "01 Aug 2025, 08:24",
-    "version": "10",
-    "downloads": 26926,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "13",
+    "downloads": 27942,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 156
+      "count": 162
     }
   },
   {
@@ -62410,7 +62579,7 @@
     "authorId": "668518",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 69949,
+    "downloads": 70016,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -68496,7 +68665,7 @@
     "authorId": "922636",
     "uploadDate": "26 Sep 2026, 21:06",
     "version": "4",
-    "downloads": 15399,
+    "downloads": 15428,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -72949,11 +73118,11 @@
     "authorId": "15",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "23",
-    "downloads": 561196,
+    "downloads": 561444,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 2819
+      "count": 2821
     }
   },
   {
@@ -84147,8 +84316,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:6190",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=Xyp6X1LFFO6uYwdtNlhxrqqjsln0vXl8",
-    "description": "Version 2.3 ________--------________ This plugin presents the post office of Fort de France . Like the National Museum of Saint Kitts and Nevis, the promo of the future plug-in (Caribbean colonial buildings) ________--------________ Credits: Theo and the lobby",
-    "descriptionHtml": "Version 2.3<br>\n________--------________<br>\nThis plugin presents the post office of Fort de France . Like the National Museum of Saint Kitts and Nevis, the promo of the future plug-in (Caribbean colonial buildings)<br>\n________--------________<br>\nCredits: Theo and the lobby",
+    "description": "Version 2.4 ________--------________ This plugin presents the post office of Fort de France . Like the National Museum of Saint Kitts and Nevis, the promo of the future plug-in (Caribbean colonial buildings) Update!! Add 4 buildings:) ________--------________ Credits: Theo and the lobby",
+    "descriptionHtml": "Version 2.4<br>\n________--------________<br>\nThis plugin presents the post office of Fort de France . Like the National Museum of Saint Kitts and Nevis, the promo of the future plug-in (Caribbean colonial buildings)<br>\nUpdate!! Add 4 buildings:) <br>\n________--------________<br>\nCredits: Theo and the lobby",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -84160,19 +84329,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "89.76KB",
-      "bytes": 91914
+      "raw": "241.54KB",
+      "bytes": 247337
     },
     "minVersion": "Any",
     "author": "erionit",
     "authorId": "211223",
-    "uploadDate": "03 Aug 2023, 00:19",
-    "version": "9",
-    "downloads": 39532,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "11",
+    "downloads": 39981,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 120
+      "count": 121
     }
   },
   {
@@ -90365,12 +90534,12 @@
   },
   {
     "id": "4488",
-    "name": "Restaurant(remaster)",
+    "name": "Restaurant(remaster) (rebuild)",
     "url": "https://forum.theotown.com/plugins/list?term=:4488",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=dvcmspEh5lVNPGKaa4GYctSSFrQ5fAzG",
-    "description": "Version 3.3 ________--------________ This plugin presents an updated version of the very first restaurant plugin from January 30. Has a night animation ________--------________",
-    "descriptionHtml": "Version 3.3<br>\n________--------________<br>\nThis plugin presents an updated version of the very first restaurant plugin from January 30.  Has a night animation<br>\n________--------________",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=uDVvaqN06YH7CQb3WYeF6lQv83Ldf4j2",
+    "description": "Version 3.3 ________--------________ This plugin presents an updated version of the very first restaurant plugin from January 30. Has a night animation ________--------________ Update: texture is refreshing",
+    "descriptionHtml": "Version 3.3<br>\n________--------________<br>\nThis plugin presents an updated version of the very first restaurant plugin from January 30.  Has a night animation<br>\n________--------________<br>\nUpdate: texture is refreshing",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -90382,19 +90551,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "21.47KB",
-      "bytes": 21985
+      "raw": "80.66KB",
+      "bytes": 82596
     },
     "minVersion": "Any",
     "author": "erionit",
     "authorId": "211223",
-    "uploadDate": "25 Jan 2023, 03:06",
-    "version": "10",
-    "downloads": 15276,
+    "uploadDate": "10 Oct 2026, 15:04",
+    "version": "13",
+    "downloads": 15426,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 38
+      "count": 39
     }
   },
   {
@@ -100419,7 +100588,7 @@
     "authorId": "213127",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "8",
-    "downloads": 28503,
+    "downloads": 28550,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
