@@ -1,10 +1,11 @@
 {
-  "scrapeDate": "2026-10-12T18:38:56.765Z",
-  "totalPlugins": 5030,
+  "scrapeDate": "2026-10-13T16:45:28.222Z",
+  "totalPlugins": 5031,
   "totalPages": 5,
-  "totalDownloads": 430560810,
+  "totalDownloads": 430570900,
   "certifiedCreators": 573,
   "categoryStats": {
+    "Industrial": 129,
     "Service (Police, Health Care, Education,...)": 232,
     "Packs": 288,
     "Religion and Culture": 266,
@@ -18,7 +19,6 @@
     "Other": 207,
     "Award and Special": 392,
     "Transport": 265,
-    "Industrial": 128,
     "Trees": 90,
     "Official Game Extensions": 8,
     "Tools": 37,
@@ -30,9 +30,9 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "POSITIVE": 2594,
     "VERY POSITIVE": 2107,
-    "MIXED": 289,
+    "POSITIVE": 2596,
+    "MIXED": 288,
     "NEGATIVE": 37
   },
   "source": "https://forum.theotown.com/plugins/list"
