@@ -1,5 +1,243 @@
 [
   {
+    "id": "14935",
+    "name": "Dark Teal",
+    "url": "https://forum.theotown.com/plugins/list?term=:14935",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=pEUXLJ2XE9C3jfq4kBNsXNp1buo5GufY",
+    "description": "A dark user interface theme with teal accents and approximately 39% more teal than strictly necessary. Kudos if you caught the reference. It also serves as a simple example and starting point for creating your own TheoTown themes.",
+    "descriptionHtml": "A dark user interface theme with teal accents and approximately 39% more teal than strictly necessary. Kudos if you caught the reference.<br>\n<br>\nIt also serves as a simple example and starting point for creating your own TheoTown themes.",
+    "category": "Themes",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "10.89KB",
+      "bytes": 11151
+    },
+    "minVersion": "1.12.95",
+    "author": "Lobby",
+    "authorId": "15",
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "4",
+    "downloads": 6,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14894",
+    "name": "Lotus Flagship Showroom",
+    "url": "https://forum.theotown.com/plugins/list?term=:14894",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=GH6dAP7GmW37FpHXfVYrngmWyPlBjISa",
+    "description": "\"For the drivers\" Lotus is a british car manufacturer that produced light weight sports cars. This building was inspired by the Lotus Flagship Showroom located in Seoul, South Korea 3x3 TTT Car and tree texture by Lobby",
+    "descriptionHtml": "\"For the drivers\"<br>\n<br>\nLotus is a british car manufacturer that produced light weight sports cars.<br>\n<br>\nThis building was inspired by the Lotus Flagship Showroom located in Seoul, South Korea<br>\n<br>\n3x3<br>\nTTT<br>\n<br>\nCar and tree texture by Lobby",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "31.29KB",
+      "bytes": 32041
+    },
+    "minVersion": "Any",
+    "author": "bossk",
+    "authorId": "171359",
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "2",
+    "downloads": 29,
+    "rating": {
+      "score": 3,
+      "label": "MIXED",
+      "count": 2
+    }
+  },
+  {
+    "id": "14896",
+    "name": "New police plugin",
+    "url": "https://forum.theotown.com/plugins/list?term=:14896",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=V1VGaDWKBqJqjBFJXz97UwMsyLVOqdw2",
+    "description": "This is new police pack. It contains four buildings. All buildings creates my own service police car. The first building is 3x3, it costs 950 and monthly price is 25. It has influence on police and management and has performance. The second building is 2x2, it costs 150 and hasn't monthly price. It has a little influence only to police. The third building is a 6x6 and it's a union of the first and second building. It has terrain decoration created using and modifying terrain images from world texture (so credit to Theotown and Lobby). This third building costs 1250, monthly price is 50 and has influence on police and management and has performance too. The last building is 8x8. It costs 1500, monthly price is 55 and has influence on police, management and park too. It has performance too. For water decoration in this building, I used water frames from plugin forum start section so credit to Theotown and Lobby. All buildings have night animation and all buildings necessity road.",
+    "descriptionHtml": "This is new police pack. It contains four buildings. All buildings creates my own service police car. The first building is 3x3, it costs 950 and monthly price is 25. It has influence on police and management and has performance. The second building is 2x2, it costs 150 and hasn't monthly price. It has a little influence only to police. The third building is a 6x6 and it's a union of the first and second building. It has terrain decoration created using and modifying terrain images from world texture (so credit to Theotown and Lobby). This third building costs 1250, monthly price is 50 and has influence on police and management and has performance too. The last building is 8x8. It costs 1500, monthly price is 55 and has influence on police, management and park too. It has performance too. For water decoration in this building, I used water frames from plugin forum start section so credit to Theotown and Lobby. All buildings have night animation and all buildings necessity road.",
+    "category": "Service (Police, Health Care, Education,...)",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "177.26KB",
+      "bytes": 181514
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "2",
+    "downloads": 46,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14843",
+    "name": "CK Asset Holdings Limited",
+    "url": "https://forum.theotown.com/plugins/list?term=:14843",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=7MnSirTNC3cFaxrm7Gdvfpg8zwwHKBe7",
+    "description": "Cheung Kong Center is a famous office building in Central, Hong Kong.It is the head office of CK Asset Holdings (Cheung Kong). Finished in 1999, this tall skyscraper has 62 floors. It stands in the business heart of Hong Kong. Many big companies work here.With glass walls, it offers great views of Victoria Harbour. It is one of the landmarks of Hong Kong.",
+    "descriptionHtml": "Cheung Kong Center is a famous office building in Central, Hong Kong.It is the head office of CK Asset Holdings (Cheung Kong).<br>\nFinished in 1999, this tall skyscraper has 62 floors.<br>\nIt stands in the business heart of Hong Kong. Many big companies work here.With glass walls, it offers great views of Victoria Harbour. It is one of the<br>\nlandmarks of Hong Kong.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "223.39KB",
+      "bytes": 228751
+    },
+    "minVersion": "Any",
+    "author": "WDHQDDDDW",
+    "authorId": "1249060",
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "3",
+    "downloads": 109,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14901",
+    "name": "Chinese Old Housing Pack",
+    "url": "https://forum.theotown.com/plugins/list?term=:14901",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=rS2KUqXQlawG2rb2p40ftcwcbeMXH9EK",
+    "description": "Hi everyone! This is my new plugin: Chinese Old Residential Pack. In China, besides modern high-rises, classic buildings from around 1980-2000 like these are extremely common. That's why I made this pack. What's inside: · 4x Six-story residential buildings (different colors, size: 2x6) · 1x Older brick residential building (5-story, size: 3x3) Features: · All buildings have a night version! I hope this plugin pack allows you to create a more authentic and down-to-earth Chinese city~:D",
+    "descriptionHtml": "Hi everyone! This is my new plugin: Chinese Old Residential Pack.<br>\nIn China, besides modern high-rises, classic buildings from around 1980-2000 like these are extremely common. That's why I made this pack. <br>\nWhat's inside:<br>\n· 4x Six-story residential buildings (different colors, size: 2x6)<br>\n· 1x Older brick residential building (5-story, size: 3x3)<br>\n  Features:<br>\n· All buildings have a night version!<br>\n  I hope this plugin pack allows you to create a more authentic and down-to-earth Chinese city~:D",
+    "category": "Other",
+    "price": {
+      "amount": 35,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "153.78KB",
+      "bytes": 157471
+    },
+    "minVersion": "Any",
+    "author": "yanyujinze_",
+    "authorId": "1931483",
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "2",
+    "downloads": 45,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14904",
+    "name": "Tangga Bontong Port",
+    "url": "https://forum.theotown.com/plugins/list?term=:14904",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=E0HbT0z96cElVwbYwSZ88466JL01cPju",
+    "description": "Musi River crossing building located in the Palembang area, South Sumatra. Type Building Size 2x4 Spawning port building for small boats Spawn 3 types of boats Thankyou 😂",
+    "descriptionHtml": "Musi River crossing building located in the Palembang area, South Sumatra.<br>\n<br>\nType Building<br>\nSize 2x4<br>\nSpawning port building for small boats<br>\nSpawn 3 types of boats<br>\n<br>\nThankyou 😂",
+    "category": "Transport",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "22.3KB",
+      "bytes": 22835
+    },
+    "minVersion": "Any",
+    "author": "Matteddy26",
+    "authorId": "797723",
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "2",
+    "downloads": 14,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14875",
+    "name": "Military third pack",
+    "url": "https://forum.theotown.com/plugins/list?term=:14875",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=iIerEnAcWPGBkMOES4Xm4LFrMgvTENV0",
+    "description": "This my third military pack. It has seven buildings. The first building has my new turret that I designed for the second military pack. This building has four different frames position. It costs 1500 and monthly price is 10. It has influence on police and management and generates 4 service military cars. The second building is other military building but without main turret. This building generates 4 military vehicles, it costs 1500 and monthly price is 35. This building has influence on police, management and fire station and has performance The third building is for swat service. It has influence on police and management and has performance. It mi costs 950 and monthly price is 30. The last building is for airport. It decorates your military airports. It costs 300. It passenger bus and has a little influence on police. It's monthly price is 15 and has performance",
+    "descriptionHtml": "This my third military pack. It has seven buildings. The first building has my new turret that I designed for the second military pack. This building has four different frames position. It costs 1500 and monthly price is 10. It has influence on police and management and generates 4 service military cars. The second building is other military building but without main turret. This building generates 4 military vehicles, it costs 1500 and monthly price is 35. This building has influence on police, management and fire station and has performance<br>\nThe third building is for swat service. It has influence on police and management and has performance. It mi costs 950 and monthly price is 30.<br>\nThe last building is for airport. It decorates your military airports. It costs 300. It passenger bus and has a little influence on police. It's monthly price is 15 and has performance",
+    "category": "Packs",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "419.58KB",
+      "bytes": 429650
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "3",
+    "downloads": 50,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
     "id": "14840",
     "name": "Queensway Government Offices",
     "url": "https://forum.theotown.com/plugins/list?term=:14840",
@@ -26,11 +264,11 @@
     "authorId": "297378",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "3",
-    "downloads": 622,
+    "downloads": 878,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 7
+      "count": 8
     }
   },
   {
@@ -60,7 +298,7 @@
     "authorId": "878261",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "4",
-    "downloads": 329,
+    "downloads": 475,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -94,11 +332,11 @@
     "authorId": "1931483",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 345,
+    "downloads": 488,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -128,11 +366,11 @@
     "authorId": "315683",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 322,
+    "downloads": 549,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 4
+      "count": 7
     }
   },
   {
@@ -162,7 +400,7 @@
     "authorId": "1068614",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 65,
+    "downloads": 97,
     "rating": {
       "score": null,
       "label": null,
@@ -196,11 +434,11 @@
     "authorId": "1021137",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "4",
-    "downloads": 674,
+    "downloads": 1111,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 11
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 15
     }
   },
   {
@@ -230,11 +468,11 @@
     "authorId": "22978",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 98,
+    "downloads": 156,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 3
     }
   },
   {
@@ -264,7 +502,7 @@
     "authorId": "1098389",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 177,
+    "downloads": 274,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -298,11 +536,11 @@
     "authorId": "22978",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 61,
+    "downloads": 103,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 2
     }
   },
   {
@@ -332,11 +570,11 @@
     "authorId": "1873054",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "3",
-    "downloads": 337,
+    "downloads": 504,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 4
+      "score": 3,
+      "label": "MIXED",
+      "count": 5
     }
   },
   {
@@ -366,7 +604,7 @@
     "authorId": "1873054",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 314,
+    "downloads": 501,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -400,11 +638,11 @@
     "authorId": "1873054",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 441,
+    "downloads": 727,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 3
+      "count": 4
     }
   },
   {
@@ -434,7 +672,7 @@
     "authorId": "1068614",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 102,
+    "downloads": 161,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -468,11 +706,11 @@
     "authorId": "1068614",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 207,
+    "downloads": 318,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 2
+      "count": 4
     }
   },
   {
@@ -502,11 +740,11 @@
     "authorId": "2187746",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 287,
+    "downloads": 573,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 4
+      "count": 5
     }
   },
   {
@@ -536,11 +774,11 @@
     "authorId": "2178541",
     "uploadDate": "18 Oct 2026, 07:11",
     "version": "2",
-    "downloads": 552,
+    "downloads": 662,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 10
+      "count": 11
     }
   },
   {
@@ -570,11 +808,11 @@
     "authorId": "1894841",
     "uploadDate": "18 Oct 2026, 07:11",
     "version": "5",
-    "downloads": 621,
+    "downloads": 754,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 4
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 6
     }
   },
   {
@@ -604,11 +842,11 @@
     "authorId": "741183",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "2",
-    "downloads": 1787,
+    "downloads": 2091,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -638,11 +876,11 @@
     "authorId": "1083156",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "2",
-    "downloads": 2189,
+    "downloads": 2544,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 22
+      "count": 23
     }
   },
   {
@@ -672,7 +910,7 @@
     "authorId": "862856",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "2",
-    "downloads": 700,
+    "downloads": 807,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -706,7 +944,7 @@
     "authorId": "1252908",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "2",
-    "downloads": 982,
+    "downloads": 1121,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,11 +978,11 @@
     "authorId": "756209",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "3",
-    "downloads": 1540,
+    "downloads": 1837,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 18
+      "count": 21
     }
   },
   {
@@ -774,7 +1012,7 @@
     "authorId": "391947",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "7",
-    "downloads": 299,
+    "downloads": 344,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -808,11 +1046,11 @@
     "authorId": "1062584",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "9",
-    "downloads": 1664,
+    "downloads": 2084,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 15
+      "count": 17
     }
   },
   {
@@ -842,11 +1080,11 @@
     "authorId": "922636",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "2",
-    "downloads": 2383,
+    "downloads": 2559,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 16
+      "count": 17
     }
   },
   {
@@ -876,11 +1114,11 @@
     "authorId": "756209",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "3",
-    "downloads": 4418,
+    "downloads": 4869,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 38
+      "count": 39
     }
   },
   {
@@ -910,11 +1148,11 @@
     "authorId": "976914",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "2",
-    "downloads": 5376,
+    "downloads": 5915,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 38
+      "count": 39
     }
   },
   {
@@ -943,11 +1181,11 @@
     "authorId": "2142214",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "24",
-    "downloads": 1220,
+    "downloads": 1320,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -977,7 +1215,7 @@
     "authorId": "1942119",
     "uploadDate": "9 Oct 2026, 15:51",
     "version": "5",
-    "downloads": 1471,
+    "downloads": 1631,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1011,7 +1249,7 @@
     "authorId": "1873054",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "2",
-    "downloads": 1182,
+    "downloads": 1304,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1045,11 +1283,11 @@
     "authorId": "2193822",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "6",
-    "downloads": 3237,
+    "downloads": 3608,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 16
+      "count": 18
     }
   },
   {
@@ -1079,7 +1317,7 @@
     "authorId": "682550",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "2",
-    "downloads": 2400,
+    "downloads": 2561,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1113,7 +1351,7 @@
     "authorId": "682550",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "2",
-    "downloads": 1610,
+    "downloads": 1710,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1147,7 +1385,7 @@
     "authorId": "1931483",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "3",
-    "downloads": 2188,
+    "downloads": 2261,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1181,7 +1419,7 @@
     "authorId": "2119637",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "3",
-    "downloads": 4444,
+    "downloads": 4654,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1215,7 +1453,7 @@
     "authorId": "2169812",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "2",
-    "downloads": 722,
+    "downloads": 751,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1249,7 +1487,7 @@
     "authorId": "862856",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "2",
-    "downloads": 708,
+    "downloads": 746,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1283,7 +1521,7 @@
     "authorId": "2067306",
     "uploadDate": "6 Oct 2026, 15:43",
     "version": "3",
-    "downloads": 997,
+    "downloads": 1033,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1317,11 +1555,11 @@
     "authorId": "2739",
     "uploadDate": "5 Oct 2026, 17:57",
     "version": "4",
-    "downloads": 31695,
+    "downloads": 31792,
     "rating": {
       "score": 2,
       "label": "NEGATIVE",
-      "count": 310
+      "count": 311
     }
   },
   {
@@ -1351,7 +1589,7 @@
     "authorId": "1914830",
     "uploadDate": "5 Oct 2026, 17:57",
     "version": "2",
-    "downloads": 910,
+    "downloads": 979,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1385,7 +1623,7 @@
     "authorId": "682550",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "2",
-    "downloads": 1174,
+    "downloads": 1218,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1419,7 +1657,7 @@
     "authorId": "682550",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "2",
-    "downloads": 1349,
+    "downloads": 1403,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1453,11 +1691,11 @@
     "authorId": "2195213",
     "uploadDate": "2 Oct 2026, 15:25",
     "version": "2",
-    "downloads": 2820,
+    "downloads": 2876,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 15
+      "count": 16
     }
   },
   {
@@ -1487,7 +1725,7 @@
     "authorId": "2177849",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "2",
-    "downloads": 1900,
+    "downloads": 1946,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1521,11 +1759,11 @@
     "authorId": "2193822",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "4",
-    "downloads": 1691,
+    "downloads": 1731,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 3
+      "count": 4
     }
   },
   {
@@ -1555,7 +1793,7 @@
     "authorId": "22978",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "4",
-    "downloads": 693,
+    "downloads": 716,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1589,7 +1827,7 @@
     "authorId": "797723",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "5",
-    "downloads": 3223,
+    "downloads": 3329,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1725,7 +1963,7 @@
     "authorId": "683743",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "4",
-    "downloads": 8003,
+    "downloads": 8468,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1759,7 +1997,7 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 1960,
+    "downloads": 2016,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1793,11 +2031,11 @@
     "authorId": "315683",
     "uploadDate": "29 Sep 2026, 15:23",
     "version": "2",
-    "downloads": 1493,
+    "downloads": 1530,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 14
+      "count": 15
     }
   },
   {
@@ -2201,7 +2439,7 @@
     "authorId": "1981212",
     "uploadDate": "13 Oct 2026, 16:45",
     "version": "18",
-    "downloads": 1686,
+    "downloads": 1753,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2371,7 +2609,7 @@
     "authorId": "2060627",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "5",
-    "downloads": 5612,
+    "downloads": 6061,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3051,11 +3289,11 @@
     "authorId": "5566",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "4",
-    "downloads": 3311,
+    "downloads": 3573,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 19
+      "count": 20
     }
   },
   {
@@ -3607,9 +3845,9 @@
     "name": "Puerta de Hierro-Initial Pack",
     "url": "https://forum.theotown.com/plugins/list?term=:14686",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=mxRFci2uRwCCtwENzZ49YHsB18rjANq6",
-    "description": "Updates and Sneak Peeks : https://discord.gg/eEASAU2N9 Hello everyone! I’m excited to present Puerta de Hierro Project, my first project-based building pack for TheoTown. I started this project with two main goals: to recreate the buildings of the Puerta de Hierro area in Zapopan, Jalisco, with an extreme level of precision and attention to detail, and to push my plugin-creation techniques to a new level. -Starter Pack The project begins with four buildings: 1. Andares Corporativo Acueducto 2. Icon 23 3. IOS OFFICES Andares Corporativo Paseo 4. Attala Tower Living But this is only the beginning. The project will continue to grow through future updates, bringing more buildings from the area while maintaining the level of quality and attention to detail that defines my work. Special thanks to Ren for allowing me to use their trees in the third building of the pack, and to my entire Latin American community for supporting me throughout this journey. Thank you for downloading and rating the pack. I hope you’ll join me at the beginning of this long-term project. — Pisaac",
-    "descriptionHtml": "Updates and Sneak Peeks : https://discord.gg/eEASAU2N9<br>\n<br>\nHello everyone! I’m excited to present Puerta de Hierro Project, my first project-based building pack for TheoTown.<br>\n<br>\nI started this project with two main goals: to recreate the buildings of the Puerta de Hierro area in Zapopan, Jalisco, with an extreme level of precision and attention to detail, and to push my plugin-creation techniques to a new level.<br>\n<br>\n-Starter Pack<br>\n<br>\nThe project begins with four buildings:<br>\n<br>\n1. Andares Corporativo Acueducto<br>\n2. Icon 23<br>\n3. IOS OFFICES Andares Corporativo Paseo<br>\n4. Attala Tower Living<br>\n<br>\nBut this is only the beginning. The project will continue to grow through future updates, bringing more buildings from the area while maintaining the level of quality and attention to detail that defines my work.<br>\n<br>\nSpecial thanks to Ren for allowing me to use their trees in the third building of the pack, and to my entire Latin American community for supporting me throughout this journey.<br>\n<br>\nThank you for downloading and rating the pack. I hope you’ll join me at the beginning of this long-term project.<br>\n<br>\n— Pisaac",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=RIEFGQDniP67KSjGC04rcAtdUwmhufFa",
+    "description": "UPDATE V9.8.26.2 - What's new? —Updated night animations, much more striking and elaborate than the previous version Thank you for your download. If there's anything you don't like, please let me know in the comments section. Your feedback will help me improve my creations :) -Pisaac Initial version buildings: 1 | Torre BBVA Andares 2 | Torre Icon 23 3 | IOS OFFICES Andares Corporativo 4 | Torre Attala Living Second version of buildings: 1 | Coming soon 2 | Coming soon 3 | Coming soon 4 | Coming soon",
+    "descriptionHtml": "UPDATE V9.8.26.2 - What's new?<br>\n—Updated night animations, much more striking and elaborate than the previous version<br>\nThank you for your download. If there's anything you don't like, please let me know in the comments section. Your feedback will help me improve my creations :)<br>\n-Pisaac<br>\n<br>\nInitial version buildings:<br>\n1 | Torre BBVA Andares<br>\n2 | Torre Icon 23<br>\n3 | IOS OFFICES Andares Corporativo<br>\n4 | Torre Attala Living<br>\n<br>\nSecond version of buildings:<br>\n1 | Coming soon<br>\n2 | Coming soon<br>\n3 | Coming soon<br>\n4 | Coming soon",
     "category": "Packs",
     "price": {
       "amount": 30,
@@ -3621,19 +3859,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "160.8KB",
-      "bytes": 164659
+      "raw": "209.64KB",
+      "bytes": 214671
     },
     "minVersion": "Any",
     "author": "Pisaac",
     "authorId": "626674",
-    "uploadDate": "20 Sep 2026, 20:46",
-    "version": "2",
-    "downloads": 2644,
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "4",
+    "downloads": 3610,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 20
+      "count": 22
     }
   },
   {
@@ -3901,11 +4139,11 @@
     "authorId": "2124354",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "11",
-    "downloads": 1804,
+    "downloads": 1938,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 20
+      "count": 21
     }
   },
   {
@@ -5525,15 +5763,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "108.13KB",
-      "bytes": 110725
+      "raw": "108.12KB",
+      "bytes": 110715
     },
     "minVersion": "Any",
     "author": "WDHQDDDDW",
     "authorId": "1249060",
-    "uploadDate": "25 Aug 2026, 17:38",
-    "version": "4",
-    "downloads": 5284,
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "7",
+    "downloads": 7430,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5567,11 +5805,11 @@
     "authorId": "1981212",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "31",
-    "downloads": 7554,
+    "downloads": 7714,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 49
+      "count": 52
     }
   },
   {
@@ -5635,11 +5873,11 @@
     "authorId": "1117299",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "8",
-    "downloads": 27237,
+    "downloads": 27505,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 48
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 49
     }
   },
   {
@@ -6349,11 +6587,11 @@
     "authorId": "1981212",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "24",
-    "downloads": 3029,
+    "downloads": 3076,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 10
+      "count": 11
     }
   },
   {
@@ -6451,7 +6689,7 @@
     "authorId": "414723",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "15",
-    "downloads": 4292,
+    "downloads": 4330,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -7131,7 +7369,7 @@
     "authorId": "211223",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "13",
-    "downloads": 17447,
+    "downloads": 17479,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -7777,7 +8015,7 @@
     "authorId": "1981212",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "15",
-    "downloads": 1992,
+    "downloads": 2032,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10191,11 +10429,11 @@
     "authorId": "211223",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "16",
-    "downloads": 257255,
+    "downloads": 257496,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 798
+      "count": 799
     }
   },
   {
@@ -10497,7 +10735,7 @@
     "authorId": "2060627",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "22",
-    "downloads": 6998,
+    "downloads": 7042,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11653,11 +11891,11 @@
     "authorId": "601724",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "13",
-    "downloads": 5497,
+    "downloads": 5648,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 49
+      "count": 52
     }
   },
   {
@@ -11755,7 +11993,7 @@
     "authorId": "567245",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "8",
-    "downloads": 6423,
+    "downloads": 6556,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11891,7 +12129,7 @@
     "authorId": "2075576",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "4",
-    "downloads": 1949,
+    "downloads": 1983,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -12367,7 +12605,7 @@
     "authorId": "683743",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "13",
-    "downloads": 27669,
+    "downloads": 27866,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -12775,7 +13013,7 @@
     "authorId": "2060627",
     "uploadDate": "5 Oct 2026, 17:57",
     "version": "15",
-    "downloads": 15869,
+    "downloads": 16105,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -13965,11 +14203,11 @@
     "authorId": "2060627",
     "uploadDate": "13 Oct 2026, 16:45",
     "version": "15",
-    "downloads": 12777,
+    "downloads": 12923,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 86
+      "count": 87
     }
   },
   {
@@ -14441,7 +14679,7 @@
     "authorId": "2060627",
     "uploadDate": "9 Oct 2026, 15:51",
     "version": "14",
-    "downloads": 8335,
+    "downloads": 8385,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -16379,11 +16617,11 @@
     "authorId": "2031914",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "15",
-    "downloads": 22072,
+    "downloads": 22319,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 92
+      "count": 93
     }
   },
   {
@@ -19710,7 +19948,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "4",
-    "downloads": 20884,
+    "downloads": 21162,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -21852,11 +22090,11 @@
     "authorId": "297378",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "6",
-    "downloads": 8495,
+    "downloads": 8572,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 37
+      "count": 39
     }
   },
   {
@@ -22464,7 +22702,7 @@
     "authorId": "797723",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "9",
-    "downloads": 3327,
+    "downloads": 3383,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -22498,7 +22736,7 @@
     "authorId": "797723",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "9",
-    "downloads": 24356,
+    "downloads": 24679,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -23348,11 +23586,11 @@
     "authorId": "976914",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "7",
-    "downloads": 14263,
+    "downloads": 14382,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 66
+      "count": 67
     }
   },
   {
@@ -26238,11 +26476,11 @@
     "authorId": "211223",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "19",
-    "downloads": 102422,
+    "downloads": 102579,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 385
+      "count": 386
     }
   },
   {
@@ -28482,11 +28720,11 @@
     "authorId": "797723",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "5",
-    "downloads": 8459,
+    "downloads": 8661,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 24
+      "count": 25
     }
   },
   {
@@ -29502,7 +29740,7 @@
     "authorId": "1111579",
     "uploadDate": "7 Oct 2026, 16:07",
     "version": "22",
-    "downloads": 4361,
+    "downloads": 4389,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -31627,7 +31865,7 @@
     "descriptionHtml": "I'm trying to build a supermarket like the one in GTA 5 RPG. <br>\n<br>\nBuilding Type: Commercial <br>\nSize: 7x7 <br>\nClass: III <br>\nWorkers: 12,000<br>\n<br>\nThe first place a player goes after arriving in the city is to buy a smartphone, don't forget the lighter.",
     "category": "Commercial",
     "price": {
-      "amount": 60,
+      "amount": 35,
       "currency": "diamonds"
     },
     "platforms": [
@@ -31636,19 +31874,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "17.79KB",
-      "bytes": 18217
+      "raw": "14.24KB",
+      "bytes": 14582
     },
     "minVersion": "Any",
     "author": "Matteddy26",
     "authorId": "797723",
-    "uploadDate": "07 Mar 2026, 23:35",
-    "version": "5",
-    "downloads": 3633,
+    "uploadDate": "22 Oct 2026, 14:22",
+    "version": "7",
+    "downloads": 4210,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 19
+      "count": 22
     }
   },
   {
@@ -38749,11 +38987,11 @@
     "authorId": "1880",
     "uploadDate": "2 Oct 2026, 15:25",
     "version": "24",
-    "downloads": 114175,
+    "downloads": 114259,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 816
+      "count": 819
     }
   },
   {
@@ -44016,11 +44254,11 @@
     "authorId": "797756",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "25",
-    "downloads": 20182,
+    "downloads": 20240,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 49
+      "count": 50
     }
   },
   {
@@ -44288,11 +44526,11 @@
     "authorId": "10216",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "112",
-    "downloads": 451793,
+    "downloads": 452053,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 1706
+      "count": 1707
     }
   },
   {
@@ -44866,7 +45104,7 @@
     "authorId": "976914",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "4",
-    "downloads": 33656,
+    "downloads": 33847,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -53128,7 +53366,7 @@
     "authorId": "10216",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "7",
-    "downloads": 93395,
+    "downloads": 93438,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -53162,7 +53400,7 @@
     "authorId": "10216",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "7",
-    "downloads": 27177,
+    "downloads": 27230,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -56969,7 +57207,7 @@
     "authorId": "10216",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "13",
-    "downloads": 28361,
+    "downloads": 28407,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -73900,11 +74138,11 @@
     "authorId": "15",
     "uploadDate": "30 Sep 2026, 15:40",
     "version": "23",
-    "downloads": 563765,
+    "downloads": 564181,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 2831
+      "count": 2833
     }
   },
   {
@@ -75974,7 +76212,7 @@
     "authorId": "211223",
     "uploadDate": "17 Oct 2026, 12:43",
     "version": "30",
-    "downloads": 261577,
+    "downloads": 261854,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -85119,11 +85357,11 @@
     "authorId": "211223",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "11",
-    "downloads": 40450,
+    "downloads": 40495,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 123
+      "count": 124
     }
   },
   {
@@ -91341,7 +91579,7 @@
     "authorId": "211223",
     "uploadDate": "10 Oct 2026, 15:04",
     "version": "13",
-    "downloads": 16439,
+    "downloads": 16490,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -101370,7 +101608,7 @@
     "authorId": "213127",
     "uploadDate": "4 Oct 2026, 08:19",
     "version": "8",
-    "downloads": 28861,
+    "downloads": 28895,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
