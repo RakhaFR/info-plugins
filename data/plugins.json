@@ -1,5 +1,107 @@
 [
   {
+    "id": "14903",
+    "name": "Mitsubishi Corporation Office",
+    "url": "https://forum.theotown.com/plugins/list?term=:14903",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=JCsXeSaz1N9U0H79IENFopOvE05t4vNg",
+    "description": "Mitsubishi Corporation Head Office is located in Marunouchi, Tokyo. As the global headquarters of Mitsubishi Corporation, it oversees the group’s worldwide trading, investment and diversified businesses.",
+    "descriptionHtml": "Mitsubishi Corporation Head Office is located in Marunouchi, Tokyo. As the global headquarters of Mitsubishi Corporation, it oversees the group’s worldwide trading, investment and diversified businesses.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "74.55KB",
+      "bytes": 76339
+    },
+    "minVersion": "Any",
+    "author": "aabc",
+    "authorId": "1083156",
+    "uploadDate": "1 Nov 2026, 09:03",
+    "version": "3",
+    "downloads": 404,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 7
+    }
+  },
+  {
+    "id": "14964",
+    "name": "Military airport buildings",
+    "url": "https://forum.theotown.com/plugins/list?term=:14964",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=ULv4W1wCShl7KlFuoI8GufsOJycbeCTt",
+    "description": "It's a military pack to decorate your military airport. All buildings are 8x8. All buildings have night animation. The first building is for airport category, it costs 750, its monthly price is 25, has influence on bus and police and has performance. This building doesn't necessity road and has 2 frames. The second building is for military category, has one frame and has influence on police, management and has performance. Costs 700 and its monthly price is 15. It necessities road. The third building is for military category too, it has performance on police, management and fire department. It costs 1000 and its monthly price is 30. It has performance and necessities road. All two military buildings generate 4 service cars.",
+    "descriptionHtml": "It's a military pack to decorate your military airport. All buildings are 8x8. All buildings have night animation.<br>\n The first building is for airport category, it costs 750, its monthly price is 25, has influence on bus and police and has performance. This building doesn't necessity road and has 2 frames.<br>\nThe second building is for military category, has one frame and has influence on police, management and has performance. Costs 700 and its monthly price is 15. It necessities road.<br>\nThe third building is for military category too, it has performance on police, management and fire department. It costs 1000 and its monthly price is 30. It has performance and necessities road.<br>\nAll two military buildings generate 4 service cars.",
+    "category": "Packs",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "519.18KB",
+      "bytes": 531640
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "1 Nov 2026, 09:03",
+    "version": "2",
+    "downloads": 268,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14891",
+    "name": "West Bund Theatre",
+    "url": "https://forum.theotown.com/plugins/list?term=:14891",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=jsxzJ0tdIe4W2FbiS7hNt5HgI0EjjDYr",
+    "description": "Shanghai, China — The Shanghai office of Danish architectural firm SHL has completed the design of the West Bund Grand Theatre, the first waterfront performance center along Shanghai's West Bund Cultural Corridor. The West Bank Cultural Corridor is located along the Huangpu River in Shanghai, making it one of the fastest-growing areas for art, culture, and commerce in the city. Its goal is to become a world-class waterfront area comparable to Paris's Left Bank and London's South Bank. At the beginning of the 20th century, this area was once a bustling industrial base; The West Bank development strategy under the master planning framework integrates existing and newly constructed buildings within pedestrian-friendly landscape public spaces, creating a vibrant and lively atmosphere. The West Bank covers an area of 9.4 square kilometers and, once its planning objectives are achieved, will become Asia's largest cultural and artistic district. size: 10X8（rectangle plugin） Thank goodness this plugin finally succeeded! It took such a long time because during the coding process, we encountered a game bug. I'm grateful to my Chinese friend Jiuru for helping me come up with a solution to complete the code, although I didn't end up using his plan. I also want to express my gratitude to the reviewers and LOBBY (maybe the same person) for promptly identifying and resolving the bug. There is no night view for now. It will be updated later. Before the night view is updated, the price will be 30 diamonds. And the reason for the bug fixes of the rectangular plugin. Please upgrade to version 1.12.95. H3DY1OG0S.",
+    "descriptionHtml": "Shanghai, China — The Shanghai office of Danish architectural firm SHL has completed the design of the West Bund Grand Theatre, the first waterfront performance center along Shanghai's West Bund Cultural Corridor.<br>\n<br>\nThe West Bank Cultural Corridor is located along the Huangpu River in Shanghai, making it one of the fastest-growing areas for art, culture, and commerce in the city. Its goal is to become a world-class waterfront area comparable to Paris's Left Bank and London's South Bank. <br>\n<br>\nAt the beginning of the 20th century, this area was once a bustling industrial base; The West Bank development strategy under the master planning framework integrates existing and newly constructed buildings within pedestrian-friendly landscape public spaces, creating a vibrant and lively atmosphere. <br>\n<br>\nThe West Bank covers an area of 9.4 square kilometers and, once its planning objectives are achieved, will become Asia's largest cultural and artistic district.<br>\n<br>\nsize: 10X8（rectangle plugin）<br>\n<br>\nThank goodness this plugin finally succeeded! It took such a long time because during the coding process, we encountered a game bug. I'm grateful to my Chinese friend Jiuru for helping me come up with a solution to complete the code, although I didn't end up using his plan. I also want to express my gratitude to the reviewers and LOBBY (maybe the same person) for promptly identifying and resolving the bug.<br>\n<br>\nThere is no night view for now. It will be updated later.<br>\nBefore the night view is updated, the price will be 30 diamonds.<br>\nAnd the reason for the bug fixes of the rectangular plugin. Please upgrade to version 1.12.95.<br>\n<br>\nH3DY1OG0S.",
+    "category": "Parks, Sports and Management",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "139.86KB",
+      "bytes": 143217
+    },
+    "minVersion": "1.12.95",
+    "author": "H3DY1OG0S",
+    "authorId": "149434",
+    "uploadDate": "1 Nov 2026, 09:03",
+    "version": "4",
+    "downloads": 237,
+    "rating": {
+      "score": 3,
+      "label": "MIXED",
+      "count": 5
+    }
+  },
+  {
     "id": "14909",
     "name": "Palangka Raya Great Roundabout",
     "url": "https://forum.theotown.com/plugins/list?term=:14909",
@@ -26,11 +128,11 @@
     "authorId": "1283101",
     "uploadDate": "29 Oct 2026, 15:53",
     "version": "4",
-    "downloads": 1395,
+    "downloads": 1607,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 13
+      "count": 17
     }
   },
   {
@@ -60,7 +162,7 @@
     "authorId": "816803",
     "uploadDate": "27 Oct 2026, 15:09",
     "version": "2",
-    "downloads": 1319,
+    "downloads": 1432,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -94,11 +196,11 @@
     "authorId": "976914",
     "uploadDate": "27 Oct 2026, 15:09",
     "version": "4",
-    "downloads": 4449,
+    "downloads": 4950,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 86
+      "count": 88
     }
   },
   {
@@ -128,7 +230,7 @@
     "authorId": "1935308",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 191,
+    "downloads": 205,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -162,11 +264,11 @@
     "authorId": "343527",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "5",
-    "downloads": 298,
+    "downloads": 323,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 4
+      "count": 5
     }
   },
   {
@@ -230,7 +332,7 @@
     "authorId": "1072072",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 1652,
+    "downloads": 1854,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -264,11 +366,11 @@
     "authorId": "1169481",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "5",
-    "downloads": 3735,
+    "downloads": 4091,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 42
+      "count": 44
     }
   },
   {
@@ -298,7 +400,7 @@
     "authorId": "531460",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "4",
-    "downloads": 1429,
+    "downloads": 1524,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -332,7 +434,7 @@
     "authorId": "1176101",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 1403,
+    "downloads": 1530,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -366,11 +468,11 @@
     "authorId": "227382",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 110,
+    "downloads": 138,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
     }
   },
   {
@@ -400,7 +502,7 @@
     "authorId": "1931483",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 2711,
+    "downloads": 2859,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -434,11 +536,11 @@
     "authorId": "1169481",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "4",
-    "downloads": 4009,
+    "downloads": 4335,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 24
+      "count": 25
     }
   },
   {
@@ -468,7 +570,7 @@
     "authorId": "587116",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 775,
+    "downloads": 806,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -502,7 +604,7 @@
     "authorId": "587116",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 893,
+    "downloads": 923,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -536,7 +638,7 @@
     "authorId": "682550",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 564,
+    "downloads": 592,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -570,7 +672,7 @@
     "authorId": "391947",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 314,
+    "downloads": 330,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -604,7 +706,7 @@
     "authorId": "816803",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 1318,
+    "downloads": 1387,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -638,11 +740,11 @@
     "authorId": "15",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "4",
-    "downloads": 178,
+    "downloads": 227,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 3
+      "count": 4
     }
   },
   {
@@ -672,11 +774,11 @@
     "authorId": "171359",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "2",
-    "downloads": 863,
+    "downloads": 893,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -706,7 +808,7 @@
     "authorId": "682550",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "2",
-    "downloads": 1496,
+    "downloads": 1560,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -740,7 +842,7 @@
     "authorId": "1249060",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "5",
-    "downloads": 2543,
+    "downloads": 2694,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -774,11 +876,11 @@
     "authorId": "1931483",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "2",
-    "downloads": 1193,
+    "downloads": 1268,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 9
+      "count": 10
     }
   },
   {
@@ -808,7 +910,7 @@
     "authorId": "797723",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "2",
-    "downloads": 394,
+    "downloads": 410,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -842,11 +944,11 @@
     "authorId": "682550",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "3",
-    "downloads": 2565,
+    "downloads": 2677,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 14
+      "count": 15
     }
   },
   {
@@ -1012,7 +1114,7 @@
     "authorId": "1068614",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 177,
+    "downloads": 182,
     "rating": {
       "score": null,
       "label": null,
@@ -1046,7 +1148,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "4",
-    "downloads": 2176,
+    "downloads": 2271,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1182,7 @@
     "authorId": "22978",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 284,
+    "downloads": 292,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1114,7 +1216,7 @@
     "authorId": "1098389",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 542,
+    "downloads": 552,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1250,7 @@
     "authorId": "22978",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 189,
+    "downloads": 192,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1182,7 +1284,7 @@
     "authorId": "1873054",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "3",
-    "downloads": 988,
+    "downloads": 1013,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1216,7 +1318,7 @@
     "authorId": "1873054",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 969,
+    "downloads": 996,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1250,11 +1352,11 @@
     "authorId": "1873054",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 1386,
+    "downloads": 1421,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 4
+      "count": 5
     }
   },
   {
@@ -1284,7 +1386,7 @@
     "authorId": "1068614",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 304,
+    "downloads": 312,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1318,7 +1420,7 @@
     "authorId": "1068614",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 720,
+    "downloads": 754,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1352,7 +1454,7 @@
     "authorId": "2187746",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "3",
-    "downloads": 1256,
+    "downloads": 1306,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1658,7 +1760,7 @@
     "authorId": "1062584",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "9",
-    "downloads": 2980,
+    "downloads": 3051,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1793,7 +1895,7 @@
     "authorId": "2142214",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "24",
-    "downloads": 1631,
+    "downloads": 1651,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2541,11 +2643,11 @@
     "authorId": "1117299",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "4",
-    "downloads": 9163,
+    "downloads": 9398,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 38
+      "count": 39
     }
   },
   {
@@ -3059,45 +3161,11 @@
     }
   },
   {
-    "id": "14627",
-    "name": "Siger Tower of Lampung",
-    "url": "https://forum.theotown.com/plugins/list?term=:14627",
-    "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=aZxTmhzrIT5X180BFCV1vhw0IP0ub2ye",
-    "description": "The Siger Lampung Tower is a landmark of Lampung province and is located at the Bakauheni port in South Lampung. It was built in 2005 and inaugurated in 2008. With the golden yellow color which is the symbol of Lampung Night animation ✓ Rotation aware✓ Type landmark Size 6x6 Price 25.000 Disclaimer: I looked for this building reference from @kezianimation so I didn't take copyright, I made it myself and I have permission from him. Credit: Tree and car texture by lobby and Theotheoderich",
-    "descriptionHtml": "The Siger Lampung Tower is a landmark of Lampung province and is located at the Bakauheni port in South Lampung. It was built in 2005 and inaugurated in 2008.<br>\nWith the golden yellow color which is the symbol of Lampung<br>\nNight animation ✓<br>\nRotation aware✓<br>\nType landmark <br>\nSize 6x6<br>\nPrice 25.000<br>\nDisclaimer:<br>\nI looked for this building reference from @kezianimation so I didn't take copyright, I made it myself and I have permission from him.<br>\nCredit:<br>\nTree and car texture by lobby and Theotheoderich",
-    "category": "Other",
-    "price": {
-      "amount": 30,
-      "currency": "diamonds"
-    },
-    "platforms": [
-      "Android",
-      "iOS",
-      "Desktop (Premium)"
-    ],
-    "size": {
-      "raw": "86.52KB",
-      "bytes": 88596
-    },
-    "minVersion": "Any",
-    "author": "Adexdia4343",
-    "authorId": "2075576",
-    "uploadDate": "25 Oct 2026, 07:31",
-    "version": "8",
-    "downloads": 867,
-    "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 7
-    }
-  },
-  {
     "id": "14728",
     "name": "New North Riverside Center Bui",
     "url": "https://forum.theotown.com/plugins/list?term=:14728",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=DuAzNekEExxXjOLoFEdHZE8ZI6dzXac3",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=EacHX2ZESSKJ6Ig2FgzgrXjsjwCOmsCF",
     "description": "The New North Riverside Center Building is 205m high.Located in Xinhai District, New Taipei City. However, it should be noted that New Taipei City is not a real city, but my virtual city.Please don't take it seriously, thank you.",
     "descriptionHtml": "The New North Riverside Center Building is 205m high.Located in Xinhai District, New Taipei City.<br>\nHowever, it should be noted that New Taipei City is not a real city, but my virtual city.Please don't take it seriously, thank you.",
     "category": "Commercial",
@@ -3117,13 +3185,13 @@
     "minVersion": "Any",
     "author": "yanghao 666",
     "authorId": "816803",
-    "uploadDate": "26 Sep 2026, 16:20",
-    "version": "2",
-    "downloads": 1644,
+    "uploadDate": "1 Nov 2026, 09:03",
+    "version": "3",
+    "downloads": 2052,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 17
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 18
     }
   },
   {
@@ -3357,7 +3425,7 @@
     "authorId": "1931483",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "4",
-    "downloads": 3531,
+    "downloads": 3603,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -3901,7 +3969,7 @@
     "authorId": "5566",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "4",
-    "downloads": 4510,
+    "downloads": 4561,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4479,7 +4547,7 @@
     "authorId": "626674",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "4",
-    "downloads": 5358,
+    "downloads": 5425,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4751,7 +4819,7 @@
     "authorId": "2124354",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "17",
-    "downloads": 2481,
+    "downloads": 2530,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -5273,12 +5341,12 @@
     "name": "West Bund Museum",
     "url": "https://forum.theotown.com/plugins/list?term=:14614",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=MTyKHVPDZ68YJkYQEXLFcXj50J452YvF",
-    "description": "The West Bund Museum is a new art gallery on the Shanghai Corniche, an 8.5 kilometre frontage on the northern bank of the Huangpu River. The promenade connects the Xuhui district to the historic Bund and forms a key part of the West Bund Masterplan, which envisages a new cultural district over nine square kilometres of former industrial land. The museum occupies a triangular plot at the northernmost tip of a new public park, at the point where Longteng Avenue and the river converge. A raised public esplanade above the ood plain surrounds the building, offering views to the river. The edge of the esplanade on the east side is delineated by a continuous series of steps with landing stages leading to the riverbank. The site offered the opportunity to create a completely freestanding structure and its location allowed for improved access to both the river and the park. The Centre Pompidou Paris and the publicly owned West Bund Group have agreed on a contract establishing a cultural partnership. In the ve years following the opening, the Centre Pompidou is showing a number of exhibitions in the new museum as part of a cultural collaboration between France and China. size: 10X8（rectangle plugin） There is no night view for now. It will be updated later. And it supports the rectangle plugin. Please upgrade to version 1.12.26. H3DY1OG0S.",
-    "descriptionHtml": "The West Bund Museum is a new art gallery on the Shanghai Corniche, an 8.5 kilometre frontage on the northern bank of the Huangpu River. The promenade connects the Xuhui district to the historic Bund and forms a key part of the West Bund Masterplan, which envisages a new cultural district over nine square kilometres of former industrial land.<br>\n<br>\nThe museum occupies a triangular plot at the northernmost tip of a new public park, at the point where Longteng Avenue and the river converge. A raised public esplanade above the ood plain surrounds the building, offering views to the river. The edge of the esplanade on the east side is delineated by a continuous series of steps with landing stages leading to the riverbank. The site offered the opportunity to create a completely freestanding structure and its location allowed for improved access to both the river and the park.<br>\n<br>\nThe Centre Pompidou Paris and the publicly owned West Bund Group have agreed on a contract establishing a cultural partnership. In the ve years following the opening, the Centre Pompidou is showing a number of exhibitions in the new museum as part of a cultural collaboration between France and China.<br>\n<br>\nsize: 10X8（rectangle plugin）<br>\n<br>\nThere is no night view for now. It will be updated later.<br>\nAnd it supports the rectangle plugin. Please upgrade to version 1.12.26.<br>\n<br>\nH3DY1OG0S.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=CTdMnM97c4eQ3if5i4rfCdpdMKnWCbsr",
+    "description": "The West Bund Museum is a new art gallery on the Shanghai Corniche, an 8.5 kilometre frontage on the northern bank of the Huangpu River. The promenade connects the Xuhui district to the historic Bund and forms a key part of the West Bund Masterplan, which envisages a new cultural district over nine square kilometres of former industrial land. The museum occupies a triangular plot at the northernmost tip of a new public park, at the point where Longteng Avenue and the river converge. A raised public esplanade above the ood plain surrounds the building, offering views to the river. The edge of the esplanade on the east side is delineated by a continuous series of steps with landing stages leading to the riverbank. The site offered the opportunity to create a completely freestanding structure and its location allowed for improved access to both the river and the park. The Centre Pompidou Paris and the publicly owned West Bund Group have agreed on a contract establishing a cultural partnership. In the ve years following the opening, the Centre Pompidou is showing a number of exhibitions in the new museum as part of a cultural collaboration between France and China. size: 10X7（rectangle plugin） There is no night view for now. It will be updated later. Before the night view is updated, the price will be 30 diamonds. And it supports the rectangle plugin. Please upgrade to version 1.12.26. H3DY1OG0S.",
+    "descriptionHtml": "The West Bund Museum is a new art gallery on the Shanghai Corniche, an 8.5 kilometre frontage on the northern bank of the Huangpu River. The promenade connects the Xuhui district to the historic Bund and forms a key part of the West Bund Masterplan, which envisages a new cultural district over nine square kilometres of former industrial land.<br>\n<br>\nThe museum occupies a triangular plot at the northernmost tip of a new public park, at the point where Longteng Avenue and the river converge. A raised public esplanade above the ood plain surrounds the building, offering views to the river. The edge of the esplanade on the east side is delineated by a continuous series of steps with landing stages leading to the riverbank. The site offered the opportunity to create a completely freestanding structure and its location allowed for improved access to both the river and the park.<br>\n<br>\nThe Centre Pompidou Paris and the publicly owned West Bund Group have agreed on a contract establishing a cultural partnership. In the ve years following the opening, the Centre Pompidou is showing a number of exhibitions in the new museum as part of a cultural collaboration between France and China.<br>\n<br>\nsize: 10X7（rectangle plugin）<br>\n<br>\nThere is no night view for now. It will be updated later.<br>\nBefore the night view is updated, the price will be 30 diamonds.<br>\nAnd it supports the rectangle plugin. Please upgrade to version 1.12.26.<br>\n<br>\nH3DY1OG0S.",
     "category": "Parks, Sports and Management",
     "price": {
-      "amount": 31,
+      "amount": 30,
       "currency": "diamonds"
     },
     "platforms": [
@@ -5293,13 +5361,13 @@
     "minVersion": "1.12.26",
     "author": "H3DY1OG0S",
     "authorId": "149434",
-    "uploadDate": "7 Sep 2026, 19:08",
-    "version": "3",
-    "downloads": 4017,
+    "uploadDate": "1 Nov 2026, 09:03",
+    "version": "4",
+    "downloads": 6683,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 21
+      "count": 33
     }
   },
   {
@@ -6383,7 +6451,7 @@
     "authorId": "1249060",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "7",
-    "downloads": 8688,
+    "downloads": 8747,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -6417,11 +6485,11 @@
     "authorId": "1981212",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "31",
-    "downloads": 8430,
+    "downloads": 8488,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 57
+      "count": 58
     }
   },
   {
@@ -6485,7 +6553,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "8",
-    "downloads": 28213,
+    "downloads": 28245,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -7199,7 +7267,7 @@
     "authorId": "1981212",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "25",
-    "downloads": 3530,
+    "downloads": 3575,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8661,7 +8729,7 @@
     "authorId": "2060627",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "8",
-    "downloads": 5933,
+    "downloads": 6016,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -12503,7 +12571,7 @@
     "authorId": "601724",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "13",
-    "downloads": 6224,
+    "downloads": 6262,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -20560,7 +20628,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "4",
-    "downloads": 22302,
+    "downloads": 22399,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -23348,7 +23416,7 @@
     "authorId": "797723",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "9",
-    "downloads": 25544,
+    "downloads": 25599,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -29332,7 +29400,7 @@
     "authorId": "797723",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "5",
-    "downloads": 9162,
+    "downloads": 9199,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -32494,7 +32562,7 @@
     "authorId": "797723",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "7",
-    "downloads": 4972,
+    "downloads": 5016,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -44866,7 +44934,7 @@
     "authorId": "797756",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "25",
-    "downloads": 20399,
+    "downloads": 20408,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -74750,11 +74818,11 @@
     "authorId": "15",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "26",
-    "downloads": 566872,
+    "downloads": 567096,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 2854
+      "count": 2855
     }
   },
   {
