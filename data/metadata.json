@@ -1,13 +1,13 @@
 {
-  "scrapeDate": "2026-11-01T15:49:22.331Z",
-  "totalPlugins": 5093,
+  "scrapeDate": "2026-11-02T19:14:51.767Z",
+  "totalPlugins": 5094,
   "totalPages": 5,
-  "totalDownloads": 430776431,
+  "totalDownloads": 430786960,
   "certifiedCreators": 577,
   "categoryStats": {
+    "Themes": 9,
     "Award and Special": 397,
     "Service (Police, Health Care, Education,...)": 234,
-    "Themes": 8,
     "Commercial": 1197,
     "Decorations": 431,
     "Military": 46,
@@ -32,10 +32,10 @@
   },
   "ratingStats": {
     "VERY POSITIVE": 2134,
-    "MIXED": 293,
-    "POSITIVE": 2616,
+    "MIXED": 298,
+    "NEGATIVE": 38,
     "VERY NEGATIVE": 1,
-    "NEGATIVE": 37
+    "POSITIVE": 2616
   },
   "source": "https://forum.theotown.com/plugins/list"
 }
