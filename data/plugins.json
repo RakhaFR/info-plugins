@@ -1,5 +1,276 @@
 [
   {
+    "id": "15025",
+    "name": "SOLARI TOWER",
+    "url": "https://forum.theotown.com/plugins/list?term=:15025",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=kNxHZnGfJzy0PTTwBczeHdtpgX0uVKWy",
+    "description": "Hello, I'm back again this time with my second Ecuador plugin. Previously I made the Independiente del Valle stadium plugin, which I'll update soon. Just so you know... In this case, the plugin is the Solari Tower, a building about 90 meters tall in reality and one of the best known in Quito, the capital of Ecuador. Although the actual tower is 90 meters tall, my plugin ended up a bit taller; I wouldn't consider it a scale version, but I still loved the result of this project! The plugin It belongs to the Residential level 3 category is 3x3 in size and features Night Animation and a transparent floor. I hope you like this new plugin. Greetings to the people of Ecuador and to my friend Sr.Mishi who requested this plugin.",
+    "descriptionHtml": "Hello, I'm back again this time with my second Ecuador plugin. Previously I made the Independiente del Valle stadium plugin, which I'll update soon. Just so you know...<br>\nIn this case, the plugin is the Solari Tower, a building about 90 meters tall in reality and one of the best known in Quito, the capital of Ecuador. <br>\n<br>\nAlthough the actual tower is 90 meters tall, my plugin ended up a bit taller; I wouldn't consider it a scale version, but I still loved the result of this project!<br>\n<br>\nThe plugin It belongs to the Residential level 3 category is 3x3 in size and features Night Animation and a transparent floor. <br>\n<br>\nI hope you like this new plugin. Greetings to the people of Ecuador and to my friend Sr.Mishi who requested this plugin.",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "26.78KB",
+      "bytes": 27423
+    },
+    "minVersion": "Any",
+    "author": "Franco Ticosa",
+    "authorId": "587116",
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "2",
+    "downloads": 54,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15031",
+    "name": "Brazil Buildings 2027 v1",
+    "url": "https://forum.theotown.com/plugins/list?term=:15031",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=ML3yUh5cKRNuUB6k7alfaAixV5yIYSGg",
+    "description": "buildings with non-square ground plane Brazil Flor de Santana 44 version 2011/2020 (Recife) Mamoré River (João Pessoa) Flor de Santana- 3-6 Mamoré River- 4-7 Residential Level; 2 It does not have night lighting* Made by Josop7™",
+    "descriptionHtml": "buildings with non-square ground plane Brazil<br>\n<br>\nFlor de Santana 44 version 2011/2020 (Recife)<br>\nMamoré River (João Pessoa)<br>\n<br>\nFlor de Santana- 3-6<br>\nMamoré River- 4-7<br>\n<br>\nResidential <br>\nLevel; 2<br>\n<br>\nIt does not have night lighting*<br>\n<br>\nMade by Josop7™",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "199.37KB",
+      "bytes": 204155
+    },
+    "minVersion": "Any",
+    "author": "metrocitytownhall",
+    "authorId": "223366",
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "7",
+    "downloads": 57,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15034",
+    "name": "Airport Vehicles Pack",
+    "url": "https://forum.theotown.com/plugins/list?term=:15034",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=sb4HZAkpWZxqch9q5UHgCpXayysfik2k",
+    "description": "Hello there Mayor's!!!! I present to you the Airport Vehicle Pack !!! A Airport Ground Support Equipment (GSE) Vehicles for Airport builder like you!!. This is only a decorations plugin which have 14 Vehicle in first version for you to put it all around your airport!!!. This plugin Have: -PushBack Vehicle -2 Fuel Truck -Catering Truck -Support Truck -Support Car -Follow Me Car -Lavatory Truck -7 Airport Fire Apparatus All this can be found in Airport Category There's more to come! Well I think that's all .... Special Thanks to -Thidagtahu for Huge Help in making this happen!!! -Forge for the fire apparatus main template -Everyone who help and support me along the way By Natcom Thanksss!!!! Have a nice day!!!!",
+    "descriptionHtml": "Hello there Mayor's!!!!<br>\nI present to you the Airport Vehicle Pack !!!<br>\n<br>\nA Airport Ground Support Equipment (GSE) Vehicles for Airport builder like you!!.<br>\nThis is only a decorations plugin which have 14 Vehicle in first version for you to put it all around your airport!!!.<br>\n<br>\nThis plugin Have:<br>\n-PushBack Vehicle <br>\n-2 Fuel Truck<br>\n-Catering Truck<br>\n-Support Truck<br>\n-Support Car<br>\n-Follow Me Car<br>\n-Lavatory Truck<br>\n-7 Airport Fire Apparatus <br>\n<br>\n<br>\nAll this can be found in Airport Category <br>\n<br>\nThere's more to come! <br>\n <br>\n<br>\nWell I think that's all ....<br>\n<br>\nSpecial Thanks to<br>\n-Thidagtahu for Huge Help in making this happen!!!<br>\n-Forge for the fire apparatus main template<br>\n-Everyone who help and support me along the way<br>\n                            By Natcom<br>\n<br>\nThanksss!!!! Have a nice day!!!!",
+    "category": "Transport",
+    "price": {
+      "amount": 38,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "25.74KB",
+      "bytes": 26358
+    },
+    "minVersion": "Any",
+    "author": "NATIONAL COMPANY",
+    "authorId": "1087123",
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "2",
+    "downloads": 90,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "14988",
+    "name": "Simple road sign",
+    "url": "https://forum.theotown.com/plugins/list?term=:14988",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=idIq7WXG7R4XT3ESzvM6WUydtfIT5lwA",
+    "description": "Hello everyone!!! I'm KSGKUN. After several weeks, I've made --- Simple Road Sign v 1.0 --- ======================================== This plugin only has road signs of two colors now, blue and green. Each road sign has 8 directions. I'm not sure if I will update non-isometric (because I have to go to school:( ) ======================================== If you have any suggestions, please leave them in the comment section. I will update later, welcome to join our QQ group 1013316208:)",
+    "descriptionHtml": "Hello everyone!!! I'm KSGKUN. After several weeks, I've made --- Simple Road Sign v 1.0 ---<br>\n========================================<br>\nThis plugin only has road signs of two colors now, blue and green. Each road sign has 8 directions. I'm not sure if I will update non-isometric (because I have to go to school:(      )<br>\n========================================<br>\nIf you have any suggestions, please leave them in the comment section. I will update later, welcome to join our QQ group 1013316208:)",
+    "category": "Road decoration",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "26.24KB",
+      "bytes": 26870
+    },
+    "minVersion": "Any",
+    "author": "KS GKUN",
+    "authorId": "2142214",
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "4",
+    "downloads": 12,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15032",
+    "name": "Portobello Road buildings",
+    "url": "https://forum.theotown.com/plugins/list?term=:15032",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=20CMWeyxrzCq0TgEWjZ69rc561n5O9jU",
+    "description": "Portobello Road in Notting Hill, London, England, is famous for its colourful terraced houses and shops. This plugin adds 1x1 residential ₮ and commercial ₮ variants of the buildings from 69 to 93 Portobello Road. My first plugin to use Kulche's building modification script; many thanks to Kulche for handling the Lua. Buildings will be randomly assigned facade and shopfront colours when placed, but you can click on any building to change its colours to a preset from real life, or choose your own custom colours. The shopfront colours are named after real-life businesses that operate or have operated in these buildings.",
+    "descriptionHtml": "Portobello Road in Notting Hill, London, England, is famous for its colourful terraced houses and shops. This plugin adds 1x1 residential ₮ and commercial ₮ variants of the buildings from 69 to 93 Portobello Road.<br>\n<br>\nMy first plugin to use Kulche's building modification script; many thanks to Kulche for handling the Lua. Buildings will be randomly assigned facade and shopfront colours when placed, but you can click on any building to change its colours to a preset from real life, or choose your own custom colours. The shopfront colours are named after real-life businesses that operate or have operated in these buildings.",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "28.11KB",
+      "bytes": 28785
+    },
+    "minVersion": "Any",
+    "author": "yekaterinborough",
+    "authorId": "756209",
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "4",
+    "downloads": 14,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15002",
+    "name": "royal air maroc",
+    "url": "https://forum.theotown.com/plugins/list?term=:15002",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=bR20N4LWuaZTMDipAjEV16Oc27o3JdfP",
+    "description": "(slm drari)Hello everyone! It’s been a long time since I last published my plugins. I’ll be releasing some Moroccan landmarks in the future, and I’ll keep them as a surprise! Here is the Royal Air Maroc Boeing 787. - Passenger capacity: 375 Thank you for downloading! Note: The first aircraft does not work properly while moving. You can uninstall it and download this aircraft instead.",
+    "descriptionHtml": "(slm drari)Hello everyone!<br>\nIt’s been a long time since I last published my plugins. I’ll be releasing some Moroccan landmarks in the future, and I’ll keep them as a surprise!<br>\nHere is the Royal Air Maroc Boeing 787.<br>\n- Passenger capacity: 375<br>\nThank you for downloading!<br>\nNote: The first aircraft does not work properly while moving. You can uninstall it and download this aircraft instead.",
+    "category": "Transport",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "8.63KB",
+      "bytes": 8837
+    },
+    "minVersion": "Any",
+    "author": "Atlas lion",
+    "authorId": "81263",
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "2",
+    "downloads": 7,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15004",
+    "name": "Energodar City Hall",
+    "url": "https://forum.theotown.com/plugins/list?term=:15004",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=VRHrQjdAXdQMD7aWM5vK797l4n8qaE1o",
+    "description": "This is the main administrative building in my hometown, Enerhodar, Ukraine. It is located on Kurchatov Street and was built in the mid-2000s. It is a popular spot for local residents to go for a wal",
+    "descriptionHtml": "This is the main administrative building in my hometown, Enerhodar, Ukraine. It is located on Kurchatov Street and was built in the mid-2000s. It is a popular spot for local residents to go for a wal",
+    "category": "Parks, Sports and Management",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "13.07KB",
+      "bytes": 13384
+    },
+    "minVersion": "Any",
+    "author": "Energodarets",
+    "authorId": "922636",
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "3",
+    "downloads": 9,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "14039",
+    "name": "Road Advancement",
+    "url": "https://forum.theotown.com/plugins/list?term=:14039",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=JFW9KDKh9ju8uKNsJXMNXliuW1hhpwjL",
+    "description": "Note: So I've been gone for a long time now not knowing when I'll be back. This is because my laptop that I had everything on has now given up the ghost (it's no longer working). I therefore lost everything, all my private plugins, plugins from other servers and even my own server. I tried logging in back to it but discord is giving me problems. I tried signing up afresh and it still gives me problem, there's nothing more I can do. For this, if I continue uploading, my plugins will likely lose it's quality that I normally produce since I'm now on my phone and I don't want that. So I will rather wait until I get myself back a new and possibly better laptop. I however still have my TheoTown account which is nice. Also, I started university, so that kinda have more of my focus. I believe this explains my absence. I have not abandoned Theotown. I will be back, but when is what I'm not sure of. Anyways, enjoy this possibly last plugin until like the next 3 years from now. Thanks for 1M downloads by the way! 🇯🇲 Patois: Wagwan peeps, Ras Di Mayah deh yah. Mi bring wah plugin by di name \"Road Advancement\". It have so road decoration and so decals to weh only isometric. Dis is not di full ting as dat will only deh pon mi serva. Di road decorations have dem tings yah inna e: 1. Diagonals 2. 1x2s ah Isometry 3. 1x3s 4. Di Isometric decals Wah toetal a ten di deh. 🇬🇧 English: What's up peeps, Ross The Mayor here. I bring to you a plugin by the name \"Road Advancement\". It have some road decorations and some decals that are only isometric. This is not the full thing as that will only be on my server. The road decorations consists of the following: 1. Diagonal decos 2. 1x2s and Isometry 3. 1x3s 4. The isometric decals There's a total of ten. Produced by: - Ross The Mayor If you do, thank you for downloading.",
+    "descriptionHtml": "Note: So I've been gone for a long time now not knowing when I'll be back. This is because my laptop that I had everything on has now given up the ghost (it's no longer working). I therefore lost everything, all my private plugins, plugins from other servers and even my own server. I tried logging in back to it but discord is giving me problems. I tried signing up afresh and it still gives me problem, there's nothing more I can do. For this, if I continue uploading, my plugins will likely lose it's quality that I normally produce since I'm now on my phone and I don't want that. So I will rather wait until I get myself back a new and possibly better laptop. I however still have my TheoTown account which is nice. Also, I started university, so that kinda have more of my focus. I believe this explains my absence. I have not abandoned Theotown. I will be back, but when is what I'm not sure of. Anyways, enjoy this possibly last plugin until like the next 3 years from now. Thanks for 1M downloads by the way!<br>\n<br>\n🇯🇲 Patois: Wagwan peeps, Ras Di Mayah deh yah. Mi bring wah plugin by di name \"Road Advancement\". It have so road decoration and so decals to weh only isometric. Dis is not di full ting as dat will only deh pon mi serva. Di road decorations have dem tings yah inna e:<br>\n1. Diagonals<br>\n2. 1x2s ah Isometry<br>\n3. 1x3s<br>\n4. Di Isometric decals<br>\nWah toetal a ten di deh.<br>\n<br>\n🇬🇧 English: What's up peeps, Ross The Mayor here. I bring to you a plugin by the name \"Road Advancement\". It have some road decorations and some decals that are only isometric. This is not the full thing as that will only be on my server. The road decorations consists of the following:<br>\n1. Diagonal decos<br>\n2. 1x2s and Isometry<br>\n3. 1x3s<br>\n4. The isometric decals<br>\nThere's a total of ten.<br>\n<br>\nProduced by:<br>\n- Ross The Mayor<br>\n<br>\nIf you do, thank you for downloading.",
+    "category": "Road decoration",
+    "price": {
+      "amount": 35,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "561.77KB",
+      "bytes": 575252
+    },
+    "minVersion": "Any",
+    "author": "Ross The Mayor",
+    "authorId": "661822",
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "3",
+    "downloads": 21,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
     "id": "14793",
     "name": "Peruvian House",
     "url": "https://forum.theotown.com/plugins/list?term=:14793",
@@ -26,7 +297,7 @@
     "authorId": "581197",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "6",
-    "downloads": 21,
+    "downloads": 61,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -60,11 +331,11 @@
     "authorId": "490090",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 245,
+    "downloads": 720,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 9
     }
   },
   {
@@ -94,11 +365,11 @@
     "authorId": "10216",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 7,
+    "downloads": 34,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
     }
   },
   {
@@ -128,11 +399,11 @@
     "authorId": "1931483",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 108,
+    "downloads": 407,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
     }
   },
   {
@@ -162,11 +433,11 @@
     "authorId": "414723",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "4",
-    "downloads": 177,
+    "downloads": 652,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 14
     }
   },
   {
@@ -196,11 +467,11 @@
     "authorId": "1894841",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "3",
-    "downloads": 65,
+    "downloads": 257,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
     }
   },
   {
@@ -230,11 +501,11 @@
     "authorId": "124640",
     "uploadDate": "2 Nov 2026, 19:14",
     "version": "2",
-    "downloads": 149,
+    "downloads": 185,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 3
     }
   },
   {
@@ -264,7 +535,7 @@
     "authorId": "952975",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 402,
+    "downloads": 473,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -298,7 +569,7 @@
     "authorId": "682550",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 429,
+    "downloads": 517,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -332,11 +603,11 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 36,
+    "downloads": 44,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 3
     }
   },
   {
@@ -366,11 +637,11 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 40,
+    "downloads": 51,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
     }
   },
   {
@@ -400,11 +671,11 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 65,
+    "downloads": 80,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 3
+      "count": 4
     }
   },
   {
@@ -434,11 +705,11 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 36,
+    "downloads": 46,
     "rating": {
-      "score": 1.5,
-      "label": "VERY NEGATIVE",
-      "count": 1
+      "score": 3,
+      "label": "MIXED",
+      "count": 2
     }
   },
   {
@@ -468,11 +739,11 @@
     "authorId": "816803",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 535,
+    "downloads": 614,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 13
+      "count": 12
     }
   },
   {
@@ -502,11 +773,11 @@
     "authorId": "976914",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 1153,
+    "downloads": 1408,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 20
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 24
     }
   },
   {
@@ -515,8 +786,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:14986",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=NkgPf6QTT2UXmHlVKO4ovBS0wylvbjsY",
-    "description": "Just a simple plugin that brings a crowd of TheoTown citizens along with walking animations. Ideal for placing in residential areas, music concerts, industrial zones, and more. New citizen models will be added in future updates! * 3 models: 1x1, 2x2 & 3x3. * Plugin by YinDreamX.",
-    "descriptionHtml": "Just a simple plugin that brings a crowd of TheoTown citizens along with walking animations. Ideal for placing in residential areas, music concerts, industrial zones, and more. New citizen models will be added in future updates!<br>\n* 3 models: 1x1, 2x2 &amp; 3x3.<br>\n* Plugin by YinDreamX.<br>",
+    "description": "Just a simple plugin that brings a crowd of TheoTown citizens along with walking animations. Ideal for placing in residential areas, music concerts, industrial zones, and more. New citizen models will be added in future updates! * 4 models: 1x1, 2x2, 3x3 & 1x1 workers. * Plugin by YinDreamX.",
+    "descriptionHtml": "Just a simple plugin that brings a crowd of TheoTown citizens along with walking animations. Ideal for placing in residential areas, music concerts, industrial zones, and more. New citizen models will be added in future updates!<br>\n* 4 models: 1x1, 2x2, 3x3 &amp; 1x1 workers.<br>\n* Plugin by YinDreamX.<br>",
     "category": "Decorations",
     "price": {
       "amount": 30,
@@ -528,15 +799,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "7.8KB",
-      "bytes": 7987
+      "raw": "8.8KB",
+      "bytes": 9011
     },
     "minVersion": "Any",
     "author": "yinx",
     "authorId": "2060627",
-    "uploadDate": "1 Nov 2026, 15:49",
-    "version": "3",
-    "downloads": 772,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "5",
+    "downloads": 959,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -570,11 +841,11 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 69,
+    "downloads": 85,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
     }
   },
   {
@@ -604,11 +875,11 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 54,
+    "downloads": 58,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
     }
   },
   {
@@ -638,7 +909,7 @@
     "authorId": "816803",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 683,
+    "downloads": 789,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -672,7 +943,7 @@
     "authorId": "168872",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 600,
+    "downloads": 717,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -706,11 +977,11 @@
     "authorId": "1083156",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "3",
-    "downloads": 1214,
+    "downloads": 1345,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 14
+      "count": 15
     }
   },
   {
@@ -740,7 +1011,7 @@
     "authorId": "682550",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "2",
-    "downloads": 879,
+    "downloads": 1012,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -774,7 +1045,7 @@
     "authorId": "149434",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "4",
-    "downloads": 782,
+    "downloads": 908,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -808,11 +1079,11 @@
     "authorId": "1283101",
     "uploadDate": "29 Oct 2026, 15:53",
     "version": "4",
-    "downloads": 1988,
+    "downloads": 2099,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -842,7 +1113,7 @@
     "authorId": "816803",
     "uploadDate": "27 Oct 2026, 15:09",
     "version": "2",
-    "downloads": 1634,
+    "downloads": 1670,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -876,11 +1147,11 @@
     "authorId": "976914",
     "uploadDate": "27 Oct 2026, 15:09",
     "version": "4",
-    "downloads": 5883,
+    "downloads": 6146,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 101
+      "count": 104
     }
   },
   {
@@ -910,7 +1181,7 @@
     "authorId": "1935308",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 244,
+    "downloads": 257,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +1215,7 @@
     "authorId": "343527",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "7",
-    "downloads": 403,
+    "downloads": 456,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1012,7 +1283,7 @@
     "authorId": "1072072",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 2247,
+    "downloads": 2380,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1046,11 +1317,11 @@
     "authorId": "1169481",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "5",
-    "downloads": 4748,
+    "downloads": 4983,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 46
+      "count": 48
     }
   },
   {
@@ -1080,7 +1351,7 @@
     "authorId": "531460",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "4",
-    "downloads": 1695,
+    "downloads": 1732,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1114,7 +1385,7 @@
     "authorId": "1176101",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 1823,
+    "downloads": 1923,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,11 +1419,11 @@
     "authorId": "227382",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 185,
+    "downloads": 198,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 4
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 6
     }
   },
   {
@@ -1182,7 +1453,7 @@
     "authorId": "1931483",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 3163,
+    "downloads": 3239,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1216,7 +1487,7 @@
     "authorId": "1169481",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "4",
-    "downloads": 5113,
+    "downloads": 5357,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1250,7 +1521,7 @@
     "authorId": "587116",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 889,
+    "downloads": 914,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1284,7 +1555,7 @@
     "authorId": "587116",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 1022,
+    "downloads": 1061,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1318,11 +1589,11 @@
     "authorId": "682550",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 656,
+    "downloads": 674,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 7
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 8
     }
   },
   {
@@ -1352,7 +1623,7 @@
     "authorId": "391947",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 384,
+    "downloads": 430,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1386,7 +1657,7 @@
     "authorId": "816803",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 1540,
+    "downloads": 1579,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1420,11 +1691,11 @@
     "authorId": "15",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "4",
-    "downloads": 349,
+    "downloads": 384,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 8
+      "count": 10
     }
   },
   {
@@ -1454,7 +1725,7 @@
     "authorId": "171359",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "2",
-    "downloads": 961,
+    "downloads": 979,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1488,11 +1759,11 @@
     "authorId": "682550",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "2",
-    "downloads": 1698,
+    "downloads": 1735,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -1522,7 +1793,7 @@
     "authorId": "1249060",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "5",
-    "downloads": 2986,
+    "downloads": 3058,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1827,7 @@
     "authorId": "1931483",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "2",
-    "downloads": 1416,
+    "downloads": 1465,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1590,7 +1861,7 @@
     "authorId": "797723",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "2",
-    "downloads": 447,
+    "downloads": 458,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1624,7 +1895,7 @@
     "authorId": "682550",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "3",
-    "downloads": 2973,
+    "downloads": 3076,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1806,9 +2077,9 @@
     "name": "IK Terrain Expansion",
     "url": "https://forum.theotown.com/plugins/list?term=:14632",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=xLpiU7NY2gBoAXxWx8bIAFmxtzisnkQ0",
-    "description": "Some additional terrain variations from in-game (vanilla), so you can use them more. - IK Decal (Decal) x768 - Diagonal terrain (8 Ground, 16 Asphalt) - Half terrain (8 Ground, 16 Asphalt) - Slope terrain (8 Ground, 16 Asphalt) - Terraces terrain (8 Ground, 16 Asphalt) Hope you enjoy the plugin 😊 Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "Some additional terrain variations from in-game (vanilla), so you can use them more.<br>\n<br>\n- IK Decal (Decal) x768<br>\n- Diagonal terrain (8 Ground, 16 Asphalt)<br>\n- Half terrain (8 Ground, 16 Asphalt)<br>\n- Slope terrain (8 Ground, 16 Asphalt)<br>\n- Terraces terrain (8 Ground, 16 Asphalt)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Zik5zFc0zObwDo7d1C47kAI5Xy8wcGUa",
+    "description": "Some additional terrain and decal variations from in-game (vanilla), so you can use them more. - Quarter decal (24 Decal) x4 - Half decal (24 Decal) x4 - Diagonal decal (24 Decal) x4 - Half Diagonal decal (24 Decal) x4 - Non-isometric decal (24 Decal) x8 - Half Non-isometric decal (24 Decal) x8 - Diagonal terrain (8 Ground, 16 Asphalt) - Half terrain (8 Ground, 16 Asphalt) - Slope terrain (8 Ground, 16 Asphalt) - Terraces terrain (8 Ground, 16 Asphalt) Hope you enjoy the plugin 😊 Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Some additional terrain and decal variations from in-game (vanilla), so you can use them more.<br>\n<br>\n- Quarter decal (24 Decal) x4<br>\n- Half decal (24 Decal) x4<br>\n- Diagonal decal (24 Decal) x4<br>\n- Half Diagonal decal (24 Decal) x4<br>\n- Non-isometric decal (24 Decal) x8<br>\n- Half Non-isometric decal (24 Decal) x8<br>\n<br>\n- Diagonal terrain (8 Ground, 16 Asphalt)<br>\n- Half terrain (8 Ground, 16 Asphalt)<br>\n- Slope terrain (8 Ground, 16 Asphalt)<br>\n- Terraces terrain (8 Ground, 16 Asphalt)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Terrain",
     "price": {
       "amount": 30,
@@ -1826,9 +2097,9 @@
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "19 Oct 2026, 16:14",
-    "version": "4",
-    "downloads": 2453,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "5",
+    "downloads": 2542,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1862,7 +2133,7 @@
     "authorId": "22978",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 337,
+    "downloads": 359,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1896,7 +2167,7 @@
     "authorId": "1098389",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 601,
+    "downloads": 615,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1930,7 +2201,7 @@
     "authorId": "22978",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 209,
+    "downloads": 212,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1964,7 +2235,7 @@
     "authorId": "1873054",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "3",
-    "downloads": 1062,
+    "downloads": 1077,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1998,7 +2269,7 @@
     "authorId": "1873054",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 1055,
+    "downloads": 1073,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2032,7 +2303,7 @@
     "authorId": "1873054",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 1493,
+    "downloads": 1518,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2066,7 +2337,7 @@
     "authorId": "1068614",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 344,
+    "downloads": 351,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2100,7 +2371,7 @@
     "authorId": "1068614",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "2",
-    "downloads": 830,
+    "downloads": 851,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2134,7 +2405,7 @@
     "authorId": "2187746",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "3",
-    "downloads": 1383,
+    "downloads": 1397,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2215,8 +2486,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:14846",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=0dIURb6yCPddPSHMitAI0cjzIVfotvU4",
-    "description": "©Jeffialcompny. Hello everyone, I'm back with a new plugin. Introducing the jurassic world samsung innovation center plugin, there is only one in the store! Try and enjoy the fun with Jurassic theme!. Building area:7x7 Building type: landmark Night animation: Yes",
-    "descriptionHtml": "©Jeffialcompny.<br>\nHello everyone, I'm back with a new plugin. Introducing the jurassic world samsung innovation center plugin, there is only one in the store! Try and enjoy the fun with Jurassic theme!.<br>\n<br>\nBuilding area:7x7<br>\nBuilding type: landmark<br>\nNight animation: Yes",
+    "description": "©Jeffrialcompny. Hello everyone, I'm back with a new plugin. Introducing the jurassic world samsung innovation center plugin, there is only one in the store! Try and enjoy the fun with Jurassic theme!. Building area:7x7 Building type: landmark Night animation: Yes @Yasin.3Unnity®",
+    "descriptionHtml": "©Jeffrialcompny.<br>\nHello everyone, I'm back with a new plugin. Introducing the jurassic world samsung innovation center plugin, there is only one in the store! Try and enjoy the fun with Jurassic theme!.<br>\n<br>\nBuilding area:7x7<br>\nBuilding type: landmark<br>\nNight animation: Yes<br>\n<br>\n@Yasin.3Unnity®",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -2234,9 +2505,9 @@
     "minVersion": "Any",
     "author": "Yasin.3 Unnity.",
     "authorId": "741183",
-    "uploadDate": "17 Oct 2026, 12:43",
-    "version": "2",
-    "downloads": 3212,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "3",
+    "downloads": 3295,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2440,7 +2711,7 @@
     "authorId": "1062584",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "9",
-    "downloads": 3214,
+    "downloads": 3269,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -3301,7 +3572,7 @@
     "name": "SFWC",
     "url": "https://forum.theotown.com/plugins/list?term=:14777",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=7HqaGNnohaREHb7hvOJbqffUT1Ze90YD",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=aGppX7B13g63Phns9G0j0K9rjwd1El3D",
     "description": "Located in Shanghai's Pudong district, the Shanghai World Financial Center (SWFC) is a massive skyscraper completed in 2008, standing 492 meters tall. With 101 floors, the SWFC houses spacious offices, observation decks, conference halls, commercial spaces, and a hotel. It is an iconic skyscraper recognized worldwide for its design—which tapers from bottom to top—and its most distinctive feature: a large aperture at the summit. The SWFC was designed as a tapering skyscraper formed by the combination of a square prism and two large curved shapes. The architects drew upon geometric concepts associated with the Chinese cultural notions of heaven and earth. As one of the three major skyscrapers in Shanghai's Lujiazui district, the SWFC was the world's second-tallest building—surpassed only by Taipei 101—upon its completion in 2008. Viewed as a symbol of China's ambition to become a global financial hub, the SWFC remains one of the tallest skyscrapers in the world. ADD-ON INFORMATION: The structure has been implemented in the game as a commercial skyscraper occupying a 7x7 footprint. It features versions with blue-and-white lighting and special Chinese New Year LED lighting for the night. The add-on includes a total of three different versions of the building, including one with a classic night animation featuring illuminated floors. UPDATE: Cover photo changed. NOTE: This add-on is an independent TheoTown fan creation and is not endorsed by any company or organization. For assistance or collaboration, you can contact us via the \"TR pro\" account on the forums. Do you have an add-on suggestion? Our Instagram account: trpro_official_ 2026, TR plugins. Developed using TR 2.0 technology.",
     "descriptionHtml": "Located in Shanghai's Pudong district, the Shanghai World Financial Center (SWFC) is a massive skyscraper completed in 2008, standing 492 meters tall. With 101 floors, the SWFC houses spacious offices, observation decks, conference halls, commercial spaces, and a hotel. It is an iconic skyscraper recognized worldwide for its design—which tapers from bottom to top—and its most distinctive feature: a large aperture at the summit. The SWFC was designed as a tapering skyscraper formed by the combination of a square prism and two large curved shapes. The architects drew upon geometric concepts associated with the Chinese cultural notions of heaven and earth. As one of the three major skyscrapers in Shanghai's Lujiazui district, the SWFC was the world's second-tallest building—surpassed only by Taipei 101—upon its completion in 2008. Viewed as a symbol of China's ambition to become a global financial hub, the SWFC remains one of the tallest skyscrapers in the world. <br>\n<br>\nADD-ON INFORMATION: The structure has been implemented in the game as a commercial skyscraper occupying a 7x7 footprint. It features versions with blue-and-white lighting and special Chinese New Year LED lighting for the night. The add-on includes a total of three different versions of the building, including one with a classic night animation featuring illuminated floors. <br>\n<br>\nUPDATE: Cover photo changed.<br>\n<br>\nNOTE: This add-on is an independent TheoTown fan creation and is not endorsed by any company or organization. <br>\n<br>\nFor assistance or collaboration, you can contact us via the \"TR pro\" account on the forums. Do you have an add-on suggestion? Our Instagram account: trpro_official_ <br>\n<br>\n2026, TR plugins. Developed using TR 2.0 technology.",
     "category": "Commercial",
@@ -3321,13 +3592,13 @@
     "minVersion": "Any",
     "author": "[TR] pro",
     "authorId": "1117299",
-    "uploadDate": "25 Oct 2026, 07:31",
-    "version": "4",
-    "downloads": 9722,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "5",
+    "downloads": 9965,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 40
+      "count": 41
     }
   },
   {
@@ -3867,7 +4138,7 @@
     "authorId": "816803",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "3",
-    "downloads": 2261,
+    "downloads": 2296,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -4105,7 +4376,7 @@
     "authorId": "1931483",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "4",
-    "downloads": 3768,
+    "downloads": 3817,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4649,7 +4920,7 @@
     "authorId": "5566",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "4",
-    "downloads": 4669,
+    "downloads": 4707,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -5227,7 +5498,7 @@
     "authorId": "626674",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "4",
-    "downloads": 5615,
+    "downloads": 5663,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -5499,7 +5770,7 @@
     "authorId": "2124354",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "17",
-    "downloads": 2635,
+    "downloads": 2670,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -6043,7 +6314,7 @@
     "authorId": "149434",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "4",
-    "downloads": 7505,
+    "downloads": 7720,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -7131,7 +7402,7 @@
     "authorId": "1249060",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "7",
-    "downloads": 8933,
+    "downloads": 8982,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -7233,7 +7504,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "8",
-    "downloads": 28393,
+    "downloads": 28437,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -7939,15 +8210,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "16.32KB",
-      "bytes": 16712
+      "raw": "16.48KB",
+      "bytes": 16876
     },
-    "minVersion": "1.12.16",
+    "minVersion": "1.12.49",
     "author": "Arya sancaka",
     "authorId": "1981212",
-    "uploadDate": "26 Oct 2026, 15:53",
-    "version": "25",
-    "downloads": 3661,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "28",
+    "downloads": 3688,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8367,9 +8638,9 @@
     "name": "General Sudirman Statue",
     "url": "https://forum.theotown.com/plugins/list?term=:13807",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=buVQkIZby2fp1SS2D9L1k1JtMG8YqAMG",
-    "description": "General Sudirman Statue is an iconic monument to honor the services of Commander-in-Chief General Sudirman, an Indonesian national hero. Located in the Dukuh Atas area, South Jakarta, it was inaugurated on August 16, 2003. – General Sudirman Statue (Landmark 1x1) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "General Sudirman Statue is an iconic monument to honor the services of Commander-in-Chief General Sudirman, an Indonesian national hero. Located in the Dukuh Atas area, South Jakarta, it was inaugurated on August 16, 2003.<br>\n<br>\n– General Sudirman Statue (Landmark 1x1)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=SRH2pFwlU9OKeRIZsVlgAfDdw0XpfBjG",
+    "description": "General Sudirman Statue is an iconic monument to honor the services of Commander-in-Chief General Sudirman, an Indonesian national hero. Located in the Dukuh Atas area, South Jakarta, it was inaugurated on August 16, 2003. - General Sudirman Statue 1x1 (Landmark) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation • Influence: park, culture Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "General Sudirman Statue is an iconic monument to honor the services of Commander-in-Chief General Sudirman, an Indonesian national hero. Located in the Dukuh Atas area, South Jakarta, it was inaugurated on August 16, 2003.<br>\n<br>\n- General Sudirman Statue 1x1 (Landmark)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: park, culture<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -8381,19 +8652,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "26.21KB",
-      "bytes": 26839
+      "raw": "25.56KB",
+      "bytes": 26173
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "18 Aug 2026, 15:28",
-    "version": "5",
-    "downloads": 14717,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "10",
+    "downloads": 18701,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 50
+      "count": 54
     }
   },
   {
@@ -8401,9 +8672,9 @@
     "name": "Ondel-ondel Monument",
     "url": "https://forum.theotown.com/plugins/list?term=:11215",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Y8aJRwZDVADZSPRrhsugE7cQQB9Lb6uo",
-    "description": "Ondel-ondel Monument is a monument located in the roundabout of Haji Benyamin Sueb Street, Jakarta, Indonesia, It was built on 2014. – Ondel-ondel Monument (Landmark 2x2) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "Ondel-ondel Monument is a monument located in the roundabout of Haji Benyamin Sueb Street, Jakarta, Indonesia, It was built on 2014.<br>\n<br>\n– Ondel-ondel Monument (Landmark 2x2)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=esletKpHpHsFecjR97e3OY10Ufk9Uejr",
+    "description": "Ondel-ondel Monument is a monument located in the roundabout of Haji Benyamin Sueb Street, Jakarta, Indonesia, It was built on 2014. - Ondel-ondel Monument 2x2 (Landmark) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation • Influence: park, culture Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Ondel-ondel Monument is a monument located in the roundabout of Haji Benyamin Sueb Street, Jakarta, Indonesia, It was built on 2014.<br>\n<br>\n- Ondel-ondel Monument 2x2 (Landmark)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: park, culture<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -8421,13 +8692,13 @@
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "18 Aug 2026, 15:27",
-    "version": "7",
-    "downloads": 42070,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "11",
+    "downloads": 43915,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 51
+      "count": 53
     }
   },
   {
@@ -9409,7 +9680,7 @@
     "authorId": "2060627",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "8",
-    "downloads": 6229,
+    "downloads": 6288,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9489,9 +9760,9 @@
     "name": "Heroes Monument (Tugu Tani)",
     "url": "https://forum.theotown.com/plugins/list?term=:10303",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=VwMr6XrWLaUkvrF3ujydZACodPtzDPyq",
-    "description": "Heroes Monument also called Tugu Tani, is a bronze statue located in Menteng, Central Jakarta. This statue was built in Soviet Union then brought and inaugurated in Indonesia 1963. – Heroes Monument (Landmark 3x3) – Heroes Monument (Landmark 2x2) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "Heroes Monument also called Tugu Tani, is a bronze statue located in Menteng, Central Jakarta. This statue was built in Soviet Union then brought and inaugurated in Indonesia 1963.<br>\n<br>\n– Heroes Monument (Landmark 3x3)<br>\n– Heroes Monument (Landmark 2x2)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=2DrVZ9u55yN2agxuQ3g2aMyi8aDrvFPe",
+    "description": "Heroes Monument also called Tugu Tani, is a bronze statue located in Menteng, Central Jakarta. This statue was built in Soviet Union then brought and inaugurated in Indonesia 1963. - Heroes Monument 3x3 (Landmark) - Heroes Monument 2x2 (Landmark) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation • Influence: park, culture Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Heroes Monument also called Tugu Tani, is a bronze statue located in Menteng, Central Jakarta. This statue was built in Soviet Union then brought and inaugurated in Indonesia 1963.<br>\n<br>\n- Heroes Monument 3x3 (Landmark)<br>\n- Heroes Monument 2x2 (Landmark)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: park, culture<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -9509,13 +9780,13 @@
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "10 Aug 2026, 13:46",
-    "version": "23",
-    "downloads": 56149,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "27",
+    "downloads": 59653,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 128
+      "count": 134
     }
   },
   {
@@ -9523,9 +9794,9 @@
     "name": "Sacred Pancasila Monument",
     "url": "https://forum.theotown.com/plugins/list?term=:10294",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=mF8FHCi2a8g71ChN6ZeaBkGsRX6xzSWn",
-    "description": "Sacred Pancasila Monument is a Jakarta monument that was inaugurated in 1973 to commemorate the Revolutionary Heroes who died while fighting to defend Indonesia's ideology, Pancasila, from the threat of communist ideology. – Sacred Pancasila Monument (Landmark 2x2) – Crocodile's Pit (Landmark 2x2) – Sacred Pancasila path (Pathway) – Sacred Pancasila tile (Terrain) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "Sacred Pancasila Monument is a Jakarta monument that was inaugurated in 1973 to commemorate the Revolutionary Heroes who died while fighting to defend Indonesia's ideology, Pancasila, from the threat of communist ideology.<br>\n<br>\n– Sacred Pancasila Monument (Landmark 2x2)<br>\n– Crocodile's Pit (Landmark 2x2)<br>\n– Sacred Pancasila path (Pathway)<br>\n– Sacred Pancasila tile (Terrain)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=BPxEqOXExeIDwmorLOCBsmjay3kOmaww",
+    "description": "Sacred Pancasila Monument is a Jakarta monument that was inaugurated in 1973 to commemorate the Revolutionary Heroes who died while fighting to defend Indonesia's ideology, Pancasila, from the threat of communist ideology. - Sacred Pancasila Monument 2x2 (Landmark) - Crocodile's Pit 2x2 (Landmark) - Sacred Pancasila path (Pathway) - Sacred Pancasila tile (Terrain) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation • Influence: park, culture Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Sacred Pancasila Monument is a Jakarta monument that was inaugurated in 1973 to commemorate the Revolutionary Heroes who died while fighting to defend Indonesia's ideology, Pancasila, from the threat of communist ideology.<br>\n<br>\n- Sacred Pancasila Monument 2x2 (Landmark)<br>\n- Crocodile's Pit 2x2 (Landmark)<br>\n- Sacred Pancasila path (Pathway)<br>\n- Sacred Pancasila tile (Terrain)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: park, culture<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -9537,19 +9808,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "55.54KB",
-      "bytes": 56873
+      "raw": "55.55KB",
+      "bytes": 56883
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "10 Aug 2026, 13:45",
-    "version": "24",
-    "downloads": 69673,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "28",
+    "downloads": 74639,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 91
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 96
     }
   },
   {
@@ -9557,9 +9828,9 @@
     "name": "National Library of Indonesia",
     "url": "https://forum.theotown.com/plugins/list?term=:10284",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=MesZBlmXpxioH2b6rqA1rjMQlMi1QOhL",
-    "description": "The National Library of the Republic Indonesia is the official library of Indonesia located in Gambir, Central Jakarta. Built on May 17, 1980. – National Library of Indonesia (Education 5x5) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "The National Library of the Republic Indonesia is the official library of Indonesia located in Gambir, Central Jakarta. Built on May 17, 1980.<br>\n<br>\n– National Library of Indonesia (Education 5x5)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=fgKJTpckDTHJ781ZJNBlCGsP6XUUpmAy",
+    "description": "The National Library of the Republic Indonesia is the official library of Indonesia (PerpusNas RI) located in Gambir, Central Jakarta. Built on May 17, 1980. - National Library of Indonesia 5x5 (Education) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation • Influence: education low and high Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "The National Library of the Republic Indonesia is the official library of Indonesia (PerpusNas RI) located in Gambir, Central Jakarta. Built on May 17, 1980.<br>\n<br>\n- National Library of Indonesia 5x5 (Education)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: education low and high<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Service (Police, Health Care, Education,...)",
     "price": {
       "amount": 30,
@@ -9571,19 +9842,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "229.69KB",
-      "bytes": 235203
+      "raw": "228.59KB",
+      "bytes": 234076
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "10 Aug 2026, 13:44",
-    "version": "17",
-    "downloads": 178160,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "21",
+    "downloads": 185582,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 222
+      "count": 229
     }
   },
   {
@@ -9591,9 +9862,9 @@
     "name": "West Irian Liberation Monument",
     "url": "https://forum.theotown.com/plugins/list?term=:10280",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=mfhjZ63hzZ1arbPhKyS4vMOvBKo2Mb0E",
-    "description": "West Irian Liberation Monument is located in Sawah Besar, Central Jakarta, Indonesia. This monument was built in 1962, to commemorate the return of West Irian. – West Irian Liberation Monument (Landmark 3x9) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "West Irian Liberation Monument is located in Sawah Besar, Central Jakarta, Indonesia. This monument was built in 1962, to commemorate the return of West Irian.<br>\n<br>\n– West Irian Liberation Monument (Landmark 3x9)<br>\n<br>\nHope you enjoy the plugin 😊 <br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=EUkkCHMuLv6sH2ztkbhotE3PzCnbfQVT",
+    "description": "West Irian Liberation Monument is located in Lapangan Banteng Park, Sawah Besar, Central Jakarta, Indonesia. This monument was built in 1962, to commemorate the return of West Irian. - West Irian Liberation Monument 3x9 (Landmark) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation • Influence: park, culture Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "West Irian Liberation Monument is located in Lapangan Banteng Park, Sawah Besar, Central Jakarta, Indonesia. This monument was built in 1962, to commemorate the return of West Irian.<br>\n<br>\n- West Irian Liberation Monument 3x9 (Landmark)<br>\n<br>\nHope you enjoy the plugin 😊 <br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: park, culture<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -9605,19 +9876,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "90.43KB",
-      "bytes": 92600
+      "raw": "90.46KB",
+      "bytes": 92631
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "10 Aug 2026, 13:43",
-    "version": "18",
-    "downloads": 37356,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "22",
+    "downloads": 39657,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 75
+      "count": 76
     }
   },
   {
@@ -9659,9 +9930,9 @@
     "name": "Red-White Village Cooperative",
     "url": "https://forum.theotown.com/plugins/list?term=:13664",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=EZLH8tWTI3dJ4bsMcTnZB0jfmNmnggsP",
-    "description": "Red-White Village Cooperative (Kopdes Merah Putih) is a people's economic institution that aims to improve welfare and stimulate the village economy in Indonesia. – Red-White Village Cooperative (Commercial ₮ 2x2) – Red-White Village Cooperative (Commercial ₮₮ 2x3) – Red-White Village Cooperative Truck (Decoration 1x1) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation Credits Artist: Ik2931 Artist: Alveroo Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "Red-White Village Cooperative (Kopdes Merah Putih) is a people's economic institution that aims to improve welfare and stimulate the village economy in Indonesia.<br>\n<br>\n– Red-White Village Cooperative (Commercial ₮ 2x2)<br>\n– Red-White Village Cooperative (Commercial ₮₮ 2x3)<br>\n– Red-White Village Cooperative Truck (Decoration 1x1)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nCredits<br>\nArtist: Ik2931<br>\nArtist: Alveroo<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=1HvfXacgPGGlP6nYZr1bnQjlnd05RY2s",
+    "description": "Red-White Village Cooperative (Kopdes Merah Putih) is a people's economic institution that aims to improve welfare and stimulate the village economy in Indonesia. - Red-White Village Cooperative 2x2 (Commercial ₮) - Red-White Village Cooperative 2x3 (Commercial ₮₮) - Red-White Village Cooperative Truck (Decoration) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation Credits Artist: Ik2931 Artist: Alveroo Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Red-White Village Cooperative (Kopdes Merah Putih) is a people's economic institution that aims to improve welfare and stimulate the village economy in Indonesia.<br>\n<br>\n- Red-White Village Cooperative 2x2 (Commercial ₮)<br>\n- Red-White Village Cooperative 2x3 (Commercial ₮₮)<br>\n- Red-White Village Cooperative Truck (Decoration)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nCredits<br>\nArtist: Ik2931<br>\nArtist: Alveroo<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -9673,19 +9944,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "70.69KB",
-      "bytes": 72387
+      "raw": "73.62KB",
+      "bytes": 75387
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "10 Aug 2026, 12:51",
-    "version": "10",
-    "downloads": 33328,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "13",
+    "downloads": 55832,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 78
+      "count": 98
     }
   },
   {
@@ -10764,16 +11035,16 @@
       "raw": "4.36KB",
       "bytes": 4465
     },
-    "minVersion": "1.11.35",
+    "minVersion": "1.12.49",
     "author": "Arya sancaka",
     "authorId": "1981212",
-    "uploadDate": "02 Aug 2026, 13:43",
-    "version": "11",
-    "downloads": 1199,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "12",
+    "downloads": 1804,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 13
+      "count": 11
     }
   },
   {
@@ -13557,11 +13828,11 @@
     "authorId": "1019836",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "15",
-    "downloads": 19135,
+    "downloads": 19366,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 206
+      "count": 208
     }
   },
   {
@@ -13591,11 +13862,11 @@
     "authorId": "1019836",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "18",
-    "downloads": 14008,
+    "downloads": 14142,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 159
+      "count": 160
     }
   },
   {
@@ -21308,7 +21579,7 @@
     "authorId": "1117299",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "4",
-    "downloads": 22554,
+    "downloads": 22686,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -24096,7 +24367,7 @@
     "authorId": "797723",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "9",
-    "downloads": 25745,
+    "downloads": 25782,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -30080,7 +30351,7 @@
     "authorId": "797723",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "5",
-    "downloads": 9264,
+    "downloads": 9288,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -33242,7 +33513,7 @@
     "authorId": "797723",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "7",
-    "downloads": 5101,
+    "downloads": 5137,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -43486,7 +43757,7 @@
     "name": "Chongqing International Financ",
     "url": "https://forum.theotown.com/plugins/list?term=:12316",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=CUOzDCocY83IW5HG974DVcZMj9UALmJd",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=hrrgcRwNWYAQGWxqkxlNXJgw3NTE4vEx",
     "description": "Chongqing International Finance Square (Chongqing IFS) is located in Jiangbeizui Central Business District, Jiangbei District of Chongqing. It is an urban complex co-invested and developed by Wharf Holdings and China Overseas Property. With a total construction area of about 660,000 square meters, the project consists of five towers, including four Grade A office buildings and one integrated tower housing both office spaces and a five-star hotel, among which Tower T1 stands 300 meters tall. Its commercial area is an 110,000-square-meter shopping mall, home to flagship stores such as Ole' Premium Supermarket and Palace Cinema, covering a variety of business formats including shopping, catering and entertainment. In addition, the project is a property built directly above Jiangbeicheng Station of Metro Line 6 and Line 9, boasting extremely convenient transportation.",
     "descriptionHtml": "Chongqing International Finance Square (Chongqing IFS) is located in Jiangbeizui Central Business District, Jiangbei District of Chongqing. It is an urban complex co-invested and developed by Wharf Holdings and China Overseas Property.<br>\n <br>\nWith a total construction area of about 660,000 square meters, the project consists of five towers, including four Grade A office buildings and one integrated tower housing both office spaces and a five-star hotel, among which Tower T1 stands 300 meters tall. Its commercial area is an 110,000-square-meter shopping mall, home to flagship stores such as Ole' Premium Supermarket and Palace Cinema, covering a variety of business formats including shopping, catering and entertainment. In addition, the project is a property built directly above Jiangbeicheng Station of Metro Line 6 and Line 9, boasting extremely convenient transportation.",
     "category": "Commercial",
@@ -43500,19 +43771,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "77.16KB",
-      "bytes": 79012
+      "raw": "81.67KB",
+      "bytes": 83630
     },
     "minVersion": "Any",
     "author": "WDHQDDDDW",
     "authorId": "1249060",
-    "uploadDate": "14 Sep 2026, 12:40",
-    "version": "3",
-    "downloads": 22106,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "5",
+    "downloads": 23765,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 52
+      "count": 54
     }
   },
   {
@@ -45614,7 +45885,7 @@
     "authorId": "797756",
     "uploadDate": "19 Oct 2026, 16:14",
     "version": "25",
-    "downloads": 20434,
+    "downloads": 20439,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -49414,15 +49685,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "57.87KB",
-      "bytes": 59259
+      "raw": "116.71KB",
+      "bytes": 119511
     },
     "minVersion": "Any",
     "author": "WDHQDDDDW",
     "authorId": "1249060",
-    "uploadDate": "14 Sep 2026, 12:40",
-    "version": "3",
-    "downloads": 13346,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "5",
+    "downloads": 14534,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -52732,9 +53003,9 @@
     "name": "Technology Building",
     "url": "https://forum.theotown.com/plugins/list?term=:11338",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=dkY3U3YAyfE2y7EdWZXegHXEu7GL6ish",
-    "description": "It is a technology building, with its unique design and pioneering creativity as the highlights. It cannot be found in reality and comes with a night view mode.thanks,XiaoMianKu！",
-    "descriptionHtml": "It is a technology building, with its unique design and pioneering creativity as the highlights. It cannot be found in reality and comes with a night view mode.thanks,XiaoMianKu！",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=ciCWcyYVJaV6YHA56tGyi8eLEY5Svozw",
+    "description": "It is a technology building, with its unique design and pioneering creativity as the highlights. It cannot be found in reality and comes with a night view mode.thanks,XiaoMianKu！ This self-designed building has updated night scenes.",
+    "descriptionHtml": "It is a technology building, with its unique design and pioneering creativity as the highlights. It cannot be found in reality and comes with a night view mode.thanks,XiaoMianKu！<br>\n<br>\nThis self-designed building has updated night scenes.",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -52746,19 +53017,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "71.64KB",
-      "bytes": 73359
+      "raw": "81.5KB",
+      "bytes": 83456
     },
     "minVersion": "Any",
     "author": "WDHQDDDDW",
     "authorId": "1249060",
-    "uploadDate": "14 Sep 2026, 12:40",
-    "version": "4",
-    "downloads": 18430,
+    "uploadDate": "4 Nov 2026, 16:53",
+    "version": "6",
+    "downloads": 19616,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 60
+      "count": 61
     }
   },
   {
@@ -75498,11 +75769,11 @@
     "authorId": "15",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "26",
-    "downloads": 567660,
+    "downloads": 567876,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 2856
+      "count": 2857
     }
   },
   {
@@ -107689,7 +107960,7 @@
     "authorId": "113059",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "6",
-    "downloads": 18141,
+    "downloads": 18199,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -118501,7 +118772,7 @@
     "authorId": "113059",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "9",
-    "downloads": 75113,
+    "downloads": 75301,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
