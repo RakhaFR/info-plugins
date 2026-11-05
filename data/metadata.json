@@ -1,13 +1,13 @@
 {
-  "scrapeDate": "2026-11-04T16:53:21.030Z",
-  "totalPlugins": 5108,
+  "scrapeDate": "2026-11-05T17:09:04.560Z",
+  "totalPlugins": 5109,
   "totalPages": 5,
-  "totalDownloads": 430863895,
+  "totalDownloads": 430872488,
   "certifiedCreators": 578,
   "categoryStats": {
+    "Road decoration": 64,
     "Residential": 787,
     "Transport": 269,
-    "Road decoration": 63,
     "Parks, Sports and Management": 361,
     "Themes": 10,
     "Religion and Culture": 270,
@@ -31,9 +31,9 @@
     "Heightmaps": 4
   },
   "ratingStats": {
-    "VERY POSITIVE": 2140,
-    "POSITIVE": 2622,
-    "MIXED": 297,
+    "VERY POSITIVE": 2142,
+    "POSITIVE": 2624,
+    "MIXED": 298,
     "NEGATIVE": 37
   },
   "source": "https://forum.theotown.com/plugins/list"
