@@ -1,5 +1,141 @@
 [
   {
+    "id": "15059",
+    "name": "Bemo Depot",
+    "url": "https://forum.theotown.com/plugins/list?term=:15059",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=gbolFo3PZylnGptxCBaeEgscEXu7hvhN",
+    "description": "Bemo is a three-wheeled motorized vehicle that began to be used as public transport in Indonesia in early 1962 in Jakarta. - Bemo Depot 3x3 (Transportation) - Bemo 1x1 (Decoration) x2 Hope you enjoy the plugin 😊 • Rotate aware • Support diagonal • Night animation • Winter animation • Influence: culture, transport Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Bemo is a three-wheeled motorized vehicle that began to be used as public transport in Indonesia in early 1962 in Jakarta.<br>\n<br>\n- Bemo Depot 3x3 (Transportation)<br>\n- Bemo 1x1 (Decoration) x2<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Support diagonal<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: culture, transport<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
+    "category": "Transport",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "37.89KB",
+      "bytes": 38799
+    },
+    "minVersion": "Any",
+    "author": "Ik2931",
+    "authorId": "1021137",
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "2",
+    "downloads": 65,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "15060",
+    "name": "Indonesia Vintage Bus",
+    "url": "https://forum.theotown.com/plugins/list?term=:15060",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=UHizc9490vvux7m1C1rLc1wU6s08jYkB",
+    "description": "Adding some vintage Indonesian buses to the game. - Metromini (Bus) - Kopaja (Bus) - Metromini 1x1 (Decoration) - Kopaja 1x1 (Decoration) Hope you enjoy the plugin 😊 • Rotate aware • Support diagonal • Night animation Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Adding some vintage Indonesian buses to the game.<br>\n<br>\n- Metromini (Bus)<br>\n- Kopaja (Bus)<br>\n- Metromini 1x1 (Decoration)<br>\n- Kopaja 1x1 (Decoration)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Support diagonal<br>\n• Night animation<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
+    "category": "Transport",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "12.35KB",
+      "bytes": 12646
+    },
+    "minVersion": "Any",
+    "author": "Ik2931",
+    "authorId": "1021137",
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "2",
+    "downloads": 61,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "15065",
+    "name": "Board UI",
+    "url": "https://forum.theotown.com/plugins/list?term=:15065",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=SqQjO7aay6BpdaAalaoOVoqeQ3SYw2zo",
+    "description": "V1 • 28 Oct 2026 Get it for free at: https://yakkaworks.github.io/store/ Give TheoTown a fresh, bright interface with Boards UI! Built around a light palette with soft neutral surfaces and blue accents, this theme offers a clean and approachable look for your menus and windows. Designed for players who prefer a lighter, uncluttered interface. Credits: Lobby & Just Anyone for example. Official Website: https://yakkaworks.github.io/ Customer Support: yakkaworks@gmail.com",
+    "descriptionHtml": "V1 • 28 Oct 2026<br>\nGet it for free at: https://yakkaworks.github.io/store/<br>\n<br>\nGive TheoTown a fresh, bright interface with Boards UI! Built around a light palette with soft neutral surfaces and blue accents, this theme offers a clean and approachable look for your menus and windows. Designed for players who prefer a lighter, uncluttered interface.<br>\n<br>\nCredits: Lobby &amp; Just Anyone for example.<br>\n<br>\nOfficial Website: https://yakkaworks.github.io/<br>\nCustomer Support: yakkaworks@gmail.com",
+    "category": "Themes",
+    "price": {
+      "amount": 40,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "9.67KB",
+      "bytes": 9902
+    },
+    "minVersion": "1.12.95",
+    "author": "Yakka Works",
+    "authorId": "10216",
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "2",
+    "downloads": 15,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15066",
+    "name": "Mono UI",
+    "url": "https://forum.theotown.com/plugins/list?term=:15066",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=2Brb5jtkX1E9Kdro20QkjbfpjSOwXtgS",
+    "description": "V1 • 28 Oct 2026 Get it for free at: https://yakkaworks.github.io/store/ Inspired by the distinctive monochrome aesthetic of Nothing OS, Mono UI brings a clean, minimal look to TheoTown. A restrained grayscale palette and carefully placed blue accents create a modern interface that feels simple without being boring. Credits: Lobby & Just Anyone for example. Official Website: https://yakkaworks.github.io/ Customer Support: yakkaworks@gmail.com",
+    "descriptionHtml": "V1 • 28 Oct 2026<br>\nGet it for free at: https://yakkaworks.github.io/store/<br>\n<br>\nInspired by the distinctive monochrome aesthetic of Nothing OS, Mono UI brings a clean, minimal look to TheoTown. A restrained grayscale palette and carefully placed blue accents create a modern interface that feels simple without being boring.<br>\n<br>\nCredits: Lobby &amp; Just Anyone for example.<br>\n<br>\nOfficial Website: https://yakkaworks.github.io/<br>\nCustomer Support: yakkaworks@gmail.com",
+    "category": "Themes",
+    "price": {
+      "amount": 40,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "18.54KB",
+      "bytes": 18985
+    },
+    "minVersion": "1.12.95",
+    "author": "Yakka Works",
+    "authorId": "10216",
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "2",
+    "downloads": 14,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
     "id": "15057",
     "name": "Vietnam MP ASW Frigate",
     "url": "https://forum.theotown.com/plugins/list?term=:15057",
@@ -26,11 +162,11 @@
     "authorId": "168872",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 37,
+    "downloads": 325,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 5
     }
   },
   {
@@ -60,11 +196,11 @@
     "authorId": "391947",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "5",
-    "downloads": 16,
+    "downloads": 166,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
     }
   },
   {
@@ -94,11 +230,11 @@
     "authorId": "2210544",
     "uploadDate": "7 Nov 2026, 15:27",
     "version": "9",
-    "downloads": 217,
+    "downloads": 276,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 2
+      "count": 3
     }
   },
   {
@@ -128,11 +264,11 @@
     "authorId": "2222374",
     "uploadDate": "7 Nov 2026, 15:27",
     "version": "2",
-    "downloads": 273,
+    "downloads": 333,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
     }
   },
   {
@@ -162,11 +298,11 @@
     "authorId": "2017762",
     "uploadDate": "7 Nov 2026, 15:27",
     "version": "3",
-    "downloads": 388,
+    "downloads": 474,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -196,11 +332,11 @@
     "authorId": "224349",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "10",
-    "downloads": 2479,
+    "downloads": 3169,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 17
+      "count": 20
     }
   },
   {
@@ -230,11 +366,11 @@
     "authorId": "682550",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "2",
-    "downloads": 435,
+    "downloads": 559,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 5
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 6
     }
   },
   {
@@ -264,11 +400,11 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "9",
-    "downloads": 305,
+    "downloads": 386,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 10
+      "count": 12
     }
   },
   {
@@ -298,11 +434,11 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "11",
-    "downloads": 569,
+    "downloads": 701,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -332,11 +468,11 @@
     "authorId": "683743",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "3",
-    "downloads": 1990,
+    "downloads": 2450,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 33
+      "count": 36
     }
   },
   {
@@ -366,11 +502,11 @@
     "authorId": "2060627",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "10",
-    "downloads": 1706,
+    "downloads": 2038,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 34
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 47
     }
   },
   {
@@ -400,7 +536,7 @@
     "authorId": "587116",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "2",
-    "downloads": 404,
+    "downloads": 442,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -434,7 +570,7 @@
     "authorId": "223366",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "7",
-    "downloads": 423,
+    "downloads": 468,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -468,11 +604,11 @@
     "authorId": "1087123",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 1042,
+    "downloads": 1393,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 8
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 11
     }
   },
   {
@@ -502,7 +638,7 @@
     "authorId": "756209",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "4",
-    "downloads": 457,
+    "downloads": 503,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -536,7 +672,7 @@
     "authorId": "81263",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "3",
-    "downloads": 180,
+    "downloads": 208,
     "rating": {
       "score": null,
       "label": null,
@@ -570,7 +706,7 @@
     "authorId": "922636",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 346,
+    "downloads": 392,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -604,11 +740,11 @@
     "authorId": "661822",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 822,
+    "downloads": 899,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 14
+      "count": 16
     }
   },
   {
@@ -638,7 +774,7 @@
     "authorId": "581197",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "6",
-    "downloads": 139,
+    "downloads": 152,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -672,7 +808,7 @@
     "authorId": "490090",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 1550,
+    "downloads": 1684,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -706,7 +842,7 @@
     "authorId": "10216",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 77,
+    "downloads": 86,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,7 +876,7 @@
     "authorId": "1931483",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 831,
+    "downloads": 886,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -774,11 +910,11 @@
     "authorId": "414723",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "4",
-    "downloads": 1505,
+    "downloads": 1682,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 18
+      "count": 20
     }
   },
   {
@@ -808,7 +944,7 @@
     "authorId": "1894841",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "3",
-    "downloads": 525,
+    "downloads": 579,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -842,7 +978,7 @@
     "authorId": "124640",
     "uploadDate": "2 Nov 2026, 19:14",
     "version": "2",
-    "downloads": 297,
+    "downloads": 322,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -876,7 +1012,7 @@
     "authorId": "952975",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 668,
+    "downloads": 706,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -910,7 +1046,7 @@
     "authorId": "682550",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 808,
+    "downloads": 869,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -944,7 +1080,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 79,
+    "downloads": 88,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -978,7 +1114,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 90,
+    "downloads": 101,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1012,7 +1148,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 161,
+    "downloads": 181,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1046,11 +1182,11 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 77,
+    "downloads": 89,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
     }
   },
   {
@@ -1080,7 +1216,7 @@
     "authorId": "816803",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 877,
+    "downloads": 925,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1114,7 +1250,7 @@
     "authorId": "976914",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 2288,
+    "downloads": 2449,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1148,11 +1284,11 @@
     "authorId": "2060627",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 1929,
+    "downloads": 2151,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 22
+      "count": 34
     }
   },
   {
@@ -1182,7 +1318,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 144,
+    "downloads": 160,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1216,7 +1352,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 81,
+    "downloads": 89,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1250,7 +1386,7 @@
     "authorId": "816803",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 1111,
+    "downloads": 1170,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1284,11 +1420,11 @@
     "authorId": "168872",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 1104,
+    "downloads": 1178,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 4
+      "count": 5
     }
   },
   {
@@ -1318,11 +1454,11 @@
     "authorId": "1083156",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "3",
-    "downloads": 1784,
+    "downloads": 1875,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 16
+      "count": 17
     }
   },
   {
@@ -1352,7 +1488,7 @@
     "authorId": "682550",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "2",
-    "downloads": 1508,
+    "downloads": 1633,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1386,11 +1522,11 @@
     "authorId": "149434",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "4",
-    "downloads": 1318,
+    "downloads": 1427,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 10
+      "count": 11
     }
   },
   {
@@ -1420,7 +1556,7 @@
     "authorId": "1283101",
     "uploadDate": "29 Oct 2026, 15:53",
     "version": "4",
-    "downloads": 2427,
+    "downloads": 2500,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1454,11 +1590,11 @@
     "authorId": "816803",
     "uploadDate": "27 Oct 2026, 15:09",
     "version": "2",
-    "downloads": 1825,
+    "downloads": 1868,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -1488,11 +1624,11 @@
     "authorId": "976914",
     "uploadDate": "27 Oct 2026, 15:09",
     "version": "4",
-    "downloads": 7225,
+    "downloads": 7494,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 112
+      "count": 115
     }
   },
   {
@@ -1522,7 +1658,7 @@
     "authorId": "1935308",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 306,
+    "downloads": 319,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1692,7 @@
     "authorId": "343527",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "7",
-    "downloads": 621,
+    "downloads": 662,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1590,11 +1726,11 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "5",
-    "downloads": 382,
+    "downloads": 460,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 12
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 13
     }
   },
   {
@@ -1624,11 +1760,11 @@
     "authorId": "1072072",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 2904,
+    "downloads": 3007,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 13
+      "count": 14
     }
   },
   {
@@ -1658,11 +1794,11 @@
     "authorId": "1169481",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "5",
-    "downloads": 5895,
+    "downloads": 6156,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 54
+      "count": 55
     }
   },
   {
@@ -1692,11 +1828,11 @@
     "authorId": "531460",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "4",
-    "downloads": 1912,
+    "downloads": 1954,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 19
+      "count": 20
     }
   },
   {
@@ -1726,7 +1862,7 @@
     "authorId": "1176101",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 2362,
+    "downloads": 2518,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1760,7 +1896,7 @@
     "authorId": "227382",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "4",
-    "downloads": 318,
+    "downloads": 341,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1794,7 +1930,7 @@
     "authorId": "1931483",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 3621,
+    "downloads": 3704,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1828,11 +1964,11 @@
     "authorId": "1169481",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "4",
-    "downloads": 6615,
+    "downloads": 6863,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 29
+      "count": 30
     }
   },
   {
@@ -1862,7 +1998,7 @@
     "authorId": "587116",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 1019,
+    "downloads": 1048,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1896,7 +2032,7 @@
     "authorId": "587116",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 1171,
+    "downloads": 1209,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1930,7 +2066,7 @@
     "authorId": "682550",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 745,
+    "downloads": 766,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1964,11 +2100,11 @@
     "authorId": "391947",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 579,
+    "downloads": 612,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 5
+      "count": 6
     }
   },
   {
@@ -1998,7 +2134,7 @@
     "authorId": "816803",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 1732,
+    "downloads": 1769,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2134,7 +2270,7 @@
     "authorId": "1249060",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "5",
-    "downloads": 3460,
+    "downloads": 3543,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2236,7 +2372,7 @@
     "authorId": "682550",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "3",
-    "downloads": 3525,
+    "downloads": 3631,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2440,11 +2576,11 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 3578,
+    "downloads": 3739,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 44
+      "count": 45
     }
   },
   {
@@ -2746,7 +2882,7 @@
     "authorId": "2187746",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "3",
-    "downloads": 1490,
+    "downloads": 1515,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2848,11 +2984,11 @@
     "authorId": "741183",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 3914,
+    "downloads": 4055,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 20
+      "count": 21
     }
   },
   {
@@ -3052,11 +3188,11 @@
     "authorId": "1062584",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "11",
-    "downloads": 3844,
+    "downloads": 3949,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 23
+      "count": 24
     }
   },
   {
@@ -3935,7 +4071,7 @@
     "authorId": "1117299",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 10793,
+    "downloads": 11044,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4151,9 +4287,9 @@
     "name": "Leopard 2A8",
     "url": "https://forum.theotown.com/plugins/list?term=:14771",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=MlQsHtJT9LAmwTxeM9qwOVw7V0ORSUxV",
-    "description": "(Note that this plug-in does not include the last two tanks.)The Leopard 2A8 is the latest main battle tank jointly developed by Germany's KMW and Rheinmetall. Based on the Leopard 2A7+, it features deep improvements and is newly manufactured.The size is 2×2, which belongs to the decoration category and the price is one.",
-    "descriptionHtml": "(Note that this plug-in does not include the last two tanks.)The Leopard 2A8 is the latest main battle tank jointly developed by Germany's KMW and Rheinmetall. Based on the Leopard 2A7+, it features deep improvements and is newly manufactured.The size is 2×2, which belongs to the decoration category and the price is one.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=9NbyGMQ45OSZ2wTHEPmFBQsS21rdUW2T",
+    "description": "The Leopard 2A8 is the latest main battle tank jointly developed by Germany's KMW and Rheinmetall. Based on the Leopard 2A7+, it features deep improvements and is newly manufactured.The size is 2×2, which belongs to the decoration category and the price is one.",
+    "descriptionHtml": "The Leopard 2A8 is the latest main battle tank jointly developed by Germany's KMW and Rheinmetall. Based on the Leopard 2A7+, it features deep improvements and is newly manufactured.The size is 2×2, which belongs to the decoration category and the price is one.",
     "category": "Decorations",
     "price": {
       "amount": 35,
@@ -4165,19 +4301,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "3.19KB",
-      "bytes": 3267
+      "raw": "3.2KB",
+      "bytes": 3277
     },
     "minVersion": "Any",
     "author": "KL3266219485",
     "authorId": "2050504",
-    "uploadDate": "28 Sep 2026, 17:23",
-    "version": "2",
-    "downloads": 1370,
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "6",
+    "downloads": 1760,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 9
+      "count": 12
     }
   },
   {
@@ -4479,7 +4615,7 @@
     "authorId": "816803",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "3",
-    "downloads": 2433,
+    "downloads": 2468,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -4717,7 +4853,7 @@
     "authorId": "1931483",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "4",
-    "downloads": 4027,
+    "downloads": 4094,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -5839,7 +5975,7 @@
     "authorId": "626674",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "4",
-    "downloads": 5965,
+    "downloads": 6043,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -6111,7 +6247,7 @@
     "authorId": "2124354",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "17",
-    "downloads": 2819,
+    "downloads": 2860,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -6655,11 +6791,11 @@
     "authorId": "149434",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "4",
-    "downloads": 8579,
+    "downloads": 8756,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 37
+      "count": 38
     }
   },
   {
@@ -8559,7 +8695,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "28",
-    "downloads": 4028,
+    "downloads": 4089,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9001,7 +9137,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "10",
-    "downloads": 19417,
+    "downloads": 19549,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9035,7 +9171,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "11",
-    "downloads": 44194,
+    "downloads": 44251,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9387,9 +9523,9 @@
     "name": "IK High Fence",
     "url": "https://forum.theotown.com/plugins/list?term=:10802",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=JQ0FbvP2AzivbGF2aSjHHqpnZQZ9hYSB",
-    "description": "Same Fences as in game but with double height. – High fence 2 (13 fence, 2 decoration) – High fence 3 (13 fence, 2 decoration) – High fence 4 (13 fence, 2 decoration) Hope you enjoy the plugin 😊 ‎• Support diagonal Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "Same Fences as in game but with double height.<br>\n<br>\n– High fence 2 (13 fence, 2 decoration)<br>\n– High fence 3 (13 fence, 2 decoration)<br>\n– High fence 4 (13 fence, 2 decoration)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n‎• Support diagonal<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=BykwxSS3jg3GUw9ynXsE4H14BIVXnAPu",
+    "description": "Same Fences as in-game (vanilla), but with double height. - High fence 2 (13 fence, 2 decoration) - High fence 3 (13 fence, 2 decoration) - High fence 4 (13 fence, 2 decoration) Hope you enjoy the plugin 😊 • Support diagonal Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Same Fences as in-game (vanilla), but with double height.<br>\n<br>\n- High fence 2 (13 fence, 2 decoration)<br>\n- High fence 3 (13 fence, 2 decoration)<br>\n- High fence 4 (13 fence, 2 decoration)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Support diagonal<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Decorations",
     "price": {
       "amount": 30,
@@ -9401,29 +9537,29 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "143.94KB",
-      "bytes": 147395
+      "raw": "143.93KB",
+      "bytes": 147384
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "16 Aug 2026, 08:10",
-    "version": "8",
-    "downloads": 25443,
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "13",
+    "downloads": 26627,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 107
+      "count": 115
     }
   },
   {
     "id": "10812",
-    "name": "IK Fence Extension",
+    "name": "IK Fence Expansion",
     "url": "https://forum.theotown.com/plugins/list?term=:10812",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=MchmiM6a8y6bi2MntCeBCLZKpNRQG51p",
-    "description": "Some new fences from in-game (vanilla), so you can use them more. – Fence plus (13 fence, 2 decoration) – Public fence (13 fence) – Road fence (28 fence, 1 decoration) – Service fence (7 fence, 3 decoration) – Supply fence (9 fence, 4 decoration) Hope you enjoy the plugin 😊 ‎• Support diagonal ‎• Night animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "Some new fences from in-game (vanilla), so you can use them more.<br>\n<br>\n– Fence plus (13 fence, 2 decoration)<br>\n– Public fence (13 fence)<br>\n– Road fence (28 fence, 1 decoration)<br>\n– Service fence (7 fence, 3 decoration)<br>\n– Supply fence (9 fence, 4 decoration)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n‎• Support diagonal<br>\n‎• Night animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=WiDi2C1AuCqJtbiIXXZAf74M4u0GhKzi",
+    "description": "Some new fences from in-game (vanilla), so you can use them more. - Fence plus (13 fence, 2 decoration) - Public fence (15 fence, 1 decoration) - Road fence (29 fence, 1 decoration) - Service fence (7 fence, 4 decoration) - Supply fence (9 fence, 4 decoration) Hope you enjoy the plugin 😊 • Support diagonal • Night animation • Moving animation Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Some new fences from in-game (vanilla), so you can use them more.<br>\n<br>\n- Fence plus (13 fence, 2 decoration)<br>\n- Public fence (15 fence, 1 decoration)<br>\n- Road fence (29 fence, 1 decoration)<br>\n- Service fence (7 fence, 4 decoration)<br>\n- Supply fence (9 fence, 4 decoration)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Support diagonal<br>\n• Night animation<br>\n• Moving animation<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Decorations",
     "price": {
       "amount": 30,
@@ -9435,19 +9571,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "209.92KB",
-      "bytes": 214958
+      "raw": "221.8KB",
+      "bytes": 227123
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "16 Aug 2026, 08:09",
-    "version": "9",
-    "downloads": 20324,
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "13",
+    "downloads": 24202,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 77
+      "count": 88
     }
   },
   {
@@ -10021,11 +10157,11 @@
     "authorId": "2060627",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "10",
-    "downloads": 6609,
+    "downloads": 6821,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 43
+      "count": 51
     }
   },
   {
@@ -10123,7 +10259,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "27",
-    "downloads": 60163,
+    "downloads": 60248,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10157,7 +10293,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "28",
-    "downloads": 75169,
+    "downloads": 75280,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10191,7 +10327,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "21",
-    "downloads": 186384,
+    "downloads": 186540,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10225,7 +10361,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "22",
-    "downloads": 40091,
+    "downloads": 40164,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10293,7 +10429,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "13",
-    "downloads": 57670,
+    "downloads": 57961,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11381,7 +11517,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "12",
-    "downloads": 1997,
+    "downloads": 2023,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -14169,11 +14305,11 @@
     "authorId": "1019836",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "15",
-    "downloads": 19934,
+    "downloads": 20035,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 218
+      "count": 220
     }
   },
   {
@@ -14203,7 +14339,7 @@
     "authorId": "1019836",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "18",
-    "downloads": 14485,
+    "downloads": 14566,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -33854,7 +33990,7 @@
     "authorId": "797723",
     "uploadDate": "22 Oct 2026, 14:22",
     "version": "7",
-    "downloads": 5262,
+    "downloads": 5298,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -44120,11 +44256,11 @@
     "authorId": "1249060",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 24183,
+    "downloads": 24295,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 58
+      "count": 60
     }
   },
   {
@@ -50034,7 +50170,7 @@
     "authorId": "1249060",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 14902,
+    "downloads": 14969,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -53366,7 +53502,7 @@
     "authorId": "1249060",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "6",
-    "downloads": 19992,
+    "downloads": 20070,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -55418,9 +55554,9 @@
     "name": "Monitor Lizard Monument",
     "url": "https://forum.theotown.com/plugins/list?term=:10520",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=pQCKdvjJBSoH83A1ckb9Y6Fgwq6lZCHo",
-    "description": "Monitor Lizard Monument was built in 2025, located near the Krasak Bridge, a location that was once a monitor lizard habitat, on the Ajibarang–Secang National Highway, Krasak Village, Selomerto, Wonosobo, Indonesia. – Monitor Lizard Monument (Landmark 1x1) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation",
-    "descriptionHtml": "Monitor Lizard Monument was built in 2025, located near the Krasak Bridge, a location that was once a monitor lizard habitat, on the Ajibarang–Secang National Highway, Krasak Village, Selomerto, Wonosobo, Indonesia.<br>\n<br>\n– Monitor Lizard Monument (Landmark 1x1)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=6lE9cmxXXfI2UFPmxRmCae9vmAAWvdms",
+    "description": "Monitor Lizard Monument was built in 2025, located near the Krasak Bridge, a location that was once a monitor lizard habitat, on the Ajibarang–Secang National Highway, Krasak Village, Selomerto, Wonosobo, Indonesia. - Monitor Lizard Monumen 1x1 (Landmark) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation • Influence: park, culture Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Monitor Lizard Monument was built in 2025, located near the Krasak Bridge, a location that was once a monitor lizard habitat, on the Ajibarang–Secang National Highway, Krasak Village, Selomerto, Wonosobo, Indonesia.<br>\n<br>\n- Monitor Lizard Monumen 1x1 (Landmark)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: park, culture<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -55432,19 +55568,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "23.89KB",
-      "bytes": 24463
+      "raw": "21.62KB",
+      "bytes": 22139
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "10 Oct 2025, 16:59",
-    "version": "5",
-    "downloads": 40209,
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "7",
+    "downloads": 42652,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 67
+      "count": 72
     }
   },
   {
@@ -56267,9 +56403,9 @@
     "name": "Jakarta Bajaj Depot",
     "url": "https://forum.theotown.com/plugins/list?term=:10287",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=JWahBb8v3shKU0AU84FwDar8JaI4XnVX",
-    "description": "Bajaj (pronounced Bajai) is the most iconic public transportation in Jakarta, Indonesia. The name bajaj is actually the brand name of the vehicle itself, Bajaj Auto from India. – Red Bajaj Depot (Transportation 3x3) – Bajaj BBG Depot (Transportation 3x3) – Kroya Bajaj Depot (Transportation 3x3) – Maxride Bajaj Depot (Transportation 3x3) – Red Bajaj (Decoration 1x1) – Bajaj BBG (Decoration 1x1) – Kroya Bajaj (Decoration 1x1) – Maxride Bajaj (Decoration 1x1) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "Bajaj (pronounced Bajai) is the most iconic public transportation in Jakarta, Indonesia. The name bajaj is actually the brand name of the vehicle itself, Bajaj Auto from India.<br>\n<br>\n– Red Bajaj Depot (Transportation 3x3)<br>\n– Bajaj BBG Depot (Transportation 3x3)<br>\n– Kroya Bajaj Depot (Transportation 3x3)<br>\n– Maxride Bajaj Depot (Transportation 3x3)<br>\n– Red Bajaj (Decoration 1x1)<br>\n– Bajaj BBG (Decoration 1x1)<br>\n– Kroya Bajaj (Decoration 1x1)<br>\n– Maxride Bajaj (Decoration 1x1)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=a0qfAghrFnIuB5MVFXiTvcdxceIwobaj",
+    "description": "Bajaj (pronounced Bajai) is the most iconic public transportation in Jakarta, Indonesia. The name bajaj is actually the brand name of the vehicle itself, Bajaj Auto from India. - Red Bajaj Depot 3x3 (Transportation) - Bajaj BBG Depot 3x3 (Transportation) - Kroya Bajaj Depot 3x3 (Transportation) - Maxride Bajaj Depot 3x3 (Transportation) - Red Bajaj 1x1 (Decoration) x2 - Bajaj BBG 1x1 (Decoration) x2 - Kroya Bajaj 1x1 (Decoration) x2 - Maxride Bajaj 1x1 (Decoration) x2 Hope you enjoy the plugin 😊 • Rotate aware • Support diagonal • Night animation • Winter animation • Influence: culture, transport Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Bajaj (pronounced Bajai) is the most iconic public transportation in Jakarta, Indonesia. The name bajaj is actually the brand name of the vehicle itself, Bajaj Auto from India.<br>\n<br>\n- Red Bajaj Depot 3x3 (Transportation)<br>\n- Bajaj BBG Depot 3x3 (Transportation)<br>\n- Kroya Bajaj Depot 3x3 (Transportation)<br>\n- Maxride Bajaj Depot 3x3 (Transportation)<br>\n- Red Bajaj 1x1 (Decoration) x2<br>\n- Bajaj BBG 1x1 (Decoration) x2<br>\n- Kroya Bajaj 1x1 (Decoration) x2<br>\n- Maxride Bajaj 1x1 (Decoration) x2<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Support diagonal<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: culture, transport<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Transport",
     "price": {
       "amount": 30,
@@ -56281,19 +56417,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "64.96KB",
-      "bytes": 66519
+      "raw": "65.05KB",
+      "bytes": 66611
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "11 Sep 2026, 16:25",
-    "version": "16",
-    "downloads": 72695,
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "18",
+    "downloads": 75100,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 130
+      "count": 137
     }
   },
   {
@@ -71907,9 +72043,9 @@
     "name": "GUAYAQUIL BANK STADIUM",
     "url": "https://forum.theotown.com/plugins/list?term=:9279",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=n47DB6yaiQ89qRghjv1nuFxNjirpg6vv",
-    "description": "Hello Friends, here is the Banco de Guayaquil stadium, House of the independent of the Valley of Ecuador It has capacity for 20 thousand people and is a 9x9 Plugin. Its template is in accordance with the playing field and comes with an outdoor park to give it a touch. Greetings to my friend from Ecuador Jostin Rodríguez (Srmishi) I hope you like it and support my creations :D Future updates Update: An apology, I put the name of the stadium wrong in the Plugin, I had used a file from a Plugin that had been deleted and it was left with the name Estadio Deportivo Cali, An apology, it is now fixed.",
-    "descriptionHtml": "Hello Friends, here is the Banco de Guayaquil stadium, House of the independent of the Valley of Ecuador <br>\n<br>\nIt has capacity for 20 thousand people and is a 9x9 Plugin. Its template is in accordance with the playing field and comes with an outdoor park to give it a touch.<br>\n<br>\nGreetings to my friend from Ecuador Jostin Rodríguez (Srmishi)<br>\n <br>\nI hope you like it and support my creations :D<br>\nFuture updates<br>\n<br>\nUpdate: An apology, I put the name of the stadium wrong in the Plugin, I had used a file from a Plugin that had been deleted and it was left with the name Estadio Deportivo Cali, An apology, it is now fixed.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=2lIFyVlvInIu6dIU7lNCwJ05mkmG4Yzp",
+    "description": "UPDATE I have updated the Banco de Guayaquil stadium, home of Independiente del Valle of Ecuador. -The following has been updated .The texture of the roofs was improved .New texture for the playing field .New color for the outdoor lawn and its small trees (credit to Lobby for them) .New color and improved texture for the bleachers (they are now a more opaque, less shiny purple color) .New and Modern Night Animation .The exterior shape of the stadium was made symmetrical (the entrance previously protruded more on one side than the other). .The price has been reduced to only 7400 (very economical for your city ^⁠_⁠^) .And the Influence rose to 440 I hope you like this update! I uploaded this plugin over two years ago! Now it's completely new! Date: It has capacity for 20 thousand people and is a 9x9 Plugin. Its template is in accordance with the playing field and comes with an outdoor park to give it a touch. I hope you like it and support my creations :D",
+    "descriptionHtml": "UPDATE <br>\nI have updated the Banco de Guayaquil stadium, home of Independiente del Valle of Ecuador. <br>\n<br>\n-The following has been updated <br>\n.The texture of the roofs was improved <br>\n.New texture for the playing field<br>\n.New color for the outdoor lawn and its small trees (credit to Lobby for them)<br>\n.New color and improved texture for the bleachers (they are now a more opaque, less shiny purple color)<br>\n.New and Modern Night Animation <br>\n.The exterior shape of the stadium was made symmetrical (the entrance previously protruded more on one side than the other).<br>\n.The price has been reduced to only 7400 (very economical for your city ^⁠_⁠^)<br>\n.And the Influence rose to 440<br>\n<br>\nI hope you like this update! I uploaded this plugin over two years ago! Now it's completely new!<br>\n<br>\nDate:<br>\nIt has capacity for 20 thousand people and is a 9x9 Plugin. Its template is in accordance with the playing field and comes with an outdoor park to give it a touch.<br>\n<br>\nI hope you like it and support my creations :D",
     "category": "Parks, Sports and Management",
     "price": {
       "amount": 30,
@@ -71921,19 +72057,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "32.23KB",
-      "bytes": 33004
+      "raw": "38.83KB",
+      "bytes": 39762
     },
     "minVersion": "Any",
     "author": "Franco Ticosa",
     "authorId": "587116",
-    "uploadDate": "24 Nov 2024, 06:53",
-    "version": "5",
-    "downloads": 35381,
+    "uploadDate": "9 Nov 2026, 19:31",
+    "version": "7",
+    "downloads": 37676,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 77
+      "count": 83
     }
   },
   {
@@ -76110,11 +76246,11 @@
     "authorId": "15",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "26",
-    "downloads": 568898,
+    "downloads": 569154,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 2862
+      "count": 2863
     }
   },
   {
@@ -108267,7 +108403,7 @@
     "authorId": "113059",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "6",
-    "downloads": 18319,
+    "downloads": 18343,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -119079,7 +119215,7 @@
     "authorId": "113059",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "9",
-    "downloads": 75762,
+    "downloads": 75870,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
