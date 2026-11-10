@@ -1,5 +1,141 @@
 [
   {
+    "id": "14963",
+    "name": "AUTO Firework",
+    "url": "https://forum.theotown.com/plugins/list?term=:14963",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=BCv5OcjlPSs7xSatYYyiJMQR3VwlOKFC",
+    "description": "Brilliant fireworks displays for your city, complete with the ability to configure the fireworks firing cycle using a handy GUI! More fireworks models will be updated in the near future. * Note: Please ensure your device has sufficient performance, as fireworks is a visually heavy feature! * Plugin by YinDreamX & car by NATCOM.",
+    "descriptionHtml": "Brilliant fireworks displays for your city, complete with the ability to configure the fireworks firing cycle using a handy GUI! More fireworks models will be updated in the near future. <br>\n* Note: Please ensure your device has sufficient performance, as fireworks is a visually heavy feature!<br>\n* Plugin by YinDreamX &amp; car by NATCOM.<br>",
+    "category": "Decorations",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "17.19KB",
+      "bytes": 17603
+    },
+    "minVersion": "Any",
+    "author": "yinx",
+    "authorId": "2060627",
+    "uploadDate": "10 Nov 2026, 16:50",
+    "version": "4",
+    "downloads": 111,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 5
+    }
+  },
+  {
+    "id": "15058",
+    "name": "Unus Annus Tribute",
+    "url": "https://forum.theotown.com/plugins/list?term=:15058",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=OsSMj8RmYlv8isqZjCkIWfhFNZmQWU3W",
+    "description": "In memory and the celebration of Unus Annus' 6th anniversary, I made this plug-in. Currently, it only consists of one item: Hourglass of Mori. Plug-In Specs: Hourglass of Mori - 2x2 building - Ordinal: -3 - Price: 1500 - Monthly Price: 15 - Influence Culture: 15 - Can be built anywhere on land. - Found in the Awards category Future updates: - The casket - Tall black and white roses (maybe not) - Added Requirement: Build big cemetery Credits: - Mark Fischbach (a.k.a \"Markiplier\") and Ethan Nestor (f.k.a \"CrankGameplays\", a.k.a. \"Eef\") for the originators of Unus Annus. - Amy Nelson for the original creator of the Unus Annus logo, (I think? It was cited by some sources on Reddit.) where I based the Hourglass of Mori from. Memento vivere (Remember to live), fellow users and players... Have a nice day ahead. Please don't forget to spread the word, and leave your rating for the plug-in after downloading.",
+    "descriptionHtml": "In memory and the celebration of Unus Annus' 6th anniversary, I made this plug-in.<br>\n<br>\nCurrently, it only consists of one item: Hourglass of Mori.<br>\n<br>\nPlug-In Specs:<br>\n<br>\nHourglass of Mori<br>\n- 2x2 building<br>\n- Ordinal: -3<br>\n- Price: 1500<br>\n- Monthly Price: 15<br>\n- Influence Culture: 15<br>\n- Can be built anywhere on land.<br>\n- Found in the Awards category<br>\n<br>\nFuture updates:<br>\n- The casket<br>\n- Tall black and white roses (maybe not)<br>\n- Added Requirement: Build big cemetery<br>\n<br>\nCredits:<br>\n- Mark Fischbach (a.k.a \"Markiplier\") and Ethan Nestor (f.k.a \"CrankGameplays\", a.k.a. \"Eef\") for the originators of Unus Annus.<br>\n- Amy Nelson for the original creator of the Unus Annus logo, (I think? It was cited by some sources on Reddit.) where I based the Hourglass of Mori from.<br>\n<br>\nMemento vivere (Remember to live), fellow users and players... Have a nice day ahead.<br>\nPlease don't forget to spread the word, and leave your rating for the plug-in after downloading.",
+    "category": "Award and Special",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "3.29KB",
+      "bytes": 3369
+    },
+    "minVersion": "Any",
+    "author": "ThaineXylon",
+    "authorId": "22978",
+    "uploadDate": "10 Nov 2026, 16:50",
+    "version": "2",
+    "downloads": 31,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
+    }
+  },
+  {
+    "id": "15064",
+    "name": "St. Petersburg Commercial Zone",
+    "url": "https://forum.theotown.com/plugins/list?term=:15064",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=9mlTQnRDxtH6Yan8E11knnx9Y4q1bWzi",
+    "description": "Commercial buildings in downtown St. Petersburg, there's a zone and more than 50 buildings that spawn in a line. I used quite a few textures on these buildings, so it's heavier and requires more available space, I used AI to create the Lua script for it to spawn perfectly aligned, and it contains a custom zone.",
+    "descriptionHtml": "Commercial buildings in downtown St. Petersburg, there's a zone and more than 50 buildings that spawn in a line. I used quite a few textures on these buildings, so it's heavier and requires more available space, I used AI to create the Lua script for it to spawn perfectly aligned, and it contains a custom zone.",
+    "category": "Packs",
+    "price": {
+      "amount": 40,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "2.42MB",
+      "bytes": 2537554
+    },
+    "minVersion": "1.12.89",
+    "author": "Cifraent",
+    "authorId": "1102712",
+    "uploadDate": "10 Nov 2026, 16:50",
+    "version": "5",
+    "downloads": 99,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
+    }
+  },
+  {
+    "id": "15012",
+    "name": "Haussman Commercial",
+    "url": "https://forum.theotown.com/plugins/list?term=:15012",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=x9OehYRiqawozTLSCmx2E8oCYOo0kyvJ",
+    "description": "A commercial inspired by Haussmann architecture, a style that is French but, because it's beautiful, looks good in any city, so I created my own with a personalized area, They spawn perfectly aligned with each other in the zone, I used AI to make it work correctly, I used quite a lot of textures, so the high memory consumption is high.",
+    "descriptionHtml": "A commercial inspired by Haussmann architecture, a style that is French but, because it's beautiful, looks good in any city, so I created my own with a personalized area, They spawn perfectly aligned with each other in the zone, I used AI to make it work correctly, I used quite a lot of textures, so the high memory consumption is high.",
+    "category": "Packs",
+    "price": {
+      "amount": 40,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "5.01MB",
+      "bytes": 5253366
+    },
+    "minVersion": "1.12.89",
+    "author": "Cifraent",
+    "authorId": "1102712",
+    "uploadDate": "10 Nov 2026, 16:50",
+    "version": "11",
+    "downloads": 101,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
+    }
+  },
+  {
     "id": "15059",
     "name": "Bemo Depot",
     "url": "https://forum.theotown.com/plugins/list?term=:15059",
@@ -26,11 +162,11 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 65,
+    "downloads": 168,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 2
     }
   },
   {
@@ -60,11 +196,11 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 61,
+    "downloads": 172,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 4
     }
   },
   {
@@ -94,7 +230,7 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 15,
+    "downloads": 32,
     "rating": {
       "score": null,
       "label": null,
@@ -128,11 +264,11 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 14,
+    "downloads": 36,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 1.5,
+      "label": "VERY NEGATIVE",
+      "count": 1
     }
   },
   {
@@ -162,7 +298,7 @@
     "authorId": "168872",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 325,
+    "downloads": 444,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -196,11 +332,11 @@
     "authorId": "391947",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "5",
-    "downloads": 166,
+    "downloads": 217,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 1
+      "score": 3,
+      "label": "MIXED",
+      "count": 2
     }
   },
   {
@@ -230,7 +366,7 @@
     "authorId": "2210544",
     "uploadDate": "7 Nov 2026, 15:27",
     "version": "9",
-    "downloads": 276,
+    "downloads": 311,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -264,7 +400,7 @@
     "authorId": "2222374",
     "uploadDate": "7 Nov 2026, 15:27",
     "version": "2",
-    "downloads": 333,
+    "downloads": 369,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -277,11 +413,11 @@
     "url": "https://forum.theotown.com/plugins/list?term=:14951",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=cnAQQGli7s4SFg6S3sT0GAccQbRcCe5X",
-    "description": "New disaster - \"Lightning Strike\". Adds a Lightning strike to the game with the following features: - Random lightning sounds - Custom settings (shake power, notifications) This will not be the last update. More updates are coming soon.",
-    "descriptionHtml": "New disaster - \"Lightning Strike\".<br>\nAdds a Lightning strike to the game with the following features:<br>\n- Random lightning sounds<br>\n- Custom settings (shake power, notifications)<br>\nThis will not be the last update. More updates are coming soon.",
+    "description": "New natural disaster - Lightning Strike includes a new catastrophe Removed: - Changed: - fixed notification cooldown - Icon instead of a cleaner(worker) to a lightning icon/ Added: - New settings (Screen Shake; Shake Power; Show Notifications; Lightning Duration; Sound Volume; Cooldown) - Added translation of settings into: Russian; Indonesian",
+    "descriptionHtml": "New natural disaster - Lightning Strike<br>\nincludes a new catastrophe<br>\n<br>\nRemoved:<br>\n-<br>\n<br>\nChanged:<br>\n- fixed notification cooldown<br>\n- Icon instead of a cleaner(worker) to a lightning icon/<br>\n<br>\nAdded:<br>\n- New settings (Screen Shake; Shake Power; Show Notifications; Lightning Duration; Sound Volume; Cooldown)<br>\n- Added translation of settings into: Russian; Indonesian",
     "category": "Tools",
     "price": {
-      "amount": 45,
+      "amount": 30,
       "currency": "diamonds"
     },
     "platforms": [
@@ -290,15 +426,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "939.5KB",
-      "bytes": 962048
+      "raw": "940.17KB",
+      "bytes": 962734
     },
     "minVersion": "1.12.91",
     "author": "CSmiwar-kt",
     "authorId": "2017762",
-    "uploadDate": "7 Nov 2026, 15:27",
-    "version": "3",
-    "downloads": 474,
+    "uploadDate": "10 Nov 2026, 16:50",
+    "version": "5",
+    "downloads": 588,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -332,11 +468,11 @@
     "authorId": "224349",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "10",
-    "downloads": 3169,
+    "downloads": 3547,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 20
+      "count": 21
     }
   },
   {
@@ -366,7 +502,7 @@
     "authorId": "682550",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "2",
-    "downloads": 559,
+    "downloads": 622,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -400,11 +536,11 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "9",
-    "downloads": 386,
+    "downloads": 416,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -434,11 +570,11 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "11",
-    "downloads": 701,
+    "downloads": 764,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 19
+      "count": 21
     }
   },
   {
@@ -468,7 +604,7 @@
     "authorId": "683743",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "3",
-    "downloads": 2450,
+    "downloads": 2703,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -481,8 +617,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:14923",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=rvDzX84nBCX4GBbnvRCGX8nl0HzzXtrl",
-    "description": "Automatic gate for roads (even railway lines!). * AUTO Gate by YinDreamX User Guide: Tap the road icon with a barrier on the left side of the screen to enter barrier building mode, then tap the road tile where you want to build the automatic barrier gate. It's that simple! * Plugin by YinDreamX.",
-    "descriptionHtml": "Automatic gate for roads (even railway lines!).<br>\n* AUTO Gate by YinDreamX User Guide: Tap the road icon with a barrier on the left side of the screen to enter barrier building mode, then tap the road tile where you want to build the automatic barrier gate. It's that simple!<br>\n* Plugin by YinDreamX.<br>",
+    "description": "Automatic gate for roads (even railway lines!). * User Guide: Tap the road icon with a barrier on the left side of the screen to enter barrier building mode, then tap the road tile where you want to build the automatic barrier gate. * To delete, please select the fence deletion item! The barrier works on all road types, but both ends must have at least 3 road tiles for the sensor to function. The plugin will automatically calculate and only allow you to place it down when the conditions are met! * Plugin by YinDreamX.",
+    "descriptionHtml": "Automatic gate for roads (even railway lines!).<br>\n* User Guide: Tap the road icon with a barrier on the left side of the screen to enter barrier building mode, then tap the road tile where you want to build the automatic barrier gate.<br>\n* To delete, please select the fence deletion item! The barrier works on all road types, but both ends must have at least 3 road tiles for the sensor to function. The plugin will automatically calculate and only allow you to place it down when the conditions are met!<br>\n* Plugin by YinDreamX.<br>",
     "category": "Road decoration",
     "price": {
       "amount": 30,
@@ -494,19 +630,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "13.87KB",
-      "bytes": 14203
+      "raw": "13.28KB",
+      "bytes": 13599
     },
     "minVersion": "1.11.40",
     "author": "yinx",
     "authorId": "2060627",
-    "uploadDate": "5 Nov 2026, 17:08",
-    "version": "10",
-    "downloads": 2038,
+    "uploadDate": "10 Nov 2026, 16:50",
+    "version": "12",
+    "downloads": 2340,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 47
+      "count": 51
     }
   },
   {
@@ -536,7 +672,7 @@
     "authorId": "587116",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "2",
-    "downloads": 442,
+    "downloads": 472,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -570,7 +706,7 @@
     "authorId": "223366",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "7",
-    "downloads": 468,
+    "downloads": 500,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -604,7 +740,7 @@
     "authorId": "1087123",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 1393,
+    "downloads": 1547,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,7 +774,7 @@
     "authorId": "756209",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "4",
-    "downloads": 503,
+    "downloads": 518,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -672,7 +808,7 @@
     "authorId": "81263",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "3",
-    "downloads": 208,
+    "downloads": 222,
     "rating": {
       "score": null,
       "label": null,
@@ -706,7 +842,7 @@
     "authorId": "922636",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 392,
+    "downloads": 411,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -740,7 +876,7 @@
     "authorId": "661822",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 899,
+    "downloads": 944,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -774,7 +910,7 @@
     "authorId": "581197",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "6",
-    "downloads": 152,
+    "downloads": 163,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -808,7 +944,7 @@
     "authorId": "490090",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 1684,
+    "downloads": 1775,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -842,7 +978,7 @@
     "authorId": "10216",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 86,
+    "downloads": 93,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -876,7 +1012,7 @@
     "authorId": "1931483",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 886,
+    "downloads": 925,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -910,7 +1046,7 @@
     "authorId": "414723",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "4",
-    "downloads": 1682,
+    "downloads": 1789,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +1080,7 @@
     "authorId": "1894841",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "3",
-    "downloads": 579,
+    "downloads": 608,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -978,7 +1114,7 @@
     "authorId": "124640",
     "uploadDate": "2 Nov 2026, 19:14",
     "version": "2",
-    "downloads": 322,
+    "downloads": 334,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1012,7 +1148,7 @@
     "authorId": "952975",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 706,
+    "downloads": 728,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1046,7 +1182,7 @@
     "authorId": "682550",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 869,
+    "downloads": 904,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1080,7 +1216,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 88,
+    "downloads": 96,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1114,7 +1250,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 101,
+    "downloads": 107,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1284,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 181,
+    "downloads": 192,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1182,7 +1318,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 89,
+    "downloads": 94,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1216,7 +1352,7 @@
     "authorId": "816803",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 925,
+    "downloads": 950,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1250,11 +1386,11 @@
     "authorId": "976914",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 2449,
+    "downloads": 2542,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 30
+      "count": 32
     }
   },
   {
@@ -1284,11 +1420,11 @@
     "authorId": "2060627",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 2151,
+    "downloads": 2323,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 34
+      "count": 37
     }
   },
   {
@@ -1318,11 +1454,11 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 160,
+    "downloads": 168,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -1352,7 +1488,7 @@
     "authorId": "10216",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 89,
+    "downloads": 95,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1386,7 +1522,7 @@
     "authorId": "816803",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 1170,
+    "downloads": 1196,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1420,7 +1556,7 @@
     "authorId": "168872",
     "uploadDate": "1 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 1178,
+    "downloads": 1223,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1454,7 +1590,7 @@
     "authorId": "1083156",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "3",
-    "downloads": 1875,
+    "downloads": 1931,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1488,7 +1624,7 @@
     "authorId": "682550",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "2",
-    "downloads": 1633,
+    "downloads": 1707,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1522,7 +1658,7 @@
     "authorId": "149434",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "4",
-    "downloads": 1427,
+    "downloads": 1486,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1556,7 +1692,7 @@
     "authorId": "1283101",
     "uploadDate": "29 Oct 2026, 15:53",
     "version": "4",
-    "downloads": 2500,
+    "downloads": 2556,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1590,7 +1726,7 @@
     "authorId": "816803",
     "uploadDate": "27 Oct 2026, 15:09",
     "version": "2",
-    "downloads": 1868,
+    "downloads": 1891,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1624,7 +1760,7 @@
     "authorId": "976914",
     "uploadDate": "27 Oct 2026, 15:09",
     "version": "4",
-    "downloads": 7494,
+    "downloads": 7642,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1658,7 +1794,7 @@
     "authorId": "1935308",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 319,
+    "downloads": 324,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,7 +1828,7 @@
     "authorId": "343527",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "7",
-    "downloads": 662,
+    "downloads": 691,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1726,11 +1862,11 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "5",
-    "downloads": 460,
+    "downloads": 501,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 13
+      "score": 3,
+      "label": "MIXED",
+      "count": 14
     }
   },
   {
@@ -1760,7 +1896,7 @@
     "authorId": "1072072",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 3007,
+    "downloads": 3088,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1794,7 +1930,7 @@
     "authorId": "1169481",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "5",
-    "downloads": 6156,
+    "downloads": 6291,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1828,7 +1964,7 @@
     "authorId": "531460",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "4",
-    "downloads": 1954,
+    "downloads": 1974,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1862,11 +1998,11 @@
     "authorId": "1176101",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "2",
-    "downloads": 2518,
+    "downloads": 2623,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 17
+      "count": 19
     }
   },
   {
@@ -1896,7 +2032,7 @@
     "authorId": "227382",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "4",
-    "downloads": 341,
+    "downloads": 357,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1930,7 +2066,7 @@
     "authorId": "1931483",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 3704,
+    "downloads": 3750,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1964,7 +2100,7 @@
     "authorId": "1169481",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "4",
-    "downloads": 6863,
+    "downloads": 7065,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1998,7 +2134,7 @@
     "authorId": "587116",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 1048,
+    "downloads": 1070,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2032,7 +2168,7 @@
     "authorId": "587116",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 1209,
+    "downloads": 1227,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2066,7 +2202,7 @@
     "authorId": "682550",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 766,
+    "downloads": 775,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2100,7 +2236,7 @@
     "authorId": "391947",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 612,
+    "downloads": 624,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2134,7 +2270,7 @@
     "authorId": "816803",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "2",
-    "downloads": 1769,
+    "downloads": 1793,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2270,7 +2406,7 @@
     "authorId": "1249060",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "5",
-    "downloads": 3543,
+    "downloads": 3614,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2576,7 +2712,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 3739,
+    "downloads": 3829,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2882,7 +3018,7 @@
     "authorId": "2187746",
     "uploadDate": "25 Oct 2026, 07:31",
     "version": "3",
-    "downloads": 1515,
+    "downloads": 1529,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2984,7 +3120,7 @@
     "authorId": "741183",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 4055,
+    "downloads": 4148,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -3188,7 +3324,7 @@
     "authorId": "1062584",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "11",
-    "downloads": 3949,
+    "downloads": 4033,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4071,7 +4207,7 @@
     "authorId": "1117299",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 11044,
+    "downloads": 11169,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4309,11 +4445,11 @@
     "authorId": "2050504",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "6",
-    "downloads": 1760,
+    "downloads": 1859,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -4615,7 +4751,7 @@
     "authorId": "816803",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "3",
-    "downloads": 2468,
+    "downloads": 2482,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -6247,7 +6383,7 @@
     "authorId": "2124354",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "17",
-    "downloads": 2860,
+    "downloads": 2878,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -6791,11 +6927,11 @@
     "authorId": "149434",
     "uploadDate": "1 Nov 2026, 09:03",
     "version": "4",
-    "downloads": 8756,
+    "downloads": 8882,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 38
+      "count": 39
     }
   },
   {
@@ -8695,7 +8831,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "28",
-    "downloads": 4089,
+    "downloads": 4127,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9137,7 +9273,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "10",
-    "downloads": 19549,
+    "downloads": 19648,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9171,11 +9307,11 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "11",
-    "downloads": 44251,
+    "downloads": 44290,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 54
+      "count": 55
     }
   },
   {
@@ -9545,11 +9681,11 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 26627,
+    "downloads": 26709,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 115
+      "count": 116
     }
   },
   {
@@ -9579,11 +9715,11 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 24202,
+    "downloads": 24464,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 88
+      "count": 92
     }
   },
   {
@@ -10157,11 +10293,11 @@
     "authorId": "2060627",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "10",
-    "downloads": 6821,
+    "downloads": 6938,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 51
+      "count": 54
     }
   },
   {
@@ -10259,11 +10395,11 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "27",
-    "downloads": 60248,
+    "downloads": 60325,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 138
+      "count": 139
     }
   },
   {
@@ -10293,7 +10429,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "28",
-    "downloads": 75280,
+    "downloads": 75368,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10327,7 +10463,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "21",
-    "downloads": 186540,
+    "downloads": 186700,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10361,11 +10497,11 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "22",
-    "downloads": 40164,
+    "downloads": 40235,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 78
+      "count": 79
     }
   },
   {
@@ -10429,11 +10565,11 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "13",
-    "downloads": 57961,
+    "downloads": 58203,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 102
+      "count": 103
     }
   },
   {
@@ -11517,7 +11653,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "12",
-    "downloads": 2023,
+    "downloads": 2033,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -14305,7 +14441,7 @@
     "authorId": "1019836",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "15",
-    "downloads": 20035,
+    "downloads": 20131,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -14339,7 +14475,7 @@
     "authorId": "1019836",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "18",
-    "downloads": 14566,
+    "downloads": 14627,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -44256,7 +44392,7 @@
     "authorId": "1249060",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 24295,
+    "downloads": 24346,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -50170,7 +50306,7 @@
     "authorId": "1249060",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 14969,
+    "downloads": 15009,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -53502,7 +53638,7 @@
     "authorId": "1249060",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "6",
-    "downloads": 20070,
+    "downloads": 20134,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -55576,7 +55712,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "7",
-    "downloads": 42652,
+    "downloads": 42764,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -56425,11 +56561,11 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "18",
-    "downloads": 75100,
+    "downloads": 75226,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 137
+      "count": 138
     }
   },
   {
@@ -72065,11 +72201,11 @@
     "authorId": "587116",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "7",
-    "downloads": 37676,
+    "downloads": 37867,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 83
+      "count": 84
     }
   },
   {
@@ -76246,7 +76382,7 @@
     "authorId": "15",
     "uploadDate": "26 Oct 2026, 15:53",
     "version": "26",
-    "downloads": 569154,
+    "downloads": 569303,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -108403,7 +108539,7 @@
     "authorId": "113059",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "6",
-    "downloads": 18343,
+    "downloads": 18357,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -119215,7 +119351,7 @@
     "authorId": "113059",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "9",
-    "downloads": 75870,
+    "downloads": 75930,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
