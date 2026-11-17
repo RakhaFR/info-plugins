@@ -1,10 +1,11 @@
 {
-  "scrapeDate": "2026-11-16T19:19:01.017Z",
-  "totalPlugins": 5144,
+  "scrapeDate": "2026-11-17T18:12:27.018Z",
+  "totalPlugins": 5145,
   "totalPages": 5,
-  "totalDownloads": 430954436,
+  "totalDownloads": 430965417,
   "certifiedCreators": 578,
   "categoryStats": {
+    "Heightmaps": 5,
     "Residential": 790,
     "Decorations": 436,
     "Religion and Culture": 271,
@@ -27,14 +28,13 @@
     "Road": 98,
     "Weather and Overlay": 11,
     "Scenarios": 3,
-    "Shaders": 18,
-    "Heightmaps": 4
+    "Shaders": 18
   },
   "ratingStats": {
-    "VERY POSITIVE": 2166,
-    "POSITIVE": 2633,
+    "VERY POSITIVE": 2167,
+    "POSITIVE": 2632,
     "NEGATIVE": 38,
-    "MIXED": 302
+    "MIXED": 303
   },
   "source": "https://forum.theotown.com/plugins/list"
 }
