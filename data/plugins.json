@@ -1,5 +1,243 @@
 [
   {
+    "id": "15099",
+    "name": "the great mosque of Palembang",
+    "url": "https://forum.theotown.com/plugins/list?term=:15099",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=vADq90U1zpOjj81h1e1FthOko5Vk7MeS",
+    "description": "The Grand Mosque of Sultan Mahmud Badaruddin I Jayo Wikramo is the largest and oldest mosque in Palembang, South Sumatra. Founded in the 18th century by Sultan Mahmud Badaruddin I, this legendary mosque is located in the city center and symbolizes the rich cultural acculturation of the Land of Srivijaya. - size 10x10 - cultural and religious buildings - night mode (on) have a nice day :)",
+    "descriptionHtml": "The Grand Mosque of Sultan Mahmud Badaruddin I Jayo Wikramo is the largest and oldest mosque in Palembang, South Sumatra. Founded in the 18th century by Sultan Mahmud Badaruddin I, this legendary mosque is located in the city center and symbolizes the rich cultural acculturation of the Land of Srivijaya. <br>\n- size 10x10<br>\n- cultural and religious buildings <br>\n- night mode (on)<br>\nhave a nice day :)",
+    "category": "Religion and Culture",
+    "price": {
+      "amount": 60,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "93.07KB",
+      "bytes": 95304
+    },
+    "minVersion": "Any",
+    "author": "fikriardi~",
+    "authorId": "1894841",
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "2",
+    "downloads": 42,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "15100",
+    "name": "New military battle pack",
+    "url": "https://forum.theotown.com/plugins/list?term=:15100",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=QnzeV3uUlZpJQJbZrAQWT95860Iy754S",
+    "description": "This is my newest military plugin. It has 5 buildings. The main building is a 9x9 military plugin, it has influence on police and management. It costs 2500. It generates 4 service cars. The second building is a 6x6 building and has 4 frames. It has influence on police and management and generates 2 service vehicles, and costs 950. The other three buildings are for category decoration. The first building is my fictional launch rocket (1x1) with two frames. The second is newest version of my tanks (2x2) with two frames. The last is a new formation tanks (4x4) with two frames. All three cat_decoration buildings costs 35 and hasn't monthly price. The two cat_military buildings have my own turret that I modified. The two cat_military buildings have monthly price and performance and necessity roads. The three cat_decoration buildings don't necessity roads. I created the thumbnail of this plugin using ibis paint, then I added the two military figures from the forum, world texture (world_0_0.png) so credit to Theotown and Lobby",
+    "descriptionHtml": "This is my newest military plugin. It has 5 buildings. The main building is a 9x9 military plugin, it has influence on police and management. It costs 2500. It generates 4 service cars. The second building is a 6x6 building and has 4 frames. It has influence on police and management and generates 2 service vehicles, and costs 950. The other three buildings are for category decoration. The first building is my fictional launch rocket (1x1) with two frames. The second is newest version of my tanks (2x2) with two frames. The last is a new formation tanks (4x4) with two frames. All three cat_decoration buildings costs 35 and hasn't monthly price. The two cat_military buildings have my own turret that I modified. The two cat_military buildings have monthly price and performance and necessity roads. The three cat_decoration buildings don't necessity roads.<br>\n<br>\nI created the thumbnail of this plugin using ibis paint, then I added the two military figures from the forum, world texture (world_0_0.png) so credit to Theotown and Lobby",
+    "category": "Packs",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "410.52KB",
+      "bytes": 420372
+    },
+    "minVersion": "Any",
+    "author": "S.S.C.A.F",
+    "authorId": "682550",
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "3",
+    "downloads": 38,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "15111",
+    "name": "MIRABILIA TOWERS",
+    "url": "https://forum.theotown.com/plugins/list?term=:15111",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=ZZg51uosXh0MoheISGFbuEKvw9GR2oFj",
+    "description": "Hello, this is Franco Ticosa And I've created another add-on for my country, Argentina! In this case, it is the Mirabilia Towers, luxurious apartment towers located in the Palermo neighborhood. These are two almost identical towers (with little difference), And at approximately 130-140 meters It has a small area at its base with a swimming pool, underground parking, and a tennis court. The plugin is 5x5 in size and features Night Animation and Transparent Flooring (where I recommend putting Grass) Oh, and it's a Level 3 Residential property, hehe. I hope you like this plugin and thank you for downloading it. Greetings to the people of beautiful Palermo",
+    "descriptionHtml": "Hello, this is Franco Ticosa <br>\nAnd I've created another add-on for my country, Argentina!<br>\n<br>\nIn this case, it is the Mirabilia Towers, luxurious apartment towers located in the Palermo neighborhood.<br>\nThese are two almost identical towers (with little difference), And at approximately 130-140 meters <br>\nIt has a small area at its base with a swimming pool, underground parking, and a tennis court. <br>\n<br>\nThe plugin is 5x5 in size and features Night Animation and Transparent Flooring (where I recommend putting Grass)<br>\nOh, and it's a Level 3 Residential property, hehe.<br>\n<br>\nI hope you like this plugin and thank you for downloading it. <br>\nGreetings to the people of beautiful Palermo",
+    "category": "Residential",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "82.93KB",
+      "bytes": 84920
+    },
+    "minVersion": "Any",
+    "author": "Franco Ticosa",
+    "authorId": "587116",
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "2",
+    "downloads": 71,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "15107",
+    "name": "Improved Road Decoration",
+    "url": "https://forum.theotown.com/plugins/list?term=:15107",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=sCPy7qxz5fff2FOybut0gL13ZkJHxbHI",
+    "description": "Hello everyone, this is my first plugin that I upload to the plugin store, but this is not my very first plugin. After downloading this plugin, you will be able to use curbs and road signs. Curbs have several versions, regular, diagonal, and semi-diagonal. The border has 5 colors in total: Gray, Black and White, Yellow and Green, Red and white, Blue and white. I recommend using this plugin with plug-ins: Advanced Road, Advanced Road add-on, and Invisible roads. I also want to warn you that the plugin may contain minor flaws, but this will be fixed in the next updates, as well as more content will be added in future updates. Thank you: Mew_uwu - for providing the texture of the Advanced Road plugin. Ostrovsk - for your help in creating the plugin.",
+    "descriptionHtml": "Hello everyone, this is my first plugin that I upload to the plugin store, but this is not my very first plugin.<br>\n<br>\nAfter downloading this plugin, you will be able to use curbs and road signs. Curbs have several versions, regular, diagonal, and semi-diagonal.<br>\n<br>\nThe border has 5 colors in total:<br>\nGray,<br>\nBlack and White,<br>\nYellow and Green,<br>\nRed and white,<br>\nBlue and white.<br>\n<br>\nI recommend using this plugin with plug-ins: Advanced Road, Advanced Road add-on, and Invisible roads.<br>\n<br>\nI also want to warn you that the plugin may contain minor flaws, but this will be fixed in the next updates, as well as more content will be added in future updates.<br>\n<br>\nThank you:<br>\nMew_uwu - for providing the texture of the Advanced Road plugin.<br>\nOstrovsk - for your help in creating the plugin.",
+    "category": "Road decoration",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "169.04KB",
+      "bytes": 173097
+    },
+    "minVersion": "Any",
+    "author": "YzionTX",
+    "authorId": "1306769",
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "2",
+    "downloads": 73,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 4
+    }
+  },
+  {
+    "id": "15108",
+    "name": "J-11Afighter",
+    "url": "https://forum.theotown.com/plugins/list?term=:15108",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=HztAij7XNeTeOaJXtTb9Hj9T0cXlGs3O",
+    "description": "The J-11A is the Chinese license-built version of the Soviet-designed Sukhoi Su-27SK air superiority fighter, manufactured by the Shenyang Aircraft Corporation (SAC).‌ It is a single-seat, twin-engine heavy fighter that entered service with the People's Liberation Army Air Force (PLAAF) in the late 1990s, forming the initial batch of China's Flanker fleet.In the game, the size is 2×2, which belongs to decoration and the price is 1T.",
+    "descriptionHtml": "The J-11A is the Chinese license-built version of the Soviet-designed Sukhoi Su-27SK air superiority fighter, manufactured by the Shenyang Aircraft Corporation (SAC).‌ It is a single-seat, twin-engine heavy fighter that entered service with the People's Liberation Army Air Force (PLAAF) in the late 1990s, forming the initial batch of China's Flanker fleet.In the game, the size is 2×2, which belongs to decoration and the price is 1T.",
+    "category": "Decorations",
+    "price": {
+      "amount": 31,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "3.7KB",
+      "bytes": 3789
+    },
+    "minVersion": "1.12.80",
+    "author": "KL3266219485",
+    "authorId": "2050504",
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "2",
+    "downloads": 34,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15106",
+    "name": "Dark Wires: An OPT Addition",
+    "url": "https://forum.theotown.com/plugins/list?term=:15106",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=qi474hFkyrNCXHZ8LthTCi5XVxjQMNT2",
+    "description": "Hello everyone, friends! 🍁⚡ Let me present the first addition to Ostrovsk Public Transport: Dark Wires — a darkened version of the Contact Network from Ostrovsk Public Transport. The wires are darker and more contrasting, making them stand out clearly on the map and preventing them from getting lost among roads and buildings 💪🏻 Features: Standalone plugin — Ostrovsk Public Transport is not required. An addition for those who prefer dark Contact Network. Fully compatible with Advanced Railway, Advanced Road, and other plugins, just like the Contact Network in OPT III. You can also join my new Discord server (which opened recently) — the first official home for all my plugins! 💫 Plugin ideas, suggestions, bug reports, feedback, community discussions, and the latest update news are now all in one place: https://discord.gg/XAPaKS3TE",
+    "descriptionHtml": "Hello everyone, friends! 🍁⚡<br>\n<br>\nLet me present the first addition to Ostrovsk Public Transport: Dark Wires — a darkened version of the Contact Network from Ostrovsk Public Transport.<br>\n<br>\nThe wires are darker and more contrasting, making them stand out clearly on the map and preventing them from getting lost among roads and buildings 💪🏻<br>\n<br>\nFeatures:<br>\n<br>\nStandalone plugin — Ostrovsk Public Transport is not required.<br>\n<br>\nAn addition for those who prefer dark Contact Network.<br>\n<br>\nFully compatible with Advanced Railway, Advanced Road, and other plugins, just like the Contact Network in OPT III.<br>\n<br>\nYou can also join my new Discord server (which opened recently) — the first official home for all my plugins! 💫<br>\n<br>\nPlugin ideas, suggestions, bug reports, feedback, community discussions, and the latest update news are now all in one place:<br>\nhttps://discord.gg/XAPaKS3TE",
+    "category": "Road decoration",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "26.88KB",
+      "bytes": 27525
+    },
+    "minVersion": "Any",
+    "author": "Ostrovsk",
+    "authorId": "601724",
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "3",
+    "downloads": 48,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "14990",
+    "name": "City Lens",
+    "url": "https://forum.theotown.com/plugins/list?term=:14990",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=nDfh22vpcA6wzqJAJI4UaPc0Ouh8C6BM",
+    "description": "City Lens 1.0 Inspect, plan and navigate your city with three useful tools. Scan Check service influence and building conditions in an area up to 256×256 tiles. Find missing road connections, accumulated waste, abandoned buildings and other problems. Browse the results, jump to a building and highlight its tile. Choose a low service influence threshold of 25%, 50% or 75%. Ruler Select two tiles to measure width, height, area and straight-line distance. Handy for planning blocks, parks and construction sites. My Places Save up to 50 named locations per city. Quickly return to them, rename them or delete them. Places are saved privately on your device and persist between sessions without saving the city. Works in local and online cities, including visits to other players’ cities. In your own city, open Construction > All > City Lens. When visiting another player’s city, use the City Lens sidebar icon. English and Russian interface.",
+    "descriptionHtml": "City Lens 1.0<br>\n<br>\nInspect, plan and navigate your city with three useful tools.<br>\n<br>\nScan<br>\nCheck service influence and building conditions in an area up to 256×256 tiles. Find missing road connections, accumulated waste, abandoned buildings and other problems. Browse the results, jump to a building and highlight its tile. Choose a low service influence threshold of 25%, 50% or 75%.<br>\n<br>\nRuler<br>\nSelect two tiles to measure width, height, area and straight-line distance. Handy for planning blocks, parks and construction sites.<br>\n<br>\nMy Places<br>\nSave up to 50 named locations per city. Quickly return to them, rename them or delete them. Places are saved privately on your device and persist between sessions without saving the city.<br>\n<br>\nWorks in local and online cities, including visits to other players’ cities. In your own city, open Construction &gt; All &gt; City Lens. When visiting another player’s city, use the City Lens sidebar icon. English and Russian interface.",
+    "category": "Tools",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "36.67KB",
+      "bytes": 37550
+    },
+    "minVersion": "1.12.18",
+    "author": "ОЛЕГАТОР2006",
+    "authorId": "10174",
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "5",
+    "downloads": 60,
+    "rating": {
+      "score": 3,
+      "label": "MIXED",
+      "count": 2
+    }
+  },
+  {
     "id": "15101",
     "name": "Mercator world heightmap",
     "url": "https://forum.theotown.com/plugins/list?term=:15101",
@@ -26,11 +264,11 @@
     "authorId": "756209",
     "uploadDate": "17 Nov 2026, 18:12",
     "version": "2",
-    "downloads": 1055,
+    "downloads": 1595,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 9
+      "count": 11
     }
   },
   {
@@ -60,11 +298,11 @@
     "authorId": "587116",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 763,
+    "downloads": 917,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 6
+      "count": 7
     }
   },
   {
@@ -94,7 +332,7 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "5",
-    "downloads": 405,
+    "downloads": 484,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -128,7 +366,7 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "4",
-    "downloads": 481,
+    "downloads": 589,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -162,11 +400,11 @@
     "authorId": "2198378",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 406,
+    "downloads": 509,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 3
+      "score": 2,
+      "label": "NEGATIVE",
+      "count": 8
     }
   },
   {
@@ -264,11 +502,11 @@
     "authorId": "2215277",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "2",
-    "downloads": 714,
+    "downloads": 869,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 9
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 11
     }
   },
   {
@@ -298,11 +536,11 @@
     "authorId": "2226146",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 1037,
+    "downloads": 1359,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 16
+      "count": 19
     }
   },
   {
@@ -332,7 +570,7 @@
     "authorId": "2067306",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 969,
+    "downloads": 1113,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -366,7 +604,7 @@
     "authorId": "168872",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 561,
+    "downloads": 650,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -400,7 +638,7 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "4",
-    "downloads": 755,
+    "downloads": 894,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -434,7 +672,7 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 845,
+    "downloads": 979,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -468,7 +706,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 848,
+    "downloads": 910,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -502,7 +740,7 @@
     "authorId": "587116",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1003,
+    "downloads": 1065,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -536,7 +774,7 @@
     "authorId": "1176101",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 903,
+    "downloads": 965,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -570,7 +808,7 @@
     "authorId": "1087123",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 2572,
+    "downloads": 2782,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -604,7 +842,7 @@
     "authorId": "1961019",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1366,
+    "downloads": 1497,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,7 +876,7 @@
     "authorId": "2210544",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 424,
+    "downloads": 450,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -672,11 +910,11 @@
     "authorId": "2060627",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 3062,
+    "downloads": 3340,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 16
+      "count": 15
     }
   },
   {
@@ -706,7 +944,7 @@
     "authorId": "2060627",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "4",
-    "downloads": 1124,
+    "downloads": 1180,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,7 +978,7 @@
     "authorId": "22978",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "2",
-    "downloads": 269,
+    "downloads": 283,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -774,7 +1012,7 @@
     "authorId": "1102712",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "5",
-    "downloads": 680,
+    "downloads": 710,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -808,7 +1046,7 @@
     "authorId": "1102712",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "11",
-    "downloads": 620,
+    "downloads": 645,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -842,7 +1080,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 612,
+    "downloads": 643,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -876,7 +1114,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 719,
+    "downloads": 762,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -910,7 +1148,7 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 137,
+    "downloads": 143,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +1182,7 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 155,
+    "downloads": 165,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -978,7 +1216,7 @@
     "authorId": "168872",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 1253,
+    "downloads": 1318,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1012,7 +1250,7 @@
     "authorId": "391947",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "5",
-    "downloads": 457,
+    "downloads": 469,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1046,7 +1284,7 @@
     "authorId": "2210544",
     "uploadDate": "7 Nov 2026, 15:27",
     "version": "9",
-    "downloads": 515,
+    "downloads": 531,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1318,7 @@
     "authorId": "2222374",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 791,
+    "downloads": 829,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1114,7 +1352,7 @@
     "authorId": "2017762",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "5",
-    "downloads": 1522,
+    "downloads": 1579,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1386,7 @@
     "authorId": "224349",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "10",
-    "downloads": 7796,
+    "downloads": 8288,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1182,7 +1420,7 @@
     "authorId": "682550",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "2",
-    "downloads": 1169,
+    "downloads": 1213,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1216,7 +1454,7 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "9",
-    "downloads": 684,
+    "downloads": 702,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1250,7 +1488,7 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "11",
-    "downloads": 1182,
+    "downloads": 1208,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1284,11 +1522,11 @@
     "authorId": "683743",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "3",
-    "downloads": 4977,
+    "downloads": 5169,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 42
+      "count": 43
     }
   },
   {
@@ -1318,7 +1556,7 @@
     "authorId": "2060627",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "12",
-    "downloads": 4563,
+    "downloads": 4732,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1352,11 +1590,11 @@
     "authorId": "587116",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "2",
-    "downloads": 689,
+    "downloads": 713,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 5
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 6
     }
   },
   {
@@ -1386,7 +1624,7 @@
     "authorId": "223366",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "7",
-    "downloads": 742,
+    "downloads": 755,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1420,11 +1658,11 @@
     "authorId": "1087123",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 2968,
+    "downloads": 3065,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 16
+      "count": 15
     }
   },
   {
@@ -1454,7 +1692,7 @@
     "authorId": "756209",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "4",
-    "downloads": 823,
+    "downloads": 858,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1488,7 +1726,7 @@
     "authorId": "81263",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "3",
-    "downloads": 327,
+    "downloads": 337,
     "rating": {
       "score": null,
       "label": null,
@@ -1522,7 +1760,7 @@
     "authorId": "922636",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 577,
+    "downloads": 597,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1556,11 +1794,11 @@
     "authorId": "661822",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 1230,
+    "downloads": 1250,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -1624,11 +1862,11 @@
     "authorId": "490090",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 2536,
+    "downloads": 2611,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -1658,7 +1896,7 @@
     "authorId": "10216",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 204,
+    "downloads": 210,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,7 +1930,7 @@
     "authorId": "1931483",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "2",
-    "downloads": 1271,
+    "downloads": 1301,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1726,7 +1964,7 @@
     "authorId": "414723",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "4",
-    "downloads": 3437,
+    "downloads": 3612,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1760,7 +1998,7 @@
     "authorId": "1894841",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "3",
-    "downloads": 868,
+    "downloads": 887,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2100,7 +2338,7 @@
     "authorId": "2060627",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 3899,
+    "downloads": 4056,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2542,7 +2780,7 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "5",
-    "downloads": 800,
+    "downloads": 824,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2712,11 +2950,11 @@
     "authorId": "227382",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "4",
-    "downloads": 599,
+    "downloads": 621,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -3086,7 +3324,7 @@
     "authorId": "1249060",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "6",
-    "downloads": 4703,
+    "downloads": 4788,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3392,7 +3630,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 4677,
+    "downloads": 4733,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3766,7 +4004,7 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2022,
+    "downloads": 2154,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3800,7 +4038,7 @@
     "authorId": "741183",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 5330,
+    "downloads": 5418,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4004,7 +4242,7 @@
     "authorId": "1062584",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "11",
-    "downloads": 4676,
+    "downloads": 4751,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4887,7 +5125,7 @@
     "authorId": "1117299",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 12493,
+    "downloads": 12658,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5125,7 +5363,7 @@
     "authorId": "2050504",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "6",
-    "downloads": 2385,
+    "downloads": 2422,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5533,11 +5771,11 @@
     "authorId": "2060627",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "7",
-    "downloads": 13115,
+    "downloads": 13469,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 58
+      "count": 59
     }
   },
   {
@@ -6791,11 +7029,11 @@
     "authorId": "626674",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 6996,
+    "downloads": 7153,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 41
+      "count": 42
     }
   },
   {
@@ -7879,7 +8117,7 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2502,
+    "downloads": 2533,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8287,7 +8525,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "15",
-    "downloads": 1701,
+    "downloads": 1719,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8321,7 +8559,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 2175,
+    "downloads": 2196,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9511,7 +9749,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "28",
-    "downloads": 4638,
+    "downloads": 4697,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9953,7 +10191,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "10",
-    "downloads": 20601,
+    "downloads": 20670,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9987,7 +10225,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "11",
-    "downloads": 44639,
+    "downloads": 44689,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -10033,9 +10271,9 @@
     "name": "Golden Snail Theater",
     "url": "https://forum.theotown.com/plugins/list?term=:10801",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=1g75oIHgPqHbXBjTX1WNBCP5VTzI3gmR",
-    "description": "Golden Snail Theater is a theater shaped like a golden snail shell located in the TMII (Taman Mini Indonesia Indah), Cipayung, East Jakarta. It was built in 1984. – Golden Snail Theater (Park 6x6) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "Golden Snail Theater is a theater shaped like a golden snail shell located in the TMII (Taman Mini Indonesia Indah), Cipayung, East Jakarta. It was built in 1984.<br>\n<br>\n– Golden Snail Theater (Park 6x6)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=SBWUcL4ybQ9OFWRKMfNf6Ni4SNEnNB6H",
+    "description": "Golden Snail Theater is a theater shaped like a golden snail shell located in the TMII (Taman Mini Indonesia Indah), Cipayung, East Jakarta. It was built in 1984. - Golden Snail Theater 6x6 (Park) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation • Influence: park, culture • Upgrade: night animation Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Golden Snail Theater is a theater shaped like a golden snail shell located in the TMII (Taman Mini Indonesia Indah), Cipayung, East Jakarta. It was built in 1984.<br>\n<br>\n- Golden Snail Theater 6x6 (Park)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: park, culture<br>\n• Upgrade: night animation<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Parks, Sports and Management",
     "price": {
       "amount": 30,
@@ -10047,19 +10285,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "496.56KB",
-      "bytes": 508477
+      "raw": "438.78KB",
+      "bytes": 449311
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "18 Aug 2026, 14:20",
-    "version": "16",
-    "downloads": 38892,
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "18",
+    "downloads": 41715,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 78
+      "count": 83
     }
   },
   {
@@ -10361,11 +10599,11 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 27123,
+    "downloads": 27150,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 121
+      "count": 122
     }
   },
   {
@@ -10395,7 +10633,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 25792,
+    "downloads": 25889,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -10543,9 +10781,9 @@
     "name": "Indonesian National Monument",
     "url": "https://forum.theotown.com/plugins/list?term=:13699",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=bfdHmLOCyxqhuBMbeFRAludU5ICHDlWr",
-    "description": "The National Monument (Monas) is a monument in central Jakarta, Indonesia, built to commemorate the nation's struggle for independence. It was inaugurated in 1975. – Indonesian National Monument (Landmark 7x7) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "The National Monument (Monas) is a monument in central Jakarta, Indonesia, built to commemorate the nation's struggle for independence. It was inaugurated in 1975.<br>\n<br>\n– Indonesian National Monument (Landmark 7x7)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=PP5psaxIjqVFIW4Z8y7PnDlULrQmwvkD",
+    "description": "The National Monument (Monas) is a monument in central Jakarta, Indonesia, built to commemorate the nation's struggle for independence. It was inaugurated in 1975. - Indonesian National Monument 7x7 (Landmark) Hope you enjoy the plugin 😊 • Rotate aware • Winter animation • Influence: park, culture • Upgrade: night animation x10 Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "The National Monument (Monas) is a monument in central Jakarta, Indonesia, built to commemorate the nation's struggle for independence. It was inaugurated in 1975.<br>\n<br>\n- Indonesian National Monument 7x7 (Landmark)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Winter animation<br>\n• Influence: park, culture<br>\n• Upgrade: night animation x10<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -10563,13 +10801,13 @@
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "14 Aug 2026, 18:05",
-    "version": "5",
-    "downloads": 25183,
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "7",
+    "downloads": 36674,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 63
+      "count": 71
     }
   },
   {
@@ -10769,7 +11007,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "8",
-    "downloads": 3109,
+    "downloads": 3136,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -10973,7 +11211,7 @@
     "authorId": "2060627",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "10",
-    "downloads": 8375,
+    "downloads": 8507,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11075,7 +11313,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "27",
-    "downloads": 60930,
+    "downloads": 60985,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11109,7 +11347,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "28",
-    "downloads": 76103,
+    "downloads": 76178,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11143,7 +11381,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "21",
-    "downloads": 187973,
+    "downloads": 188067,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11177,7 +11415,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "22",
-    "downloads": 40703,
+    "downloads": 40755,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11189,9 +11427,9 @@
     "name": "Indonesian School",
     "url": "https://forum.theotown.com/plugins/list?term=:10847",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=OL6EwvkcXKH9zK0FCe5tEpz4bei8wAxr",
-    "description": "The average form of schools in Indonesia. – Indonesian Elementary School (Education 4x4) – Indonesian Junior High School (Education 4x4) – Indonesian Senior High School (Education 4x4) Parts: – Indonesian Elementary School (Education 1x1) x10 – Indonesian Junior High School (Education 1x1) x10 – Indonesian Senior High School (Education 1x1) x10 – Indonesian School Field (Sport 3x2) x3 – The Red and White Flag (Decoration 1x1) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation Credits Design Concept: Solplodso Artist: Ik2931 Support me on: ko-fi.com/ik2931 saweria.co/Ik2931",
-    "descriptionHtml": "The average form of schools in Indonesia.<br>\n<br>\n– Indonesian Elementary School (Education 4x4)<br>\n– Indonesian Junior High School (Education 4x4)<br>\n– Indonesian Senior High School (Education 4x4)<br>\n<br>\nParts:<br>\n– Indonesian Elementary School (Education 1x1) x10<br>\n– Indonesian Junior High School (Education 1x1) x10<br>\n– Indonesian Senior High School (Education 1x1) x10<br>\n– Indonesian School Field (Sport 3x2) x3<br>\n– The Red and White Flag (Decoration 1x1)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n<br>\nCredits<br>\nDesign Concept: Solplodso<br>\nArtist: Ik2931<br>\n<br>\nSupport me on:<br>\nko-fi.com/ik2931<br>\nsaweria.co/Ik2931",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Fmk91EvVQcVE6pcNyzsIfhGuyQsOgald",
+    "description": "The average form of schools in Indonesia. - Indonesian Elementary School 4x4 (Education) - Indonesian Junior High School 4x4 (Education) - Indonesian Senior High School 4x4 (Education) Parts: - Indonesian Elementary School 1x1 (Education) x10 - Indonesian Junior High School 1x1 (Education) x10 - Indonesian Senior High School 1x1 (Education) x10 - Indonesian School Field 3x2 (Sport) x3 - The Red and White Flag (Decoration) Hope you enjoy this plugin 😊 • Rotate aware • Night animation • Winter animation • Moving animation • Influence: sport, education low, education high Credits Design Concept: Solplodso Artist: Ik2931 Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "The average form of schools in Indonesia.<br>\n<br>\n- Indonesian Elementary School 4x4 (Education)<br>\n- Indonesian Junior High School 4x4 (Education)<br>\n- Indonesian Senior High School 4x4 (Education)<br>\n<br>\nParts:<br>\n- Indonesian Elementary School 1x1 (Education) x10<br>\n- Indonesian Junior High School 1x1 (Education) x10<br>\n- Indonesian Senior High School 1x1 (Education) x10<br>\n- Indonesian School Field 3x2 (Sport) x3<br>\n- The Red and White Flag (Decoration)<br>\n<br>\nHope you enjoy this plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Moving animation<br>\n• Influence: sport, education low, education high<br>\n<br>\nCredits<br>\nDesign Concept: Solplodso<br>\nArtist: Ik2931<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
     "category": "Service (Police, Health Care, Education,...)",
     "price": {
       "amount": 30,
@@ -11209,13 +11447,13 @@
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "14 Sep 2026, 12:40",
-    "version": "14",
-    "downloads": 311730,
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "16",
+    "downloads": 327802,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 233
+      "count": 239
     }
   },
   {
@@ -11245,7 +11483,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "13",
-    "downloads": 60600,
+    "downloads": 60781,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -12333,7 +12571,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "12",
-    "downloads": 2182,
+    "downloads": 2207,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -15121,11 +15359,11 @@
     "authorId": "1019836",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "15",
-    "downloads": 20930,
+    "downloads": 21004,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 222
+      "count": 223
     }
   },
   {
@@ -15155,7 +15393,7 @@
     "authorId": "1019836",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "18",
-    "downloads": 15301,
+    "downloads": 15354,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -22783,8 +23021,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:10040",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=vv8kD6ZYx5dkCT2b6UphPcuPdpOa6QP7",
-    "description": "Hello to all TheoTown players 💪🏻⚡ I present to you an update to my plugin. This is one of the largest updates ever. For a more detailed list of changes, innovations, and new mechanics, please visit our Discord community: https://discord.gg/avF992zCs 26 vehicle models have been updated. 100 new vehicles have been added. The plugin now features over 500 vehicle models 🎉💫 518 vehicle models now have their own road deco versions🎊🎉💫 Buses, Electric Buses, Minibuses, Trolleybuses, Trams, Articulated Buses, Multi-Section Trams - all vehicles in the plugin have their own \"Road Deco\" versions⚡🥷🏻 Thanks: Koudi🎓 - for all your help in developing the plugin and supporting it⚡ Jaforzem💪🏻 - for help with the articulated buses⚡",
-    "descriptionHtml": "Hello to all TheoTown players 💪🏻⚡<br>\n<br>\nI present to you an update to my plugin. This is one of the largest updates ever.<br>\nFor a more detailed list of changes, innovations, and new mechanics, please visit our Discord community: https://discord.gg/avF992zCs<br>\n<br>\n26 vehicle models have been updated.<br>\n<br>\n100 new vehicles have been added.<br>\n<br>\nThe plugin now features over 500 vehicle models 🎉💫<br>\n<br>\n518 vehicle models now have their own road deco versions🎊🎉💫<br>\n<br>\nBuses, Electric Buses, Minibuses, Trolleybuses, Trams, Articulated Buses, Multi-Section Trams - all vehicles in the plugin have their own \"Road Deco\" versions⚡🥷🏻<br>\n<br>\nThanks:<br>\nKoudi🎓 - for all your help in developing the plugin and supporting it⚡<br>\nJaforzem💪🏻 - for help with the articulated buses⚡",
+    "description": "Hello to all TheoTown players 💪🏻⚡ I present to you an update to my plugin. A new update for Ostrovsk Public Transport is here! This update brings 105 new vehicles, 21 updated vehicles, 2 new Contact Network systems, and 1 new decoration — giving you even more possibilities for building your cities💫 Second Very Major Update💪🏻✨ **Now there are 631 transport models with the plugin!** I also invite you to join my new Discord server (which opened recently) — the first official home for all my plugins! Plugin ideas, suggestions, bug reports, feedback, community discussions, and the latest update news are now all in one place. You can also find the full list of all new and updated vehicles from this update on the server! https://discord.gg/XAPaKS3TE Credits: Koudi — for the big contribution, help and support 🍁 Jaforzem — for help with the articulated buses back in the day 🙌🏻 YarikZone — for the demo of the first trolleybus overhead lines and for starting the whole “Overhead Lines” idea for Ostrovsk Public Transport 🍁 buses⚡",
+    "descriptionHtml": "Hello to all TheoTown players 💪🏻⚡<br>\n<br>\nI present to you an update to my plugin. A new update for Ostrovsk Public Transport is here!<br>\n<br>\nThis update brings 105 new vehicles, 21 updated vehicles, 2 new Contact Network systems, and 1 new decoration — giving you even more possibilities for building your cities💫 <br>\n<br>\nSecond Very Major Update💪🏻✨<br>\n**Now there are 631 transport models with the plugin!**<br>\n<br>\nI also invite you to join my new Discord server (which opened recently) — the first official home for all my plugins!<br>\n<br>\nPlugin ideas, suggestions, bug reports, feedback, community discussions, and the latest update news are now all in one place. You can also find the full list of all new and updated vehicles from this update on the server!<br>\n<br>\nhttps://discord.gg/XAPaKS3TE<br>\n<br>\nCredits:<br>\n<br>\nKoudi — for the big contribution, help and support 🍁<br>\nJaforzem — for help with the articulated buses back in the day 🙌🏻<br>\nYarikZone — for the demo of the first trolleybus overhead lines and for starting the whole “Overhead Lines” idea for Ostrovsk Public Transport 🍁 buses⚡",
     "category": "Transport",
     "price": {
       "amount": 30,
@@ -22796,19 +23034,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "3.1MB",
-      "bytes": 3250586
+      "raw": "3.68MB",
+      "bytes": 3858760
     },
     "minVersion": "Any",
     "author": "Ostrovsk",
     "authorId": "601724",
-    "uploadDate": "17 Sep 2026, 11:37",
-    "version": "46",
-    "downloads": 82782,
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "51",
+    "downloads": 84722,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 504
+      "count": 521
     }
   },
   {
@@ -23255,12 +23493,12 @@
   },
   {
     "id": "13813",
-    "name": "China Sub-district Offi",
+    "name": "China Subdistrict Office",
     "url": "https://forum.theotown.com/plugins/list?term=:13813",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=I3kQo6m2hsVsdgqPyLp30elkq83wXZlS",
-    "description": "Hello everyone, this is a 2x2 Chinese street office, including night lights, I hope you like it",
-    "descriptionHtml": "Hello everyone, this is a 2x2 Chinese street office, including night lights, I hope you like it",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=VU3wEyrwhtnsWty4PTaJEqWpsp7biGgj",
+    "description": "Hello everyone! This is a 2×2 Chinese street office, with a newly added 2×4 service center. Both feature night lights. I hope you like them!",
+    "descriptionHtml": "Hello everyone! This is a 2×2 Chinese street office, with a newly added 2×4 service center. Both feature night lights. I hope you like them!",
     "category": "Parks, Sports and Management",
     "price": {
       "amount": 30,
@@ -23272,19 +23510,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "9.98KB",
-      "bytes": 10220
+      "raw": "54.48KB",
+      "bytes": 55788
     },
     "minVersion": "Any",
     "author": "Slavic forever",
     "authorId": "683743",
-    "uploadDate": "12 May 2026, 17:02",
-    "version": "7",
-    "downloads": 7051,
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "14",
+    "downloads": 13089,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 47
+      "count": 68
     }
   },
   {
@@ -45072,7 +45310,7 @@
     "authorId": "1249060",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 24927,
+    "downloads": 24984,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -50986,7 +51224,7 @@
     "authorId": "1249060",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 15496,
+    "downloads": 15538,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -54318,7 +54556,7 @@
     "authorId": "1249060",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "6",
-    "downloads": 20574,
+    "downloads": 20643,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -56384,15 +56622,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "21.62KB",
-      "bytes": 22139
+      "raw": "21.1KB",
+      "bytes": 21606
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "9 Nov 2026, 19:31",
-    "version": "7",
-    "downloads": 43525,
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "9",
+    "downloads": 43595,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -57241,7 +57479,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "18",
-    "downloads": 76159,
+    "downloads": 76239,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -72881,7 +73119,7 @@
     "authorId": "587116",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "7",
-    "downloads": 38994,
+    "downloads": 39108,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -109219,7 +109457,7 @@
     "authorId": "113059",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "6",
-    "downloads": 18572,
+    "downloads": 18591,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -119874,8 +120112,8 @@
     "url": "https://forum.theotown.com/plugins/list?term=:3625",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=R5RjySJZnUBave59p1Ng",
-    "description": "Updated GBK Stadium Fix : 1. Size from 8x8 to 14x14 to be more realistic size 2. Fix the perspective With night frame Gelora Bung Karno Main Stadium is a multi-purpose stadium in Jakarta, Indonesia that is part of the Bung Karno Sports Center sports complex. This stadium is generally used as an arena for international football matches. The stadium is named in honor of Soekarno, the first President of the Republic of Indonesia, who is also the figure who sparked the idea of ​​​​building this sports complex.",
-    "descriptionHtml": "Updated GBK Stadium<br>\nFix :<br>\n1. Size from 8x8 to 14x14 to be more realistic size<br>\n2. Fix the perspective<br>\n<br>\nWith night frame<br>\n<br>\nGelora Bung Karno Main Stadium is a multi-purpose stadium in Jakarta, Indonesia that is part of the Bung Karno Sports Center sports complex.  This stadium is generally used as an arena for international football matches.  The stadium is named in honor of Soekarno, the first President of the Republic of Indonesia, who is also the figure who sparked the idea of ​​​​building this sports complex.",
+    "description": "Updated GBK Stadium Fix : RANGE INFLUENCE SPORT!!! With night frame Gelora Bung Karno Main Stadium is a multi-purpose stadium in Jakarta, Indonesia that is part of the Bung Karno Sports Center sports complex. This stadium is generally used as an arena for international football matches. The stadium is named in honor of Soekarno, the first President of the Republic of Indonesia, who is also the figure who sparked the idea of ​​​​building this sports complex.",
+    "descriptionHtml": "Updated GBK Stadium<br>\nFix :<br>\nRANGE INFLUENCE SPORT!!!<br>\n<br>\nWith night frame<br>\n<br>\nGelora Bung Karno Main Stadium is a multi-purpose stadium in Jakarta, Indonesia that is part of the Bung Karno Sports Center sports complex.  This stadium is generally used as an arena for international football matches.  The stadium is named in honor of Soekarno, the first President of the Republic of Indonesia, who is also the figure who sparked the idea of ​​​​building this sports complex.",
     "category": "Parks, Sports and Management",
     "price": {
       "amount": 30,
@@ -119887,19 +120125,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "149.13KB",
-      "bytes": 152709
+      "raw": "149.07KB",
+      "bytes": 152648
     },
     "minVersion": "1",
     "author": "platipoes",
     "authorId": "154124",
-    "uploadDate": "09 Oct 2021, 11:52",
-    "version": "8",
-    "downloads": 1926066,
+    "uploadDate": "19 Nov 2026, 18:00",
+    "version": "10",
+    "downloads": 1978906,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 1641
+      "count": 1701
     }
   },
   {
@@ -120031,7 +120269,7 @@
     "authorId": "113059",
     "uploadDate": "3 Nov 2026, 16:52",
     "version": "9",
-    "downloads": 76499,
+    "downloads": 76548,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
