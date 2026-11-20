@@ -1,5 +1,311 @@
 [
   {
+    "id": "15118",
+    "name": "Mayonnaise",
+    "url": "https://forum.theotown.com/plugins/list?term=:15118",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=uDuaQMIdLWfubvJbb8PVenZqF2jgt7JN",
+    "description": "If you want to add some \"Mayo de Noche\" in your town, well look no further than the all new Big Mayonnaise! (Prepare to be excited, or dismayed.) Plug-In Specifications: Big Mayonnaise - 2x2 building - Initially costs 4500 to be built. - Requires 12421 inhabitants total. - Can be built almost anywhere on land, minus water. No roads needed! - Monthly Cost and Culture Influences: 20 and 25 respectively (used this site to determine how far can you have the influence.) - Can preview the influence (might have to resubmit some stuff in the process. Future Plans: - 1x1 variation (Big Mini) - New product: Peanut Butter, Pickles, and Cheese. Anyways, that'll be all from me, fellow users... Have a good day ahead! (And don't forget to like, comment, and share the plug-ins to the other players of TheoTown!)",
+    "descriptionHtml": "If you want to add some \"Mayo de Noche\" in your town, well look no further than the all new Big Mayonnaise! (Prepare to be excited, or dismayed.)<br>\n<br>\nPlug-In Specifications:<br>\n<br>\nBig Mayonnaise<br>\n- 2x2 building<br>\n- Initially costs 4500 to be built.<br>\n- Requires 12421 inhabitants total.<br>\n- Can be built almost anywhere on land, minus water. No roads needed!<br>\n- Monthly Cost and Culture Influences: 20 and 25 respectively (used this site to determine how far can you have the influence.)<br>\n- Can preview the influence (might have to resubmit some stuff in the process.<br>\n<br>\nFuture Plans:<br>\n- 1x1 variation (Big Mini)<br>\n- New product: Peanut Butter, Pickles, and Cheese.<br>\n<br>\nAnyways, that'll be all from me, fellow users... Have a good day ahead! (And don't forget to like, comment, and share the plug-ins to the other players of TheoTown!)",
+    "category": "Award and Special",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "4.33KB",
+      "bytes": 4434
+    },
+    "minVersion": "Any",
+    "author": "ThaineXylon",
+    "authorId": "22978",
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "2",
+    "downloads": 43,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "15098",
+    "name": "Bandung Railways Station",
+    "url": "https://forum.theotown.com/plugins/list?term=:15098",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=OMdfOMidgart0E6v8IDNveEGnjpur5hq",
+    "description": "The south entrance of Bandung Railway Station features an Art Deco architectural style and is classified as a Category A cultural heritage building, located in the heart of the city of Bandung. It is situated on Jalan Stasiun Timur, bordering the areas of Kebonjeruk, Andir, and Pasirkaliki (Cicendo). The building was established in 1884 by Staatsspoorwegen (SS), the railway company owned by the colonial government of the Dutch East Indies. Plugin size: 3×16, 2-way rotation, does not yet include night-time animation. I hope you enjoy this plugin😊😆.",
+    "descriptionHtml": "The south entrance of Bandung Railway Station features an Art Deco architectural style and is classified as a Category A cultural heritage building, located in the heart of the city of Bandung.<br>\n<br>\nIt is situated on Jalan Stasiun Timur, bordering the areas of Kebonjeruk, Andir, and Pasirkaliki (Cicendo).<br>\n<br>\nThe building was established in 1884 by Staatsspoorwegen (SS), the railway company owned by the colonial government of the Dutch East Indies.<br>\n<br>\n<br>\nPlugin size: 3×16,<br>\n2-way rotation,<br>\ndoes not yet include night-time animation.<br>\n<br>\nI hope you enjoy this plugin😊😆.",
+    "category": "Transport",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "91.1KB",
+      "bytes": 93286
+    },
+    "minVersion": "Any",
+    "author": "Arya sancaka",
+    "authorId": "1981212",
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "8",
+    "downloads": 268,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 5
+    }
+  },
+  {
+    "id": "15113",
+    "name": "Japanese Maple",
+    "url": "https://forum.theotown.com/plugins/list?term=:15113",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=sT4JZPsjsQ0DqcGv84MAGozKFu17H0cH",
+    "description": "Japanese maple, is a species of woody plant native to Korea, Japan, China, eastern Mongolia, and far eastern Russia. It has brilliant seasonal foliage that shifts from spring greens and purples to fiery autumn reds, oranges, and gold.",
+    "descriptionHtml": "Japanese maple, is a species of woody plant native to Korea, Japan, China, eastern Mongolia, and far eastern Russia. It has brilliant seasonal foliage that shifts from spring greens and purples to fiery autumn reds, oranges, and gold.",
+    "category": "Trees",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "64.52KB",
+      "bytes": 66068
+    },
+    "minVersion": "Any",
+    "author": "Rencute",
+    "authorId": "894286",
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "2",
+    "downloads": 639,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 8
+    }
+  },
+  {
+    "id": "15114",
+    "name": "Nanbei City International",
+    "url": "https://forum.theotown.com/plugins/list?term=:15114",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=CBYN5r6FHXDTYww8uhAWRJ0y7jMHL7fJ",
+    "description": "Nanbei City International Convention & Exhibition Center is a landmark venue in Nanbei City. The main tower features streamlined dark curtain walls with vertical light strips glowing at night. It hosts large expos, business summits and international exhibitions, with supporting plazas and parking lots. It serves as the city’s gateway for international business communication.",
+    "descriptionHtml": "Nanbei City International Convention &amp; Exhibition Center is a landmark venue in Nanbei City. The main tower features streamlined dark curtain walls with vertical light strips glowing at night. It hosts large expos, business summits and international exhibitions, with supporting plazas and parking lots. It serves as the city’s gateway for international business communication.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "56.49KB",
+      "bytes": 57846
+    },
+    "minVersion": "Any",
+    "author": "yanghao 666",
+    "authorId": "816803",
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "2",
+    "downloads": 350,
+    "rating": {
+      "score": 3,
+      "label": "MIXED",
+      "count": 7
+    }
+  },
+  {
+    "id": "15109",
+    "name": "Sukhoi Su-27P/SM fighter",
+    "url": "https://forum.theotown.com/plugins/list?term=:15109",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=74b7PLc9voDkA2z7xWWl2LDnFIncPF9c",
+    "description": "The Sukhoi Su-27SM is a domestically upgraded multi-role variant of the classic Soviet-era Su-27 air superiority fighter, developed by Russia's Sukhoi Design Bureau to modernize its aging Cold War Flanker fleet.In the game, the size is 2×2, which belongs to decoration and the price is 1T.",
+    "descriptionHtml": "The Sukhoi Su-27SM is a domestically upgraded multi-role variant of the classic Soviet-era Su-27 air superiority fighter, developed by Russia's Sukhoi Design Bureau to modernize its aging Cold War Flanker fleet.In the game, the size is 2×2, which belongs to decoration and the price is 1T.",
+    "category": "Decorations",
+    "price": {
+      "amount": 35,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "4.19KB",
+      "bytes": 4291
+    },
+    "minVersion": "1.12.80",
+    "author": "KL3266219485",
+    "authorId": "2050504",
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "3",
+    "downloads": 175,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "15115",
+    "name": "More Bicycle Lanes!!!",
+    "url": "https://forum.theotown.com/plugins/list?term=:15115",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=pT5B91bwLf6tJvHmDT9K5XUiwsSnDnZB",
+    "description": "Some dedicated bike lanes and footbridges, cycling infrastructure, along with bus lanes and bus-only roads, a few decorative elements, and crosswalks. Now, you can incorporate bicycles into your city and watch your little citizens crossing the streets. Bicycle parking follows a logic similar to that of the bus depots, in theory, it should reduce the number of people using cars in your city, exactly as it should be. *lazer eyes",
+    "descriptionHtml": "Some dedicated bike lanes and footbridges, cycling infrastructure, along with bus lanes and bus-only roads, a few decorative elements, and crosswalks. Now, you can incorporate bicycles into your city and watch your little citizens crossing the streets. Bicycle parking follows a logic similar to that of the bus depots, in theory, it should reduce the number of people using cars in your city, exactly as it should be. *lazer eyes",
+    "category": "Transport",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "298.51KB",
+      "bytes": 305674
+    },
+    "minVersion": "Any",
+    "author": "EngineerGiraffe",
+    "authorId": "1961019",
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "2",
+    "downloads": 519,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "15121",
+    "name": "SU-57 fighter.",
+    "url": "https://forum.theotown.com/plugins/list?term=:15121",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=eKvCmcbRaAIWEfuQQaRys5Q858ujNo6P",
+    "description": "The Sukhoi Su-57 (NATO reporting name: Felon) is Russia's first operational fifth-generation twin-engine stealth multirole fighter, developed by Sukhoi under the PAK FA program to replace the aging Su-27 and MiG-29 fleets.In the game, the size is 2×2 and the price is 1T, which belongs to decoration.",
+    "descriptionHtml": "The Sukhoi Su-57 (NATO reporting name: Felon) is Russia's first operational fifth-generation twin-engine stealth multirole fighter, developed by Sukhoi under the PAK FA program to replace the aging Su-27 and MiG-29 fleets.In the game, the size is 2×2 and the price is 1T, which belongs to decoration.",
+    "category": "Decorations",
+    "price": {
+      "amount": 31,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "3.74KB",
+      "bytes": 3830
+    },
+    "minVersion": "Any",
+    "author": "KL3266219485",
+    "authorId": "2050504",
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "2",
+    "downloads": 170,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 3
+    }
+  },
+  {
+    "id": "15127",
+    "name": "Wave",
+    "url": "https://forum.theotown.com/plugins/list?term=:15127",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=WMLMNPj8gnVyDM7bVi3N9trlOc4s87p9",
+    "description": "A wave decoration with animation that can be placed on water or on land. - Wave 1x1 (Decoration) - Wave 1x1 (Decoration) - Wave 1x1 (Decoration) Hope you enjoy the plugin 😊 • Rotate aware • Moving animation Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "A wave decoration with animation that can be placed on water or on land.<br>\n<br>\n- Wave 1x1 (Decoration)<br>\n- Wave 1x1 (Decoration)<br>\n- Wave 1x1 (Decoration)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Moving animation<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
+    "category": "Decorations",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "84.37KB",
+      "bytes": 86395
+    },
+    "minVersion": "Any",
+    "author": "Ik2931",
+    "authorId": "1021137",
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "2",
+    "downloads": 395,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 8
+    }
+  },
+  {
+    "id": "15049",
+    "name": "Tengku Exchange (TEX)",
+    "url": "https://forum.theotown.com/plugins/list?term=:15049",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=rJP74Wvig0kk0pQ50CjAYE69Yq80fs4V",
+    "description": "16×16 lifestyle precinct inspired by The Exchange TRX in Kuala Lumpur. It has a fin-screen retail podium with Corten frames, a grand stair, and a rooftop city park. Comes in four versions: Podium (Residential or Commercial), or Exchange Towers in Residential, Commercial or Mixed Use. Every version is rotation-aware and has night lights. I'm still learning, so please bear with me if anything looks off. Feedback and recommendations are very welcome in the comments! (Note: Base sprite hand-drawn, with AI used to assist with the glass/grass texturing).",
+    "descriptionHtml": "16×16 lifestyle precinct inspired by The Exchange TRX in Kuala Lumpur. It has a fin-screen retail podium with Corten frames, a grand stair, and a rooftop city park. Comes in four versions: Podium (Residential or Commercial), or Exchange Towers in Residential, Commercial or Mixed Use. Every version is rotation-aware and has night lights.<br>\n<br>\nI'm still learning, so please bear with me if anything looks off. Feedback and recommendations are very welcome in the comments!<br>\n<br>\n(Note: Base sprite hand-drawn, with AI used to assist with the glass/grass texturing).",
+    "category": "Commercial",
+    "price": {
+      "amount": 50,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "1.29MB",
+      "bytes": 1352663
+    },
+    "minVersion": "Any",
+    "author": "tengkuthefirst",
+    "authorId": "490090",
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "7",
+    "downloads": 225,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
+    }
+  },
+  {
     "id": "15099",
     "name": "the great mosque of Palembang",
     "url": "https://forum.theotown.com/plugins/list?term=:15099",
@@ -26,11 +332,11 @@
     "authorId": "1894841",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 42,
+    "downloads": 212,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 4
     }
   },
   {
@@ -60,11 +366,11 @@
     "authorId": "682550",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "3",
-    "downloads": 38,
+    "downloads": 196,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 2
     }
   },
   {
@@ -94,11 +400,11 @@
     "authorId": "587116",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 71,
+    "downloads": 395,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 1
+      "count": 2
     }
   },
   {
@@ -128,11 +434,11 @@
     "authorId": "1306769",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 73,
+    "downloads": 329,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 4
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 6
     }
   },
   {
@@ -162,11 +468,11 @@
     "authorId": "2050504",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 34,
+    "downloads": 152,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
     }
   },
   {
@@ -196,7 +502,7 @@
     "authorId": "601724",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "3",
-    "downloads": 48,
+    "downloads": 187,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -230,11 +536,11 @@
     "authorId": "10174",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "5",
-    "downloads": 60,
+    "downloads": 282,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 2
+      "score": 2,
+      "label": "NEGATIVE",
+      "count": 6
     }
   },
   {
@@ -264,11 +570,11 @@
     "authorId": "756209",
     "uploadDate": "17 Nov 2026, 18:12",
     "version": "2",
-    "downloads": 1595,
+    "downloads": 1934,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -298,7 +604,7 @@
     "authorId": "587116",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 917,
+    "downloads": 1021,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -332,11 +638,11 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "5",
-    "downloads": 484,
+    "downloads": 547,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 2
+      "count": 3
     }
   },
   {
@@ -366,11 +672,11 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "4",
-    "downloads": 589,
+    "downloads": 657,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 3
+      "count": 5
     }
   },
   {
@@ -400,11 +706,11 @@
     "authorId": "2198378",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 509,
+    "downloads": 555,
     "rating": {
-      "score": 2,
-      "label": "NEGATIVE",
-      "count": 8
+      "score": 1.5,
+      "label": "VERY NEGATIVE",
+      "count": 11
     }
   },
   {
@@ -502,11 +808,11 @@
     "authorId": "2215277",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "2",
-    "downloads": 869,
+    "downloads": 942,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -536,11 +842,11 @@
     "authorId": "2226146",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 1359,
+    "downloads": 1538,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 19
+      "count": 21
     }
   },
   {
@@ -570,7 +876,7 @@
     "authorId": "2067306",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 1113,
+    "downloads": 1216,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -604,7 +910,7 @@
     "authorId": "168872",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 650,
+    "downloads": 694,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,7 +944,7 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "4",
-    "downloads": 894,
+    "downloads": 988,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -672,11 +978,11 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 979,
+    "downloads": 1082,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 4
+      "count": 5
     }
   },
   {
@@ -706,11 +1012,11 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 910,
+    "downloads": 961,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 8
+      "count": 10
     }
   },
   {
@@ -740,11 +1046,11 @@
     "authorId": "587116",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1065,
+    "downloads": 1121,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 7
+      "count": 8
     }
   },
   {
@@ -774,7 +1080,7 @@
     "authorId": "1176101",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 965,
+    "downloads": 1013,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -808,11 +1114,11 @@
     "authorId": "1087123",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 2782,
+    "downloads": 2956,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -842,11 +1148,11 @@
     "authorId": "1961019",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1497,
+    "downloads": 1610,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 13
+      "count": 15
     }
   },
   {
@@ -876,7 +1182,7 @@
     "authorId": "2210544",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 450,
+    "downloads": 467,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -910,7 +1216,7 @@
     "authorId": "2060627",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 3340,
+    "downloads": 3597,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +1250,7 @@
     "authorId": "2060627",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "4",
-    "downloads": 1180,
+    "downloads": 1235,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -956,9 +1262,9 @@
     "name": "Unus Annus Tribute",
     "url": "https://forum.theotown.com/plugins/list?term=:15058",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=OsSMj8RmYlv8isqZjCkIWfhFNZmQWU3W",
-    "description": "In memory and the celebration of Unus Annus' 6th anniversary, I made this plug-in. Currently, it only consists of one item: Hourglass of Mori. Plug-In Specs: Hourglass of Mori - 2x2 building - Ordinal: -3 - Price: 1500 - Monthly Price: 15 - Influence Culture: 15 - Can be built anywhere on land. - Found in the Awards category Future updates: - The casket - Tall black and white roses (maybe not) - Added Requirement: Build big cemetery Credits: - Mark Fischbach (a.k.a \"Markiplier\") and Ethan Nestor (f.k.a \"CrankGameplays\", a.k.a. \"Eef\") for the originators of Unus Annus. - Amy Nelson for the original creator of the Unus Annus logo, (I think? It was cited by some sources on Reddit.) where I based the Hourglass of Mori from. Memento vivere (Remember to live), fellow users and players... Have a nice day ahead. Please don't forget to spread the word, and leave your rating for the plug-in after downloading.",
-    "descriptionHtml": "In memory and the celebration of Unus Annus' 6th anniversary, I made this plug-in.<br>\n<br>\nCurrently, it only consists of one item: Hourglass of Mori.<br>\n<br>\nPlug-In Specs:<br>\n<br>\nHourglass of Mori<br>\n- 2x2 building<br>\n- Ordinal: -3<br>\n- Price: 1500<br>\n- Monthly Price: 15<br>\n- Influence Culture: 15<br>\n- Can be built anywhere on land.<br>\n- Found in the Awards category<br>\n<br>\nFuture updates:<br>\n- The casket<br>\n- Tall black and white roses (maybe not)<br>\n- Added Requirement: Build big cemetery<br>\n<br>\nCredits:<br>\n- Mark Fischbach (a.k.a \"Markiplier\") and Ethan Nestor (f.k.a \"CrankGameplays\", a.k.a. \"Eef\") for the originators of Unus Annus.<br>\n- Amy Nelson for the original creator of the Unus Annus logo, (I think? It was cited by some sources on Reddit.) where I based the Hourglass of Mori from.<br>\n<br>\nMemento vivere (Remember to live), fellow users and players... Have a nice day ahead.<br>\nPlease don't forget to spread the word, and leave your rating for the plug-in after downloading.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=EnEI5LcFYE6woisPEqVKYXqNJT58i5co",
+    "description": "UPDATE: - Added the Memento Casket - 12 secret messages; quotes and references from Unus Annus. - Has it's own category: UA Pack - Requires you to build a cemetery first before you can unlock it all. - WARNING: Changed the ID of the \"Hourglass of Mori\" so... If you by any chance have build (or spammed it across your city), uh... Sorry in advance. In memoriam and in celebration of Unus Annus' 6th birthday/death anniversary, I made this small plug-in pack to commemorate it. Plug-In Specifications: The following items listed can be under Awards, then a custom category named: \"UA Pack\" (the one with a half-and-half black-white heart icon.) 1. Hourglass of Mori - 2x2 building - Price: 1500 - Monthly Price: 15 - Influence Culture: 15 - Can be built anywhere on land. - Found in the Awards category - Require Cemetery to be built first. 2. Memento Casket - 1x2 building - 4 frames - Same specs as the previous item (minus the building part) Others: 12 Custom Topics/Secret Messages: - 5 quotes from Mark (e.g. - 5 quotes from Ethan - 2 rare quotes in grey. Future update: - Tall black and white roses (maybe not) Credits: - Mark Fischbach (a.k.a \"Markiplier\") and Ethan Nestor (f.k.a \"CrankGameplays\", a.k.a. \"Eef\") for the originators of Unus Annus. - Amy Nelson for the original creator of the Unus Annus logo, (I think? It was cited by some sources on Reddit.) where I based the Hourglass of Mori from. - ABC Caskets, the business who made the casket, where I mostly based the design from. Memento vivere (Remember to live), fellow users and players... Have a nice day ahead. Please don't forget to spread the word, and leave your rating for the plug-in after downloading.",
+    "descriptionHtml": "UPDATE:<br>\n- Added the Memento Casket<br>\n- 12 secret messages; quotes and references from Unus Annus.<br>\n- Has it's own category: UA Pack<br>\n- Requires you to build a cemetery first before you can unlock it all.<br>\n- WARNING: Changed the ID of the \"Hourglass of Mori\" so... If you by any chance have build (or spammed it across your city), uh... Sorry in advance.<br>\n<br>\nIn memoriam and in celebration of Unus Annus' 6th birthday/death anniversary, I made this small plug-in pack to commemorate it.<br>\n<br>\nPlug-In Specifications:<br>\nThe following items listed can be under Awards, then a custom category named: \"UA Pack\" (the one with a half-and-half black-white heart icon.)<br>\n<br>\n1. Hourglass of Mori<br>\n- 2x2 building<br>\n- Price: 1500<br>\n- Monthly Price: 15<br>\n- Influence Culture: 15<br>\n- Can be built anywhere on land.<br>\n- Found in the Awards category<br>\n- Require Cemetery to be built first.<br>\n<br>\n2. Memento Casket<br>\n- 1x2 building<br>\n- 4 frames<br>\n- Same specs as the previous item (minus the building part)<br>\n<br>\nOthers:<br>\n12 Custom Topics/Secret Messages:<br>\n- 5 quotes from Mark (e.g. <br>\n- 5 quotes from Ethan<br>\n- 2 rare quotes in grey.<br>\n<br>\nFuture update:<br>\n- Tall black and white roses (maybe not)<br>\n<br>\nCredits:<br>\n- Mark Fischbach (a.k.a \"Markiplier\") and Ethan Nestor (f.k.a \"CrankGameplays\", a.k.a. \"Eef\") for the originators of Unus Annus.<br>\n- Amy Nelson for the original creator of the Unus Annus logo, (I think? It was cited by some sources on Reddit.) where I based the Hourglass of Mori from.<br>\n- ABC Caskets, the business who made the casket, where I mostly based the design from.<br>\n<br>\nMemento vivere (Remember to live), fellow users and players... Have a nice day ahead.<br>\nPlease don't forget to spread the word, and leave your rating for the plug-in after downloading.",
     "category": "Award and Special",
     "price": {
       "amount": 30,
@@ -970,15 +1276,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "3.29KB",
-      "bytes": 3369
+      "raw": "7.15KB",
+      "bytes": 7322
     },
     "minVersion": "Any",
     "author": "ThaineXylon",
     "authorId": "22978",
-    "uploadDate": "10 Nov 2026, 16:50",
-    "version": "2",
-    "downloads": 283,
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "4",
+    "downloads": 315,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1012,11 +1318,11 @@
     "authorId": "1102712",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "5",
-    "downloads": 710,
+    "downloads": 724,
     "rating": {
-      "score": 3,
-      "label": "MIXED",
-      "count": 20
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 21
     }
   },
   {
@@ -1046,11 +1352,11 @@
     "authorId": "1102712",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "11",
-    "downloads": 645,
+    "downloads": 656,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 28
+      "count": 29
     }
   },
   {
@@ -1080,7 +1386,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 643,
+    "downloads": 670,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1114,7 +1420,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 762,
+    "downloads": 790,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,7 +1454,7 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 143,
+    "downloads": 155,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1182,7 +1488,7 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 165,
+    "downloads": 172,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1216,7 +1522,7 @@
     "authorId": "168872",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 1318,
+    "downloads": 1359,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1250,7 +1556,7 @@
     "authorId": "391947",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "5",
-    "downloads": 469,
+    "downloads": 482,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1284,7 +1590,7 @@
     "authorId": "2210544",
     "uploadDate": "7 Nov 2026, 15:27",
     "version": "9",
-    "downloads": 531,
+    "downloads": 540,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1318,7 +1624,7 @@
     "authorId": "2222374",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 829,
+    "downloads": 854,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1352,7 +1658,7 @@
     "authorId": "2017762",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "5",
-    "downloads": 1579,
+    "downloads": 1623,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1386,7 +1692,7 @@
     "authorId": "224349",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "10",
-    "downloads": 8288,
+    "downloads": 8673,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1726,7 @@
     "authorId": "682550",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "2",
-    "downloads": 1213,
+    "downloads": 1252,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1454,11 +1760,11 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "9",
-    "downloads": 702,
+    "downloads": 718,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 23
+      "count": 24
     }
   },
   {
@@ -1488,11 +1794,11 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "11",
-    "downloads": 1208,
+    "downloads": 1239,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 30
+      "count": 31
     }
   },
   {
@@ -1522,7 +1828,7 @@
     "authorId": "683743",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "3",
-    "downloads": 5169,
+    "downloads": 5354,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1862,7 @@
     "authorId": "2060627",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "12",
-    "downloads": 4732,
+    "downloads": 4927,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1658,7 +1964,7 @@
     "authorId": "1087123",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 3065,
+    "downloads": 3172,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,11 +1998,11 @@
     "authorId": "756209",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "4",
-    "downloads": 858,
+    "downloads": 886,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 8
+      "count": 9
     }
   },
   {
@@ -1726,7 +2032,7 @@
     "authorId": "81263",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "3",
-    "downloads": 337,
+    "downloads": 345,
     "rating": {
       "score": null,
       "label": null,
@@ -1760,7 +2066,7 @@
     "authorId": "922636",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 597,
+    "downloads": 612,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1777,7 +2083,7 @@
     "descriptionHtml": "Note: So I've been gone for a long time now not knowing when I'll be back. This is because my laptop that I had everything on has now given up the ghost (it's no longer working). I therefore lost everything, all my private plugins, plugins from other servers and even my own server. I tried logging in back to it but discord is giving me problems. I tried signing up afresh and it still gives me problem, there's nothing more I can do. For this, if I continue uploading, my plugins will likely lose it's quality that I normally produce since I'm now on my phone and I don't want that. So I will rather wait until I get myself back a new and possibly better laptop. I however still have my TheoTown account which is nice. Also, I started university, so that kinda have more of my focus. I believe this explains my absence. I have not abandoned Theotown. I will be back, but when is what I'm not sure of. Anyways, enjoy this possibly last plugin until like the next 3 years from now. Thanks for 1M downloads by the way!<br>\n<br>\n🇯🇲 Patois: Wagwan peeps, Ras Di Mayah deh yah. Mi bring wah plugin by di name \"Road Advancement\". It have so road decoration and so decals to weh only isometric. Dis is not di full ting as dat will only deh pon mi serva. Di road decorations have dem tings yah inna e:<br>\n1. Diagonals<br>\n2. 1x2s ah Isometry<br>\n3. 1x3s<br>\n4. Di Isometric decals<br>\nWah toetal a ten di deh.<br>\n<br>\n🇬🇧 English: What's up peeps, Ross The Mayor here. I bring to you a plugin by the name \"Road Advancement\". It have some road decorations and some decals that are only isometric. This is not the full thing as that will only be on my server. The road decorations consists of the following:<br>\n1. Diagonal decos<br>\n2. 1x2s and Isometry<br>\n3. 1x3s<br>\n4. The isometric decals<br>\nThere's a total of ten.<br>\n<br>\nProduced by:<br>\n- Ross The Mayor<br>\n<br>\nIf you do, thank you for downloading.",
     "category": "Road decoration",
     "price": {
-      "amount": 35,
+      "amount": 30,
       "currency": "diamonds"
     },
     "platforms": [
@@ -1786,19 +2092,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "561.77KB",
-      "bytes": 575252
+      "raw": "558.21KB",
+      "bytes": 571607
     },
     "minVersion": "Any",
     "author": "Ross The Mayor",
     "authorId": "661822",
-    "uploadDate": "4 Nov 2026, 16:53",
-    "version": "3",
-    "downloads": 1250,
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "5",
+    "downloads": 1370,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 19
+      "count": 20
     }
   },
   {
@@ -1837,15 +2143,15 @@
   },
   {
     "id": "14977",
-    "name": "Tengku’s 5 Fancy Streetlamps",
+    "name": "Tengku’s Fancy Streetlamps",
     "url": "https://forum.theotown.com/plugins/list?term=:14977",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=u8b63omWzvtcuJpFJpywC3U54e6xxLSO",
-    "description": "Hello, I'm tengkuthefirst. This is a set of 5 street lamps with night lights :D Category: Road decoration. Variants: • LED Street Light • Ornate Lamp • Boulevard Light • Royal Lamp • Modern Lean Light Each lamp comes in Left of traffic and Right of traffic versions. Lamps stay on the same side of the road when you rotate the map. Place them back to back on a dual carriageway to make a double-arm lamp in the median. Hope you love it :D",
-    "descriptionHtml": "Hello, I'm tengkuthefirst.<br>\nThis is a set of 5 street lamps with night lights :D<br>\nCategory: Road decoration.<br>\nVariants:<br>\n• LED Street Light<br>\n• Ornate Lamp<br>\n• Boulevard Light<br>\n• Royal Lamp<br>\n• Modern Lean Light<br>\nEach lamp comes in Left of traffic and Right of traffic versions.<br>\nLamps stay on the same side of the road when you rotate the map.<br>\nPlace them back to back on a dual carriageway to make a double-arm lamp in the median.<br>\nHope you love it :D",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=XTA8sbZaJgmdXutgz4veOyDZmSue6Keo",
+    "description": "Update: - added 5 more variants, making the total 10~ - made the light slightly brighter Hello, I'm tengkuthefirst. This is a set of street lamps with night lights :D Category: Road decoration. Variants: • LED Street Light • Ornate Lamp • Boulevard Light • Royal Lamp • Modern Lean Light Each lamp comes in Left of traffic and Right of traffic versions. Lamps stay on the same side of the road when you rotate the map. Place them back to back on a dual carriageway to make a double-arm lamp in the median. Hope you love it :D",
+    "descriptionHtml": "Update: <br>\n- added 5 more variants, making the total 10~<br>\n- made the light slightly brighter <br>\n<br>\nHello, I'm tengkuthefirst.<br>\nThis is a set of street lamps with night lights :D<br>\nCategory: Road decoration.<br>\nVariants:<br>\n• LED Street Light<br>\n• Ornate Lamp<br>\n• Boulevard Light<br>\n• Royal Lamp<br>\n• Modern Lean Light<br>\nEach lamp comes in Left of traffic and Right of traffic versions.<br>\nLamps stay on the same side of the road when you rotate the map.<br>\nPlace them back to back on a dual carriageway to make a double-arm lamp in the median.<br>\nHope you love it :D",
     "category": "Road decoration",
     "price": {
-      "amount": 30,
+      "amount": 50,
       "currency": "diamonds"
     },
     "platforms": [
@@ -1854,18 +2160,18 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "10.89KB",
-      "bytes": 11151
+      "raw": "17.3KB",
+      "bytes": 17715
     },
     "minVersion": "Any",
     "author": "tengkuthefirst",
     "authorId": "490090",
-    "uploadDate": "3 Nov 2026, 16:52",
-    "version": "2",
-    "downloads": 2611,
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "9",
+    "downloads": 2739,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
+      "score": 4.5,
+      "label": "VERY POSITIVE",
       "count": 19
     }
   },
@@ -2338,11 +2644,11 @@
     "authorId": "2060627",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 4056,
+    "downloads": 4282,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 46
+      "count": 47
     }
   },
   {
@@ -2724,9 +3030,9 @@
     "name": "Hotel",
     "url": "https://forum.theotown.com/plugins/list?term=:14824",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=tfsHEDBtks3sdRx0lzF2LDtTTWqjsjCa",
-    "description": "Update: Added pastel mint and carnation coral hotel A simple 1x1 hotel Available in 4 colors: -White -Lemon -Pastel Mint -Carnation Coral It has night animation I hope you like it",
-    "descriptionHtml": "Update:<br>\nAdded pastel mint and carnation coral hotel<br>\n<br>\nA simple 1x1 hotel<br>\nAvailable in 4 colors:<br>\n-White<br>\n-Lemon<br>\n-Pastel Mint<br>\n-Carnation Coral<br>\nIt has night animation<br>\nI hope you like it",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=m4M5U1cqsLcpodfGR39NtOzXNncAxEGg",
+    "description": "Update: Added 6 new colors: Mauvelous, pink, dust storm (beige), dark teal, gray and dusty burgundy A simple 1x1 hotel Available in 10 colors: - White - Lemon - Gray - Pastel Mint - Carnation Coral - Dusty Burgundy - Mauvelous - Pink - Dust Storm (Beige) - Dark Teal It has night animation I hope you like it",
+    "descriptionHtml": "Update:<br>\nAdded 6 new colors: Mauvelous, pink, dust storm (beige), dark teal, gray and dusty burgundy<br>\n<br>\nA simple 1x1 hotel<br>\nAvailable in 10 colors:<br>\n- White<br>\n- Lemon<br>\n- Gray<br>\n- Pastel Mint<br>\n- Carnation Coral<br>\n- Dusty Burgundy<br>\n- Mauvelous<br>\n- Pink<br>\n- Dust Storm (Beige)<br>\n- Dark Teal<br>\nIt has night animation<br>\nI hope you like it",
     "category": "Residential",
     "price": {
       "amount": 30,
@@ -2738,19 +3044,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "17.89KB",
-      "bytes": 18319
+      "raw": "46.21KB",
+      "bytes": 47319
     },
     "minVersion": "Any",
     "author": "GeometryDashPlayer8",
     "authorId": "343527",
-    "uploadDate": "3 Nov 2026, 16:52",
-    "version": "7",
-    "downloads": 765,
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "9",
+    "downloads": 835,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 7
+      "count": 8
     }
   },
   {
@@ -2780,7 +3086,7 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "5",
-    "downloads": 824,
+    "downloads": 840,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2950,11 +3256,11 @@
     "authorId": "227382",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "4",
-    "downloads": 621,
+    "downloads": 649,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -3324,7 +3630,7 @@
     "authorId": "1249060",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "6",
-    "downloads": 4788,
+    "downloads": 4918,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3630,11 +3936,11 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 4733,
+    "downloads": 4812,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 50
+      "count": 51
     }
   },
   {
@@ -4004,11 +4310,11 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2154,
+    "downloads": 2236,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 7
+      "count": 8
     }
   },
   {
@@ -4242,7 +4548,7 @@
     "authorId": "1062584",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "11",
-    "downloads": 4751,
+    "downloads": 4826,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5363,7 +5669,7 @@
     "authorId": "2050504",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "6",
-    "downloads": 2422,
+    "downloads": 2458,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5771,7 +6077,7 @@
     "authorId": "2060627",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "7",
-    "downloads": 13469,
+    "downloads": 13759,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -7029,7 +7335,7 @@
     "authorId": "626674",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 7153,
+    "downloads": 7268,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8117,7 +8423,7 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2533,
+    "downloads": 2550,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8525,7 +8831,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "15",
-    "downloads": 1719,
+    "downloads": 1734,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8559,11 +8865,11 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 2196,
+    "downloads": 2219,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 8
+      "count": 9
     }
   },
   {
@@ -9749,7 +10055,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "28",
-    "downloads": 4697,
+    "downloads": 4739,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -10191,11 +10497,11 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "10",
-    "downloads": 20670,
+    "downloads": 20755,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 59
+      "count": 60
     }
   },
   {
@@ -10225,7 +10531,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "11",
-    "downloads": 44689,
+    "downloads": 44719,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -10293,11 +10599,11 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "18",
-    "downloads": 41715,
+    "downloads": 41817,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 83
+      "count": 85
     }
   },
   {
@@ -10599,7 +10905,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 27150,
+    "downloads": 27186,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -10633,11 +10939,11 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 25889,
+    "downloads": 25980,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 100
+      "count": 101
     }
   },
   {
@@ -10803,7 +11109,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "7",
-    "downloads": 36674,
+    "downloads": 36899,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11007,7 +11313,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "8",
-    "downloads": 3136,
+    "downloads": 3160,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11211,7 +11517,7 @@
     "authorId": "2060627",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "10",
-    "downloads": 8507,
+    "downloads": 8595,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11313,11 +11619,11 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "27",
-    "downloads": 60985,
+    "downloads": 61050,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 139
+      "count": 140
     }
   },
   {
@@ -11347,7 +11653,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "28",
-    "downloads": 76178,
+    "downloads": 76267,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11381,7 +11687,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "21",
-    "downloads": 188067,
+    "downloads": 188202,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11415,7 +11721,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "22",
-    "downloads": 40755,
+    "downloads": 40807,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11449,7 +11755,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "16",
-    "downloads": 327802,
+    "downloads": 328063,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11483,7 +11789,7 @@
     "authorId": "1021137",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "13",
-    "downloads": 60781,
+    "downloads": 61019,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -12571,7 +12877,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "12",
-    "downloads": 2207,
+    "downloads": 2218,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -14399,19 +14705,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "5.71KB",
-      "bytes": 5847
+      "raw": "6.05KB",
+      "bytes": 6195
     },
     "minVersion": "Any",
     "author": "PIT-36",
     "authorId": "1241937",
-    "uploadDate": "22 Jul 2026, 23:13",
-    "version": "12",
-    "downloads": 1017,
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "14",
+    "downloads": 1990,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 13
+      "count": 15
     }
   },
   {
@@ -18873,9 +19179,9 @@
     "name": "Agricultural Bank of China",
     "url": "https://forum.theotown.com/plugins/list?term=:14073",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Ki8pdZ54oqB1te4YsB9PjlXIBFqlGStM",
-    "description": "Hello everyone, this is my 6th plugin. It’s an Agricultural Bank of China branch, a level 2 commercial building that holds 1200 workers, supports rotation, and includes night lighting. Hope you like it!",
-    "descriptionHtml": "Hello everyone, this is my 6th plugin. It’s an Agricultural Bank of China branch, a level 2 commercial building that holds 1200 workers, supports rotation, and includes night lighting. Hope you like it!",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=GDwolIqCF64wylhi2AzzQYue4fW8M9se",
+    "description": "Hello everyone! This is my 6th plugin — an Agricultural Bank of China branch. After the update, it now includes two buildings: one 3×3 and another 3×6, both with night lighting. Hope you like it! About the bank: Agricultural Bank of China (ABC) was founded in 1951 and is headquartered in Beijing. It is one of China's \"Big Four\" state-owned banks, known for serving agriculture, rural areas and farmers. It runs the country's largest branch network and is one of the world's largest banks by total assets. Its green wheat-ear logo can be seen all over China. Hope you like it!",
+    "descriptionHtml": "Hello everyone! This is my 6th plugin — an Agricultural Bank of China branch. After the update, it now includes two buildings: one 3×3 and another 3×6, both with night lighting. Hope you like it!<br>\n<br>\nAbout the bank: Agricultural Bank of China (ABC) was founded in 1951 and is headquartered in Beijing. It is one of China's \"Big Four\" state-owned banks, known for serving agriculture, rural areas and farmers. It runs the country's largest branch network and is one of the world's largest banks by total assets. Its green wheat-ear logo can be seen all over China.<br>\n<br>\nHope you like it!",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -18887,19 +19193,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "81.78KB",
-      "bytes": 83743
+      "raw": "133.9KB",
+      "bytes": 137114
     },
     "minVersion": "Any",
     "author": "Slavic forever",
     "authorId": "683743",
-    "uploadDate": "15 Jun 2026, 17:44",
-    "version": "2",
-    "downloads": 13608,
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "5",
+    "downloads": 25444,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 57
+      "count": 84
     }
   },
   {
@@ -23042,11 +23348,11 @@
     "authorId": "601724",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "51",
-    "downloads": 84722,
+    "downloads": 84789,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 521
+      "count": 522
     }
   },
   {
@@ -23518,11 +23824,11 @@
     "authorId": "683743",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "14",
-    "downloads": 13089,
+    "downloads": 13360,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 68
+      "count": 72
     }
   },
   {
@@ -44673,12 +44979,12 @@
   },
   {
     "id": "12439",
-    "name": "X TOWER",
+    "name": "X tower",
     "url": "https://forum.theotown.com/plugins/list?term=:12439",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=mrS854ApuzHMvm7aWERluuPCGlxQiof6",
-    "description": "This is my first plugin to share! X TOWER! As the name suggests, it has an X-shaped exterior and cloud animation. Also, since this is my first plugin, I received help from",
-    "descriptionHtml": "This is my first plugin to share! X TOWER! As the name suggests, it has an X-shaped exterior and cloud animation. Also, since this is my first plugin, I received help from",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=qLGn8Jmwht4yQwbW0GjFHMvcamBOl37x",
+    "description": "Just X !!! Please forgive me for the lack of a night-time animation. My deepest thanks go to my small team, B plugin Production, and to our parent organization, TR plugins ;D",
+    "descriptionHtml": "Just X !!! <br>\n<br>\nPlease forgive me for the lack of a night-time animation.<br>\n<br>\nMy deepest thanks go to my small team, B plugin Production, and to our parent organization, TR plugins ;D",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -44696,13 +45002,13 @@
     "minVersion": "Any",
     "author": "Burakplugin",
     "authorId": "1873054",
-    "uploadDate": "27 Jan 2026, 16:09",
-    "version": "2",
-    "downloads": 7767,
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "3",
+    "downloads": 8179,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 8
+      "count": 11
     }
   },
   {
@@ -56630,7 +56936,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "9",
-    "downloads": 43595,
+    "downloads": 43692,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -57479,7 +57785,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "18",
-    "downloads": 76239,
+    "downloads": 76307,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -65685,10 +65991,10 @@
     "name": "Glowing Tree",
     "url": "https://forum.theotown.com/plugins/list?term=:10267",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=vLNElSa43sQHmJzzQKI63vvPFoZQenKC",
-    "description": "Glowing tree is a decorative tree that will light up at night, this is not a real tree but just a decoration. – Dogwood Tree (Decoration 1x1) – Willow Tree (Decoration 1x1) – Blossom Tree (Decoration 1x1) – Jacaranda Tree (Decoration 1x1) Hope you enjoy the plugin 😊",
-    "descriptionHtml": "Glowing tree is a decorative tree that will light up at night, this is not a real tree but just a decoration.<br>\n<br>\n– Dogwood Tree (Decoration 1x1)<br>\n– Willow Tree (Decoration 1x1)<br>\n– Blossom Tree (Decoration 1x1)<br>\n– Jacaranda Tree (Decoration 1x1)<br>\n<br>\nHope you enjoy the plugin 😊",
-    "category": "Decorations",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=rLXorw8GuCSwYCMccpIHZ34TBcCpeVDz",
+    "description": "Glowing tree is a decorative tree that will light up at night. - Dogwood Tree (Tree) - Willow Tree (Tree) - Blossom Tree (Tree) - Jacaranda Tree (Tree) - Dogwood Tree 1x1 (Decoration) - Willow Tree 1x1 (Decoration) - Blossom Tree 1x1 (Decoration) - Jacaranda Tree 1x1 (Decoration) Hope you enjoy the plugin 😊 • Night animation Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "Glowing tree is a decorative tree that will light up at night.<br>\n<br>\n- Dogwood Tree (Tree)<br>\n- Willow Tree (Tree)<br>\n- Blossom Tree (Tree)<br>\n- Jacaranda Tree (Tree)<br>\n<br>\n- Dogwood Tree 1x1 (Decoration)<br>\n- Willow Tree 1x1 (Decoration)<br>\n- Blossom Tree 1x1 (Decoration)<br>\n- Jacaranda Tree 1x1 (Decoration)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Night animation<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
+    "category": "Trees",
     "price": {
       "amount": 30,
       "currency": "diamonds"
@@ -65699,19 +66005,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "20.19KB",
-      "bytes": 20675
+      "raw": "133.28KB",
+      "bytes": 136479
     },
     "minVersion": "Any",
     "author": "Ik2931",
     "authorId": "1021137",
-    "uploadDate": "17 Apr 2025, 15:26",
-    "version": "4",
-    "downloads": 7828,
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "7",
+    "downloads": 9015,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 33
+      "count": 43
     }
   },
   {
@@ -73119,7 +73425,7 @@
     "authorId": "587116",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "7",
-    "downloads": 39108,
+    "downloads": 39194,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -118884,12 +119190,12 @@
   },
   {
     "id": "4066",
-    "name": "Simple 3D Shapes (Update 1)",
+    "name": "Basic Modular 3D Shapes",
     "url": "https://forum.theotown.com/plugins/list?term=:4066",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=ReJtODbQSbwv2x847ROAC65WrZ8Lwsxf",
-    "description": "You can use this plugin to decorate your city Shapes include: Cube (4 variants), Pyramid, Cylinder, Stairs, Small Stairs, Slope, Arch, and Double blocks (combination of 2 blocks). this is my first plugin btw",
-    "descriptionHtml": "You can use this plugin to decorate your city<br>\nShapes include:<br>\nCube (4 variants), Pyramid, Cylinder, Stairs, Small Stairs, Slope, Arch, and Double blocks (combination of 2 blocks).<br>\nthis is my first plugin btw",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=vaOufkB67lCO32GCnV5FVUY3pPwWGjut",
+    "description": "(formerly known as Simple 3D Shapes Decoration) You can use this plugin to decorate your city. {Update 2} - Updated assets to match hill height (12px) - New cylinder variants - New plate for slopes - New flat walls for covering slope foundations - Preparation for Extended Modular 3D Shapes...? Shapes include: - Cube (4 variants) - Cylinder (4 variants) - Pyramid - Stairs (Big & Small) - Slopes - Arches - Double Arches & Arch on Blocks - Plate (for slopes) - Flat Wall (one-sided & corner-sided) (this is still my first plugin)",
+    "descriptionHtml": "(formerly known as Simple 3D Shapes Decoration)<br>\nYou can use this plugin to decorate your city.<br>\n<br>\n{Update 2}<br>\n- Updated assets to match hill height (12px)<br>\n- New cylinder variants<br>\n- New plate for slopes<br>\n- New flat walls for covering slope foundations<br>\n- Preparation for Extended Modular 3D Shapes...?<br>\n<br>\nShapes include:<br>\n- Cube (4 variants)<br>\n- Cylinder (4 variants)<br>\n- Pyramid<br>\n- Stairs (Big &amp; Small)<br>\n- Slopes <br>\n- Arches<br>\n- Double Arches &amp; Arch on Blocks<br>\n- Plate (for slopes)<br>\n- Flat Wall (one-sided &amp; corner-sided)<br>\n<br>\n(this is still my first plugin)",
     "category": "Decorations",
     "price": {
       "amount": 30,
@@ -118901,19 +119207,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "533.49KB",
-      "bytes": 546294
+      "raw": "22.68KB",
+      "bytes": 23224
     },
     "minVersion": "Any",
     "author": "orangeleaf36",
     "authorId": "11169",
-    "uploadDate": "18 Nov 2021, 07:46",
-    "version": "5",
-    "downloads": 16493,
+    "uploadDate": "20 Nov 2026, 17:35",
+    "version": "8",
+    "downloads": 17114,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 90
+      "count": 92
     }
   },
   {
@@ -120133,11 +120439,11 @@
     "authorId": "154124",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "10",
-    "downloads": 1978906,
+    "downloads": 1979462,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 1701
+      "count": 1703
     }
   },
   {
