@@ -1,8 +1,8 @@
 {
-  "scrapeDate": "2026-11-22T09:52:52.214Z",
+  "scrapeDate": "2026-11-22T16:55:49.562Z",
   "totalPlugins": 5157,
-  "totalPages": 258,
-  "totalDownloads": 431044713,
+  "totalPages": 5,
+  "totalDownloads": 431050916,
   "certifiedCreators": 576,
   "categoryStats": {
     "Award and Special": 398,
@@ -31,12 +31,10 @@
     "Shaders": 18
   },
   "ratingStats": {
-    "VERY POSITIVE": 2178,
-    "MIXED": 305,
-    "POSITIVE": 2630,
-    "NEGATIVE": 39
+    "VERY POSITIVE": 2179,
+    "MIXED": 306,
+    "POSITIVE": 2629,
+    "NEGATIVE": 38
   },
-  "source": "https://forum.theotown.com/plugins/list",
-  "lastVerified": "2026-11-22T09:52:52.214Z",
-  "removedCount": 4
+  "source": "https://forum.theotown.com/plugins/list"
 }
