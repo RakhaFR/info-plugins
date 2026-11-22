@@ -1,18 +1,18 @@
 {
-  "scrapeDate": "2026-11-21T16:38:18.818Z",
-  "totalPlugins": 5161,
-  "totalPages": 5,
-  "totalDownloads": 431112474,
-  "certifiedCreators": 578,
+  "scrapeDate": "2026-11-22T09:52:52.214Z",
+  "totalPlugins": 5157,
+  "totalPages": 258,
+  "totalDownloads": 431044713,
+  "certifiedCreators": 576,
   "categoryStats": {
-    "Award and Special": 399,
+    "Award and Special": 398,
     "Transport": 273,
     "Trees": 92,
-    "Commercial": 1204,
+    "Commercial": 1202,
     "Decorations": 439,
     "Religion and Culture": 272,
     "Packs": 299,
-    "Residential": 791,
+    "Residential": 790,
     "Road decoration": 65,
     "Tools": 39,
     "Heightmaps": 5,
@@ -31,10 +31,12 @@
     "Shaders": 18
   },
   "ratingStats": {
-    "VERY POSITIVE": 2179,
-    "POSITIVE": 2633,
+    "VERY POSITIVE": 2178,
     "MIXED": 305,
+    "POSITIVE": 2630,
     "NEGATIVE": 39
   },
-  "source": "https://forum.theotown.com/plugins/list"
+  "source": "https://forum.theotown.com/plugins/list",
+  "lastVerified": "2026-11-22T09:52:52.214Z",
+  "removedCount": 4
 }

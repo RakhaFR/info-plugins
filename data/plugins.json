@@ -26,7 +26,7 @@
     "authorId": "22978",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 66,
+    "downloads": 90,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -60,11 +60,11 @@
     "authorId": "1981212",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "8",
-    "downloads": 454,
+    "downloads": 551,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 5
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 6
     }
   },
   {
@@ -94,11 +94,11 @@
     "authorId": "894286",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 1128,
+    "downloads": 1407,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -128,7 +128,7 @@
     "authorId": "816803",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 592,
+    "downloads": 738,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -162,7 +162,7 @@
     "authorId": "2050504",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "3",
-    "downloads": 281,
+    "downloads": 345,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -196,7 +196,7 @@
     "authorId": "1961019",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 928,
+    "downloads": 1185,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -230,7 +230,7 @@
     "authorId": "2050504",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 288,
+    "downloads": 358,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -264,11 +264,11 @@
     "authorId": "1021137",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 730,
+    "downloads": 942,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 11
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 12
     }
   },
   {
@@ -298,11 +298,11 @@
     "authorId": "490090",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "7",
-    "downloads": 872,
+    "downloads": 1176,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 11
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 14
     }
   },
   {
@@ -332,7 +332,7 @@
     "authorId": "1894841",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 326,
+    "downloads": 400,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -366,7 +366,7 @@
     "authorId": "682550",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "3",
-    "downloads": 321,
+    "downloads": 398,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -400,7 +400,7 @@
     "authorId": "587116",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 598,
+    "downloads": 738,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -434,7 +434,7 @@
     "authorId": "1306769",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 468,
+    "downloads": 569,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -468,7 +468,7 @@
     "authorId": "2050504",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 213,
+    "downloads": 258,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -502,7 +502,7 @@
     "authorId": "601724",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "3",
-    "downloads": 268,
+    "downloads": 312,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -536,11 +536,11 @@
     "authorId": "10174",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "5",
-    "downloads": 428,
+    "downloads": 514,
     "rating": {
       "score": 2,
       "label": "NEGATIVE",
-      "count": 8
+      "count": 11
     }
   },
   {
@@ -570,11 +570,11 @@
     "authorId": "756209",
     "uploadDate": "17 Nov 2026, 18:12",
     "version": "2",
-    "downloads": 2295,
+    "downloads": 2506,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 15
+      "count": 17
     }
   },
   {
@@ -604,7 +604,7 @@
     "authorId": "587116",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 1134,
+    "downloads": 1198,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,7 +638,7 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "5",
-    "downloads": 615,
+    "downloads": 654,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -672,7 +672,7 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "4",
-    "downloads": 714,
+    "downloads": 748,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -706,78 +706,10 @@
     "authorId": "2198378",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 597,
+    "downloads": 627,
     "rating": {
       "score": 2,
       "label": "NEGATIVE",
-      "count": 13
-    }
-  },
-  {
-    "id": "15068",
-    "name": "World Financial Centre",
-    "url": "https://forum.theotown.com/plugins/list?term=:15068",
-    "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Ro9oD8eoq5uaCFFTsbUCIXFRII3cw5CL",
-    "description": "Hello!This is the first mod of our CGD team and also our second new starting point. Welcome to join our QQ group: 1018403305、817443877 We will bring you more architectural works. *Building Introduction: Chongqing World Financial Center (WFC) is located in the Jiefangbei CBD. Standing at 339 meters high, it is a landmark super high-rise complex of the mountain city. It integrates shopping malls, office buildings, hotels and high-altitude observation decks. The stunning night view of the confluence of the Yangtze River and Jialing River can be overlooked from the observation deck. Size: 8×8 Authors: Paogu f-sin o0O",
-    "descriptionHtml": "Hello!This is the first mod of our CGD team and also our second new starting point.<br>\nWelcome to join our QQ group: 1018403305、817443877<br>\nWe will bring you more architectural works.<br>\n <br>\n*Building Introduction: Chongqing World Financial Center (WFC) is located in the Jiefangbei CBD. Standing at 339 meters high, it is a landmark super high-rise complex of the mountain city. It integrates shopping malls, office buildings, hotels and high-altitude observation decks. The stunning night view of the confluence of the Yangtze River and Jialing River can be overlooked from the observation deck.<br>\n <br>\nSize: 8×8<br>\nAuthors: Paogu  f-sin  o0O",
-    "category": "Commercial",
-    "price": {
-      "amount": 30,
-      "currency": "diamonds"
-    },
-    "platforms": [
-      "Android",
-      "iOS",
-      "Desktop (Premium)"
-    ],
-    "size": {
-      "raw": "838.12KB",
-      "bytes": 858235
-    },
-    "minVersion": "Any",
-    "author": "CGD_team studio",
-    "authorId": "2220262",
-    "uploadDate": "16 Nov 2026, 19:18",
-    "version": "7",
-    "downloads": 1206,
-    "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 17
-    }
-  },
-  {
-    "id": "15082",
-    "name": "Bank of Guangzhou Tower",
-    "url": "https://forum.theotown.com/plugins/list?term=:15082",
-    "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=uBBepSkymiEhIWLx49xh04G1Q2bmZvfo",
-    "description": "A Time-Honored Commercial Hub, Ancient Grace of Goat City (Guangzhou) Hello, this is CGD's second plugin. Welcome to join our QQ groups: 1018403305, 817443877 We will bring you more architectural works. *Building Introduction: Bank of Guangzhou Tower is located in the Zhujiang New Town CBD. Standing 267.75 meters tall with 57 floors above ground, it is a super Grade-A financial office building and the headquarters of Bank of Guangzhou. It features a glass curtain wall, and high floors offer views of the Pearl River. Size: 5×5 Authors: o0O XIIN f-sin",
-    "descriptionHtml": "A Time-Honored Commercial Hub, Ancient Grace of Goat City (Guangzhou)<br>\n <br>\nHello, this is CGD's second plugin.<br>\nWelcome to join our QQ groups: 1018403305, 817443877<br>\nWe will bring you more architectural works.<br>\n <br>\n*Building Introduction: Bank of Guangzhou Tower is located in the Zhujiang New Town CBD. Standing 267.75 meters tall with 57 floors above ground, it is a super Grade-A financial office building and the headquarters of Bank of Guangzhou. It features a glass curtain wall, and high floors offer views of the Pearl River.<br>\n <br>\nSize: 5×5<br>\nAuthors: o0O XIIN f-sin",
-    "category": "Commercial",
-    "price": {
-      "amount": 30,
-      "currency": "diamonds"
-    },
-    "platforms": [
-      "Android",
-      "iOS",
-      "Desktop (Premium)"
-    ],
-    "size": {
-      "raw": "243.49KB",
-      "bytes": 249334
-    },
-    "minVersion": "Any",
-    "author": "CGD_team studio",
-    "authorId": "2220262",
-    "uploadDate": "16 Nov 2026, 19:18",
-    "version": "11",
-    "downloads": 1169,
-    "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
       "count": 17
     }
   },
@@ -808,7 +740,7 @@
     "authorId": "2215277",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "2",
-    "downloads": 1026,
+    "downloads": 1071,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -842,11 +774,11 @@
     "authorId": "2226146",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 1747,
+    "downloads": 1887,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 21
+      "count": 22
     }
   },
   {
@@ -876,7 +808,7 @@
     "authorId": "2067306",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 1309,
+    "downloads": 1366,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -910,7 +842,7 @@
     "authorId": "168872",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 759,
+    "downloads": 810,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +876,7 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "4",
-    "downloads": 1080,
+    "downloads": 1148,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -978,7 +910,7 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 1179,
+    "downloads": 1237,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1012,7 +944,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 1022,
+    "downloads": 1062,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1046,7 +978,7 @@
     "authorId": "587116",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1176,
+    "downloads": 1214,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,7 +1012,7 @@
     "authorId": "1176101",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 1075,
+    "downloads": 1119,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1114,7 +1046,7 @@
     "authorId": "1087123",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 3141,
+    "downloads": 3270,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1148,11 +1080,11 @@
     "authorId": "1961019",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1711,
+    "downloads": 1772,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 15
+      "count": 16
     }
   },
   {
@@ -1182,7 +1114,7 @@
     "authorId": "2210544",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 487,
+    "downloads": 504,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1216,11 +1148,11 @@
     "authorId": "2060627",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 3870,
+    "downloads": 4066,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 15
+      "count": 18
     }
   },
   {
@@ -1284,7 +1216,7 @@
     "authorId": "22978",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "4",
-    "downloads": 339,
+    "downloads": 369,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1624,7 +1556,7 @@
     "authorId": "2222374",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 867,
+    "downloads": 882,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1658,7 +1590,7 @@
     "authorId": "2017762",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "5",
-    "downloads": 1669,
+    "downloads": 1696,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2100,7 +2032,7 @@
     "authorId": "661822",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "5",
-    "downloads": 1471,
+    "downloads": 1543,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2168,11 +2100,11 @@
     "authorId": "490090",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "9",
-    "downloads": 2875,
+    "downloads": 2952,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 20
+      "count": 21
     }
   },
   {
@@ -3052,7 +2984,7 @@
     "authorId": "343527",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "9",
-    "downloads": 881,
+    "downloads": 916,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -3630,7 +3562,7 @@
     "authorId": "1249060",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "6",
-    "downloads": 5058,
+    "downloads": 5154,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4310,7 +4242,7 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2313,
+    "downloads": 2373,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -6077,11 +6009,11 @@
     "authorId": "2060627",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "7",
-    "downloads": 14016,
+    "downloads": 14252,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 61
+      "count": 64
     }
   },
   {
@@ -7335,7 +7267,7 @@
     "authorId": "626674",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 7443,
+    "downloads": 7497,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8423,7 +8355,7 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2564,
+    "downloads": 2575,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8831,7 +8763,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "15",
-    "downloads": 1750,
+    "downloads": 1763,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8865,7 +8797,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 2245,
+    "downloads": 2279,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -10599,7 +10531,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "18",
-    "downloads": 41910,
+    "downloads": 41977,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11109,11 +11041,11 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "7",
-    "downloads": 37135,
+    "downloads": 37349,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 71
+      "count": 72
     }
   },
   {
@@ -11313,7 +11245,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "8",
-    "downloads": 3184,
+    "downloads": 3203,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11755,7 +11687,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "16",
-    "downloads": 328402,
+    "downloads": 328597,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -14713,7 +14645,7 @@
     "authorId": "1241937",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "14",
-    "downloads": 2052,
+    "downloads": 2085,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -19201,11 +19133,11 @@
     "authorId": "683743",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "5",
-    "downloads": 25814,
+    "downloads": 26034,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 89
+      "count": 91
     }
   },
   {
@@ -23348,11 +23280,11 @@
     "authorId": "601724",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "51",
-    "downloads": 84856,
+    "downloads": 84888,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 523
+      "count": 524
     }
   },
   {
@@ -23824,11 +23756,11 @@
     "authorId": "683743",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "14",
-    "downloads": 13597,
+    "downloads": 13718,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 74
+      "count": 76
     }
   },
   {
@@ -45004,7 +44936,7 @@
     "authorId": "1873054",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "3",
-    "downloads": 8297,
+    "downloads": 8365,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -48985,40 +48917,6 @@
       "score": 4.5,
       "label": "VERY POSITIVE",
       "count": 43
-    }
-  },
-  {
-    "id": "11627",
-    "name": "Vanguard Yuefu",
-    "url": "https://forum.theotown.com/plugins/list?term=:11627",
-    "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=SuuTqw1hZhiIhv6uPyoZJHSPR7pvomKP",
-    "description": "The \"Yuefu\" series of residential projects in Dongguan (such as China Resources Land Center Yuefu and Songhu Yuefu) refers to high-end residential projects jointly developed by well-known real estate companies (such as China Resources, Country Garden, and Vanke). They feature central urban locations, luxurious decorations, top-notch amenities, and international living standards. They are top-tier products in Dongguan's real estate market, offering large apartments or villas, and providing access to city center parks, commercial areas (such as MixC), and convenient transportation, marking the development direction of high-end urban living. Join our DC server https://discord.gg/KvgEPAS5F2 #Author: o0O,xxxy",
-    "descriptionHtml": "The \"Yuefu\" series of residential projects in Dongguan (such as China Resources Land Center Yuefu and Songhu Yuefu) refers to high-end residential projects jointly developed by well-known real estate companies (such as China Resources, Country Garden, and Vanke). <br>\nThey feature central urban locations, luxurious decorations, top-notch amenities, and international living standards. <br>\nThey are top-tier products in Dongguan's real estate market, offering large apartments or villas, and providing access to city center parks, commercial areas (such as MixC), and convenient transportation, marking the development direction of high-end urban living.<br>\nJoin our DC server https://discord.gg/KvgEPAS5F2<br>\n#Author: o0O,xxxy<br>",
-    "category": "Residential",
-    "price": {
-      "amount": 30,
-      "currency": "diamonds"
-    },
-    "platforms": [
-      "Android",
-      "iOS",
-      "Desktop (Premium)"
-    ],
-    "size": {
-      "raw": "106.38KB",
-      "bytes": 108933
-    },
-    "minVersion": "Any",
-    "author": "SPE_Team",
-    "authorId": "1169481",
-    "uploadDate": "27 Dec 2025, 16:34",
-    "version": "2",
-    "downloads": 49126,
-    "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 109
     }
   },
   {
@@ -56936,7 +56834,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "9",
-    "downloads": 43798,
+    "downloads": 43879,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -57383,40 +57281,6 @@
       "score": 4.5,
       "label": "VERY POSITIVE",
       "count": 73
-    }
-  },
-  {
-    "id": "11178",
-    "name": "Guangdong Museum",
-    "url": "https://forum.theotown.com/plugins/list?term=:11178",
-    "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=ZBKsEs0K3p5KeEtHGM0Ouw60CeR5L7m2",
-    "description": "The Guangdong Museum, a comprehensive museum shaped like a \"treasure box\" in Zhujiang New Town, Guangzhou, China, officially opened in 2010. Its collections encompass Guangdong's history and culture, Lingnan's natural resources, calligraphy, painting, and ceramics, as well as artifacts from the Maritime Silk Road. The museum's unique design incorporates the concept of ivory balls, a traditional Guangdong craft.",
-    "descriptionHtml": "The Guangdong Museum, a comprehensive museum shaped like a \"treasure box\" in Zhujiang New Town, Guangzhou, China, officially opened in 2010. Its collections encompass Guangdong's history and culture, Lingnan's natural resources, calligraphy, painting, and ceramics, as well as artifacts from the Maritime Silk Road. The museum's unique design incorporates the concept of ivory balls, a traditional Guangdong craft.",
-    "category": "Award and Special",
-    "price": {
-      "amount": 30,
-      "currency": "diamonds"
-    },
-    "platforms": [
-      "Android",
-      "iOS",
-      "Desktop (Premium)"
-    ],
-    "size": {
-      "raw": "63.92KB",
-      "bytes": 65454
-    },
-    "minVersion": "Any",
-    "author": "SPE_Team",
-    "authorId": "1169481",
-    "uploadDate": "04 Oct 2025, 13:58",
-    "version": "4",
-    "downloads": 22076,
-    "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 83
     }
   },
   {
@@ -66013,11 +65877,11 @@
     "authorId": "1021137",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "7",
-    "downloads": 9315,
+    "downloads": 9472,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 45
+      "count": 46
     }
   },
   {
@@ -119215,7 +119079,7 @@
     "authorId": "11169",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "8",
-    "downloads": 17180,
+    "downloads": 17221,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -120439,7 +120303,7 @@
     "authorId": "154124",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "10",
-    "downloads": 1980229,
+    "downloads": 1980695,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
