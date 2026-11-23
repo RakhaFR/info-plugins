@@ -1,5 +1,209 @@
 [
   {
+    "id": "15045",
+    "name": "WELDING SHOP & TIRE REPAIR",
+    "url": "https://forum.theotown.com/plugins/list?term=:15045",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=NaURyehop4EuoE5urngtkyhjie8PL8s5",
+    "description": "Adds two Indonesian roadside workshops to the commercial zone: a Welding Shop (Bengkel Las) and a Tire Repair Shop (Bengkel Tambal Ban). Each one comes in two layouts, A and B, so you get four buildings in total. All buildings are 2x2 tiles, commercial level 2, with 24 workers. They draw their own ground, so there is no water under them. Animations run automatically: welders with flickering sparks, a grinder, hammering, workers carrying pipes, customers walking in and out, a car lifting on a jack, wheel removal, tube leak testing, tire inflating and a waving flag. Night mode adds lit windows, blinking neon signs, welding glow and string lights. The signboards follow the isometric angle of each building. Usage: build them manually from the commercial buildings list. Search for \"bengkel\" to find them quickly. Layout B is a mirrored version of A with different cars, worker colors and animation timing. Created by MVSEVEN. All sprites are original; no third-party assets are used. Created with AI assistance under my direction.",
+    "descriptionHtml": "Adds two Indonesian roadside workshops to the commercial zone: a Welding Shop (Bengkel Las) and a Tire Repair Shop (Bengkel Tambal Ban). Each one comes in two layouts, A and B, so you get four buildings in total.<br>\n<br>\nAll buildings are 2x2 tiles, commercial level 2, with 24 workers. They draw their own ground, so there is no water under them.<br>\n<br>\nAnimations run automatically: welders with flickering sparks, a grinder, hammering, workers carrying pipes, customers walking in and out, a car lifting on a jack, wheel removal, tube leak testing, tire inflating and a waving flag.<br>\n<br>\nNight mode adds lit windows, blinking neon signs, welding glow and string lights. The signboards follow the isometric angle of each building.<br>\n<br>\nUsage: build them manually from the commercial buildings list. Search for \"bengkel\" to find them quickly. Layout B is a mirrored version of A with different cars, worker colors and animation timing.<br>\n<br>\nCreated by MVSEVEN. All sprites are original; no third-party assets are used. Created with AI assistance under my direction.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "28.93KB",
+      "bytes": 29624
+    },
+    "minVersion": "1.12.91",
+    "author": "MVSEVEN",
+    "authorId": "1283101",
+    "uploadDate": "23 Nov 2026, 20:54",
+    "version": "7",
+    "downloads": 215,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 3
+    }
+  },
+  {
+    "id": "15133",
+    "name": "Shenlong Plaza Tower 1",
+    "url": "https://forum.theotown.com/plugins/list?term=:15133",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=MAgpriSKL2lD0Zb5K1mtRJHoztjWAsmI",
+    "description": "Shenlong Plaza Tower 1 is a commercial complex for office and retail use, with flexible spaces suitable for small businesses.",
+    "descriptionHtml": "Shenlong Plaza Tower 1 is a commercial complex for office and retail use, with flexible spaces suitable for small businesses.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "33.51KB",
+      "bytes": 34314
+    },
+    "minVersion": "Any",
+    "author": "aabc",
+    "authorId": "1083156",
+    "uploadDate": "23 Nov 2026, 20:54",
+    "version": "3",
+    "downloads": 809,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 9
+    }
+  },
+  {
+    "id": "15146",
+    "name": "Xinbei International Conventio",
+    "url": "https://forum.theotown.com/plugins/list?term=:15146",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=SZXCIVHUQtJNASDEbaTE6gISnvQvi6aM",
+    "description": "Xinbei International Convention & Exhibition Center is a landmark twin-tower building in Xinbei City. The main tower features a distinctive hollow design. It hosts large exhibitions, business conferences and high-end offices, serving as a core venue for expos and forums, and a representative building of the city's CBD.",
+    "descriptionHtml": "Xinbei International Convention &amp; Exhibition Center is a landmark twin-tower building in Xinbei City. The main tower features a distinctive hollow design. It hosts large exhibitions, business conferences and high-end offices, serving as a core venue for expos and forums, and a representative building of the city's CBD.",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "61.07KB",
+      "bytes": 62536
+    },
+    "minVersion": "Any",
+    "author": "yanghao 666",
+    "authorId": "816803",
+    "uploadDate": "23 Nov 2026, 20:54",
+    "version": "2",
+    "downloads": 367,
+    "rating": {
+      "score": 3,
+      "label": "MIXED",
+      "count": 7
+    }
+  },
+  {
+    "id": "15155",
+    "name": "One Times Square",
+    "url": "https://forum.theotown.com/plugins/list?term=:15155",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=piY11SnH4EqWrjnEliabOweeSC85FWs4",
+    "description": "+ Bring the iconic 'Crossroads of the World' to your city! Famous for its dazzling LED billboards and New Year's Eve Ball Drop, this landmark is the ultimate centerpiece to light up your downtown and attract tourists. + Night animation: Yes. + Size: 3x3. Original image credit: @NamVu. Detailed editing + Night animation + Plugin packaging: YinDreamX.",
+    "descriptionHtml": "+ Bring the iconic 'Crossroads of the World' to your city! Famous for its dazzling LED billboards and New Year's Eve Ball Drop, this landmark is the ultimate centerpiece to light up your downtown and attract tourists.<br>\n+ Night animation: Yes.<br>\n+ Size: 3x3.<br>\nOriginal image credit: @NamVu.<br>\nDetailed editing + Night animation + Plugin packaging: YinDreamX.<br>",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "167.05KB",
+      "bytes": 171059
+    },
+    "minVersion": "Any",
+    "author": "yinx",
+    "authorId": "2060627",
+    "uploadDate": "23 Nov 2026, 20:54",
+    "version": "2",
+    "downloads": 1029,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 12
+    }
+  },
+  {
+    "id": "15158",
+    "name": "Lunarch Bridge",
+    "url": "https://forum.theotown.com/plugins/list?term=:15158",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=9m1GFtwBhgNgQqAptoOgyVLfztbfHplg",
+    "description": "Lunarch bridge is a modern landscape arch bridge, those design are original. Length: 16 tiles. Height: 2 level. Category: award. Supporting 2, 4 tiles and any width.",
+    "descriptionHtml": "Lunarch bridge is a modern landscape arch bridge, those design are original.<br>\nLength: 16 tiles.<br>\nHeight: 2 level.<br>\nCategory: award.<br>\nSupporting 2, 4 tiles and any width.<br>",
+    "category": "Transport",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "210.73KB",
+      "bytes": 215788
+    },
+    "minVersion": "1.12.29",
+    "author": "youkyuu",
+    "authorId": "1019836",
+    "uploadDate": "23 Nov 2026, 20:54",
+    "version": "2",
+    "downloads": 553,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 7
+    }
+  },
+  {
+    "id": "15165",
+    "name": "Bank of Guangzhou Tower",
+    "url": "https://forum.theotown.com/plugins/list?term=:15165",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=uBBepSkymiEhIWLx49xh04G1Q2bmZvfo",
+    "description": "A Time-Honored Commercial Hub, Ancient Grace of Goat City (Guangzhou) Hello, this is CGD's second plugin. Welcome to join our QQ groups: 1018403305, 817443877 We will bring you more architectural works. *Building Introduction: Bank of Guangzhou Tower is located in the Zhujiang New Town CBD. Standing 267.75 meters tall with 57 floors above ground, it is a super Grade-A financial office building and the headquarters of Bank of Guangzhou. It features a glass curtain wall, and high floors offer views of the Pearl River. Size: 5×5 Authors: o0O XIIN F-sin",
+    "descriptionHtml": "A Time-Honored Commercial Hub, Ancient Grace of Goat City (Guangzhou)<br>\n <br>\nHello, this is CGD's second plugin.<br>\nWelcome to join our QQ groups: 1018403305, 817443877<br>\nWe will bring you more architectural works.<br>\n <br>\n*Building Introduction: Bank of Guangzhou Tower is located in the Zhujiang New Town CBD. Standing 267.75 meters tall with 57 floors above ground, it is a super Grade-A financial office building and the headquarters of Bank of Guangzhou. It features a glass curtain wall, and high floors offer views of the Pearl River.<br>\n <br>\nSize: 5×5<br>\nAuthors: o0O XIIN F-sin",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "243.49KB",
+      "bytes": 249334
+    },
+    "minVersion": "Any",
+    "author": "CGD_team studio",
+    "authorId": "2220262",
+    "uploadDate": "23 Nov 2026, 20:54",
+    "version": "2",
+    "downloads": 393,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 9
+    }
+  },
+  {
     "id": "15118",
     "name": "Mayonnaise",
     "url": "https://forum.theotown.com/plugins/list?term=:15118",
@@ -26,7 +230,7 @@
     "authorId": "22978",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 104,
+    "downloads": 120,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -60,7 +264,7 @@
     "authorId": "1981212",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "8",
-    "downloads": 589,
+    "downloads": 688,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -94,11 +298,11 @@
     "authorId": "894286",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 1544,
+    "downloads": 1833,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 13
+      "count": 15
     }
   },
   {
@@ -128,7 +332,7 @@
     "authorId": "816803",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 790,
+    "downloads": 890,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -162,7 +366,7 @@
     "authorId": "2050504",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "3",
-    "downloads": 367,
+    "downloads": 421,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -196,11 +400,11 @@
     "authorId": "1961019",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 1307,
+    "downloads": 1573,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 5
+      "count": 8
     }
   },
   {
@@ -230,7 +434,7 @@
     "authorId": "2050504",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 391,
+    "downloads": 460,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -264,11 +468,11 @@
     "authorId": "1021137",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 1048,
+    "downloads": 1267,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 12
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 17
     }
   },
   {
@@ -298,11 +502,11 @@
     "authorId": "490090",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "7",
-    "downloads": 1316,
+    "downloads": 1547,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 17
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 21
     }
   },
   {
@@ -332,7 +536,7 @@
     "authorId": "1894841",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 426,
+    "downloads": 503,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -366,7 +570,7 @@
     "authorId": "682550",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "3",
-    "downloads": 429,
+    "downloads": 507,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -400,7 +604,7 @@
     "authorId": "587116",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 782,
+    "downloads": 890,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -434,7 +638,7 @@
     "authorId": "1306769",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 620,
+    "downloads": 709,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -468,7 +672,7 @@
     "authorId": "2050504",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 278,
+    "downloads": 312,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -502,7 +706,7 @@
     "authorId": "601724",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "3",
-    "downloads": 337,
+    "downloads": 389,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -536,11 +740,11 @@
     "authorId": "10174",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "5",
-    "downloads": 577,
+    "downloads": 696,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 12
+      "count": 14
     }
   },
   {
@@ -570,11 +774,11 @@
     "authorId": "756209",
     "uploadDate": "17 Nov 2026, 18:12",
     "version": "2",
-    "downloads": 2617,
+    "downloads": 2901,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 17
+      "count": 18
     }
   },
   {
@@ -604,7 +808,7 @@
     "authorId": "587116",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 1224,
+    "downloads": 1310,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,7 +842,7 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "5",
-    "downloads": 672,
+    "downloads": 712,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -672,11 +876,11 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "4",
-    "downloads": 771,
+    "downloads": 821,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 5
+      "count": 6
     }
   },
   {
@@ -706,11 +910,11 @@
     "authorId": "2198378",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 644,
+    "downloads": 678,
     "rating": {
       "score": 2,
       "label": "NEGATIVE",
-      "count": 17
+      "count": 18
     }
   },
   {
@@ -740,7 +944,7 @@
     "authorId": "2215277",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "2",
-    "downloads": 1101,
+    "downloads": 1142,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -774,11 +978,11 @@
     "authorId": "2226146",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 1950,
+    "downloads": 2159,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 22
+      "count": 24
     }
   },
   {
@@ -808,7 +1012,7 @@
     "authorId": "2067306",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 1401,
+    "downloads": 1473,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -842,7 +1046,7 @@
     "authorId": "168872",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 830,
+    "downloads": 884,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -876,7 +1080,7 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "4",
-    "downloads": 1190,
+    "downloads": 1313,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -910,7 +1114,7 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 1269,
+    "downloads": 1351,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -944,7 +1148,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 1085,
+    "downloads": 1133,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -978,7 +1182,7 @@
     "authorId": "587116",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1225,
+    "downloads": 1278,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1012,7 +1216,7 @@
     "authorId": "1176101",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 1138,
+    "downloads": 1192,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1046,11 +1250,11 @@
     "authorId": "1087123",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 3336,
+    "downloads": 3475,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -1080,7 +1284,7 @@
     "authorId": "1961019",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1811,
+    "downloads": 1907,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1114,7 +1318,7 @@
     "authorId": "2210544",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 508,
+    "downloads": 523,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1148,11 +1352,11 @@
     "authorId": "2060627",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 4192,
+    "downloads": 4509,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 18
+      "count": 20
     }
   },
   {
@@ -1182,11 +1386,11 @@
     "authorId": "2060627",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "4",
-    "downloads": 1340,
+    "downloads": 1390,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 19
+      "count": 20
     }
   },
   {
@@ -1216,7 +1420,7 @@
     "authorId": "22978",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "4",
-    "downloads": 376,
+    "downloads": 390,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1250,7 +1454,7 @@
     "authorId": "1102712",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "5",
-    "downloads": 769,
+    "downloads": 785,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1284,7 +1488,7 @@
     "authorId": "1102712",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "11",
-    "downloads": 689,
+    "downloads": 698,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1318,7 +1522,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 727,
+    "downloads": 746,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1352,7 +1556,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 870,
+    "downloads": 889,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1386,7 +1590,7 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 173,
+    "downloads": 181,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1624,7 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 196,
+    "downloads": 203,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1454,11 +1658,11 @@
     "authorId": "168872",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "2",
-    "downloads": 1463,
+    "downloads": 1511,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 9
+      "count": 10
     }
   },
   {
@@ -1488,7 +1692,7 @@
     "authorId": "391947",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "5",
-    "downloads": 498,
+    "downloads": 514,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1522,7 +1726,7 @@
     "authorId": "2210544",
     "uploadDate": "7 Nov 2026, 15:27",
     "version": "9",
-    "downloads": 559,
+    "downloads": 570,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1556,7 +1760,7 @@
     "authorId": "2222374",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 886,
+    "downloads": 905,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1590,11 +1794,11 @@
     "authorId": "2017762",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "5",
-    "downloads": 1726,
+    "downloads": 1781,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -1624,7 +1828,7 @@
     "authorId": "224349",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "10",
-    "downloads": 9503,
+    "downloads": 9910,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1658,7 +1862,7 @@
     "authorId": "682550",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "2",
-    "downloads": 1335,
+    "downloads": 1371,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1692,7 +1896,7 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "9",
-    "downloads": 753,
+    "downloads": 765,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1726,7 +1930,7 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "11",
-    "downloads": 1287,
+    "downloads": 1316,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1760,11 +1964,11 @@
     "authorId": "683743",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "3",
-    "downloads": 5682,
+    "downloads": 5927,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 45
+      "count": 46
     }
   },
   {
@@ -1794,11 +1998,11 @@
     "authorId": "2060627",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "12",
-    "downloads": 5326,
+    "downloads": 5453,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 68
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 70
     }
   },
   {
@@ -1896,7 +2100,7 @@
     "authorId": "1087123",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "3",
-    "downloads": 3441,
+    "downloads": 3544,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1964,7 +2168,7 @@
     "authorId": "81263",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "3",
-    "downloads": 363,
+    "downloads": 369,
     "rating": {
       "score": null,
       "label": null,
@@ -1998,7 +2202,7 @@
     "authorId": "922636",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "3",
-    "downloads": 638,
+    "downloads": 653,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2032,7 +2236,7 @@
     "authorId": "661822",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "5",
-    "downloads": 1588,
+    "downloads": 1661,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2100,11 +2304,11 @@
     "authorId": "490090",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "9",
-    "downloads": 2994,
+    "downloads": 3080,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 21
+      "count": 22
     }
   },
   {
@@ -2576,7 +2780,7 @@
     "authorId": "2060627",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "5",
-    "downloads": 4842,
+    "downloads": 5040,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2984,7 +3188,7 @@
     "authorId": "343527",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "9",
-    "downloads": 928,
+    "downloads": 952,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -3018,7 +3222,7 @@
     "authorId": "1102712",
     "uploadDate": "6 Nov 2026, 16:37",
     "version": "5",
-    "downloads": 875,
+    "downloads": 892,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -3188,7 +3392,7 @@
     "authorId": "227382",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "4",
-    "downloads": 698,
+    "downloads": 721,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -3562,7 +3766,7 @@
     "authorId": "1249060",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "6",
-    "downloads": 5171,
+    "downloads": 5249,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4242,7 +4446,7 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2394,
+    "downloads": 2470,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -4480,7 +4684,7 @@
     "authorId": "1062584",
     "uploadDate": "5 Nov 2026, 17:08",
     "version": "11",
-    "downloads": 4978,
+    "downloads": 5022,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -5601,7 +5805,7 @@
     "authorId": "2050504",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "6",
-    "downloads": 2534,
+    "downloads": 2558,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -6009,11 +6213,11 @@
     "authorId": "2060627",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "7",
-    "downloads": 14432,
+    "downloads": 14703,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 64
+      "count": 65
     }
   },
   {
@@ -7267,7 +7471,7 @@
     "authorId": "626674",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 7563,
+    "downloads": 7647,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8355,7 +8559,7 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2577,
+    "downloads": 2586,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8763,7 +8967,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "15",
-    "downloads": 1767,
+    "downloads": 1777,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -8797,7 +9001,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 2295,
+    "downloads": 2324,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9987,7 +10191,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "28",
-    "downloads": 4872,
+    "downloads": 4923,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -10531,7 +10735,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "18",
-    "downloads": 41998,
+    "downloads": 42042,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -10837,11 +11041,11 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 27257,
+    "downloads": 27280,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 122
+      "count": 123
     }
   },
   {
@@ -10871,7 +11075,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 26168,
+    "downloads": 26245,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11041,11 +11245,11 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "7",
-    "downloads": 37385,
+    "downloads": 37535,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 72
+      "count": 73
     }
   },
   {
@@ -11245,7 +11449,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "8",
-    "downloads": 3210,
+    "downloads": 3228,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11449,11 +11653,11 @@
     "authorId": "2060627",
     "uploadDate": "8 Nov 2026, 15:49",
     "version": "10",
-    "downloads": 8938,
+    "downloads": 9080,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 65
+      "count": 66
     }
   },
   {
@@ -11461,12 +11665,12 @@
     "name": "Muzej savremene umetnosti",
     "url": "https://forum.theotown.com/plugins/list?term=:14461",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=aIPOG1QLD67mSQ5rdX6ou2oMKi6UxetS",
-    "description": "The Building of the Museum of Contemporary Art is situated in New Belgrade , on the left bank of the Sava River , across the Belgrade Fortress . Its unique concept of the interior design and , on the other hand , its link to the surroundings represent an original solution which meets basic museological requirements . The building is an interesting example of museum architecture worldwide . It is surrounded by a sculpture park with works by the most significant Yugoslav sculptors of the 20th century . The main volume of the building is a polymorphous crystal comprised of six cubes with cut angles . The facade are mainly covered with white marble panels and partly with glass , and the sloping roof surface is covered with glass . The Museum ' s Building has been declared a cultural property of national interest in 1987. and is under the protection of Republic Institute for Protection of Cultural Monuments . In order to provide adequate conditions for primary functions of this exceptional building , the process of reconstruction and adaptation was initiated in 2008.Followed by numerous problems , the project lasted until October 20, 2017 when the building of the Museum of Contemporary Art reopened for visitors . size: 10X7（rectangle plugin） It supports the rectangle plugin. Please upgrade to version 1.12.26. H3DY1OG0S.",
-    "descriptionHtml": "The Building of the Museum of Contemporary Art is situated in New Belgrade , on the left bank of the Sava River , across the Belgrade Fortress .<br>\n<br>\n Its unique concept of the interior design and , on the other hand , its link to the surroundings represent an original solution which meets basic museological requirements . The building is an interesting example of museum architecture worldwide . It is surrounded by a sculpture park with works by the most significant Yugoslav sculptors of the 20th century .<br>\n<br>\n The main volume of the building is a polymorphous crystal comprised of six cubes with cut angles . The facade are mainly covered with white marble panels and partly with glass , and the sloping roof surface is covered with glass .<br>\n<br>\nThe Museum ' s Building has been declared a cultural property of national interest in 1987. and is under the protection of Republic Institute for Protection of Cultural Monuments .<br>\n<br>\n In order to provide adequate conditions for primary functions of this exceptional building , the process of reconstruction and adaptation was initiated in 2008.Followed by numerous problems , the project lasted until October 20, 2017 when the building of the Museum of Contemporary Art reopened for visitors .<br>\n<br>\nsize: 10X7（rectangle plugin）<br>\n<br>\nIt supports the rectangle plugin. Please upgrade to version 1.12.26.<br>\n<br>\nH3DY1OG0S.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=UCsJsqijZA0GcIkkjf6jGIUxeBQMRGu5",
+    "description": "The Building of the Museum of Contemporary Art is situated in New Belgrade , on the left bank of the Sava River , across the Belgrade Fortress . Its unique concept of the interior design and , on the other hand , its link to the surroundings represent an original solution which meets basic museological requirements . The building is an interesting example of museum architecture worldwide . It is surrounded by a sculpture park with works by the most significant Yugoslav sculptors of the 20th century . The main volume of the building is a polymorphous crystal comprised of six cubes with cut angles . The facade are mainly covered with white marble panels and partly with glass , and the sloping roof surface is covered with glass . The Museum ' s Building has been declared a cultural property of national interest in 1987. and is under the protection of Republic Institute for Protection of Cultural Monuments . In order to provide adequate conditions for primary functions of this exceptional building , the process of reconstruction and adaptation was initiated in 2008.Followed by numerous problems , the project lasted until October 20, 2017 when the building of the Museum of Contemporary Art reopened for visitors . size: 10X7（rectangle plugin） There is no night view for now. It will be updated later. Before the night view is updated, the price will be 30 diamonds. And it supports the rectangle plugin. Please upgrade to version 1.12.26. H3DY1OG0S.",
+    "descriptionHtml": "The Building of the Museum of Contemporary Art is situated in New Belgrade , on the left bank of the Sava River , across the Belgrade Fortress .<br>\n<br>\n Its unique concept of the interior design and , on the other hand , its link to the surroundings represent an original solution which meets basic museological requirements . The building is an interesting example of museum architecture worldwide . It is surrounded by a sculpture park with works by the most significant Yugoslav sculptors of the 20th century .<br>\n<br>\n The main volume of the building is a polymorphous crystal comprised of six cubes with cut angles . The facade are mainly covered with white marble panels and partly with glass , and the sloping roof surface is covered with glass .<br>\n<br>\nThe Museum ' s Building has been declared a cultural property of national interest in 1987. and is under the protection of Republic Institute for Protection of Cultural Monuments .<br>\n<br>\n In order to provide adequate conditions for primary functions of this exceptional building , the process of reconstruction and adaptation was initiated in 2008.Followed by numerous problems , the project lasted until October 20, 2017 when the building of the Museum of Contemporary Art reopened for visitors .<br>\n<br>\nsize: 10X7（rectangle plugin）<br>\n<br>\nThere is no night view for now. It will be updated later.<br>\nBefore the night view is updated, the price will be 30 diamonds.<br>\nAnd it supports the rectangle plugin. Please upgrade to version 1.12.26.<br>\n<br>\nH3DY1OG0S.",
     "category": "Parks, Sports and Management",
     "price": {
-      "amount": 31,
+      "amount": 30,
       "currency": "diamonds"
     },
     "platforms": [
@@ -11481,13 +11685,13 @@
     "minVersion": "1.12.26",
     "author": "H3DY1OG0S",
     "authorId": "149434",
-    "uploadDate": "10 Aug 2026, 17:46",
-    "version": "2",
-    "downloads": 1935,
+    "uploadDate": "23 Nov 2026, 20:54",
+    "version": "3",
+    "downloads": 3695,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 14
+      "count": 21
     }
   },
   {
@@ -11687,11 +11891,11 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "16",
-    "downloads": 328768,
+    "downloads": 329008,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 239
+      "count": 240
     }
   },
   {
@@ -12809,7 +13013,7 @@
     "authorId": "1981212",
     "uploadDate": "4 Nov 2026, 16:53",
     "version": "12",
-    "downloads": 2258,
+    "downloads": 2272,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -14645,7 +14849,7 @@
     "authorId": "1241937",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "14",
-    "downloads": 2105,
+    "downloads": 2143,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -19040,12 +19244,12 @@
   },
   {
     "id": "14088",
-    "name": "BAZİP Bank Tokyo",
+    "name": "Bazip Bank Tokyo",
     "url": "https://forum.theotown.com/plugins/list?term=:14088",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=KuS7qVVEuMRF7mZ3j1TARXHRRuBrqPtu",
-    "description": "Bazip BANK, headquartered in Japan, is a fantastic building with colorful night animation and 4000 employees that will be a great addition to your city. Also, thank you for my plugins being downloaded over 250,000 times in a very short time. (2026, TR plugins. Developed with Phase 8 technology.)",
-    "descriptionHtml": "Bazip BANK, headquartered in Japan, is a fantastic building with colorful night animation and 4000 employees that will be a great addition to your city. Also, thank you for my plugins being downloaded over 250,000 times in a very short time. <br>\n<br>\n(2026, TR plugins. Developed with Phase 8 technology.)",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=URLSZ9mww32uVDcuvHKDs0fM6wrN3u3X",
+    "description": "This commercial skyscraper, serving as the Japanese headquarters for Bazip Bank, features a colorful nighttime animation and accommodates 4,000 employees. With its light-blue glass exterior and a 5×5 footprint, we are confident you will like it. UPDATE: The cover photo and the add-on description have been changed. 2026, TR plugins. Developed using Phase 8 technology.",
+    "descriptionHtml": "This commercial skyscraper, serving as the Japanese headquarters for Bazip Bank, features a colorful nighttime animation and accommodates 4,000 employees. With its light-blue glass exterior and a 5×5 footprint, we are confident you will like it. <br>\n<br>\nUPDATE: The cover photo and the add-on description have been changed. <br>\n<br>\n2026, TR plugins. Developed using Phase 8 technology.",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -19063,23 +19267,23 @@
     "minVersion": "Any",
     "author": "[TR] pro",
     "authorId": "1117299",
-    "uploadDate": "18 Jun 2026, 14:04",
-    "version": "2",
-    "downloads": 8525,
+    "uploadDate": "23 Nov 2026, 20:54",
+    "version": "3",
+    "downloads": 15739,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 24
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 33
     }
   },
   {
     "id": "14081",
-    "name": "NOVA Center",
+    "name": "NOVA center",
     "url": "https://forum.theotown.com/plugins/list?term=:14081",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=RZrMJdqM6yAg2VTIJKfEzGJJ27b5cWQU",
-    "description": "Inspired by the hourglass, the NOVA Center, with its full glass facade and elegant appearance, has become the main commercial building of your city. It will captivate you with its luxury hotels, advanced financial facilities, upscale restaurants, and shopping mall. Furthermore, its massive 7x7 floor area, 14,000-person Level 3 staff, and spectacular Cyberpunk-style night animation make it a truly remarkable structure. Don't miss this addition! (2026, TR plugins. Developed with Phase 8 technology.)",
-    "descriptionHtml": "Inspired by the hourglass, the NOVA Center, with its full glass facade and elegant appearance, has become the main commercial building of your city. It will captivate you with its luxury hotels, advanced financial facilities, upscale restaurants, and shopping mall. Furthermore, its massive 7x7 floor area, 14,000-person Level 3 staff, and spectacular Cyberpunk-style night animation make it a truly remarkable structure. Don't miss this addition! <br>\n<br>\n(2026, TR plugins. Developed with Phase 8 technology.)",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=1kb95huufBVeueTw2fAcDxViIljvL6Op",
+    "description": "Inspired by an hourglass, the NOVA Center—with its all-glass facade and sleek aesthetic—has established itself as the city’s primary commercial hub. It offers a diverse range of business amenities, including luxury hotels, sophisticated financial districts, high-end restaurants, and a shopping mall. Don’t miss out on this futuristic addition, featuring a massive 7×7 footprint, a capacity for 14,000 Level 3 employees, and stunning, Cyberpunk-style nighttime lighting animations. UPDATE: Cover image and add-on description updated. 2026, TR plugins. Developed using Phase 8 technology.",
+    "descriptionHtml": "Inspired by an hourglass, the NOVA Center—with its all-glass facade and sleek aesthetic—has established itself as the city’s primary commercial hub. It offers a diverse range of business amenities, including luxury hotels, sophisticated financial districts, high-end restaurants, and a shopping mall. Don’t miss out on this futuristic addition, featuring a massive 7×7 footprint, a capacity for 14,000 Level 3 employees, and stunning, Cyberpunk-style nighttime lighting animations. <br>\n<br>\nUPDATE: Cover image and add-on description updated. <br>\n<br>\n2026, TR plugins. Developed using Phase 8 technology.",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -19097,13 +19301,13 @@
     "minVersion": "Any",
     "author": "[TR] pro",
     "authorId": "1117299",
-    "uploadDate": "17 Jun 2026, 17:41",
-    "version": "2",
-    "downloads": 7823,
+    "uploadDate": "23 Nov 2026, 20:54",
+    "version": "3",
+    "downloads": 12986,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 25
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 34
     }
   },
   {
@@ -19133,7 +19337,7 @@
     "authorId": "683743",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "5",
-    "downloads": 26120,
+    "downloads": 26417,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -23280,7 +23484,7 @@
     "authorId": "601724",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "51",
-    "downloads": 84907,
+    "downloads": 84947,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -23756,7 +23960,7 @@
     "authorId": "683743",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "14",
-    "downloads": 13777,
+    "downloads": 13925,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -44936,11 +45140,11 @@
     "authorId": "1873054",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "3",
-    "downloads": 8415,
+    "downloads": 8472,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 11
+      "score": 3,
+      "label": "MIXED",
+      "count": 10
     }
   },
   {
@@ -56834,7 +57038,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "9",
-    "downloads": 43903,
+    "downloads": 43962,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -57649,7 +57853,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "18",
-    "downloads": 76511,
+    "downloads": 76580,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -65877,11 +66081,11 @@
     "authorId": "1021137",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "7",
-    "downloads": 9582,
+    "downloads": 9747,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 47
+      "count": 48
     }
   },
   {
@@ -73289,7 +73493,7 @@
     "authorId": "587116",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "7",
-    "downloads": 39375,
+    "downloads": 39463,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -119079,11 +119283,11 @@
     "authorId": "11169",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "8",
-    "downloads": 17243,
+    "downloads": 17288,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 92
+      "count": 93
     }
   },
   {
@@ -120303,11 +120507,11 @@
     "authorId": "154124",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "10",
-    "downloads": 1980940,
+    "downloads": 1981397,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 1704
+      "count": 1705
     }
   },
   {

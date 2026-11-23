@@ -1,14 +1,14 @@
 {
-  "scrapeDate": "2026-11-22T16:55:49.562Z",
-  "totalPlugins": 5157,
+  "scrapeDate": "2026-11-23T20:55:10.445Z",
+  "totalPlugins": 5163,
   "totalPages": 5,
-  "totalDownloads": 431050916,
+  "totalDownloads": 431076655,
   "certifiedCreators": 576,
   "categoryStats": {
+    "Commercial": 1207,
+    "Transport": 274,
     "Award and Special": 398,
-    "Transport": 273,
     "Trees": 92,
-    "Commercial": 1202,
     "Decorations": 439,
     "Religion and Culture": 272,
     "Packs": 299,
@@ -31,9 +31,9 @@
     "Shaders": 18
   },
   "ratingStats": {
-    "VERY POSITIVE": 2179,
-    "MIXED": 306,
-    "POSITIVE": 2629,
+    "POSITIVE": 2635,
+    "VERY POSITIVE": 2177,
+    "MIXED": 308,
     "NEGATIVE": 38
   },
   "source": "https://forum.theotown.com/plugins/list"
