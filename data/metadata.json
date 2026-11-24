@@ -1,18 +1,18 @@
 {
-  "scrapeDate": "2026-11-23T20:55:10.445Z",
-  "totalPlugins": 5163,
+  "scrapeDate": "2026-11-24T19:58:54.634Z",
+  "totalPlugins": 5168,
   "totalPages": 5,
-  "totalDownloads": 431076655,
+  "totalDownloads": 431095999,
   "certifiedCreators": 576,
   "categoryStats": {
+    "Packs": 301,
+    "Award and Special": 399,
+    "Decorations": 440,
+    "Residential": 791,
     "Commercial": 1207,
     "Transport": 274,
-    "Award and Special": 398,
     "Trees": 92,
-    "Decorations": 439,
     "Religion and Culture": 272,
-    "Packs": 299,
-    "Residential": 790,
     "Road decoration": 65,
     "Tools": 39,
     "Heightmaps": 5,
@@ -31,8 +31,8 @@
     "Shaders": 18
   },
   "ratingStats": {
-    "POSITIVE": 2635,
-    "VERY POSITIVE": 2177,
+    "VERY POSITIVE": 2175,
+    "POSITIVE": 2638,
     "MIXED": 308,
     "NEGATIVE": 38
   },
