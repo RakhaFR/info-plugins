@@ -1,5 +1,345 @@
 [
   {
+    "id": "15116",
+    "name": "Merlion",
+    "url": "https://forum.theotown.com/plugins/list?term=:15116",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=1xzrz65qm3K6jdYmmBGtLelNqWx15qbE",
+    "description": "The Merlion is the iconic national symbol and mascot of Singapore, featuring the head of a lion and the body of a fish. It was built in 1972. - Merlion 1x1 (Landmark) - Fountain 1x1 (Decoration) Hope you enjoy the plugin 😊 • Rotate aware • Night animation • Winter animation • Influence: park, culture Find more on: linkbio.co/Ik2931",
+    "descriptionHtml": "The Merlion is the iconic national symbol and mascot of Singapore, featuring the head of a lion and the body of a fish. It was built in 1972.<br>\n<br>\n- Merlion 1x1 (Landmark)<br>\n- Fountain 1x1 (Decoration)<br>\n<br>\nHope you enjoy the plugin 😊<br>\n• Rotate aware<br>\n• Night animation<br>\n• Winter animation<br>\n• Influence: park, culture<br>\n<br>\n<br>\nFind more on: linkbio.co/Ik2931",
+    "category": "Award and Special",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "22.97KB",
+      "bytes": 23521
+    },
+    "minVersion": "Any",
+    "author": "Ik2931",
+    "authorId": "1021137",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "3",
+    "downloads": 93,
+    "rating": {
+      "score": 3,
+      "label": "MIXED",
+      "count": 2
+    }
+  },
+  {
+    "id": "15178",
+    "name": "B777 aircraft pack",
+    "url": "https://forum.theotown.com/plugins/list?term=:15178",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=05X1s3I1Fo3mkdEf1r8Amr7FN1h0fGyC",
+    "description": "*Aviation-themed plugin -Malaysia Airlines -Air France -Japan Airlines -Singapore Airlines -Turkish Airlines -KLM -Korean Air -British Airways *Decoration 5x5 size. No night-time animations. Includes both standard (static) and boarding-state decoration types. Credits: Lobby (for aircraft template) Official YouTube: @kezianimation",
+    "descriptionHtml": "*Aviation-themed plugin<br>\n<br>\n -Malaysia Airlines<br>\n -Air France<br>\n -Japan Airlines<br>\n -Singapore Airlines<br>\n -Turkish Airlines<br>\n -KLM<br>\n -Korean Air<br>\n -British Airways<br>\n<br>\n *Decoration <br>\n5x5 size. <br>\nNo night-time animations. <br>\nIncludes both standard (static) and boarding-state decoration types.<br>\n Credits: Lobby (for aircraft template) <br>\nOfficial YouTube: @kezianimation",
+    "category": "Other",
+    "price": {
+      "amount": 40,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "629.21KB",
+      "bytes": 644311
+    },
+    "minVersion": "Any",
+    "author": "Kezi animation",
+    "authorId": "1827738",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "2",
+    "downloads": 56,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15179",
+    "name": "The huge Swiss roll disaster",
+    "url": "https://forum.theotown.com/plugins/list?term=:15179",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=xZIndJQ2e57V2Iuf8af4i2N0azZDRKoE",
+    "description": "※This plugin only offers a new disaster for fun. It contains nothing buildings. A huge rolling Swiss roll is attacking your city! All of buildings and road will be destroyed.Luckly, we just wait for it jumping into the water or reaching the border of map.",
+    "descriptionHtml": "※This plugin only offers a new disaster for fun. It contains nothing buildings.<br>\nA huge rolling Swiss roll is attacking your city! All of buildings and road will be destroyed.Luckly, we just wait for it jumping into the water or reaching the border of map.<br>",
+    "category": "Other",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "49.78KB",
+      "bytes": 50975
+    },
+    "minVersion": "1.12.29",
+    "author": "youkyuu",
+    "authorId": "1019836",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "2",
+    "downloads": 26,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "15180",
+    "name": "English car park | Fetris",
+    "url": "https://forum.theotown.com/plugins/list?term=:15180",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=DXyHP84QrtXXAU93mpoITApImx25XBEM",
+    "description": "🌍 Hello everyone, Fetris here! Small plugin: \"English car park\" - minibuses - mini Cooper - Rolls-Royce - black taxi This plugin is also presented only in the form of decoration. - In London, you can see the usual city hatchbacks and crossovers on the roads, but hybrids, electric cars, taxis and delivery vehicles are also noticeable. Fetris",
+    "descriptionHtml": "🌍 Hello everyone, Fetris here!<br>\n<br>\nSmall plugin:<br>\n\"English car park\"<br>\n- minibuses<br>\n- mini Cooper<br>\n- Rolls-Royce<br>\n- black taxi<br>\n<br>\nThis plugin is also presented<br>\nonly in the form of decoration.<br>\n-<br>\nIn London, you can see the usual city hatchbacks and crossovers on the roads, but hybrids, electric cars, taxis and delivery vehicles are also noticeable.<br>\n<br>\nFetris",
+    "category": "Decorations",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "7KB",
+      "bytes": 7168
+    },
+    "minVersion": "Any",
+    "author": "Fetris",
+    "authorId": "862856",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "2",
+    "downloads": 71,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "15117",
+    "name": "Bradbury Building - LA",
+    "url": "https://forum.theotown.com/plugins/list?term=:15117",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=iUNpFzE1VW7hAtSwJVMcweCgrhFYixwa",
+    "description": "Bring a piece of downtown Los Angeles to your city with this 4×4 decorative recreation of the Bradbury Building. The pixel-art model features the brick façades, arched storefronts, exterior fire escape, and glass skylight above the atrium. Find it in the Decorations menu. No road connection is required.",
+    "descriptionHtml": "Bring a piece of downtown Los Angeles to your city with this 4×4 decorative recreation of the Bradbury Building. The pixel-art model features the brick façades, arched storefronts, exterior fire escape, and glass skylight above the atrium.<br>\n<br>\nFind it in the Decorations menu. No road connection is required.",
+    "category": "Decorations",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "14.85KB",
+      "bytes": 15206
+    },
+    "minVersion": "Any",
+    "author": "micheleflaviogioia",
+    "authorId": "2227444",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "3",
+    "downloads": 31,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15188",
+    "name": "EN buses for continental Europ",
+    "url": "https://forum.theotown.com/plugins/list?term=:15188",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=edU8ddeJhKC8cvtoW6XUlcCzd4vgSQ57",
+    "description": "🌍 Hello everyone, Fetris here! Today I present to you a small plugin for English buses for continental Europe. - 3 colors - diagonal version - parked diagonal version Fetris",
+    "descriptionHtml": "🌍 Hello everyone, Fetris here!<br>\n<br>\nToday I present to you a small plugin for English buses for continental Europe.<br>\n<br>\n- 3 colors<br>\n- diagonal version<br>\n- parked diagonal version<br>\n<br>\nFetris",
+    "category": "Decorations",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "11.17KB",
+      "bytes": 11438
+    },
+    "minVersion": "Any",
+    "author": "Fetris",
+    "authorId": "862856",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "2",
+    "downloads": 54,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
+    "id": "15162",
+    "name": "Epicenter Home Hypermarket",
+    "url": "https://forum.theotown.com/plugins/list?term=:15162",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=L0NiiC6uzskKF4eS4QreILHaZFT0GbBh",
+    "description": "Epicenter Home Improvement Hypermarket Epicenter is a large Ukrainian home improvement and DIY retail chain. This TheoTown building is inspired by the real-life Epicenter hypermarkets, offering a wide range of construction materials, home improvement products, furniture and household goods. The building features a spacious single-story retail complex with a distinctive blue-and-white facade, orange architectural accents, recognizable Epicenter branding and a large flat roof with rooftop technical equipment. The surrounding area includes customer parking, vehicles, a delivery truck and decorative greenery. Designed in a detailed isometric pixel-art style for TheoTown, this building is ideal for commercial districts, shopping areas and locations along major roads. Bring one of Ukraine's recognizable retail brands to your TheoTown city! Vehicle texture by: Lobby. Tree textures by: Lobby",
+    "descriptionHtml": "Epicenter Home Improvement Hypermarket<br>\n<br>\nEpicenter is a large Ukrainian home improvement and DIY retail chain. This TheoTown building is inspired by the real-life Epicenter hypermarkets, offering a wide range of construction materials, home improvement products, furniture and household goods.<br>\n<br>\nThe building features a spacious single-story retail complex with a distinctive blue-and-white facade, orange architectural accents, recognizable Epicenter branding and a large flat roof with rooftop technical equipment. The surrounding area includes customer parking, vehicles, a delivery truck and decorative greenery.<br>\n<br>\nDesigned in a detailed isometric pixel-art style for TheoTown, this building is ideal for commercial districts, shopping areas and locations along major roads.<br>\n<br>\nBring one of Ukraine's recognizable retail brands to your TheoTown city!<br>\n<br>\nVehicle texture by: Lobby.<br>\nTree textures by: Lobby",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "18.09KB",
+      "bytes": 18524
+    },
+    "minVersion": "Any",
+    "author": "LENUN1922",
+    "authorId": "315683",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "3",
+    "downloads": 60,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
+    }
+  },
+  {
+    "id": "15189",
+    "name": "dino shop",
+    "url": "https://forum.theotown.com/plugins/list?term=:15189",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=ps5hhMmJ7xExdywlcFv7f206k1GnM2RU",
+    "description": "Polish shop. Contains night animation!",
+    "descriptionHtml": "Polish shop. Contains night animation!",
+    "category": "Commercial",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "3.36KB",
+      "bytes": 3441
+    },
+    "minVersion": "Any",
+    "author": "PIT-36",
+    "authorId": "1241937",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "2",
+    "downloads": 21,
+    "rating": {
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 1
+    }
+  },
+  {
+    "id": "15192",
+    "name": "Gateshead Millennium Bridge",
+    "url": "https://forum.theotown.com/plugins/list?term=:15192",
+    "certified": true,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Fs2kH5u8lmztfjNv9dlHNfsqzdaL34lc",
+    "description": "Spanning the River Tyne between Gateshead and Newcastle upon Tyne in North East England, the Gateshead Millennium Bridge is the world's first and only tilting bridge. Designed by architectural firm WilkinsonEyre alongside structural engineers Gifford, it opened to the public in 2001 exclusively for pedestrians and cyclists. Composed of a pair of steel arches—one forming the deck and the other supporting it—the entire structure pivots 40 degrees as a single rigid unit to let ships pass underneath, a motion resembling an opening eyelid that earned it the nickname the \"Blinking Eye Bridge\". Type: Landmark. Size: 8x14. Author: yukyuu, chocolate",
+    "descriptionHtml": "Spanning the River Tyne between Gateshead and Newcastle upon Tyne in North East England,<br>\n the Gateshead Millennium Bridge is the world's first and only tilting bridge.<br>\n Designed by architectural firm WilkinsonEyre alongside structural engineers Gifford,<br>\n it opened to the public in 2001 exclusively for pedestrians and cyclists.<br>\n Composed of a pair of steel arches—one forming the deck and <br>\nthe other supporting it—the entire structure pivots 40 degrees <br>\nas a single rigid unit to let ships pass underneath,<br>\n a motion resembling an opening eyelid that earned it the nickname the \"Blinking Eye Bridge\".<br>\nType: Landmark.<br>\nSize: 8x14.<br>\nAuthor: yukyuu, chocolate<br>",
+    "category": "Award and Special",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "177.7KB",
+      "bytes": 181965
+    },
+    "minVersion": "Any",
+    "author": "SPE_Team",
+    "authorId": "1169481",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "4",
+    "downloads": 133,
+    "rating": {
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
+    }
+  },
+  {
+    "id": "15195",
+    "name": "UzBram fire truck",
+    "url": "https://forum.theotown.com/plugins/list?term=:15195",
+    "certified": false,
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=RedFsIK7i9qXPRoDuHpQfsP6V7g7lyO9",
+    "description": "Hello, I am Kiottaoia. I would like to introduce fire trucks for your city. The plugin consists of a variety of vehicles for different purposes, specifically: an airport vehicle, a fire ladder, a tanker, an electric bus for the crew, and others. This plugin is located in the services tab. The vehicles can be used as decorations for buildings and roads, and the vehicles are fully functional and can respond to fires just like vanilla fire trucks. Even more of my plugins and developments in my telegram channel @UzBramPlaginCreator.",
+    "descriptionHtml": "Hello, I am Kiottaoia. I would like to introduce fire trucks for your city. The plugin consists of a variety of vehicles for different purposes, specifically: an airport vehicle, a fire ladder, a tanker, an electric bus for the crew, and others. This plugin is located in the services tab. The vehicles can be used as decorations for buildings and roads, and the vehicles are fully functional and can respond to fires just like vanilla fire trucks.<br>\n<br>\nEven more of my plugins and developments in my telegram channel @UzBramPlaginCreator.",
+    "category": "Service (Police, Health Care, Education,...)",
+    "price": {
+      "amount": 30,
+      "currency": "diamonds"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Desktop (Premium)"
+    ],
+    "size": {
+      "raw": "51.22KB",
+      "bytes": 52449
+    },
+    "minVersion": "Any",
+    "author": "Kiottaoia",
+    "authorId": "531460",
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "2",
+    "downloads": 31,
+    "rating": {
+      "score": null,
+      "label": null,
+      "count": 0
+    }
+  },
+  {
     "id": "15161",
     "name": "Assoult starship pack",
     "url": "https://forum.theotown.com/plugins/list?term=:15161",
@@ -26,11 +366,11 @@
     "authorId": "682550",
     "uploadDate": "24 Nov 2026, 19:58",
     "version": "2",
-    "downloads": 109,
+    "downloads": 300,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 3
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
     }
   },
   {
@@ -60,11 +400,11 @@
     "authorId": "2039132",
     "uploadDate": "24 Nov 2026, 19:58",
     "version": "3",
-    "downloads": 8,
+    "downloads": 132,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
     }
   },
   {
@@ -94,11 +434,11 @@
     "authorId": "2039132",
     "uploadDate": "24 Nov 2026, 19:58",
     "version": "4",
-    "downloads": 4,
+    "downloads": 85,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 2
     }
   },
   {
@@ -128,11 +468,11 @@
     "authorId": "862856",
     "uploadDate": "24 Nov 2026, 19:58",
     "version": "2",
-    "downloads": 5,
+    "downloads": 206,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 3,
+      "label": "MIXED",
+      "count": 2
     }
   },
   {
@@ -162,11 +502,11 @@
     "authorId": "1931483",
     "uploadDate": "24 Nov 2026, 19:58",
     "version": "2",
-    "downloads": 2,
+    "downloads": 554,
     "rating": {
-      "score": null,
-      "label": null,
-      "count": 0
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 6
     }
   },
   {
@@ -196,11 +536,11 @@
     "authorId": "1283101",
     "uploadDate": "23 Nov 2026, 20:54",
     "version": "7",
-    "downloads": 353,
+    "downloads": 454,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 4
+      "score": 3,
+      "label": "MIXED",
+      "count": 5
     }
   },
   {
@@ -230,11 +570,11 @@
     "authorId": "1083156",
     "uploadDate": "23 Nov 2026, 20:54",
     "version": "3",
-    "downloads": 1236,
+    "downloads": 1505,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 15
+      "count": 17
     }
   },
   {
@@ -264,7 +604,7 @@
     "authorId": "816803",
     "uploadDate": "23 Nov 2026, 20:54",
     "version": "2",
-    "downloads": 524,
+    "downloads": 632,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -298,11 +638,11 @@
     "authorId": "2060627",
     "uploadDate": "23 Nov 2026, 20:54",
     "version": "2",
-    "downloads": 1615,
+    "downloads": 2010,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 16
+      "count": 18
     }
   },
   {
@@ -332,11 +672,11 @@
     "authorId": "1019836",
     "uploadDate": "23 Nov 2026, 20:54",
     "version": "2",
-    "downloads": 1391,
+    "downloads": 1958,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 17
+      "count": 21
     }
   },
   {
@@ -366,7 +706,7 @@
     "authorId": "2220262",
     "uploadDate": "23 Nov 2026, 20:54",
     "version": "2",
-    "downloads": 991,
+    "downloads": 1330,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -400,7 +740,7 @@
     "authorId": "22978",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 130,
+    "downloads": 138,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -434,7 +774,7 @@
     "authorId": "1981212",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "8",
-    "downloads": 766,
+    "downloads": 846,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -468,7 +808,7 @@
     "authorId": "894286",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 2025,
+    "downloads": 2192,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -502,7 +842,7 @@
     "authorId": "816803",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 948,
+    "downloads": 996,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -536,7 +876,7 @@
     "authorId": "2050504",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "3",
-    "downloads": 465,
+    "downloads": 510,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -570,11 +910,11 @@
     "authorId": "1961019",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 1747,
+    "downloads": 1886,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 11
+      "count": 14
     }
   },
   {
@@ -604,7 +944,7 @@
     "authorId": "2050504",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 524,
+    "downloads": 601,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -638,11 +978,11 @@
     "authorId": "1021137",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "2",
-    "downloads": 1390,
+    "downloads": 1483,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 18
+      "count": 19
     }
   },
   {
@@ -672,7 +1012,7 @@
     "authorId": "490090",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "7",
-    "downloads": 1728,
+    "downloads": 1852,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -706,7 +1046,7 @@
     "authorId": "1894841",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 559,
+    "downloads": 602,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -740,11 +1080,11 @@
     "authorId": "682550",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "3",
-    "downloads": 567,
+    "downloads": 617,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 3
+      "score": 3,
+      "label": "MIXED",
+      "count": 4
     }
   },
   {
@@ -774,7 +1114,7 @@
     "authorId": "587116",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 961,
+    "downloads": 1034,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -800,15 +1140,15 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "169.04KB",
-      "bytes": 173097
+      "raw": "169.24KB",
+      "bytes": 173302
     },
     "minVersion": "Any",
     "author": "YzionTX",
     "authorId": "1306769",
-    "uploadDate": "19 Nov 2026, 18:00",
-    "version": "2",
-    "downloads": 779,
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "4",
+    "downloads": 881,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -842,7 +1182,7 @@
     "authorId": "2050504",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "2",
-    "downloads": 342,
+    "downloads": 370,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -876,11 +1216,11 @@
     "authorId": "601724",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "3",
-    "downloads": 413,
+    "downloads": 458,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 4
+      "count": 6
     }
   },
   {
@@ -910,7 +1250,7 @@
     "authorId": "10174",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "5",
-    "downloads": 770,
+    "downloads": 836,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -944,11 +1284,11 @@
     "authorId": "756209",
     "uploadDate": "17 Nov 2026, 18:12",
     "version": "2",
-    "downloads": 3095,
+    "downloads": 3350,
     "rating": {
-      "score": 4,
-      "label": "POSITIVE",
-      "count": 19
+      "score": 4.5,
+      "label": "VERY POSITIVE",
+      "count": 21
     }
   },
   {
@@ -978,7 +1318,7 @@
     "authorId": "587116",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 1369,
+    "downloads": 1431,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1012,7 +1352,7 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "5",
-    "downloads": 734,
+    "downloads": 764,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1046,7 +1386,7 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "4",
-    "downloads": 859,
+    "downloads": 893,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1080,11 +1420,11 @@
     "authorId": "2198378",
     "uploadDate": "24 Nov 2026, 19:58",
     "version": "10",
-    "downloads": 702,
+    "downloads": 803,
     "rating": {
       "score": 2,
       "label": "NEGATIVE",
-      "count": 19
+      "count": 21
     }
   },
   {
@@ -1114,11 +1454,11 @@
     "authorId": "2215277",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "2",
-    "downloads": 1179,
+    "downloads": 1212,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 12
+      "count": 13
     }
   },
   {
@@ -1148,11 +1488,11 @@
     "authorId": "2226146",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "3",
-    "downloads": 2322,
+    "downloads": 2495,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 24
+      "count": 25
     }
   },
   {
@@ -1182,7 +1522,7 @@
     "authorId": "2067306",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 1544,
+    "downloads": 1599,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1216,7 +1556,7 @@
     "authorId": "168872",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 936,
+    "downloads": 1004,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1250,7 +1590,7 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "4",
-    "downloads": 1409,
+    "downloads": 1511,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1284,7 +1624,7 @@
     "authorId": "1087123",
     "uploadDate": "15 Nov 2026, 16:07",
     "version": "2",
-    "downloads": 1420,
+    "downloads": 1487,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1318,7 +1658,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 1163,
+    "downloads": 1194,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1352,7 +1692,7 @@
     "authorId": "587116",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1316,
+    "downloads": 1344,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1386,7 +1726,7 @@
     "authorId": "1176101",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "2",
-    "downloads": 1228,
+    "downloads": 1265,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1420,7 +1760,7 @@
     "authorId": "1087123",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 3572,
+    "downloads": 3676,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1454,7 +1794,7 @@
     "authorId": "1961019",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 1963,
+    "downloads": 2023,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1488,7 +1828,7 @@
     "authorId": "2210544",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 534,
+    "downloads": 550,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1522,11 +1862,11 @@
     "authorId": "2060627",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "3",
-    "downloads": 4756,
+    "downloads": 5062,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 20
+      "count": 21
     }
   },
   {
@@ -1556,7 +1896,7 @@
     "authorId": "2060627",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "4",
-    "downloads": 1436,
+    "downloads": 1475,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1590,7 +1930,7 @@
     "authorId": "22978",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "4",
-    "downloads": 399,
+    "downloads": 411,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1624,7 +1964,7 @@
     "authorId": "1102712",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "5",
-    "downloads": 795,
+    "downloads": 812,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1636,9 +1976,9 @@
     "name": "Haussman Commercial",
     "url": "https://forum.theotown.com/plugins/list?term=:15012",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=x9OehYRiqawozTLSCmx2E8oCYOo0kyvJ",
-    "description": "A commercial inspired by Haussmann architecture, a style that is French but, because it's beautiful, looks good in any city, so I created my own with a personalized area, They spawn perfectly aligned with each other in the zone, I used AI to make it work correctly, I used quite a lot of textures, so the high memory consumption is high.",
-    "descriptionHtml": "A commercial inspired by Haussmann architecture, a style that is French but, because it's beautiful, looks good in any city, so I created my own with a personalized area, They spawn perfectly aligned with each other in the zone, I used AI to make it work correctly, I used quite a lot of textures, so the high memory consumption is high.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=Xd0Kc13FtsBISjnn9HNvHTNLmnyTFq9N",
+    "description": "A commercial inspired by Haussmann architecture, a style that is French but, because it's beautiful, looks good in any city, so I created my own with a personalized area, They spawn perfectly aligned with each other in the zone, I used AI to make it work correctly, I used quite a lot of textures, so the high memory consumption is high,Update:I redesigned some buildings and improved the quality of the plugin preview in the store.",
+    "descriptionHtml": "A commercial inspired by Haussmann architecture, a style that is French but, because it's beautiful, looks good in any city, so I created my own with a personalized area, They spawn perfectly aligned with each other in the zone, I used AI to make it work correctly, I used quite a lot of textures, so the high memory consumption is high,Update:I redesigned some buildings and improved the quality of the plugin preview in the store.",
     "category": "Packs",
     "price": {
       "amount": 40,
@@ -1650,19 +1990,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "5.01MB",
-      "bytes": 5253366
+      "raw": "5.04MB",
+      "bytes": 5284823
     },
     "minVersion": "1.12.89",
     "author": "Cifraent",
     "authorId": "1102712",
-    "uploadDate": "10 Nov 2026, 16:50",
-    "version": "11",
-    "downloads": 705,
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "15",
+    "downloads": 716,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 29
+      "count": 30
     }
   },
   {
@@ -1760,7 +2100,7 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 185,
+    "downloads": 195,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -1794,7 +2134,7 @@
     "authorId": "10216",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "2",
-    "downloads": 210,
+    "downloads": 216,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -1930,7 +2270,7 @@
     "authorId": "2222374",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 912,
+    "downloads": 927,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -1964,7 +2304,7 @@
     "authorId": "2017762",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "5",
-    "downloads": 1813,
+    "downloads": 1844,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -2168,7 +2508,7 @@
     "authorId": "2060627",
     "uploadDate": "10 Nov 2026, 16:50",
     "version": "12",
-    "downloads": 5584,
+    "downloads": 5718,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -2406,7 +2746,7 @@
     "authorId": "661822",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "5",
-    "downloads": 1706,
+    "downloads": 1740,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -2474,11 +2814,11 @@
     "authorId": "490090",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "9",
-    "downloads": 3141,
+    "downloads": 3211,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 22
+      "count": 23
     }
   },
   {
@@ -2588,12 +2928,12 @@
     "name": "Malacca Straits mosque",
     "url": "https://forum.theotown.com/plugins/list?term=:14971",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=huy7kzOgUEQRUORKmVGk51bh92Njfo9Y",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=jPqxGOG6ECks4xgg6BwVqCRo99VcFHCk",
     "description": "The Malacca Straits Mosque is an iconic floating mosque located on Melaka Island, a reclaimed island off the coast of Malacca, Malaysia. It is notable for its position on concrete pilings at sea level, creating the illusion of floating during high tide. -size 8x8 -nightmode (on) -must be built on water",
     "descriptionHtml": "The Malacca Straits Mosque is an iconic floating mosque located on Melaka Island, a reclaimed island off the coast of Malacca, Malaysia. It is notable for its position on concrete pilings at sea level, creating the illusion of floating during high tide. <br>\n-size 8x8<br>\n-nightmode (on)<br>\n-must be built on water",
     "category": "Religion and Culture",
     "price": {
-      "amount": 60,
+      "amount": 30,
       "currency": "diamonds"
     },
     "platforms": [
@@ -2602,19 +2942,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "59.5KB",
-      "bytes": 60928
+      "raw": "59.55KB",
+      "bytes": 60979
     },
     "minVersion": "Any",
     "author": "fikriardi~",
     "authorId": "1894841",
-    "uploadDate": "3 Nov 2026, 16:52",
-    "version": "3",
-    "downloads": 887,
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "7",
+    "downloads": 1005,
     "rating": {
-      "score": 4.5,
-      "label": "VERY POSITIVE",
-      "count": 2
+      "score": 4,
+      "label": "POSITIVE",
+      "count": 4
     }
   },
   {
@@ -3358,11 +3698,11 @@
     "authorId": "343527",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "9",
-    "downloads": 974,
+    "downloads": 993,
     "rating": {
       "score": 3,
       "label": "MIXED",
-      "count": 11
+      "count": 12
     }
   },
   {
@@ -3846,7 +4186,7 @@
     "name": "Lotus Flagship Showroom",
     "url": "https://forum.theotown.com/plugins/list?term=:14894",
     "certified": false,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=GH6dAP7GmW37FpHXfVYrngmWyPlBjISa",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=5yMVT8Bfl2uxAPhy2U9bNieJN3uNA3d9",
     "description": "\"For the drivers\" Lotus is a british car manufacturer that produced light weight sports cars. This building was inspired by the Lotus Flagship Showroom located in Seoul, South Korea 3x3 TTT Car and tree texture by Lobby",
     "descriptionHtml": "\"For the drivers\"<br>\n<br>\nLotus is a british car manufacturer that produced light weight sports cars.<br>\n<br>\nThis building was inspired by the Lotus Flagship Showroom located in Seoul, South Korea<br>\n<br>\n3x3<br>\nTTT<br>\n<br>\nCar and tree texture by Lobby",
     "category": "Commercial",
@@ -3866,13 +4206,13 @@
     "minVersion": "Any",
     "author": "bossk",
     "authorId": "171359",
-    "uploadDate": "22 Oct 2026, 14:22",
-    "version": "2",
-    "downloads": 1074,
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "3",
+    "downloads": 1478,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 9
+      "count": 10
     }
   },
   {
@@ -3936,7 +4276,7 @@
     "authorId": "1249060",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "6",
-    "downloads": 5316,
+    "downloads": 5405,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -4616,7 +4956,7 @@
     "authorId": "1894841",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2530,
+    "downloads": 2587,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -5975,7 +6315,7 @@
     "authorId": "2050504",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "6",
-    "downloads": 2579,
+    "downloads": 2606,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -6383,11 +6723,11 @@
     "authorId": "2060627",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "7",
-    "downloads": 14892,
+    "downloads": 15098,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 66
+      "count": 68
     }
   },
   {
@@ -7641,11 +7981,11 @@
     "authorId": "626674",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 7721,
+    "downloads": 7803,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 42
+      "count": 43
     }
   },
   {
@@ -8729,7 +9069,7 @@
     "authorId": "2050504",
     "uploadDate": "16 Nov 2026, 19:18",
     "version": "6",
-    "downloads": 2597,
+    "downloads": 2612,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9137,7 +9477,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "15",
-    "downloads": 1786,
+    "downloads": 1801,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -9171,7 +9511,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "4",
-    "downloads": 2352,
+    "downloads": 2384,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -10905,7 +11245,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "18",
-    "downloads": 42092,
+    "downloads": 42146,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -11211,7 +11551,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 27305,
+    "downloads": 27327,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11245,7 +11585,7 @@
     "authorId": "1021137",
     "uploadDate": "9 Nov 2026, 19:31",
     "version": "13",
-    "downloads": 26302,
+    "downloads": 26386,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11415,7 +11755,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "7",
-    "downloads": 37670,
+    "downloads": 37839,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11619,7 +11959,7 @@
     "authorId": "2050504",
     "uploadDate": "13 Nov 2026, 16:59",
     "version": "8",
-    "downloads": 3242,
+    "downloads": 3260,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -11857,11 +12197,11 @@
     "authorId": "149434",
     "uploadDate": "23 Nov 2026, 20:54",
     "version": "3",
-    "downloads": 3922,
+    "downloads": 4046,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 25
+      "count": 26
     }
   },
   {
@@ -12061,7 +12401,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "16",
-    "downloads": 329190,
+    "downloads": 329397,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -13433,9 +13773,9 @@
     "name": "LakeFront Tower",
     "url": "https://forum.theotown.com/plugins/list?term=:14300",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=GVs2qvLZ8PQOtek7n0nqJld07X1nCTal",
-    "description": "New York, the most populous city in the United States, is one of the world's most sought-after destinations. Distinguished by its skyscrapers, the city also draws attention with its iconic areas. Central Park, framed by surrounding skyscrapers, stands as one of New York's most established green spaces. The area surrounding the park—where both the park itself and nearby structures boast a rich history—is home to several historic business centers. Designed with inspiration from New York's classic skyscraper architecture, the LakeFront Tower will blend seamlessly into your city, featuring a workforce of 2,640 and dynamic night-time lighting effects. 2026, TR plugins. Developed using Phase 9 technology.",
-    "descriptionHtml": "New York, the most populous city in the United States, is one of the world's most sought-after destinations. Distinguished by its skyscrapers, the city also draws attention with its iconic areas. Central Park, framed by surrounding skyscrapers, stands as one of New York's most established green spaces. The area surrounding the park—where both the park itself and nearby structures boast a rich history—is home to several historic business centers. Designed with inspiration from New York's classic skyscraper architecture, the LakeFront Tower will blend seamlessly into your city, featuring a workforce of 2,640 and dynamic night-time lighting effects.<br>\n<br>\n2026, TR plugins. Developed using Phase 9 technology.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=5brOAKOf8W6Syjy8Dg3NTIZdD5LlZ5aP",
+    "description": "New York, the most populous city in the United States, is one of the world's most sought-after destinations. Distinguished by its skyscrapers, the city also draws attention with its iconic areas. Central Park, framed by surrounding skyscrapers, stands as one of New York's most established green spaces. The area surrounding the park—where both the park itself and nearby structures boast a rich history—is home to several historic business centers. Designed with inspiration from New York's classic skyscraper architecture, the LakeFront Tower will blend seamlessly into your city, featuring a workforce of 2,640 and dynamic night-time lighting effects. UPDATE: The plugin's cover photo has been changed. 2026, TR plugins. Developed using Phase 9 technology.",
+    "descriptionHtml": "New York, the most populous city in the United States, is one of the world's most sought-after destinations. Distinguished by its skyscrapers, the city also draws attention with its iconic areas. Central Park, framed by surrounding skyscrapers, stands as one of New York's most established green spaces. The area surrounding the park—where both the park itself and nearby structures boast a rich history—is home to several historic business centers. Designed with inspiration from New York's classic skyscraper architecture, the LakeFront Tower will blend seamlessly into your city, featuring a workforce of 2,640 and dynamic night-time lighting effects.<br>\n<br>\nUPDATE: The plugin's cover photo has been changed.<br>\n<br>\n2026, TR plugins. Developed using Phase 9 technology.",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -13453,13 +13793,13 @@
     "minVersion": "Any",
     "author": "[TR] pro",
     "authorId": "1117299",
-    "uploadDate": "01 Aug 2026, 12:24",
-    "version": "3",
-    "downloads": 2033,
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "4",
+    "downloads": 3693,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 7
+      "count": 13
     }
   },
   {
@@ -14101,7 +14441,7 @@
     "authorId": "149434",
     "uploadDate": "24 Nov 2026, 19:58",
     "version": "4",
-    "downloads": 4645,
+    "downloads": 4797,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -15019,7 +15359,7 @@
     "authorId": "1241937",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "14",
-    "downloads": 2164,
+    "downloads": 2185,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -15303,9 +15643,9 @@
     "name": "Exfinc Tower",
     "url": "https://forum.theotown.com/plugins/list?term=:14299",
     "certified": true,
-    "previewImage": "https://data.theotown.com/get.php?t=pf&name=j8cori8j3WmvrhNPDvhF6gSV0xO8Go7E",
-    "description": "Exfinc Tower, the first addition to our World Tour series, is designed to complement the extensive skyline of Hamburg—one of Germany's major port and commercial cities. Don't miss out on this building, which features a 5x5 footprint and accommodates 3,730 workers. 2026, TR plugins. Developed using Phase 9 technology.",
-    "descriptionHtml": "Exfinc Tower, the first addition to our World Tour series, is designed to complement the extensive skyline of Hamburg—one of Germany's major port and commercial cities. Don't miss out on this building, which features a 5x5 footprint and accommodates 3,730 workers. <br>\n<br>\n2026, TR plugins. Developed using Phase 9 technology.",
+    "previewImage": "https://data.theotown.com/get.php?t=pf&name=dBbVw5xKIfaxNrGNxi7sU6wmzjjcHDJ3",
+    "description": "Exfinc Tower, the first addition to our World Tour series, is designed to complement the extensive skyline of Hamburg—one of Germany's major port and commercial cities. Don't miss out on this building, which features a 5x5 footprint and accommodates 3,730 workers. UPDATE: The plugin's cover photo has been changed. 2026, TR plugins. Developed using Phase 9 technology.",
+    "descriptionHtml": "Exfinc Tower, the first addition to our World Tour series, is designed to complement the extensive skyline of Hamburg—one of Germany's major port and commercial cities. Don't miss out on this building, which features a 5x5 footprint and accommodates 3,730 workers.<br>\n<br>\nUPDATE: The plugin's cover photo has been changed.<br>\n<br>\n2026, TR plugins. Developed using Phase 9 technology.",
     "category": "Commercial",
     "price": {
       "amount": 30,
@@ -15323,13 +15663,13 @@
     "minVersion": "Any",
     "author": "[TR] pro",
     "authorId": "1117299",
-    "uploadDate": "19 Jul 2026, 17:13",
-    "version": "2",
-    "downloads": 2536,
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "3",
+    "downloads": 3687,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 9
+      "count": 14
     }
   },
   {
@@ -19439,11 +19779,11 @@
     "authorId": "1117299",
     "uploadDate": "23 Nov 2026, 20:54",
     "version": "3",
-    "downloads": 15856,
+    "downloads": 15948,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 33
+      "count": 35
     }
   },
   {
@@ -19473,11 +19813,11 @@
     "authorId": "1117299",
     "uploadDate": "23 Nov 2026, 20:54",
     "version": "3",
-    "downloads": 13131,
+    "downloads": 13245,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 34
+      "count": 35
     }
   },
   {
@@ -19507,7 +19847,7 @@
     "authorId": "683743",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "5",
-    "downloads": 26618,
+    "downloads": 26796,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -21173,11 +21513,11 @@
     "authorId": "1019836",
     "uploadDate": "24 Nov 2026, 19:58",
     "version": "4",
-    "downloads": 23279,
+    "downloads": 23512,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
-      "count": 122
+      "count": 126
     }
   },
   {
@@ -23654,7 +23994,7 @@
     "authorId": "601724",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "51",
-    "downloads": 84967,
+    "downloads": 85018,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -24130,7 +24470,7 @@
     "authorId": "683743",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "14",
-    "downloads": 14024,
+    "downloads": 14119,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -25873,12 +26213,12 @@
   },
   {
     "id": "9947",
-    "name": "Clock Widget Ver1.5.1",
+    "name": "Clock Widget 1.6.2",
     "url": "https://forum.theotown.com/plugins/list?term=:9947",
     "certified": false,
     "previewImage": "https://data.theotown.com/get.php?t=pf&name=jwNvIRRreK7VDI56Fv3kmxog7nLhzVQV",
-    "description": "Hello! This is a clock widget that simulates the motion of the sun and the moon to show the time. It can also be set to always show the real time, so you can always check the time when playing TheoTown. Hope you will like it, Enjoy! Version 1.5.1 Update: 1. Add German, French and Malay localization (via AI translator); 2. Complete Japanese localization. Thanks for downloading! Needs a minimum version of 1.10.49 to use.",
-    "descriptionHtml": "Hello! This is a clock widget that simulates the motion of the sun and the moon to show the time.<br>\nIt can also be set to always show the real time, so you can always check the time when playing TheoTown.<br>\nHope you will like it, Enjoy!<br>\nVersion 1.5.1 Update:<br>\n1. Add German, French and Malay localization (via AI translator);<br>\n2. Complete Japanese localization.<br>\n<br>\nThanks for downloading!<br>\nNeeds a minimum version of 1.10.49 to use.",
+    "description": "Hi! This is a clock widget that simulates the motion of the sun and the moon to show the time. It can also be set to always show the real time, so you can always check the time when playing TheoTown. Hope you will like it, Enjoy! Version 1.6 Update: 1. Added 12-Clock clock type 2. Optimized localizations. Version 1.6.1 Update: 1. Made some major code optimizations and refactoring. 2. Added Traditional Chinese localization. Version 1.6.2 Update: 1. Fixed that 12-clock is broken. 2. Added Russian, Italian, and Spanish localizations. Notice: Due to a technical issue, your previous widget settings may have been lost after updating to the new version of the plugin, so you may need to set them up again. We sincerely apologize for the inconvenience. Thanks for downloading! Needs a minimum version of 1.10.49 to use.",
+    "descriptionHtml": "Hi! This is a clock widget that simulates the motion of the sun and the moon to show the time.<br>\nIt can also be set to always show the real time, so you can always check the time when playing TheoTown.<br>\nHope you will like it, Enjoy!<br>\nVersion 1.6 Update:<br>\n1. Added 12-Clock clock type<br>\n2. Optimized localizations.<br>\nVersion 1.6.1 Update:<br>\n1. Made some major code optimizations and refactoring.<br>\n2. Added Traditional Chinese localization.<br>\nVersion 1.6.2 Update:<br>\n1. Fixed that 12-clock is broken.<br>\n2. Added Russian, Italian, and Spanish localizations.<br>\n<br>\nNotice: Due to a technical issue, your previous widget settings may have been lost after updating to the new version of the plugin, so you may need to set them up again. We sincerely apologize for the inconvenience.<br>\n<br>\nThanks for downloading!<br>\nNeeds a minimum version of 1.10.49 to use.",
     "category": "Other",
     "price": {
       "amount": 30,
@@ -25890,19 +26230,19 @@
       "Desktop (Premium)"
     ],
     "size": {
-      "raw": "8.93KB",
-      "bytes": 9144
+      "raw": "12.26KB",
+      "bytes": 12554
     },
     "minVersion": "1.10.49",
     "author": "dnswodn",
     "authorId": "227382",
-    "uploadDate": "02 May 2026, 06:39",
-    "version": "17",
-    "downloads": 78662,
+    "uploadDate": "25 Nov 2026, 19:00",
+    "version": "22",
+    "downloads": 85810,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 308
+      "count": 339
     }
   },
   {
@@ -45310,7 +45650,7 @@
     "authorId": "1873054",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "3",
-    "downloads": 8509,
+    "downloads": 8543,
     "rating": {
       "score": 3,
       "label": "MIXED",
@@ -57208,7 +57548,7 @@
     "authorId": "1021137",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "9",
-    "downloads": 44000,
+    "downloads": 44085,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -66251,7 +66591,7 @@
     "authorId": "1021137",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "7",
-    "downloads": 9868,
+    "downloads": 9973,
     "rating": {
       "score": 4.5,
       "label": "VERY POSITIVE",
@@ -119453,7 +119793,7 @@
     "authorId": "11169",
     "uploadDate": "20 Nov 2026, 17:35",
     "version": "8",
-    "downloads": 17307,
+    "downloads": 17325,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
@@ -120677,11 +121017,11 @@
     "authorId": "154124",
     "uploadDate": "19 Nov 2026, 18:00",
     "version": "10",
-    "downloads": 1981784,
+    "downloads": 1982288,
     "rating": {
       "score": 4,
       "label": "POSITIVE",
-      "count": 1708
+      "count": 1709
     }
   },
   {
