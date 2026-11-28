@@ -1,8 +1,8 @@
 {
-  "scrapeDate": "2026-11-27T18:43:42.860Z",
+  "scrapeDate": "2026-11-28T17:24:29.329Z",
   "totalPlugins": 5196,
   "totalPages": 5,
-  "totalDownloads": 431160424,
+  "totalDownloads": 431174554,
   "certifiedCreators": 582,
   "categoryStats": {
     "Trees": 94,
@@ -31,8 +31,8 @@
     "Shaders": 18
   },
   "ratingStats": {
-    "POSITIVE": 2646,
-    "VERY POSITIVE": 2191,
+    "POSITIVE": 2644,
+    "VERY POSITIVE": 2193,
     "MIXED": 313,
     "NEGATIVE": 40
   },
